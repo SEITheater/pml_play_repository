@@ -4,7 +4,7 @@
 @a{"number":1}
 @s{"number":1}
 @d{}
-Salome&&&
+Salome
 
 A TRAGEDY IN ONE ACT:
 
@@ -20,15 +20,15 @@ back, an old cistern surrounded by a wall of green bronze.
 Moonlight._
 
 
-@e{"names":["The Young Syrian&&&","The Page of Herodias&&&","Second Soldier&&&","First Soldier&&&","The Cappadocian&&&","The Nubian&&&"]}
+@e{"names":["The Young Syrian","The Page of Herodias","Second Soldier","First Soldier","The Cappadocian","The Nubian"]}
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 How beautiful is the Princess Salomé to-night!
 
 
-@l{"name":"The Page of Herodias&&&"}
+@l{"name":"The Page of Herodias"}
 
 
 Look at the moon! How strange the moon seems! She is like a woman
@@ -36,7 +36,7 @@ rising from a tomb. She is like a dead woman. You would fancy she
 was looking for dead things.
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 She has a strange look. She is like a little princess who wears a
@@ -45,7 +45,7 @@ who has little white doves for feet. You would fancy she was
 dancing.
 
 
-@l{"name":"The Page of Herodias&&&"}
+@l{"name":"The Page of Herodias"}
 
 
 She is like a woman who is dead. She moves very slowly.
@@ -55,26 +55,26 @@ She is like a woman who is dead. She moves very slowly.
 [_Noise in the banqueting-hall._]
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 What an uproar! Who are those wild beasts howling?
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 The Jews. They are always like that. They are disputing about
 their religion.
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 Why do they dispute about their religion?
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 I cannot tell. They are always doing it. The Pharisees, for
@@ -82,19 +82,19 @@ instance, say that there are angels, and the Sadducees declare
 that angels do not exist.
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 I think it is ridiculous to dispute about such things.
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 How beautiful is the Princess Salomé to-night!
 
 
-@l{"name":"The Page of Herodias&&&"}
+@l{"name":"The Page of Herodias"}
 
 
 You are always looking at her. You look at her too much. It is
@@ -102,81 +102,81 @@ dangerous to look at people in such fashion. Something terrible
 may happen.
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 She is very beautiful to-night.
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 The Tetrarch has a sombre look.
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 Yes; he has a sombre look.
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 He is looking at something.
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 He is looking at some one.
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 At whom is he looking?
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 I cannot tell.
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 How pale the Princess is! Never have I seen her so pale. She is
 like the shadow of a white rose in a mirror of silver.
 
 
-@l{"name":"The Page of Herodias&&&"}
+@l{"name":"The Page of Herodias"}
 
 
 You must not look at her. You look too much at her.
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
-Herodias&&& has filled the cup of the Tetrarch.
+Herodias has filled the cup of the Tetrarch.
 
 
-@l{"name":"The Cappadocian&&&"}
+@l{"name":"The Cappadocian"}
 
 
-Is that the Queen Herodias&&&, she who wears a black mitre sewn with
+Is that the Queen Herodias, she who wears a black mitre sewn with
 pearls, and whose hair is powdered with blue dust?
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
-Yes; that is Herodias&&&, the Tetrarch's wife.
+Yes; that is Herodias, the Tetrarch's wife.
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 The Tetrarch is very fond of wine. He has wine of three sorts.
@@ -184,32 +184,32 @@ One which is brought from the Island of Samothrace, and is purple
 like the cloak of Cæsar.
 
 
-@l{"name":"The Cappadocian&&&"}
+@l{"name":"The Cappadocian"}
 
 
 I have never seen Cæsar.
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 Another that comes from a town called Cyprus, and is yellow like
 gold.
 
 
-@l{"name":"The Cappadocian&&&"}
+@l{"name":"The Cappadocian"}
 
 
 I love gold.
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 And the third is a wine of Sicily. That wine is red like blood.
 
 
-@l{"name":"The Nubian&&&"}
+@l{"name":"The Nubian"}
 
 
 The gods of my country are very fond of blood. Twice in the year
@@ -218,7 +218,7 @@ a hundred maidens. But it seems we never give them quite enough,
 for they are very harsh to us.
 
 
-@l{"name":"The Cappadocian&&&"}
+@l{"name":"The Cappadocian"}
 
 
 In my country there are no gods left. The Romans have driven them
@@ -229,25 +229,25 @@ And at last I called them by their names, and they did not come.
 I think they are dead.
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 The Jews worship a God that you cannot see.
 
 
-@l{"name":"The Cappadocian&&&"}
+@l{"name":"The Cappadocian"}
 
 
 I cannot understand that.
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 In fact, they only believe in things that you cannot see.
 
 
-@l{"name":"The Cappadocian&&&"}
+@l{"name":"The Cappadocian"}
 
 
 That seems to me altogether ridiculous.
@@ -256,7 +256,7 @@ That seems to me altogether ridiculous.
 @d{}
 (offstage)
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 After me shall come another mightier than I. I am not worthy so
 much as to unloose the latchet of his shoes. When he cometh, the
 solitary places shall be glad. They shall blossom like the lily.
@@ -265,50 +265,50 @@ shall be opened. The new-born child shall put his hand upon the
 dragon's lair, he shall lead the lions by their manes.
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 Make him be silent. He is always saying ridiculous things.
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 No, no. He is a holy man. He is very gentle, too. Every day, when
 I give him to eat he thanks me.
 
 
-@l{"name":"The Cappadocian&&&"}
+@l{"name":"The Cappadocian"}
 
 
 Who is he?
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 A prophet.
 
 
-@l{"name":"The Cappadocian&&&"}
+@l{"name":"The Cappadocian"}
 
 
 What is his name?
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 Jokanaan.
 
 
-@l{"name":"The Cappadocian&&&"}
+@l{"name":"The Cappadocian"}
 
 
 Whence comes he?
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 From the desert, where he fed on locusts and wild honey. He was
@@ -317,32 +317,32 @@ belt. He was very terrible to look upon. A great multitude used
 to follow him. He even had disciples.
 
 
-@l{"name":"The Cappadocian&&&"}
+@l{"name":"The Cappadocian"}
 
 
 What is he talking of?
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 We can never tell. Sometimes he says terrible things, but it is
 impossible to understand what he says.
 
 
-@l{"name":"The Cappadocian&&&"}
+@l{"name":"The Cappadocian"}
 
 
 May one see him?
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 No. The Tetrarch has forbidden it.
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 The Princess has hidden her face behind her fan! Her little white
@@ -350,7 +350,7 @@ hands are fluttering like doves that fly to their dove-cots. They
 are like white butterflies. They are just like white butterflies.
 
 
-@l{"name":"The Page of Herodias&&&"}
+@l{"name":"The Page of Herodias"}
 
 
 What is that to you? Why do you look at her? You must not look at
@@ -361,32 +361,32 @@ her.... Something terrible may happen.
 [_Pointing to the cistern._]
 
 
-@l{"name":"The Cappadocian&&&"}
+@l{"name":"The Cappadocian"}
 What a strange prison!
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 It is an old cistern.
 
 
-@l{"name":"The Cappadocian&&&"}
+@l{"name":"The Cappadocian"}
 
 
 An old cistern! It must be very unhealthy.
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 Oh no! For instance, the Tetrarch's brother, his elder brother,
-the first husband of Herodias&&& the Queen, was imprisoned there for
+the first husband of Herodias the Queen, was imprisoned there for
 twelve years. It did not kill him. At the end of the twelve years
 he had to be strangled.
 
 
-@l{"name":"The Cappadocian&&&"}
+@l{"name":"The Cappadocian"}
 
 
 Strangled? Who dared to do that?
@@ -396,54 +396,54 @@ Strangled? Who dared to do that?
 [_Pointing to the Executioner, a huge Negro._]
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 That man yonder, Naaman.
 
 
-@l{"name":"The Cappadocian&&&"}
+@l{"name":"The Cappadocian"}
 
 
 He was not afraid?
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 Oh no! The Tetrarch sent him the ring.
 
 
-@l{"name":"The Cappadocian&&&"}
+@l{"name":"The Cappadocian"}
 
 
 What ring?
 
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 The death-ring. So he was not afraid.
 
 
-@l{"name":"The Cappadocian&&&"}
+@l{"name":"The Cappadocian"}
 
 
 Yet it is a terrible thing to strangle a king.
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 Why? Kings have but one neck, like other folk.
 
 
-@l{"name":"The Cappadocian&&&"}
+@l{"name":"The Cappadocian"}
 
 
 I think it terrible.
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 The Princess rises! She is leaving the table! She looks very
@@ -451,13 +451,13 @@ troubled. Ah, she is coming this way. Yes, she is coming towards
 us. How pale she is! Never have I seen her so pale.
 
 
-@l{"name":"The Page of Herodias&&&"}
+@l{"name":"The Page of Herodias"}
 
 
 Do not look at her. I pray you not to look at her.
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 She is like a dove that has strayed.... She is like a narcissus
@@ -468,9 +468,9 @@ trembling in the wind.... She is like a silver flower.
 [_Enter Salomé_.]
 
 
-@e{"names":["Salome&&&"]}
+@e{"names":["Salome"]}
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 I will not stay. I cannot stay. Why does the Tetrarch look at me
@@ -479,13 +479,13 @@ is strange that the husband of my mother looks at me like that.
 I know not what it means. In truth, yes, I know it.
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 You have just left the feast, Princess?
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 How sweet the air is here! I can breathe here! Within there are
@@ -499,20 +499,20 @@ uncouth jargon. Ah! how I loathe the Romans! They are rough and
 common, and they give themselves the airs of noble lords.
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 Will you be seated, Princess?
 
 
-@l{"name":"The Page of Herodias&&&"}
+@l{"name":"The Page of Herodias"}
 
 
 Why do you speak to her? Why do you look at her? Oh! something
 terrible will happen.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 How good to see the moon! She is like a little piece of money,
@@ -525,57 +525,57 @@ never abandoned herself to men, like the other goddesses.
 @d{}
 (offstage)
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 The Lord hath come. The son of man hath come. The centaurs have
 hidden themselves in the rivers, and the sirens have left the
 rivers, and are lying beneath the leaves of the forest.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 Who was that who cried out?
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 The prophet, Princess.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 Ah, the prophet! He of whom the Tetrarch is afraid?
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 We know nothing of that, Princess. It was the prophet Jokanaan
 who cried out.
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 Is it your pleasure that I bid them bring your litter, Princess?
 The night is fair in the garden.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 He says terrible things about my mother, does he not?
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 We never understand what he says, Princess.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 Yes; he says terrible things about her.
@@ -585,70 +585,70 @@ Yes; he says terrible things about her.
 [_Enter a Slave_.]
 
 
-@e{"names":["The Slave&&&"]}
+@e{"names":["The Slave"]}
 
-@l{"name":"The Slave&&&"}
+@l{"name":"The Slave"}
 
 
 Princess, the Tetrarch prays you to return to the feast.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 I will not go back.
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 Pardon me, Princess, but if you do not return some misfortune may
 happen.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 Is he an old man, this prophet?
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 Princess, it were better to return. Suffer me to lead you in.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 This prophet ... is he an old man?
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 No, Princess, he is quite a young man.
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 You cannot be sure. There are those who say he is Elias.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 Who is Elias?
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 A very ancient prophet of this country, Princess.
 
 
-@l{"name":"The Slave&&&"}
+@l{"name":"The Slave"}
 
 
 What answer may I give the Tetrarch from the Princess?
@@ -657,20 +657,20 @@ What answer may I give the Tetrarch from the Princess?
 @d{}
 (offstage)
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 Rejoice not thou, land of Palestine, because the rod of him who
 smote thee is broken. For from the seed of the serpent shall come
 forth a basilisk, and that which is born of it shall devour the
 birds.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 What a strange voice! I would speak with him.
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 I fear it is impossible, Princess. The Tetrarch does not wish any
@@ -678,31 +678,31 @@ one to speak with him. He has even forbidden the high priest to
 speak with him.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 I desire to speak with him.
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 It is impossible, Princess.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 I will speak with him.
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 Would it not be better to return to the banquet?
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 Bring forth this prophet.
@@ -712,9 +712,9 @@ Bring forth this prophet.
 [_Exit the slave._]
 
 
-@x{"names":["The Slave&&&"]}
+@x{"names":["The Slave"]}
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 We dare not, Princess.
@@ -724,29 +724,29 @@ We dare not, Princess.
 [_Approaching the cistern and looking down into it._]
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 How black it is, down there! It must be terrible to be in so
 black a pit! It is like a tomb.... 
 @d{}
 [_To the soldiers._] 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 Did you
 not hear me? Bring out the prophet. I wish to see him.
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 Princess, I beg you do not require this of us.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 You keep me waiting!
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 Princess, our lives belong to you, but we cannot do what you have
@@ -758,11 +758,11 @@ thing.
 [_Looking at the young Syrian._]
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 Ah!
 
 
-@l{"name":"The Page of Herodias&&&"}
+@l{"name":"The Page of Herodias"}
 
 
 Oh! what is going to happen? I am sure that some misfortune will
@@ -773,7 +773,7 @@ happen.
 [_Going up to the young Syrian._]
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 You will do this tiling for me, will you not, Narraboth? You will
 do this thing for me. I have always been kind to you. You will do
 it for me. I would but look at this strange prophet. Men have
@@ -782,7 +782,7 @@ him. I think the Tetrarch is afraid of him. Are you, even you,
 also afraid of him, Narraboth?
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 I fear him not, Princess; there is no man I fear. But the
@@ -790,7 +790,7 @@ Tetrarch has formally forbidden that any man should raise the
 cover of this well.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 You will do this thing for me, Narraboth, and to-morrow when I
@@ -798,7 +798,7 @@ pass in my litter beneath the gateway of the idol-sellers I will
 let fall for you a little flower, a little green flower.
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 Princess, I cannot, I cannot.
@@ -808,7 +808,7 @@ Princess, I cannot, I cannot.
 [_Smiling_.]
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 You will do this thing for me, Narraboth. You know that you will
 do this thing for me. And to-morrow when I pass in my litter by
 the bridge of the idol-buyers, I will look at you through the
@@ -822,25 +822,25 @@ that you will do this thing.
 [_Signing to the third soldier._]
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 Let the prophet come forth.... The Princess Salomé desires to see
 him.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 Ah!
 
 
-@l{"name":"The Page of Herodias&&&"}
+@l{"name":"The Page of Herodias"}
 
 
 Oh! How strange the moon looks. You would think it was the hand
 of a dead woman who is seeking to cover herself with a shroud.
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 She has a strange look! She is like a little princess, whose eyes
@@ -854,9 +854,9 @@ steps slowly back._]
 
 
 
-@e{"names":["Jokanaan&&&"]}
+@e{"names":["Jokanaan"]}
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 
 
 Where is he whose cup of abominations is now full? Where is he,
@@ -865,19 +865,19 @@ people? Bid him come forth, that he may hear the voice of him who
 hath cried in the waste places and in the houses of kings.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 Of whom is he speaking?
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 You can never tell, Princess.
 
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 
 
 Where is she who having seen the images of men painted on the
@@ -886,25 +886,25 @@ herself up unto the lust of her eyes, and sent ambassadors into
 Chaldea?
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 It is of my mother that he speaks.
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 Oh, no, Princess.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 Yes; it is of my mother that he speaks.
 
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 
 
 Where is she who gave herself unto the Captains of Assyria, who
@@ -920,19 +920,19 @@ her abominations; bid her come, for the fan of the Lord is in His
 hand.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 But he is terrible, he is terrible!
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 Do not stay here, Princess, I beseech you.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 It is his eyes above all that are terrible. They are like black
@@ -943,13 +943,13 @@ lakes troubled by fantastic moons.... Do you think he will speak
 again?
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 Do not stay here, Princess. I pray you do not stay here.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 How wasted he is! He is like a thin ivory statue. He is like an
@@ -958,25 +958,25 @@ like a moonbeam, like a shaft of silver. His flesh must be cool
 like ivory. I would look closer at him.
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 No, no, Princess.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 I must look at him closer.
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 Princess! Princess!
 
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 
 
 Who is this woman who is looking at me? I will not have her look
@@ -985,13 +985,13 @@ her gilded eyelids? I know not who she is. I do not wish to know
 who she is. Bid her begone. It is not to her that I would speak.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
-I am Salomé, daughter of Herodias&&&, Princess of Judæa.
+I am Salomé, daughter of Herodias, Princess of Judæa.
 
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 
 
 Back! daughter of Babylon! Come not near the chosen of the Lord.
@@ -999,25 +999,25 @@ Thy mother hath filled the earth with the wine of her iniquities,
 and the cry of her sins hath come up to the ears of God.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 Speak again, Jokanaan. Thy voice is wine to me.
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 Princess! Princess! Princess!
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 Speak again! Speak again, Jokanaan, and tell me what I must do.
 
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 
 
 Daughter of Sodom, come not near me! But cover thy face with a
@@ -1025,27 +1025,27 @@ veil, and scatter ashes upon thine head, and get thee to the
 desert and seek out the Son of Man.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 Who is he, the Son of Man? Is he as beautiful as thou art,
 Jokanaan?
 
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 
 
 Get thee behind me! I hear in the palace the beating of the wings
 of the angel of death.
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 Princess, I beseech thee to go within.
 
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 
 
 Angel of the Lord God, what dost thou here with thy sword? Whom
@@ -1054,19 +1054,19 @@ a robe of silver has not yet come.
 
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 Jokanaan!
 
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 
 
 Who speaketh?
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 Jokanaan, I am amorous of thy body! Thy body is white like the
@@ -1082,7 +1082,7 @@ sea.... There is nothing in the world so white as thy body. Let
 me touch thy body.
 
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 
 
 Back! daughter of Babylon! By woman came evil into the world.
@@ -1090,7 +1090,7 @@ Speak not to me. I will not listen to thee. I listen but to the
 voice of the Lord God.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 Thy body is hideous. It is like the body of a leper. It is like a
@@ -1109,14 +1109,14 @@ There is nothing in the world so black as thy hair.... Let me
 touch thy hair.
 
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 
 
 Back, daughter of Sodom! Touch me not. Profane not the temple of
 the Lord God.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 Thy hair is horrible. It is covered with mire and dust. It is
@@ -1142,19 +1142,19 @@ coral. There is nothing in the world so red as thy mouth.... Let
 me kiss thy mouth.
 
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 
 
 Never! daughter of Babylon! Daughter of Sodom! Never.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 I will kiss thy mouth, Jokanaan. I will kiss thy mouth.
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 Princess, Princess, thou who art like a garden of myrrh, thou who
@@ -1163,13 +1163,13 @@ Do not speak such words to him. I cannot suffer them....
 Princess, Princess, do not speak these things.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 I will kiss thy mouth, Jokanaan.
 
 
-@l{"name":"The Young Syrian&&&"}
+@l{"name":"The Young Syrian"}
 
 
 Ah! 
@@ -1177,7 +1177,7 @@ Ah!
 [_He kills himself and falls between Salomé and Jokanaan._]
 
 
-@l{"name":"The Page of Herodias&&&"}
+@l{"name":"The Page of Herodias"}
 
 
 The young Syrian has slain himself! The young captain has slain
@@ -1191,34 +1191,34 @@ him from the moon? If I had hidden him in a cavern she would not
 have seen him.
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 Princess, the young captain has just killed himself.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 Let me kiss thy mouth, Jokanaan.
 
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 
 
-Art thou not afraid, daughter of Herodias&&&? Did I not tell thee
+Art thou not afraid, daughter of Herodias? Did I not tell thee
 that I had heard in the palace the beatings of the wings of the
 angel of death, and hath he not come, the angel of death?
 
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 Let me kiss thy mouth.
 
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 
 
 Daughter of adultery, there is but one who can save thee, it is
@@ -1229,26 +1229,26 @@ to thee (and to all who call on Him He cometh), bow thyself at
 His feet and ask of Him the remission of thy sins.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 Let me kiss thy mouth.
 
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 
 
 Cursed be thou! daughter of an incestuous mother, be thou
 accursed!
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 I will kiss thy mouth, Jokanaan.
 
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 
 
 I do no wish to look at thee. I will not look at thee, thou art
@@ -1258,15 +1258,15 @@ accursed, Salomé, thou art accursed.
 cistern._]
 
 
-@x{"names":["Jokanaan&&&"]}
+@x{"names":["Jokanaan"]}
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 I will kiss thy mouth, Jokanaan; I will kiss thy mouth.
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 We must bear away the body to another place. The Tetrarch does
@@ -1274,7 +1274,7 @@ not care to see dead bodies, save the bodies of those whom he
 himself has slain.
 
 
-@l{"name":"The Page of Herodias&&&"}
+@l{"name":"The Page of Herodias"}
 
 
 He was my brother, and nearer to me than a brother. I gave him a
@@ -1286,14 +1286,14 @@ the sound of the flute, of a flute player. Also he much loved to
 gaze at himself in the river. I used to reproach him for that.
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 You are right; we must hide the body. The Tetrarch must not see
 it.
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 The Tetrarch will not come to this place. He never comes on the
@@ -1301,25 +1301,25 @@ terrace. He is too much afraid of the prophet.
 
 
 @d{}
-[_Enter Herod, Herodias&&&, and all the Court._]
+[_Enter Herod, Herodias, and all the Court._]
 
 
-@e{"names":["Herod&&&","Herodias&&&","Tigellinus&&&","First Jew&&&","Fourth Jew&&&","Second Jew&&&","Third Jew&&&","Fifth Jew&&&","A Pharisee&&&","A Sadducee&&&","First Nazarene&&&","Second Nazarene&&&"]}
+@e{"names":["Herod","Herodias","Tigellinus","First Jew","Fourth Jew","Second Jew","Third Jew","Fifth Jew","A Pharisee","A Sadducee","First Nazarene","Second Nazarene"]}
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Where is Salomé? Where is the Princess? Why did she not return to
 the banquet as I commanded her? Ah! there she is!
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 You must not look at her! You are always looking at her!
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 The moon has a strange look to-night. Has she not a strange look?
@@ -1332,14 +1332,14 @@ not reel like a drunken woman? She is like a mad woman, is she
 not?
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 No; the moon is like the moon, that is all. Let us go within....
 You have nothing to do here.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 I will stay here! Manesseh, lay carpets there. Light torches,
@@ -1348,16 +1348,16 @@ here is delicious. I will drink more wine with my guests. We must
 show all honours to the ambassadors of Cæsar.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 It is not because of them that you remain.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
-Yes; the air is delicious. Come, Herodias&&&, our guests await us.
+Yes; the air is delicious. Come, Herodias, our guests await us.
 Ah! I have slipped! I have slipped in blood! It is an ill omen.
 It is a very evil omen. Wherefore is there blood here?... and
 this body, what does this body here? Think you I am like the King
@@ -1365,38 +1365,38 @@ of Egypt, who gives no feast to his guests but that he shows them
 a corpse? Whose is it? I will not look on it.
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 It is our captain, sire. He is the young Syrian whom you made
 captain only three days ago.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 I gave no order that he should be slain.
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 He killed himself, sire.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 For what reason? I had made him captain.
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 We do not know, sire. But he killed himself.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 That seems strange to me. I thought it was only the Roman
@@ -1404,7 +1404,7 @@ philosophers who killed themselves. Is it not true, Tigellinus,
 that the philosophers at Rome kill themselves?
 
 
-@l{"name":"Tigellinus&&&"}
+@l{"name":"Tigellinus"}
 
 
 There are some who kill themselves, sire. They are the Stoics.
@@ -1412,20 +1412,20 @@ The Stoics are coarse people. They are ridiculous people. I
 myself regard them as being perfectly ridiculous.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 I also. It is ridiculous to kill oneself.
 
 
-@l{"name":"Tigellinus&&&"}
+@l{"name":"Tigellinus"}
 
 
 Everybody at Rome laughs at them. The Emperor has written a
 satire against them. It is recited everywhere.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Ah! he has written a satire against them? Cæsar is wonderful. He
@@ -1437,37 +1437,37 @@ languorously at Salomé. Truly, I thought he looked too much at
 her.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 There are others who look at her too much.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 His father was a king. I drove him from his kingdom. And you made
-a slave of his mother, who was a queen, Herodias&&&. So he was here
+a slave of his mother, who was a queen, Herodias. So he was here
 as my guest, as it were, and for that reason I made him my
 captain. I am sorry he is dead. Ho! why have you left the body
 here? I will not look at it--away with it! 
 @d{}
 [_They take away the
 body._] 
-@x{"names":["The Young Syrian&&&"]}
+@x{"names":["The Young Syrian"]}
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 It is cold here. There is a wind blowing. Is there not a
 wind blowing?
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 No; there is no wind.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 I tell you there is a wind that blows.... And I hear in the air
@@ -1475,13 +1475,13 @@ something that is like the beating of wings, like the beating of
 vast wings. Do you not hear it?
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 I hear nothing.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 I hear it no longer. But I heard it. It was the blowing of the
@@ -1489,121 +1489,121 @@ wind, no doubt. It has passed away. But no, I hear it again. Do
 you not hear it? It is just like the beating of wings.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 I tell you there is nothing. You are ill. Let us go within.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 I am not ill. It is your daughter who is sick. She has the mien
 of a sick person. Never have I seen her so pale.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 I have told you not to look at her.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Pour me forth wine 
 @d{}
 [_wine is brought_]. 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 Salomé, come drink a
 little wine with me. I have here a wine that is exquisite. Cæsar
 himself sent it me. Dip into it thy little red lips, that I may
 drain the cup.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 I am not thirsty, Tetrarch.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 You hear how she answers me, this daughter of yours?
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 She does right. Why are you always gazing at her?
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Bring me ripe fruits 
 @d{}
 [_fruits are brought_]. 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 Salomé, come and eat
 fruit with me. I love to see in a fruit the mark of thy little
 teeth. Bite but a little of this fruit and then I will eat what
 is left.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 I am not hungry, Tetrarch.
 
 
 @d{}
-[_To Herodias&&&._] 
-@l{"name":"Herod&&&"}
+[_To Herodias._] 
+@l{"name":"Herod"}
 You see how you have brought up this daughter of
 yours.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 My daughter and I come of a royal race. As for thee, thy father
 was a camel driver! He was also a robber!
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Thou liest!
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 Thou knowest well that it is true.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Salomé, come and sit next to me. I will give thee the throne of
 thy mother.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 I am not tired, Tetrarch.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 You see what she thinks of you.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Bring me--what is it that I desire? I forget. Ah! ah! I remember.
@@ -1613,26 +1613,26 @@ Bring me--what is it that I desire? I forget. Ah! ah! I remember.
 @d{}
 (offstage)
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 Lo! the time is come! That which I foretold has come to pass,
 saith the Lord God. Lo! the day of which I spoke.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 Bid him be silent. I will not listen to his voice. This man is
 for ever vomiting insults against me.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 He has said nothing against you. Besides, he is a very great
 prophet.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 I do not believe in prophets. Can a man tell what will come to
@@ -1641,13 +1641,13 @@ I think you are afraid of him.... I know well that you are afraid
 of him.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 I am not afraid of him. I am afraid of no man.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 I tell you, you are afraid of him. If you are not afraid of him
@@ -1655,13 +1655,13 @@ why do you not deliver him to the Jews, who for these six months
 past have been clamouring for him?
 
 
-@l{"name":"First Jew&&&"}
+@l{"name":"First Jew"}
 
 
 Truly, my lord, it were better to deliver him into our hands.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Enough on this subject. I have already given you my answer. I
@@ -1669,7 +1669,7 @@ will not deliver him into your hands. He is a holy man. He is a
 man who has seen God.
 
 
-@l{"name":"First Jew&&&"}
+@l{"name":"First Jew"}
 
 
 That cannot be. There is no man who hath seen God since the
@@ -1678,21 +1678,21 @@ doth not show Himself. He hideth Himself. Therefore great evils
 have come upon the land.
 
 
-@l{"name":"Second Jew&&&"}
+@l{"name":"Second Jew"}
 
 
 Verily, no man knoweth if Elias the prophet did indeed see God.
 Peradventure it was but the shadow of God that he saw.
 
 
-@l{"name":"Third Jew&&&"}
+@l{"name":"Third Jew"}
 
 
 God is at no time hidden. He showeth Himself at all times and in
 everything. God is in what is evil even as He is in what is good.
 
 
-@l{"name":"Fourth Jew&&&"}
+@l{"name":"Fourth Jew"}
 
 
 That must not be said. It is a very dangerous doctrine. It is a
@@ -1701,7 +1701,7 @@ teach the philosophy of the Greeks. And the Greeks are Gentiles:
 They are not even circumcised.
 
 
-@l{"name":"Fifth Jew&&&"}
+@l{"name":"Fifth Jew"}
 
 
 No one can tell how God worketh. His ways are very mysterious. It
@@ -1712,7 +1712,7 @@ strong. He breaketh in pieces the strong together with the weak,
 for He regardeth not any man.
 
 
-@l{"name":"First Jew&&&"}
+@l{"name":"First Jew"}
 
 
 Thou speaketh truly. God is terrible; He breaketh the strong and
@@ -1720,39 +1720,39 @@ the weak as a man brays corn in a mortar. But this man hath never
 seen God. No man hath seen God since the prophet Elias.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 Make them be silent. They weary me.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 But I have heard it said that Jokanaan himself is your prophet
 Elias.
 
 
-@l{"name":"First Jew&&&"}
+@l{"name":"First Jew"}
 
 
 That cannot be. It is more than three hundred years since the
 days of the prophet Elias.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 There be some who say that this man is the prophet Elias..
 
 
-@l{"name":"First Nazarene&&&"}
+@l{"name":"First Nazarene"}
 
 
 I am sure that he is the prophet Elias.
 
 
-@l{"name":"First Jew&&&"}
+@l{"name":"First Jew"}
 
 
 Nay, but he is not the prophet Elias.
@@ -1761,24 +1761,24 @@ Nay, but he is not the prophet Elias.
 @d{}
 (offstage)
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 So the day is come, the day of the Lord, and I hear upon the
 mountains the feet of Him who shall be the Saviour of the world.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 What does that mean? The Saviour of the world.
 
 
-@l{"name":"Tigellinus&&&"}
+@l{"name":"Tigellinus"}
 
 
 It is a title that Cæsar takes.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 But Cæsar is not coming into Judæa. Only yesterday I received
@@ -1787,14 +1787,14 @@ And you, Tigellinus, who were at Rome during the winter, you
 heard nothing concerning this matter, did you?
 
 
-@l{"name":"Tigellinus&&&"}
+@l{"name":"Tigellinus"}
 
 
 Sire, I heard nothing concerning the matter. I was explaining the
 title. It is one of Cæsar's titles.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 But Cæsar cannot come. He is too gouty. They say that his feet
@@ -1804,59 +1804,59 @@ Cæsar is lord, he will come if he wishes. Nevertheless, I do not
 think he will come.
 
 
-@l{"name":"First Nazarene&&&"}
+@l{"name":"First Nazarene"}
 
 
 It was not concerning Cæsar that the prophet spake these words,
 sire.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Not of Cæsar?
 
 
-@l{"name":"First Nazarene&&&"}
+@l{"name":"First Nazarene"}
 
 
 No, sire.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Concerning whom then did he speak?
 
 
-@l{"name":"First Nazarene&&&"}
+@l{"name":"First Nazarene"}
 
 
 Concerning Messias who has come.
 
 
-@l{"name":"First Jew&&&"}
+@l{"name":"First Jew"}
 
 
 Messiah hath not come.
 
 
-@l{"name":"First Nazarene&&&"}
+@l{"name":"First Nazarene"}
 
 
 He hath come, and everywhere He worketh miracles.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
  Ho! ho! miracles! I do not believe in miracles. I have
 seen too many. 
 @d{}
 [_To the page._] 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 My fan!
 
 
-@l{"name":"First Nazarene&&&"}
+@l{"name":"First Nazarene"}
 
 
 This man worketh true miracles. Thus, at a marriage which took
@@ -1866,56 +1866,56 @@ it to me. Also He healed two lepers that were seated before the
 Gate of Capernaum simply by touching them.
 
 
-@l{"name":"Second Nazarene&&&"}
+@l{"name":"Second Nazarene"}
 
 
 Nay, it was blind men that he healed at Capernaum.
 
 
-@l{"name":"First Nazarene&&&"}
+@l{"name":"First Nazarene"}
 
 
 Nay; they were lepers. But He hath healed blind people also, and
 He was seen on a mountain talking with angels.
 
 
-@l{"name":"A Sadducee&&&"}
+@l{"name":"A Sadducee"}
 
 
 Angels do not exist.
 
 
-@l{"name":"A Pharisee&&&"}
+@l{"name":"A Pharisee"}
 
 
 Angels exist, but I do not believe that this Man has talked with
 them.
 
 
-@l{"name":"First Nazarene&&&"}
+@l{"name":"First Nazarene"}
 
 
 He was seen by a great multitude of people talking with angels.
 
 
-@l{"name":"A Sadducee&&&"}
+@l{"name":"A Sadducee"}
 
 
 Not with angels.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 How these men weary me! They are ridiculous! 
 @d{}
 [_To the page._]
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 Well! my fan! 
 @d{}
 [_The page gives her the fan._] 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 You have a
 dreamer's look; you must not dream. It is only sick people who
 dream. 
@@ -1923,50 +1923,50 @@ dream.
 [_She strikes the page with her fan._]
 
 
-@l{"name":"Second Nazarene&&&"}
+@l{"name":"Second Nazarene"}
 
 
 There is also the miracle of the daughter of Jairus.
 
 
-@l{"name":"First Nazarene&&&"}
+@l{"name":"First Nazarene"}
 
 
 Yes, that is sure. No man can gainsay it.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 These men are mad. They have looked too long on the moon. Command
 them to be silent.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 What is this miracle of the daughter of Jairus?
 
 
-@l{"name":"First Nazarene&&&"}
+@l{"name":"First Nazarene"}
 
 
 The daughter of Jairus was dead. He raised her from the dead.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 He raises the dead?
 
 
-@l{"name":"First Nazarene&&&"}
+@l{"name":"First Nazarene"}
 
 
 Yea, sire, He raiseth the dead.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 I do not wish Him to do that. I forbid Him to do that. I allow no
@@ -1974,19 +1974,19 @@ man to raise the dead. This Man must be found and told that I
 forbid Him to raise the dead. Where is this Man at present?
 
 
-@l{"name":"Second Nazarene&&&"}
+@l{"name":"Second Nazarene"}
 
 
 He is in every place, my lord, but it is hard to find Him.
 
 
-@l{"name":"First Nazarene&&&"}
+@l{"name":"First Nazarene"}
 
 
 It is said that He is now in Samaria.
 
 
-@l{"name":"First Jew&&&"}
+@l{"name":"First Jew"}
 
 
 It is easy to see that this is not Messias, if He is in Samaria.
@@ -1994,21 +1994,21 @@ It is not to the Samaritans that Messias shall come. The
 Samaritans are accursed. They bring no offerings to the Temple.
 
 
-@l{"name":"Second Nazarene&&&"}
+@l{"name":"Second Nazarene"}
 
 
 He left Samaria a few days since. I think that at the present
 moment He is in the neighbourhood of Jerusalem.
 
 
-@l{"name":"First Nazarene&&&"}
+@l{"name":"First Nazarene"}
 
 
 No; He is not there. I have just come from Jerusalem. For two
 months they have had no tidings of Him.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 No matter! But let them find Him, and tell Him from me, I will
@@ -2023,14 +2023,14 @@ It would be terrible if the dead came back.
 @d{}
 (offstage)
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 Ah! the wanton! The harlot! Ah! the daughter of Babylon with her
 golden eyes and her gilded eyelids!--Thus saith the Lord God, Let
 there come up against her a multitude of men. Let the people take
 stones and stone her....
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 Command him to be silent.
@@ -2039,12 +2039,12 @@ Command him to be silent.
 @d{}
 (offstage)
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 Let the war captains pierce her with their swords, let them crush
 her beneath their shields.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 Nay, but it is infamous.
@@ -2053,52 +2053,52 @@ Nay, but it is infamous.
 @d{}
 (offstage)
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 It is thus that I will wipe out all wickedness from the earth,
 and that all women shall learn not to imitate her abominations.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 You hear what he says against me? You allow him to revile your
 wife?
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 He did not speak your name.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 What does that matter? You know well that it is I whom he seeks
 to revile. And I am your wife, am I not?
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
-Of a truth, dear and noble Herodias&&&, you are my wife, and before
+Of a truth, dear and noble Herodias, you are my wife, and before
 that you were the wife of my brother.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 It was you who tore me from his arms.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Of a truth I was stronger.... But let us not talk of that matter.
 I do not desire to talk of it. It is the cause of the terrible
 words that the prophet has spoken. Peradventure on account of it
 a misfortune will come. Let us not speak of this matter. Noble
-Herodias&&&, we are not mindful of our guests. Fill thou my cup, my
+Herodias, we are not mindful of our guests. Fill thou my cup, my
 well-beloved. Fill with wine the great goblets of silver, and the
 great goblets of glass. I will drink to Cæsar. There are Romans
 here, we must drink to Cæsar.
@@ -2108,25 +2108,25 @@ ALL
 Cæsar! Cæsar!
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Do you not see your daughter, how pale she is?
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 What is it to you if she be pale or not?
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Never have I seen her so pale.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 You must not look at her.
@@ -2135,14 +2135,14 @@ You must not look at her.
 @d{}
 (offstage)
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 In that day the sun shall become black like sackcloth of hair,
 and the moon shall become like blood, and the stars of the
 heavens shall fall upon the earth like ripe figs that fall from
 the fig-tree, and the kings of the earth shall be afraid.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 Ah! Ah! I should like to see that day of which he speaks, when
@@ -2152,26 +2152,26 @@ man ... but I cannot suffer the sound of his voice. I hate his
 voice. Command him to be silent.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 I will not. I cannot understand what it is that he saith, but it
 may be an omen.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 I do not believe in omens. He speaks like a drunken man.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 It may be he is drunk with the wine of God.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 What wine is that, the wine of God? From what vineyards is it
@@ -2182,44 +2182,44 @@ gathered? In what wine-press may one find it?
 [_From this point he looks all the while at Salomé._]
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 Tigellinus, when you were at Rome of late, did the Emperor speak
 with you: on the subject of...?
 
 
-@l{"name":"Tigellinus&&&"}
+@l{"name":"Tigellinus"}
 
 
 On what subject, sire?
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 On what subject? Ah! I asked you a question, did I not? I have
 forgotten what I would have asked you.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 You are looking again at my daughter. You must not look at her. I
 have already said so.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 You say nothing else.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 I say it again.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 And that restoration of the Temple about which they have talked
@@ -2227,50 +2227,50 @@ so much, will anything be done? They say the veil of the
 Sanctuary has disappeared, do they not?
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 It was thyself didst steal it. Thou speakest at random. I will
 not stay here. Let us go within.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Dance for me, Salomé.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 I will not have her dance.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 I have no desire to dance, Tetrarch.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
-Salomé, daughter of Herodias&&&, dance for me.
+Salomé, daughter of Herodias, dance for me.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 Let her alone.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 I command thee to dance, Salomé.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 I will not dance, Tetrarch.
@@ -2280,11 +2280,11 @@ I will not dance, Tetrarch.
 [_Laughing_].
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 You see how she obeys you.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 What is it to me whether she dance or not? It is naught to me.
@@ -2292,19 +2292,19 @@ To-night I am happy, I am exceeding happy. Never have I been so
 happy.
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 The Tetrarch has a sombre look. Has he not a sombre look?
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 Yes, he has a sombre look.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Wherefore should I not be happy? Cæsar, who is lord of the world,
@@ -2320,21 +2320,21 @@ nothing in the world that can mar my happiness.
 @d{}
 (offstage)
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 He shall be seated on this throne. He shall be clothed in scarlet
 and purple. In his hand he shall bear a golden cup full of his
 blasphemies. And the angel of the Lord shall smite him. He shall
 be eaten of worms.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 You hear what he says about you. He says that you will be eaten
 of worms.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 It is not of me that he speaks. He speaks never against me. It is
@@ -2345,7 +2345,7 @@ that I sinned in taking to wife the wife of my brother. It may be
 he is right. For, of a truth, you are sterile.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 I am sterile, I? You say that, you that are ever looking at my
@@ -2355,7 +2355,7 @@ child, no, not even from one of your slaves. It is you who are
 sterile, not I.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Peace, woman! I say that you are sterile. You have borne me no
@@ -2367,7 +2367,7 @@ would be happy at this moment. Of a truth, I am happy. There is
 nothing I lack.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 I am glad you are of so fair a humour to-night. It is not your
@@ -2376,19 +2376,19 @@ hunt at sunrise. All honours must be shown to Cæsar's
 ambassadors, must they not?
 
 
-@l{"name":"Second Soldier&&&"}
+@l{"name":"Second Soldier"}
 
 
 What a sombre look the Tetrarch wears.
 
 
-@l{"name":"First Soldier&&&"}
+@l{"name":"First Soldier"}
 
 
 Yes, he wears a sombre look.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Salomé, Salomé, dance for me. I pray thee dance for me. I am sad
@@ -2404,48 +2404,48 @@ unto the half of my kingdom.
 
 @d{}
 [_Rising._] 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 Will you indeed give me whatsoever I shall ask,
 Tetrarch?
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 Do not dance, my daughter.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Everything, even the half of my kingdom.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 You swear it, Tetrarch?
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 I swear it, Salomé.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 Do not dance, my daughter.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 By what will you swear, Tetrarch?
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 By my life, by my crown, by my gods. Whatsoever you desire I will
@@ -2453,31 +2453,31 @@ give it you, even to the half of my kingdom, if you will but
 dance for me. O, Salomé, Salomé, dance for me!
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 You have sworn, Tetrarch.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 I have sworn, Salomé.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 All this I ask, even the half of your kingdom.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 My daughter, do not dance.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Even to the half of my kingdom. Thou wilt be passing fair as a
@@ -2496,7 +2496,7 @@ roses. The flowers are like fire. They have burned my forehead.
 @d{}
 [_He tears the wreath from his head and throws it on the table._]
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 Ah! I can breathe now. How red those petals are! They are like
 stains of blood on the cloth. That does not matter. You must not
 find symbols in everything you see. It makes life impossible. It
@@ -2508,19 +2508,19 @@ you not dance for me, Salomé? You have promised to dance for me.
 
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 I will not have her dance.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 I will dance for you, Tetrarch.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 You hear what your daughter says. She is going to dance for me.
@@ -2530,13 +2530,13 @@ wish I will give it you, even to the half of my kingdom. I have
 sworn it, have I not?
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 You have sworn it, Tetrarch.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 And I have never broken my word. I am not of those who break
@@ -2551,7 +2551,7 @@ The prophet has prophesied it. Well! wherefore dost thou tarry,
 Salomé?
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 I am awaiting until my slaves bring perfumes to me and the seven
@@ -2561,7 +2561,7 @@ veils, and take off my sandals.
 seven veils, and take off the sandals of Salomé._]
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Ah, you are going to dance with naked feet. 'Tis well!--'Tis
@@ -2571,14 +2571,14 @@ she is going to dance on blood. There is blood spilt on the
 ground. She must not dance on blood. It were an evil omen.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 What is it to you if she dance on blood? Thou hast waded deep
 enough therein....
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 What is it to me? Ah! look at the moon! She has become red. She
@@ -2588,7 +2588,7 @@ prophesy it? All of you heard him. And now the moon has become
 red as blood. Do ye not see it?
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 Oh, yes, I see it well, and the stars are falling like ripe figs,
@@ -2602,14 +2602,14 @@ will say at Rome that you are mad. Let us go within, I tell you.
 @d{}
 (offstage)
 
-@l{"name":"Jokanaan&&&"}
+@l{"name":"Jokanaan"}
 Who is this who cometh from Edom, who is this who cometh from
 Bozra, whose raiment is dyed with purple, who shineth in the
 beauty of his garments, who walketh mighty in his greatness?
 Wherefore is thy raiment stained with scarlet?
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 Let us go within. The voice of that man maddens me. I will not
@@ -2618,7 +2618,7 @@ not have her dance while you look at her in this fashion. In a
 word, I will not have her dance.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Do not rise, my wife, my queen, it will avail thee nothing. I
@@ -2626,13 +2626,13 @@ will not go within till she hath danced. Dance, Salomé, dance for
 me.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 Do not dance, my daughter.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 I am ready, Tetrarch.
@@ -2642,7 +2642,7 @@ I am ready, Tetrarch.
 [_Salomé dances the dance of the seven veils._]
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Ah! wonderful! wonderful! You see that she has danced for me,
@@ -2656,7 +2656,7 @@ have? Speak.
 [_Kneeling_].
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 I would that they presently bring me in a silver charger....
 
 
@@ -2664,7 +2664,7 @@ I would that they presently bring me in a silver charger....
 [Laughing.]
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 In a silver charger? Surely yes, in a silver charger. She is
 charming, is she not? What is it you would have in a silver
 charger, O sweet and fair Salomé, you who are fairer than all the
@@ -2677,29 +2677,29 @@ you. My treasures belong to thee. What is it, Salomé?
 [_Rising_].
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 The head of Jokanaan.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 Ah! that is well said, my daughter.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 No, no!
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 That is well said, my daughter.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 No, no, Salomé. You do not ask me that. Do not listen to your
@@ -2707,7 +2707,7 @@ mother's voice. She is ever giving you evil counsel. Do not heed
 her.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 I do not heed my mother. It is for mine own pleasure that I ask
@@ -2715,7 +2715,7 @@ the head of Jokanaan in a silver charger. You hath sworn, Herod.
 Forget not that you have sworn an oath.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 I know it. I have sworn by my gods. I know it well. But I pray
@@ -2724,38 +2724,38 @@ kingdom, and I will give it you. But ask not of me what you have
 asked.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 I ask of you the head of Jokanaan.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 No, no, I do not wish it.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 You have sworn, Herod.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 Yes, you have sworn. Everybody heard you. You swore it before
 everybody.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Be silent! It is not to you I speak.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 My daughter has done well to ask the head of Jokanaan. He has
@@ -2764,7 +2764,7 @@ One can see that she loves her mother well. Do not yield, my
 daughter. He has sworn, he has sworn.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Be silent, speak not to me!... Come, Salomé, be reasonable. I
@@ -2784,26 +2784,26 @@ largest emerald in the whole world. You would like that, would
 you not? Ask it of me and I will give it you.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 I demand the head of Jokanaan.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 You are not listening. You are not listening. Suffer me to speak,
 Salomé.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 The head of Jokanaan.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 No, no, you would not have that. You say that to trouble me,
@@ -2841,20 +2841,20 @@ have asked of me.
 [_He empties the cup of wine._]
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 Give me the head of Jokanaan.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 Well said, my daughter! As for you, you are ridiculous with your
 peacocks.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Be silent! You cry out always; you cry out like a beast of prey.
@@ -2874,13 +2874,13 @@ see them. Well, Salomé, you do not wish a misfortune to happen to
 me? You do not wish that. Listen to me, then.
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 Give me the head of Jokanaan.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 Ah! you are not listening to me. Be calm. I--I am calm. I am
@@ -2925,12 +2925,12 @@ one thing. I will give thee all that is mine, save one life. I
 will give thee the mantle of the high priest. I will give thee
 the veil of the sanctuary.
 
-First Jew&&&S
+@l{"name":"First Jew"}
 
 Oh! oh!
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 
 
 Give me the head of Jokanaan.
@@ -2938,15 +2938,15 @@ Give me the head of Jokanaan.
 
 @d{}
 [_Sinking back in his seat_]. 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 Let her be given what she asks! Of
 a truth she is her mother's child! 
 @d{}
 [_The first Soldier
-approaches. Herodias&&& draws from the hand of the Tetrarch the ring
+approaches. Herodias draws from the hand of the Tetrarch the ring
 of death and gives it to the Soldier, who straightway bears it to
 the Executioner. The Executioner looks scared._] 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 Who has taken my
 ring? There was a ring on my right hand. Who has drunk my wine?
 There was wine in my cup. It was full of wine. Someone has drunk
@@ -2954,19 +2954,19 @@ it! Oh! surely some evil will befall some one.
 @d{}
 [_The Executioner
 goes down into the cistern._] 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 Ah! Wherefore did I give my oath?
 Kings ought never to pledge their word. If they keep it not, it
 is terrible, and if they keep it, it is terrible also.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 My daughter has done well.
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 I am sure that some misfortune will happen.
@@ -2976,7 +2976,7 @@ I am sure that some misfortune will happen.
 [_She leans over the cistern and listens._]
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 There is no sound. I hear nothing. Why does he not cry out, this
 man? Ah! if any man sought to kill me, I would cry out, I would
 struggle, I would not suffer.... Strike, strike, Naaman, strike,
@@ -2987,8 +2987,8 @@ this slave. He has let his sword fall. He dare not kill him. He
 is a coward, this slave! Let soldiers be sent. 
 @d{}
 [_She sees the
-Page of Herodias&&& and addresses him._] 
-@l{"name":"Salome&&&"}
+Page of Herodias and addresses him._] 
+@l{"name":"Salome"}
 Come hither, thou wert the
 friend of him who is dead, is it not so? Well, I tell thee, there
 are not dead men enough. Go to the soldiers and bid them go down
@@ -2997,13 +2997,13 @@ me, the thing that is mine.
 @d{}
 [_The Page recoils. She turns to the
 soldiers._] 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 Hither, ye soldiers. Get ye down into this cistern
 and bring me the head of this man. 
 @d{}
 [_The Soldiers recoil._]
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 Tetrarch, Tetrarch, command your soldiers that they bring me the
 head of Jokanaan.
 
@@ -3011,12 +3011,12 @@ head of Jokanaan.
 @d{}
 [_A huge black arm, the arm of the Executioner, comes forth from
 the cistern, bearing on a silver shield the head of Jokanaan.
-Salomé seizes it. Herod hides his face with his cloak. Herodias&&&
+Salomé seizes it. Herod hides his face with his cloak. Herodias
 smiles and fans herself. The Nazarenes fall on their knees and
 begin to pray._]
 
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 Ah! thou wouldst not suffer me to kiss thy mouth, Jokanaan. Well!
 I will kiss it now. I will bite it with my teeth as one bites a
 ripe fruit. Yes, I will kiss thy mouth, Jokanaan. I said it; did
@@ -3032,7 +3032,7 @@ venom upon me. It is strange, is it not? How is it that the red
 viper stirs no longer?... Thou wouldst have none of me, Jokanaan.
 Thou didst reject me. Thou didst speak evil words against me.
 Thou didst treat me as a harlot, as a wanton, me, Salomé,
-daughter of Herodias&&&, Princess of Judæa! Well, Jokanaan, I still
+daughter of Herodias, Princess of Judæa! Well, Jokanaan, I still
 live, but thou, thou art dead, and thy head belongs to me. I can
 do with it what I will. I can throw it to the dogs and to the
 birds of the air. That which the dogs leave, the birds of the air
@@ -3065,7 +3065,7 @@ Love only should one consider.
 
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 
 
 She is monstrous, thy daughter, she is altogether monstrous. In
@@ -3073,7 +3073,7 @@ truth, what she has done is a great crime. I am sure that it was
 a crime against an unknown God.
 
 
-@l{"name":"Herodias&&&"}
+@l{"name":"Herodias"}
 
 
 I approve of what my daughter has done. And I will stay here now.
@@ -3083,13 +3083,13 @@ I approve of what my daughter has done. And I will stay here now.
 [_Rising_].
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 Ah! There speaks the incestuous wife! Come! I will not stay here.
 Come, I tell thee. Surely some terrible thing will befall.
 Manasseh, Issachar, Ozias, put out the torches. I will not look
 at things, I will not suffer things to look at me. Put out the
 torches! Hide the moon! Hide the stars! Let us hide ourselves in
-our palace, Herodias&&&. I begin to be afraid.
+our palace, Herodias. I begin to be afraid.
 
 
 @d{}
@@ -3101,7 +3101,7 @@ staircase._]
 
 (offstage)
 
-@l{"name":"Salome&&&"}
+@l{"name":"Salome"}
 Ah! I have kissed thy mouth, Jokanaan, I have kissed thy mouth.
 There was a bitter taste on thy lips. Was it the taste of
 blood?... But perchance it is the taste of love.... They say that
@@ -3117,13 +3117,13 @@ have kissed thy mouth, Jokanaan.
 [_Turning round and seeing Salomé_.]
 
 
-@l{"name":"Herod&&&"}
+@l{"name":"Herod"}
 Kill that woman!
 
 
 @d{}
 [_The soldiers rush forward and crush beneath their shields
-Salomé, daughter of Herodias&&&, Princess of Judæa._]
+Salomé, daughter of Herodias, Princess of Judæa._]
 
 CURTAIN.
-@x{"names":["A Pharisee&&&","A Sadducee&&&","Fifth Jew&&&","First Jew&&&","First Nazarene&&&","First Soldier&&&","Fourth Jew&&&","Herod&&&","Herodias&&&","Salome&&&","Second Jew&&&","Second Nazarene&&&","Second Soldier&&&","The Cappadocian&&&","The Nubian&&&","The Page of Herodias&&&","Third Jew&&&","Tigellinus&&&"]}
+@x{"names":["A Pharisee","A Sadducee","Fifth Jew","First Jew","First Nazarene","First Soldier","Fourth Jew","Herod","Herodias","Salome","Second Jew","Second Nazarene","Second Soldier","The Cappadocian","The Nubian","The Page of Herodias","Third Jew","Tigellinus"]}
