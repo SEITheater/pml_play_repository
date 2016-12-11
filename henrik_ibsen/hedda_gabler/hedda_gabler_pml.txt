@@ -1,0 +1,13388 @@
+﻿@v{"version": 0.1} 
+@play{"title":"Hedda Gabler", "author": "Henrick Ibsen"}
+
+@a{"number":1}
+@s{"number":1}
+@d{}
+HEDDA GABLER
+By Henrik Ibsen
+Translated by Edmund Gosse and William Archer
+
+
+The scene of the action is Tesman's villa, in the west end of Christiania.
+
+
+ACT FIRST.
+
+
+  A spacious, handsome, and tastefully furnished drawing room,
+  decorated in dark colours.  In the back, a wide doorway with
+  curtains drawn back, leading into a smaller room decorated
+  in the same style as the drawing-room.  In the right-hand
+  wall of the front room, a folding door leading out to the
+  hall.  In the opposite wall, on the left, a glass door, also
+  with curtains drawn back.  Through the panes can be seen
+  part of a verandah outside, and trees covered with autumn
+  foliage.  An oval table, with a cover on it, and surrounded
+  by chairs, stands well forward.  In front, by the wall on
+  the right, a wide stove of dark porcelain, a high-backed
+  arm-chair, a cushioned foot-rest, and two footstools.  A
+  settee, with a small round table in front of it, fills the
+  upper right-hand corner.  In front, on the left, a little
+  way from the wall, a sofa.  Further back than the glass
+  door, a piano.  On either side of the doorway at the back
+  a whatnot with terra-cotta and majolica ornaments.--
+  Against the back wall of the inner room a sofa, with a
+  table, and one or two chairs.  Over the sofa hangs the
+  portrait of a handsome elderly man in a General's uniform.
+  Over the table a hanging lamp, with an opal glass shade.--A
+  number of bouquets are arranged about the drawing-room, in
+  vases and glasses.  Others lie upon the tables.  The floors
+  in both rooms are covered with thick carpets.--Morning light.
+  The sun shines in through the glass door.
+
+  MISS JULIANA TESMAN, with her bonnet on a carrying a parasol,
+  comes in from the hall, followed by BERTA, who carries a
+  bouquet wrapped in paper.  MISS TESMAN is a comely and pleasant-
+  looking lady of about sixty-five.  She is nicely but simply
+  dressed in a grey walking-costume.  BERTA is a middle-aged
+  woman of plain and rather countrified appearance.
+
+
+
+@e{"names":["Miss Tesman","Berta"]}
+
+@d{}
+[Stops close to the door, listens, and says softly:] 
+@l{"name":"Miss Tesman"}
+Upon my word, I
+don't believe they are stirring yet!
+
+
+
+@d{}
+[Also softly.] 
+@l{"name":"Berta"}
+I told you so, Miss. Remember how late the steamboat got
+in last night. And then, when they got home!--good Lord, what a lot the
+young mistress had to unpack before she could get to bed.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Well well--let them have their sleep out. But let us see that they get a
+good breath of the fresh morning air when they do appear.
+
+     
+@d{}
+[She goes to the glass door and throws it open.
+
+
+
+@d{}
+[Beside the table, at a loss what to do with the bouquet in her hand.]
+
+@l{"name":"Berta"}
+I declare there isn't a bit of room left. I think I'll put it down here,
+Miss. 
+@d{}
+[She places it on the piano.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+So you've got a new mistress now, my dear Berta. Heaven knows it was a
+wrench to me to part with you.
+
+
+
+@d{}
+[On the point of weeping.] 
+@l{"name":"Berta"}
+And do you think it wasn't hard for me, too,
+Miss? After all the blessed years I've been with you and Miss Rina.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+We must make the best of it, Berta. There was nothing else to be done.
+George can't do without you, you see-he absolutely can't. He has had you
+to look after him ever since he was a little boy.
+
+
+
+@l{"name":"Berta"}
+
+
+Ah but, Miss Julia, I can't help thinking of Miss Rina lying helpless
+at home there, poor thing. And with only that new girl too! She'll never
+learn to take proper care of an invalid.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Oh, I shall manage to train her. And of course, you know, I shall take
+most of it upon myself. You needn't be uneasy about my poor sister, my
+dear Berta.
+
+
+
+@l{"name":"Berta"}
+
+
+Well, but there's another thing, Miss. I'm so mortally afraid I shan't
+be able to suit the young mistress.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Oh well--just at first there may be one or two things--
+
+
+
+@l{"name":"Berta"}
+
+
+Most like she'll be terrible grand in her ways.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Well, you can't wonder at that--General Gabler's daughter! Think of
+the sort of life she was accustomed to in her father's time. Don't you
+remember how we used to see her riding down the road along with the
+General? In that long black habit--and with feathers in her hat?
+
+
+
+@l{"name":"Berta"}
+
+
+Yes, indeed--I remember well enough!--But, good Lord, I should never
+have dreamt in those days that she and Master George would make a match
+of it.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Nor I.--But by-the-bye, Berta--while I think of it: in future you
+mustn't say Master George. You must say Dr. Tesman.
+
+
+
+@l{"name":"Berta"}
+
+
+Yes, the young mistress spoke of that too--last night--the moment they
+set foot in the house. Is it true then, Miss?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Yes, indeed it is. Only think, Berta--some foreign university has made
+him a doctor--while he has been abroad, you understand. I hadn't heard a
+word about it, until he told me himself upon the pier.
+
+
+
+@l{"name":"Berta"}
+
+
+Well well, he's clever enough for anything, he is. But I didn't think
+he'd have gone in for doctoring people.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+No no, it's not that sort of doctor he is. 
+@d{}
+[Nods significantly.] 
+@l{"name":"Miss Tesman"}
+But
+let me tell you, we may have to call him something still grander before
+long.
+
+
+
+@l{"name":"Berta"}
+
+
+You don't say so! What can that be, Miss?
+
+
+
+@d{}
+[Smiling.] 
+@l{"name":"Miss Tesman"}
+H'm--wouldn't you like to know! 
+@d{}
+[With emotion.] 
+@l{"name":"Miss Tesman"}
+Ah, dear
+dear--if my poor brother could only look up from his grave now, and
+see what his little boy has grown into! 
+@d{}
+[Looks around.] 
+@l{"name":"Miss Tesman"}
+But bless me,
+Berta--why have you done this? Taken the chintz covers off all the
+furniture.
+
+
+
+@l{"name":"Berta"}
+
+
+The mistress told me to. She can't abide covers on the chairs, she says.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Are they going to make this their everyday sitting-room then?
+
+
+
+@l{"name":"Berta"}
+
+
+Yes, that's what I understood--from the mistress. Master George--the
+doctor--he said nothing.
+
+
+  
+@d{}
+GEORGE TESMAN comes from the right into the inner room,
+  humming to himself, and carrying an unstrapped empty
+  portmanteau.  He is a middle-sized, young-looking man of
+  thirty-three, rather stout, with a round, open, cheerful
+  face, fair hair and beard.  He wears spectacles, and is
+  somewhat carelessly dressed in comfortable indoor clothes.
+
+
+
+@e{"names":["George"]}
+
+@l{"name":"Miss Tesman"}
+
+
+Good morning, good morning, George.
+
+
+
+@d{}
+[In the doorway between the rooms.] 
+@l{"name":"George"}
+Aunt Julia! Dear Aunt Julia! 
+@d{}
+[Goes
+up to her and shakes hands warmly.] 
+@l{"name":"George"}
+Come all this way--so early! Eh?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Why, of course I had to come and see how you were getting on.
+
+
+
+@l{"name":"George"}
+
+
+In spite of your having had no proper night's rest?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Oh, that makes no difference to me.
+
+
+
+@l{"name":"George"}
+
+
+Well, I suppose you got home all right from the pier? Eh?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Yes, quite safely, thank goodness. Judge Brack was good enough to see me
+right to my door.
+
+
+
+@l{"name":"George"}
+
+
+We were so sorry we couldn't give you a seat in the carriage. But you
+saw what a pile of boxes Hedda had to bring with her.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Yes, she had certainly plenty of boxes.
+
+
+
+@d{}
+[To George] 
+@l{"name":"Berta"}
+Shall I go in and see if there's anything I can do for the
+mistress?
+
+
+
+@l{"name":"George"}
+
+
+No thank you, Berta--you needn't. She said she would ring if she wanted
+anything.
+
+
+
+@d{}
+[Going towards the right.] 
+@l{"name":"Berta"}
+Very well.
+
+
+
+@l{"name":"George"}
+
+
+But look here--take this portmanteau with you.
+
+
+
+@d{}
+[Taking it.] 
+@l{"name":"Berta"}
+I'll put it in the attic.
+
+     
+@d{}
+[She goes out by the hall door.
+
+
+
+@x{"names":["Berta"]}
+
+@l{"name":"George"}
+
+
+Fancy, Auntie--I had the whole of that portmanteau chock full of copies
+of the documents. You wouldn't believe how much I have picked up from
+all the archives I have been examining--curious old details that no one
+has had any idea of--
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Yes, you don't seem to have wasted your time on your wedding trip,
+George.
+
+
+
+@l{"name":"George"}
+
+
+No, that I haven't. But do take off your bonnet, Auntie. Look here! Let
+me untie the strings--eh?
+
+
+
+@d{}
+[While he does so.] 
+@l{"name":"Miss Tesman"}
+Well well--this is just as if you were still at home
+with us.
+
+
+
+@d{}
+[With the bonnet in his hand, looks at it from all sides.] 
+@l{"name":"George"}
+Why, what a
+gorgeous bonnet you've been investing in!
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+I bought it on Hedda's account.
+
+
+
+@l{"name":"George"}
+
+
+On Hedda's account? Eh?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Yes, so that Hedda needn't be ashamed of me if we happened to go out
+together.
+
+
+
+@d{}
+[Patting her cheek.] 
+@l{"name":"George"}
+You always think of everything, Aunt Julia. 
+@d{}
+[Lays
+the bonnet on a chair beside the table.] 
+@l{"name":"George"}
+And now, look here--suppose we
+sit comfortably on the sofa and have a little chat, till Hedda comes.
+
+     
+@d{}
+[They seat themselves.  She places her parasol in the corner
+       of the sofa.
+
+
+
+@d{}
+[Takes both his hands and looks at him.] 
+@l{"name":"Miss Tesman"}
+What a delight it is to have
+you again, as large as life, before my very eyes, George! My George--my
+poor brother's own boy!
+
+
+
+@l{"name":"George"}
+
+
+And it's a delight for me, too, to see you again, Aunt Julia! You, who
+have been father and mother in one to me.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Oh yes, I know you will always keep a place in your heart for your old
+aunts.
+
+
+
+@l{"name":"George"}
+
+
+And what about Aunt Rina? No improvement--eh?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Oh, no--we can scarcely look for any improvement in her case, poor
+thing. There she lies, helpless, as she has lain for all these years.
+But heaven grant I may not lose her yet awhile! For if I did, I don't
+know what I should make of my life, George--especially now that I
+haven't you to look after any more.
+
+
+
+@d{}
+[Patting her back.] 
+@l{"name":"George"}
+There there there--!
+
+
+
+@d{}
+[Suddenly changing her tone.] 
+@l{"name":"Miss Tesman"}
+And to think that here are you a married
+man, George!--And that you should be the one to carry off Hedda Gabler
+--the beautiful Hedda Gabler! Only think of it--she, that was so beset
+with admirers!
+
+
+
+@d{}
+[Hums a little and smiles complacently.] 
+@l{"name":"George"}
+Yes, I fancy I have several
+good friends about town who would like to stand in my shoes--eh?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+And then this fine long wedding-tour you have had! More than five--
+nearly six months--
+
+
+
+@l{"name":"George"}
+
+
+Well, for me it has been a sort of tour of research as well. I have had
+to do so much grubbing among old records--and to read no end of books
+too, Auntie.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Oh yes, I suppose so. 
+@d{}
+[More confidentially, and lowering her voice a
+little.] 
+@l{"name":"Miss Tesman"}
+But listen now, George,--have you nothing--nothing special to
+tell me?
+
+
+
+@l{"name":"George"}
+
+
+As to our journey?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Yes.
+
+
+
+@l{"name":"George"}
+
+
+No, I don't know of anything except what I have told you in my letters.
+I had a doctor's degree conferred on me--but that I told you yesterday.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Yes, yes, you did. But what I mean is--haven't you any--any--
+expectations--?
+
+
+
+@l{"name":"George"}
+
+
+Expectations?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Why you know, George--I'm your old auntie!
+
+
+
+@l{"name":"George"}
+
+
+Why, of course I have expectations.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Ah!
+
+
+
+@l{"name":"George"}
+
+
+I have every expectation of being a professor one of these days.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Oh yes, a professor--
+
+
+
+@l{"name":"George"}
+
+
+Indeed, I may say I am certain of it. But my dear Auntie--you know all
+about that already!
+
+
+
+@d{}
+[Laughing to herself.] 
+@l{"name":"Miss Tesman"}
+Yes, of course I do. You are quite right there.
+
+@d{}
+[Changing the subject.] 
+@l{"name":"Miss Tesman"}
+But we were talking about your journey. It must
+have cost a great deal of money, George?
+
+
+
+@l{"name":"George"}
+
+
+Well, you see--my handsome travelling-scholarship went a good way.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+But I can't understand how you can have made it go far enough for two.
+
+
+
+@l{"name":"George"}
+
+
+No, that's not easy to understand--eh?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+And especially travelling with a lady--they tell me that makes it ever
+so much more expensive.
+
+
+
+@l{"name":"George"}
+
+
+Yes, of course--it makes it a little more expensive. But Hedda had to
+have this trip, Auntie! She really had to. Nothing else would have done.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+No no, I suppose not. A wedding-tour seems to be quite indispensable
+nowadays.--But tell me now--have you gone thoroughly over the house yet?
+
+
+
+@l{"name":"George"}
+
+
+Yes, you may be sure I have. I have been afoot ever since daylight.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+And what do you think of it all?
+
+
+
+@l{"name":"George"}
+
+
+I'm delighted! Quite delighted! Only I can't think what we are to do
+with the two empty rooms between this inner parlour and Hedda's bedroom.
+
+
+
+@d{}
+[Laughing.] 
+@l{"name":"Miss Tesman"}
+Oh my dear George, I daresay you may find some use for
+them--in the course of time.
+
+
+
+@l{"name":"George"}
+
+
+Why of course you are quite right, Aunt Julia! You mean as my library
+increases--eh?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Yes, quite so, my dear boy. It was your library I was thinking of.
+
+
+
+@l{"name":"George"}
+
+
+I am specially pleased on Hedda's account. Often and often, before we
+were engaged, she said that she would never care to live anywhere but in
+Secretary Falk's villa.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Yes, it was lucky that this very house should come into the market, just
+after you had started.
+
+
+
+@l{"name":"George"}
+
+
+Yes, Aunt Julia, the luck was on our side, wasn't it--eh?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+But the expense, my dear George! You will find it very expensive, all
+this.
+
+
+
+@d{}
+[Looks at her, a little cast down.] 
+@l{"name":"George"}
+Yes, I suppose I shall, Aunt!
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Oh, frightfully!
+
+
+
+@l{"name":"George"}
+
+
+How much do you think? In round numbers?--Eh?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Oh, I can't even guess until all the accounts come in.
+
+
+
+@l{"name":"George"}
+
+
+Well, fortunately, Judge Brack has secured the most favourable terms for
+me, so he said in a letter to Hedda.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Yes, don't be uneasy, my dear boy.--Besides, I have given security for
+the furniture and all the carpets.
+
+
+
+@l{"name":"George"}
+
+
+Security? You? My dear Aunt Julia--what sort of security could you give?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+I have given a mortgage on our annuity.
+
+
+
+@d{}
+[Jumps up.] 
+@l{"name":"George"}
+What! On your--and Aunt Rina's annuity!
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Yes, I knew of no other plan, you see.
+
+
+
+@d{}
+[Placing himself before her.] 
+@l{"name":"George"}
+Have you gone out of your senses, Auntie?
+Your annuity--it's all that you and Aunt Rina have to live upon.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Well well--don't get so excited about it. It's only a matter of form you
+know--Judge Brack assured me of that. It was he that was kind enough to
+arrange the whole affair for me. A mere matter of form, he said.
+
+
+
+@l{"name":"George"}
+
+
+Yes, that may be all very well. But nevertheless--
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+You will have your own salary to depend upon now. And, good heavens,
+even if we did have to pay up a little--! To eke things out a bit at
+the start--! Why, it would be nothing but a pleasure to us.
+
+
+
+@l{"name":"George"}
+
+
+Oh Auntie--will you never be tired of making sacrifices for me!
+
+
+
+@d{}
+[Rises and lays her hand on his shoulders.] 
+@l{"name":"Miss Tesman"}
+Have I any other happiness
+in this world except to smooth your way for you, my dear boy. You, who
+have had neither father nor mother to depend on. And now we have reached
+the goal, George! Things have looked black enough for us, sometimes;
+but, thank heaven, now you have nothing to fear.
+
+
+
+@l{"name":"George"}
+
+
+Yes, it is really marvellous how every thing has turned out for the
+best.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+And the people who opposed you--who wanted to bar the way for you--
+now you have them at your feet. They have fallen, George. Your most
+dangerous rival--his fall was the worst.--And now he has to lie on the
+bed he has made for himself--poor misguided creature.
+
+
+
+@l{"name":"George"}
+
+
+Have you heard anything of Eilert? Since I went away, I mean.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Only that he is said to have published a new book.
+
+
+
+@l{"name":"George"}
+
+
+What! Eilert Lovborg! Recently--eh?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Yes, so they say. Heaven knows whether it can be worth anything! Ah,
+when your new book appears--that will be another story, George! What is
+it to be about?
+
+
+
+@l{"name":"George"}
+
+
+It will deal with the domestic industries of Brabant during the Middle
+Ages.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Fancy--to be able to write on such a subject as that!
+
+
+
+@l{"name":"George"}
+
+
+However, it may be some time before the book is ready. I have all these
+collections to arrange first, you see.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Yes, collecting and arranging--no one can beat you at that. There you
+are my poor brother's own son.
+
+
+
+@l{"name":"George"}
+
+
+I am looking forward eagerly to setting to work at it; especially now
+that I have my own delightful home to work in.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+And, most of all, now that you have got the wife of your heart, my dear
+George.
+
+
+
+@d{}
+[Embracing her.] 
+@l{"name":"George"}
+Oh yes, yes, Aunt Julia! Hedda--she is the best part of
+it all! I believe I hear her coming--eh?
+
+
+  
+@d{}
+HEDDA enters from the left through the inner room.  Her face
+  and figure show refinement and distinction.  Her complexion
+  is pale and opaque.  Her steel-grey eyes express a cold,
+  unruffled repose.  Her hair is of an agreeable brown, but
+  not particularly abundant.  She is dressed in a tasteful,
+  somewhat loose-fitting morning gown.
+
+
+
+@e{"names":["Hedda"]}
+
+@d{}
+[Going to meet Hedda] 
+@l{"name":"Miss Tesman"}
+Good morning, my dear Hedda! Good morning, and a
+hearty welcome!
+
+
+
+@d{}
+[Holds out her hand.] 
+@l{"name":"Hedda"}
+Good morning, dear Miss Tesman! So early a call!
+That is kind of you.
+
+
+
+@d{}
+[With some embarrassment.] 
+@l{"name":"Miss Tesman"}
+Well--has the bride slept well in her new
+home?
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh yes, thanks. Passably.
+
+
+
+@d{}
+[Laughing.] 
+@l{"name":"George"}
+Passably! Come, that's good, Hedda! You were sleeping like a
+stone when I got up.
+
+
+
+@l{"name":"Hedda"}
+
+
+Fortunately. Of course one has always to accustom one's self to new
+surroundings, Miss Tesman--little by little. 
+@d{}
+[Looking towards the left.]
+
+@l{"name":"Hedda"}
+Oh, there the servant has gone and opened the veranda door, and let in a
+whole flood of sunshine.
+
+
+
+@d{}
+[Going towards the door.] 
+@l{"name":"Miss Tesman"}
+Well, then we will shut it.
+
+
+
+@l{"name":"Hedda"}
+
+
+No no, not that! Tesman, please draw the curtains. That will give a
+softer light.
+
+
+
+@d{}
+[At the door.] 
+@l{"name":"George"}
+All right--all right.--There now, Hedda, now you have
+both shade and fresh air.
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, fresh air we certainly must have, with all these stacks of
+flowers--. But--won't you sit down, Miss Tesman?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+No, thank you. Now that I have seen that everything is all right
+here--thank heaven!--I must be getting home again. My sister is lying
+longing for me, poor thing.
+
+
+
+@l{"name":"George"}
+
+
+Give her my very best love, Auntie; and say I shall look in and see her
+later in the day.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Yes, yes, I'll be sure to tell her. But by-the-bye, George--
+@d{}
+[Feeling
+in her dress pocket]--I 
+@l{"name":"Miss Tesman"}
+had almost forgotten--I have something for you
+here.
+
+
+
+@l{"name":"George"}
+
+
+What is it, Auntie? Eh?
+
+
+
+@d{}
+[Produces a flat parcel wrapped in newspaper and hands it to him.] 
+@l{"name":"Miss Tesman"}
+Look
+here, my dear boy.
+
+
+
+@d{}
+[Opening the parcel.] 
+@l{"name":"George"}
+Well, I declare!--Have you really saved
+them for me, Aunt Julia! Hedda! isn't this touching--eh?
+
+
+
+@d{}
+[Beside the whatnot on the right.] 
+@l{"name":"Hedda"}
+Well, what is it?
+
+
+
+@l{"name":"George"}
+
+
+My old morning-shoes! My slippers.
+
+
+
+@l{"name":"Hedda"}
+
+
+Indeed. I remember you often spoke of them while we were abroad.
+
+
+
+@l{"name":"George"}
+
+
+Yes, I missed them terribly. 
+@d{}
+[Goes up to her.] 
+@l{"name":"George"}
+Now you shall see them,
+Hedda!
+
+
+
+@d{}
+[Going towards the stove.] 
+@l{"name":"Hedda"}
+Thanks, I really don't care about it.
+
+
+
+@d{}
+[Following her.] 
+@l{"name":"George"}
+Only think--ill as she was, Aunt Rina embroidered these
+for me. Oh you can't think how many associations cling to them.
+
+
+
+@d{}
+[At the table.] 
+@l{"name":"Hedda"}
+Scarcely for me.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Of course not for Hedda, George.
+
+
+@l{"name":"George"}
+
+
+Well, but now that she belongs to the family, I thought--
+
+
+
+@d{}
+[Interrupting.] 
+@l{"name":"Hedda"}
+We shall never get on with this servant, Tesman.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Not get on with Berta?
+
+
+
+@l{"name":"George"}
+
+
+Why, dear, what puts that in your head? Eh?
+
+
+
+@d{}
+[Pointing.] 
+@l{"name":"Hedda"}
+Look there! She has left her old bonnet lying about on a
+chair.
+
+
+@d{}
+[In consternation, drops the slippers on the floor.] 
+@l{"name":"George"}
+Why, Hedda--
+
+
+
+@l{"name":"Hedda"}
+
+
+Just fancy, if any one should come in and see it!
+
+
+
+@l{"name":"George"}
+
+
+But Hedda--that's Aunt Julia's bonnet.
+
+
+
+@l{"name":"Hedda"}
+
+
+Is it!
+
+
+
+@d{}
+[Taking up the bonnet.] 
+@l{"name":"Miss Tesman"}
+Yes, indeed it's mine. And, what's more, it's
+not old, Madam Hedda.
+
+
+
+@l{"name":"Hedda"}
+
+
+I really did not look closely at it, Miss Tesman.
+
+
+
+@d{}
+[Trying on the bonnet.] 
+@l{"name":"Miss Tesman"}
+Let me tell you it's the first time I have worn
+it--the very first time.
+
+
+
+@l{"name":"George"}
+
+
+And a very nice bonnet it is too--quite a beauty!
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Oh, it's no such great things, George. 
+@d{}
+[Looks around her.] 
+@l{"name":"Miss Tesman"}
+My
+parasol--? Ah, here. 
+@d{}
+[Takes it.] 
+@l{"name":"Miss Tesman"}
+For this is mine too-- 
+@d{}
+[mutters] 
+@l{"name":"Miss Tesman"}
+--not
+Berta's.
+
+
+
+@l{"name":"George"}
+
+
+A new bonnet and a new parasol! Only think, Hedda.
+
+
+
+@l{"name":"Hedda"}
+
+
+Very handsome indeed.
+
+
+
+@l{"name":"George"}
+
+
+Yes, isn't it? Eh? But Auntie, take a good look at Hedda before you go!
+See how handsome she is!
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Oh, my dear boy, there's nothing new in that. Hedda was always lovely.
+
+     
+@d{}
+[She nods and goes toward the right.
+
+
+
+@d{}
+[Following.] 
+@l{"name":"George"}
+Yes, but have you noticed what splendid condition she is
+in? How she has filled out on the journey?
+
+
+
+@d{}
+[Crossing the room.] 
+@l{"name":"Hedda"}
+Oh, do be quiet--!
+
+
+
+@d{}
+[Who has stopped and turned.] 
+@l{"name":"Miss Tesman"}
+Filled out?
+
+
+
+@l{"name":"George"}
+
+
+Of course you don't notice it so much now that she has that dress on.
+But I, who can see--
+
+
+
+@d{}
+[At the glass door, impatiently.] 
+@l{"name":"Hedda"}
+Oh, you can't see anything.
+
+
+
+@l{"name":"George"}
+
+
+It must be the mountain air in the Tyrol--
+
+
+
+@d{}
+[Curtly, interrupting.] 
+@l{"name":"Hedda"}
+I am exactly as I was when I started.
+
+
+
+@l{"name":"George"}
+
+
+So you insist; but I'm quite certain you are not. Don't you agree with
+me, Auntie?
+
+
+
+@d{}
+[Who has been gazing at her with folded hands.] 
+@l{"name":"Miss Tesman"}
+Hedda is lovely--
+lovely--lovely. 
+@d{}
+[Goes up to her, takes her head between both hands,
+draws it downwards, and kisses her hair.] 
+@l{"name":"Miss Tesman"}
+God bless and preserve Hedda
+Tesman--for George's sake.
+
+
+
+@d{}
+[Gently freeing herself.] 
+@l{"name":"Hedda"}
+Oh--! Let me go.
+
+
+
+@d{}
+[In quiet emotion.] 
+@l{"name":"Miss Tesman"}
+I shall not let a day pass without coming to see
+you.
+
+
+
+@l{"name":"George"}
+
+
+No you won't, will you, Auntie? Eh?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Good-bye--good-bye!
+
+     
+@d{}
+[She goes out by the hall door.  TESMAN accompanies her.  The
+       door remains half open.  TESMAN can be heard repeating his
+       message to Aunt Rina and his thanks for the slippers.
+
+     [In the meantime, HEDDA walks about the room, raising her arms
+       and clenching her hands as if in desperation.  Then she flings
+       back the curtains from the glass door, and stands there looking
+       out.
+
+     [Presently, TESMAN returns and closes the door behind him.
+
+
+
+@x{"names":["Miss Tesman"]}
+
+@d{}
+[Picks up the slippers from the floor.] 
+@l{"name":"George"}
+What are you looking at, Hedda?
+
+
+
+@d{}
+[Once more calm and mistress of herself.] 
+@l{"name":"Hedda"}
+I am only looking at the
+leaves. They are so yellow--so withered.
+
+
+
+@d{}
+[Wraps up the slippers and lays them on the table.] 
+@l{"name":"George"}
+Well, you see, we
+are well into September now.
+
+
+
+@d{}
+[Again restless.] 
+@l{"name":"Hedda"}
+Yes, to think of it!--already in--in September.
+
+
+
+@l{"name":"George"}
+
+
+Don't you think Aunt Julia's manner was strange, dear? Almost solemn?
+Can you imagine what was the matter with her? Eh?
+
+
+
+@l{"name":"Hedda"}
+
+
+I scarcely know her, you see. Is she not often like that?
+
+
+
+@l{"name":"George"}
+
+
+No, not as she was to-day.
+
+
+
+@d{}
+[Leaving the glass door.] 
+@l{"name":"Hedda"}
+Do you think she was annoyed about the bonnet?
+
+
+
+@l{"name":"George"}
+
+
+Oh, scarcely at all. Perhaps a little, just at the moment--
+
+
+
+@l{"name":"Hedda"}
+
+
+But what an idea, to pitch her bonnet about in the drawing-room! No one
+does that sort of thing.
+
+
+
+@l{"name":"George"}
+
+
+Well you may be sure Aunt Julia won't do it again.
+
+
+
+@l{"name":"Hedda"}
+
+
+In any case, I shall manage to make my peace with her.
+
+
+
+@l{"name":"George"}
+
+
+Yes, my dear, good Hedda, if you only would.
+
+
+
+@l{"name":"Hedda"}
+
+
+When you call this afternoon, you might invite her to spend the evening
+here.
+
+
+
+@l{"name":"George"}
+
+
+Yes, that I will. And there's one thing more you could do that would
+delight her heart.
+
+
+
+@l{"name":"Hedda"}
+
+
+What is it?
+
+
+
+@l{"name":"George"}
+
+
+If you could only prevail on yourself to say _du_ to her. For my
+sake, Hedda? Eh?
+
+
+
+@l{"name":"Hedda"}
+
+
+No, no, Tesman--you really mustn't ask that of me. I have told you so
+already. I shall try to call her "Aunt"; and you must be satisfied with
+that.
+
+
+
+@l{"name":"George"}
+
+
+Well well. Only I think now that you belong to the family, you--
+
+
+
+@l{"name":"Hedda"}
+
+
+H'm--I can't in the least see why--
+
+     
+@d{}
+[She goes up towards the middle doorway.
+
+
+
+@d{}
+[After a pause.] 
+@l{"name":"George"}
+Is there anything the matter with you, Hedda? Eh?
+
+
+
+@l{"name":"Hedda"}
+
+
+I'm only looking at my old piano. It doesn't go at all well with all the
+other things.
+
+
+
+@l{"name":"George"}
+
+
+The first time I draw my salary, we'll see about exchanging it.
+
+
+
+@l{"name":"Hedda"}
+
+
+No, no--no exchanging. I don't want to part with it. Suppose we put it
+there in the inner room, and then get another here in its place. When
+it's convenient, I mean.
+
+
+
+@d{}
+[A little taken aback.] 
+@l{"name":"George"}
+Yes--of course we could do that.
+
+
+
+@d{}
+[Takes up the bouquet from the piano.] 
+@l{"name":"Hedda"}
+These flowers were not here last
+night when we arrived.
+
+
+
+@l{"name":"George"}
+
+
+Aunt Julia must have brought them for you.
+
+
+
+@d{}
+[Examining the bouquet.] 
+@l{"name":"Hedda"}
+A visiting-card. 
+@d{}
+[Takes it out and reads:]
+
+@l{"name":"Hedda"}
+"Shall return later in the day." Can you guess whose card it is?
+
+
+
+@l{"name":"George"}
+
+
+No. Whose? Eh?
+
+
+
+@l{"name":"Hedda"}
+
+
+The name is "Mrs. Elvsted."
+
+
+
+@l{"name":"George"}
+
+
+Is it really? Sheriff Elvsted's wife? Miss Rysing that was.
+
+
+
+@l{"name":"Hedda"}
+
+
+Exactly. The girl with the irritating hair, that she was always showing
+off. An old flame of yours I've been told.
+
+
+
+@d{}
+[Laughing.] 
+@l{"name":"George"}
+Oh, that didn't last long; and it was before I met you,
+Hedda. But fancy her being in town!
+
+
+
+@l{"name":"Hedda"}
+
+
+It's odd that she should call upon us. I have scarcely seen her since we
+left school.
+
+
+
+@l{"name":"George"}
+
+
+I haven't see her either for--heaven knows how long. I wonder how she
+can endure to live in such an out-of-the way hole--eh?
+
+
+
+@d{}
+[After a moment's thought, says suddenly.] 
+@l{"name":"Hedda"}
+Tell me, Tesman--isn't it
+somewhere near there that he--that--Eilert Lovborg is living?
+
+
+
+@l{"name":"George"}
+
+
+Yes, he is somewhere in that part of the country.
+
+
+  
+@d{}
+BERTA enters by the hall door.
+
+
+
+@e{"names":["Berta"]}
+
+@l{"name":"Berta"}
+
+
+That lady, ma'am, that brought some flowers a little while ago, is here
+again. 
+@d{}
+[Pointing.] 
+@l{"name":"Berta"}
+The flowers you have in your hand, ma'am.
+
+
+
+@l{"name":"Hedda"}
+
+
+Ah, is she? Well, please show her in.
+
+
+  
+@d{}
+BERTA opens the door for MRS. ELVSTED, and goes out herself.
+  --MRS. ELVSTED is a woman of fragile figure, with pretty,
+  soft features.  Her eyes are light blue, large, round, and
+  somewhat prominent, with a startled, inquiring expression.
+  Her hair is remarkably light, almost flaxen, and unusually
+  abundant and wavy.  She is a couple of years younger than
+  Hedda  She wears a dark visiting dress, tasteful, but not
+  quite in the latest fashion.
+
+
+
+@e{"names":["Mrs. Elvsted"]}
+
+@x{"names":["Berta"]}
+
+@d{}
+[Receives her warmly.] 
+@l{"name":"Hedda"}
+How do you do, my dear Mrs. Elvsted? It's
+delightful to see you again.
+
+
+
+@d{}
+[Nervously, struggling for self-control.] 
+@l{"name":"Mrs. Elvsted"}
+Yes, it's a very long time
+since we met.
+
+
+
+@d{}
+[Gives her his hand.] 
+@l{"name":"George"}
+And we too--eh?
+
+
+
+@l{"name":"Hedda"}
+
+
+Thanks for your lovely flowers--
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh, not at all--. I would have come straight here yesterday afternoon;
+but I heard that you were away--
+
+
+
+@l{"name":"George"}
+
+
+Have you just come to town? Eh?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+I arrived yesterday, about midday. Oh, I was quite in despair when I
+heard that you were not at home.
+
+
+
+@l{"name":"Hedda"}
+
+
+In despair! How so?
+
+
+
+@l{"name":"George"}
+
+
+Why, my dear Mrs. Rysing--I mean Mrs. Elvsted--
+
+
+
+@l{"name":"Hedda"}
+
+
+I hope that you are not in any trouble?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, I am. And I don't know another living creature here that I can turn
+to.
+
+
+
+@d{}
+[Laying the bouquet on the table.] 
+@l{"name":"Hedda"}
+Come--let us sit here on the sofa--
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh, I am too restless to sit down.
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh no, you're not. Come here.
+
+     
+@d{}
+[She draws MRS. ELVSTED down upon the sofa and sits at her side.
+
+
+
+@l{"name":"George"}
+
+
+Well? What is it, Mrs. Elvsted--?
+
+
+
+@l{"name":"Hedda"}
+
+
+Has anything particular happened to you at home?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes--and no. Oh--I am so anxious you should not misunderstand me--
+
+
+
+@l{"name":"Hedda"}
+
+
+Then your best plan is to tell us the whole story, Mrs. Elvsted.
+
+
+
+@l{"name":"George"}
+
+
+I suppose that's what you have come for--eh?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, yes--of course it is. Well then, I must tell you--if you don't
+already know--that Eilert Lovborg is in town, too.
+
+
+
+@l{"name":"Hedda"}
+
+
+Lovborg--!
+
+
+
+@l{"name":"George"}
+
+
+What! Has Eilert Lovborg come back? Fancy that, Hedda!
+
+
+
+@l{"name":"Hedda"}
+
+
+Well well--I hear it.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+He has been here a week already. Just fancy--a whole week! In this
+terrible town, alone! With so many temptations on all sides.
+
+
+
+@l{"name":"Hedda"}
+
+
+But, my dear Mrs. Elvsted--how does he concern you so much?
+
+
+
+@d{}
+[Looks at her with a startled air, and says rapidly.] 
+@l{"name":"Mrs. Elvsted"}
+He was the
+children's tutor.
+
+
+
+@l{"name":"Hedda"}
+
+
+Your children's?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+My husband's. I have none.
+
+
+
+@l{"name":"Hedda"}
+
+
+Your step-children's, then?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes.
+
+
+
+@d{}
+[Somewhat hesitatingly.] 
+@l{"name":"George"}
+Then was he--I don't know how to express
+it--was he--regular enough in his habits to be fit for the post? Eh?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+For the last two years his conduct has been irreproachable.
+
+
+
+@l{"name":"George"}
+
+
+Has it indeed? Fancy that, Hedda!
+
+
+
+@l{"name":"Hedda"}
+
+
+I hear it.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Perfectly irreproachable, I assure you! In every respect. But all the
+same--now that I know he is here--in this great town--and with a large
+sum of money in his hands--I can't help being in mortal fear for him.
+
+
+
+@l{"name":"George"}
+
+
+Why did he not remain where he was? With you and your husband? Eh?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+After his book was published he was too restless and unsettled to remain
+with us.
+
+
+
+@l{"name":"George"}
+
+
+Yes, by-the-bye, Aunt Julia told me he had published a new book.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, a big book, dealing with the march of civilisation--in broad
+outline, as it were. It came out about a fortnight ago. And since it has
+sold so well, and been so much read--and made such a sensation--
+
+
+
+@l{"name":"George"}
+
+
+Has it indeed? It must be something he has had lying by since his better
+days.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Long ago, you mean?
+
+
+
+@l{"name":"George"}
+
+
+Yes.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+No, he has written it all since he has been with us--within the last
+year.
+
+
+
+@l{"name":"George"}
+
+
+Isn't that good news, Hedda? Think of that.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Ah yes, if only it would last!
+
+
+
+@l{"name":"Hedda"}
+
+
+Have you seen him here in town?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+No, not yet. I have had the greatest difficulty in finding out his
+address. But this morning I discovered it at last.
+
+
+
+@d{}
+[Looks searchingly at her.] 
+@l{"name":"Hedda"}
+Do you know, it seems to me a little odd of
+your husband--h'm--
+
+
+
+@d{}
+[Starting nervously.] 
+@l{"name":"Mrs. Elvsted"}
+Of my husband! What?
+
+
+
+@l{"name":"Hedda"}
+
+
+That he should send you to town on such an errand--that he does not come
+himself and look after his friend.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh no, no--my husband has no time. And besides, I--I had some shopping
+to do.
+
+
+
+@d{}
+[With a slight smile.] 
+@l{"name":"Hedda"}
+Ah, that is a different matter.
+
+
+
+@d{}
+[Rising quickly and uneasily.] 
+@l{"name":"Mrs. Elvsted"}
+And now I beg and implore you, Mr.
+Tesman--receive Eilert Lovborg kindly if he comes to you! And that he
+is sure to do. You see you were such great friends in the old days.
+And then you are interested in the same studies--the same branch of
+science--so far as I can understand.
+
+
+
+@l{"name":"George"}
+
+
+We used to be at any rate.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+That is why I beg so earnestly that you--you too--will keep a sharp eye
+upon him. Oh, you will promise me that, Mr. Tesman--won't you?
+
+
+
+@l{"name":"George"}
+
+
+With the greatest of pleasure, Mrs. Rysing--
+
+
+
+@l{"name":"Hedda"}
+
+
+Elvsted.
+
+
+
+@l{"name":"George"}
+
+
+I assure you I shall do all I possibly can for Eilert. You may rely upon
+me.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh, how very, very kind of you! 
+@d{}
+[Presses his hands.] 
+@l{"name":"Mrs. Elvsted"}
+Thanks, thanks,
+thanks! 
+@d{}
+[Frightened.] 
+@l{"name":"Mrs. Elvsted"}
+You see, my husband is so very fond of him!
+
+
+
+@d{}
+[Rising.] 
+@l{"name":"Hedda"}
+You ought to write to him, Tesman. Perhaps he may not care to
+come to you of his own accord.
+
+
+
+@l{"name":"George"}
+
+
+Well, perhaps it would be the right thing to do, Hedda? Eh?
+
+
+
+@l{"name":"Hedda"}
+
+
+And the sooner the better. Why not at once?
+
+
+
+@d{}
+[Imploringly.] 
+@l{"name":"Mrs. Elvsted"}
+Oh, if you only would!
+
+
+
+@l{"name":"George"}
+
+
+I'll write this moment. Have you his address, Mrs.--Mrs. Elvsted.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes. 
+@d{}
+[Takes a slip of paper from her pocket, and hands it to him.] 
+@l{"name":"Mrs. Elvsted"}
+Here
+it is.
+
+
+
+@l{"name":"George"}
+
+
+Good, good. Then I'll go in-- 
+@d{}
+[Looks about him.] 
+@l{"name":"George"}
+By-the-bye,--my
+slippers? Oh, here. 
+@d{}
+[Takes the packet and is about to go.
+
+
+
+@l{"name":"Hedda"}
+
+
+Be sure you write him a cordial, friendly letter. And a good long one
+too.
+
+
+
+@l{"name":"George"}
+
+
+Yes, I will.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+But please, please don't say a word to show that I have suggested it.
+
+
+
+@l{"name":"George"}
+
+
+No, how could you think I would? Eh?
+
+     
+@d{}
+[He goes out to the right, through the inner room.
+
+
+
+@x{"names":["George"]}
+
+@d{}
+[Goes up to MRS. ELVSTED, smiles, and says in a low voice.] 
+@l{"name":"Hedda"}
+There! We
+have killed two birds with one stone.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+What do you mean?
+
+
+
+@l{"name":"Hedda"}
+
+
+Could you not see that I wanted him to go?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, to write the letter--
+
+
+
+@l{"name":"Hedda"}
+
+
+And that I might speak to you alone.
+
+
+
+@d{}
+[Confused.] 
+@l{"name":"Mrs. Elvsted"}
+About the same thing?
+
+
+
+@l{"name":"Hedda"}
+
+
+Precisely.
+
+
+
+@d{}
+[Apprehensively.] 
+@l{"name":"Mrs. Elvsted"}
+But there is nothing more, Mrs. Tesman! Absolutely
+nothing!
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh yes, but there is. There is a great deal more--I can see that. Sit
+here--and we'll have a cosy, confidential chat.
+
+   
+@d{}
+[She forces MRS. ELVSTED to sit in the easy-chair beside the
+       stove, and seats herself on one of the footstools.
+
+
+
+@d{}
+[Anxiously, looking at her watch.] 
+@l{"name":"Mrs. Elvsted"}
+But, my dear Mrs. Tesman--I was
+really on the point of going.
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh, you can't be in such a hurry.--Well? Now tell me something about
+your life at home.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh, that is just what I care least to speak about.
+
+
+
+@l{"name":"Hedda"}
+
+
+But to me, dear--? Why, weren't we schoolfellows?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, but you were in the class above me. Oh, how dreadfully afraid of
+you I was then!
+
+
+
+@l{"name":"Hedda"}
+
+
+Afraid of me?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, dreadfully. For when we met on the stairs you used always to pull
+my hair.
+
+
+
+@l{"name":"Hedda"}
+
+
+Did I, really?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, and once you said you would burn it off my head.
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh that was all nonsense, of course.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, but I was so silly in those days.--And since then, too--we have
+drifted so far--far apart from each other. Our circles have been so
+entirely different.
+
+
+
+@l{"name":"Hedda"}
+
+
+Well then, we must try to drift together again. Now listen. At school
+we said _du_ to each other; and we called each other by our Christian
+names--
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+No, I am sure you must be mistaken.
+
+
+
+@l{"name":"Hedda"}
+
+
+No, not at all! I can remember quite distinctly. So now we are going to
+renew our old friendship. 
+@d{}
+[Draws the footstool closer to Mrs. Elvsted]
+
+@l{"name":"Hedda"}
+There now! 
+@d{}
+[Kisses her cheek.] 
+@l{"name":"Hedda"}
+You must say _du_ to me and call me
+Hedda.
+
+
+
+@d{}
+[Presses and pats her hands.] 
+@l{"name":"Mrs. Elvsted"}
+Oh, how good and kind you are! I am not
+used to such kindness.
+
+
+
+@l{"name":"Hedda"}
+
+
+There, there, there! And I shall say _du_ to you, as in the old days,
+and call you my dear Thora.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+My name is Thea.
+
+
+
+@l{"name":"Hedda"}
+
+
+Why, of course! I meant Thea. 
+@d{}
+[Looks at her compassionately.] 
+@l{"name":"Hedda"}
+So you are
+not accustomed to goodness and kindness, Thea? Not in your own home?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh, if I only had a home! But I haven't any; I have never had a home.
+
+
+
+@d{}
+[Looks at her for a moment.] 
+@l{"name":"Hedda"}
+I almost suspected as much.
+
+
+
+@d{}
+[Gazing helplessly before her.] 
+@l{"name":"Mrs. Elvsted"}
+Yes--yes--yes.
+
+
+
+@l{"name":"Hedda"}
+
+
+I don't quite remember--was it not as housekeeper that you first went to
+Mr. Elvsted's?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+I really went as governess. But his wife--his late wife--was an
+invalid,--and rarely left her room. So I had to look after the
+housekeeping as well.
+
+
+
+@l{"name":"Hedda"}
+
+
+And then--at last--you became mistress of the house.
+
+
+
+@d{}
+[Sadly.] 
+@l{"name":"Mrs. Elvsted"}
+Yes, I did.
+
+
+
+@l{"name":"Hedda"}
+
+
+Let me see--about how long ago was that?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+My marriage?
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Five years ago.
+
+
+
+@l{"name":"Hedda"}
+
+
+To be sure; it must be that.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh those five years--! Or at all events the last two or three of them!
+Oh, if you could only imagine--
+
+
+
+@d{}
+[Giving her a little slap on the hand.] 
+@l{"name":"Hedda"}
+De? Fie, Thea!
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, yes, I will try--. Well, if--you could only imagine and
+understand--
+
+
+
+@d{}
+[Lightly.] 
+@l{"name":"Hedda"}
+Eilert Lovborg has been in your neighbourhood about three
+years, hasn't he?
+
+
+
+@d{}
+[Looks at here doubtfully.] 
+@l{"name":"Mrs. Elvsted"}
+Eilert Lovborg? Yes--he has.
+
+
+
+@l{"name":"Hedda"}
+
+
+Had you known him before, in town here?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Scarcely at all. I mean--I knew him by name of course.
+
+
+
+@l{"name":"Hedda"}
+
+
+But you saw a good deal of him in the country?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, he came to us every day. You see, he gave the children lessons; for
+in the long run I couldn't manage it all myself.
+
+
+
+@l{"name":"Hedda"}
+
+
+No, that's clear.--And your husband--? I suppose he is often away from
+home?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes. Being sheriff, you know, he has to travel about a good deal in his
+district.
+
+
+
+@d{}
+[Leaning against the arm of the chair.] 
+@l{"name":"Hedda"}
+Thea--my poor, sweet Thea--now
+you must tell me everything--exactly as it stands.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Well, then you must question me.
+
+
+
+@l{"name":"Hedda"}
+
+
+What sort of a man is your husband, Thea? I mean--you know--in everyday
+life. Is he kind to you?
+
+
+
+@d{}
+[Evasively.] 
+@l{"name":"Mrs. Elvsted"}
+I am sure he means well in everything.
+
+
+
+@l{"name":"Hedda"}
+
+
+I should think he must be altogether too old for you. There is at least
+twenty years' difference between you, is there not?
+
+
+
+@d{}
+[Irritably.] 
+@l{"name":"Mrs. Elvsted"}
+Yes, that is true, too. Everything about him is repellent
+to me! We have not a thought in common. We have no single point of
+sympathy--he and I.
+
+
+
+@l{"name":"Hedda"}
+
+
+But is he not fond of you all the same? In his own way?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh I really don't know. I think he regards me simply as a useful
+property. And then it doesn't cost much to keep me. I am not expensive.
+
+
+
+@l{"name":"Hedda"}
+
+
+That is stupid of you.
+
+
+
+@d{}
+[Shakes her head.] 
+@l{"name":"Mrs. Elvsted"}
+It cannot be otherwise--not with him. I don't think
+he really cares for any one but himself--and perhaps a little for the
+children.
+
+
+
+@l{"name":"Hedda"}
+
+
+And for Eilert Lovborg, Thea?
+
+
+
+@d{}
+[Looking at her.] 
+@l{"name":"Mrs. Elvsted"}
+For Eilert Lovborg? What puts that into your head?
+
+
+
+@l{"name":"Hedda"}
+
+
+Well, my dear--I should say, when he sends you after him all the way
+to town-- 
+@d{}
+[Smiling almost imperceptibly.] 
+@l{"name":"Hedda"}
+And besides, you said so
+yourself, to Tesman.
+
+
+
+@d{}
+[With a little nervous twitch.] 
+@l{"name":"Mrs. Elvsted"}
+Did I? Yes, I suppose I did.
+
+@d{}
+[Vehemently, but not loudly.] 
+@l{"name":"Mrs. Elvsted"}
+No--I may just as well make a clean breast
+of it at once! For it must all come out in any case.
+
+
+
+@l{"name":"Hedda"}
+
+
+Why, my dear Thea--?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Well, to make a long story short: My husband did not know that I was
+coming.
+
+
+
+@l{"name":"Hedda"}
+
+
+What! Your husband didn't know it!
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+No, of course not. For that matter, he was away from home himself--
+he was travelling. Oh, I could bear it no longer, Hedda! I couldn't
+indeed--so utterly alone as I should have been in future.
+
+
+
+@l{"name":"Hedda"}
+
+
+Well? And then?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+So I put together some of my things--what I needed most--as quietly as
+possible. And then I left the house.
+
+
+
+@l{"name":"Hedda"}
+
+
+Without a word?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes--and took the train to town.
+
+
+
+@l{"name":"Hedda"}
+
+
+Why, my dear, good Thea--to think of you daring to do it!
+
+
+
+@d{}
+[Rises and moves about the room.] 
+@l{"name":"Mrs. Elvsted"}
+What else could I possibly do?
+
+
+
+@l{"name":"Hedda"}
+
+
+But what do you think your husband will say when you go home again?
+
+
+
+@d{}
+[At the table, looks at her.] 
+@l{"name":"Mrs. Elvsted"}
+Back to him?
+
+
+
+@l{"name":"Hedda"}
+
+
+Of course.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+I shall never go back to him again.
+
+
+
+@d{}
+[Rising and going towards her.] 
+@l{"name":"Hedda"}
+Then you have left your home--for good
+and all?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes. There was nothing else to be done.
+
+
+
+@l{"name":"Hedda"}
+
+
+But then--to take flight so openly.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh, it's impossible to keep things of that sort secret.
+
+
+
+@l{"name":"Hedda"}
+
+
+But what do you think people will say of you, Thea?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+They may say what they like, for aught _I_ care. 
+@d{}
+[Seats herself wearily
+and sadly on the sofa.] 
+@l{"name":"Mrs. Elvsted"}
+I have done nothing but what I had to do.
+
+
+
+@d{}
+[After a short silence.] 
+@l{"name":"Hedda"}
+And what are your plans now? What do you think
+of doing.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+I don't know yet. I only know this, that I must live here, where Eilert
+Lovborg is--if I am to live at all.
+
+
+
+@d{}
+[Takes a chair from the table, seats herself beside her, and strokes
+her hands.] 
+@l{"name":"Hedda"}
+My dear Thea--how did this--this friendship--between you and
+Eilert Lovborg come about?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh it grew up gradually. I gained a sort of influence over him.
+
+
+
+@l{"name":"Hedda"}
+
+
+Indeed?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+He gave up his old habits. Not because I asked him to, for I never dared
+do that. But of course he saw how repulsive they were to me; and so he
+dropped them.
+
+
+
+@d{}
+[Concealing an involuntary smile of scorn.] 
+@l{"name":"Hedda"}
+Then you have reclaimed
+him--as the saying goes--my little Thea.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+So he says himself, at any rate. And he, on his side, has made a real
+human being of me--taught me to think, and to understand so many things.
+
+
+
+@l{"name":"Hedda"}
+
+
+Did he give you lessons too, then?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+No, not exactly lessons. But he talked to me--talked about such an
+infinity of things. And then came the lovely, happy time when I began to
+share in his work--when he allowed me to help him!
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh he did, did he?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes! He never wrote anything without my assistance.
+
+
+
+@l{"name":"Hedda"}
+
+
+You were two good comrades, in fact?
+
+
+
+@d{}
+[Eagerly.] 
+@l{"name":"Mrs. Elvsted"}
+Comrades! Yes, fancy, Hedda--that is the very word he
+used!--Oh, I ought to feel perfectly happy; and yet I cannot; for I
+don't know how long it will last.
+
+
+
+@l{"name":"Hedda"}
+
+
+Are you no surer of him than that?
+
+
+
+@d{}
+[Gloomily.] 
+@l{"name":"Mrs. Elvsted"}
+A woman's shadow stands between Eilert Lovborg and me.
+
+
+
+@d{}
+[Looks at her anxiously.] 
+@l{"name":"Hedda"}
+Who can that be?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+I don't know. Some one he knew in his--in his past. Some one he has
+never been able wholly to forget.
+
+
+
+@l{"name":"Hedda"}
+
+
+What has he told you--about this?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+He has only once--quite vaguely--alluded to it.
+
+
+
+@l{"name":"Hedda"}
+
+
+Well! And what did he say?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+He said that when they parted, she threatened to shoot him with a
+pistol.
+
+
+
+@d{}
+[With cold composure.] 
+@l{"name":"Hedda"}
+Oh nonsense! No one does that sort of thing here.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+No. And that is why I think it must have been that red-haired
+singing-woman whom he once--
+
+
+@l{"name":"Hedda"}
+
+
+Yes, very likely.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+For I remember they used to say of her that she carried loaded firearms.
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh--then of course it must have been she.
+
+
+
+@d{}
+[Wringing her hands.] 
+@l{"name":"Mrs. Elvsted"}
+And now just fancy, Hedda--I hear that this
+singing-woman--that she is in town again! Oh, I don't know what to do--
+
+
+
+@d{}
+[Glancing towards the inner room.] 
+@l{"name":"Hedda"}
+Hush! Here comes Tesman. 
+@d{}
+[Rises and
+whispers.] 
+@l{"name":"Hedda"}
+Thea--all this must remain between you and me.
+
+
+
+@d{}
+[Springing up.] 
+@l{"name":"Mrs. Elvsted"}
+Oh yes--yes! For heaven's sake--!
+
+
+  
+@d{}
+GEORGE TESMAN, with a letter in his hand, comes from the right
+  through the inner room.
+
+
+
+@e{"names":["George"]}
+
+@l{"name":"George"}
+
+
+There now--the epistle is finished.
+
+
+
+@l{"name":"Hedda"}
+
+
+That's right. And now Mrs. Elvsted is just going. Wait a moment--I'll
+go with you to the garden gate.
+
+
+
+@l{"name":"George"}
+
+
+Do you think Berta could post the letter, Hedda dear?
+
+
+
+@d{}
+[Takes it.] 
+@l{"name":"Hedda"}
+I will tell her to.
+
+
+  
+@d{}
+BERTA enters from the hall.
+
+
+
+@e{"names":["Berta"]}
+
+@l{"name":"Berta"}
+
+
+Judge Brack wishes to know if Mrs. Tesman will receive him.
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, ask Judge Brack to come in. And look here--put this letter in the
+post.
+
+
+
+@d{}
+[Taking the letter.] 
+@l{"name":"Berta"}
+Yes, ma'am.
+
+   
+@d{}
+[She opens the door for JUDGE BRACK and goes out herself.  Brack
+       is a main of forty-five; thick set, but well-built and elastic
+       in his movements.  His face is roundish with an aristocratic
+       profile.  His hair is short, still almost black, and carefully
+       dressed.  His eyebrows thick.  His moustaches are also thick,
+       with short-cut ends.  He wears a well-cut walking-suit, a
+       little too youthful for his age.  He uses an eye-glass, which
+       he now and then lets drop.
+
+
+@e{"names":["Judge Brack"]}
+
+@x{"names":["Berta"]}
+
+@d{}
+[With his hat in his hand, bowing.] 
+@l{"name":"Judge Brack"}
+May one venture to call so early in
+the day?
+
+
+
+@l{"name":"Hedda"}
+
+
+Of course one may.
+
+
+
+@d{}
+[Presses his hand.] 
+@l{"name":"George"}
+You are welcome at any time. 
+@d{}
+[Introducing him.]
+
+@l{"name":"George"}
+Judge Brack--Miss Rysing--
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh--!
+
+
+
+@d{}
+[Bowing.] 
+@l{"name":"Judge Brack"}
+Ah--delighted--
+
+
+
+@d{}
+[Looks at him and laughs.] 
+@l{"name":"Hedda"}
+It's nice to have a look at you by daylight,
+Judge!
+
+
+
+@l{"name":"Judge Brack"}
+
+
+So you find me--altered?
+
+
+
+@l{"name":"Hedda"}
+
+
+A little younger, I think.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Thank you so much.
+
+
+
+@l{"name":"George"}
+
+
+But what do you think of Hedda--eh? Doesn't she look flourishing? She
+has actually--
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh, do leave me alone. You haven't thanked Judge Brack for all the
+trouble he has taken--
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Oh, nonsense--it was a pleasure to me--
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, you are a friend indeed. But here stands Thea all impatience to be
+off--so _au revoir_ Judge. I shall be back again presently.
+
+   
+@d{}
+[Mutual salutations.  MRS. ELVSTED and HEDDA go out by the hall
+       door.
+
+
+
+@x{"names":["Mrs. Elvsted","Hedda"]}
+
+@l{"name":"Judge Brack"}
+
+
+Well,--is your wife tolerably satisfied--
+
+
+
+@l{"name":"George"}
+
+
+Yes, we can't thank you sufficiently. Of course she talks of a little
+re-arrangement here and there; and one or two things are still wanting.
+We shall have to buy some additional trifles.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Indeed!
+
+
+
+@l{"name":"George"}
+
+
+But we won't trouble you about these things. Hedda say she herself will
+look after what is wanting.--Shan't we sit down? Eh?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Thanks, for a moment. 
+@d{}
+[Seats himself beside the table.] 
+@l{"name":"Judge Brack"}
+There is
+something I wanted to speak to about, my dear Tesman.
+
+
+
+@l{"name":"George"}
+
+
+Indeed? Ah, I understand! 
+@d{}
+[Seating himself.] 
+@l{"name":"George"}
+I suppose it's the serious
+part of the frolic that is coming now. Eh?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Oh, the money question is not so very pressing; though, for that matter,
+I wish we had gone a little more economically to work.
+
+
+
+@l{"name":"George"}
+
+
+But that would never have done, you know! Think of Hedda, my dear
+fellow! You, who know her so well--! I couldn't possibly ask her to put
+up with a shabby style of living!
+
+
+
+@l{"name":"Judge Brack"}
+
+
+No, no--that is just the difficulty.
+
+
+
+@l{"name":"George"}
+
+
+And then--fortunately--it can't be long before I receive my appointment.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Well, you see--such things are often apt to hang fire for a long time.
+
+
+
+@l{"name":"George"}
+
+
+Have you heard anything definite? Eh?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Nothing exactly definite--. 
+@d{}
+[Interrupting himself.] 
+@l{"name":"Judge Brack"}
+But by-the-bye--I
+have one piece of news for you.
+
+
+
+@l{"name":"George"}
+
+
+Well?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Your old friend, Eilert Lovborg, has returned to town.
+
+
+
+@l{"name":"George"}
+
+
+I know that already.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Indeed! How did you learn it?
+
+
+
+@l{"name":"George"}
+
+
+From that lady who went out with Hedda.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Really? What was her name? I didn't quite catch it.
+
+
+
+@l{"name":"George"}
+
+
+Mrs. Elvsted.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Aha--Sheriff Elvsted's wife? Of course--he has been living up in their
+regions.
+
+
+
+@l{"name":"George"}
+
+
+And fancy--I'm delighted to hear that he is quite a reformed character.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+So they say.
+
+
+
+@l{"name":"George"}
+
+
+And then he has published a new book--eh?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Yes, indeed he has.
+
+
+
+@l{"name":"George"}
+
+
+And I hear it has made some sensation!
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Quite an unusual sensation.
+
+
+
+@l{"name":"George"}
+
+
+Fancy--isn't that good news! A man of such extraordinary talents--. I
+felt so grieved to think that he had gone irretrievably to ruin.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+That was what everybody thought.
+
+
+
+@l{"name":"George"}
+
+
+But I cannot imagine what he will take to now! How in the world will he
+be able to make his living? Eh?
+
+   
+@d{}
+[During the last words, HEDDA has entered by the hall door.
+
+
+
+@e{"names":["Hedda"]}
+
+@d{}
+[To BRACK, laughing with a touch of scorn.] 
+@l{"name":"Hedda"}
+Tesman is for ever worrying
+about how people are to make their living.
+
+
+
+@l{"name":"George"}
+
+
+Well you see, dear--we were talking about poor Eilert Lovborg.
+
+
+
+@d{}
+[Glancing at him rapidly.] 
+@l{"name":"Hedda"}
+Oh, indeed? 
+@d{}
+[Sets herself in the arm-chair
+beside the stove and asks indifferently:] 
+@l{"name":"Hedda"}
+What is the matter with him?
+
+
+
+@l{"name":"George"}
+
+
+Well--no doubt he has run through all his property long ago; and he can
+scarcely write a new book every year--eh? So I really can't see what is
+to become of him.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Perhaps I can give you some information on that point.
+
+
+
+@l{"name":"George"}
+
+
+Indeed!
+
+
+
+@l{"name":"Judge Brack"}
+
+
+You must remember that his relations have a good deal of influence.
+
+
+
+@l{"name":"George"}
+
+
+Oh, his relations, unfortunately, have entirely washed their hands of
+him.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+At one time they called him the hope of the family.
+
+
+
+@l{"name":"George"}
+
+
+At one time, yes! But he has put an end to all that.
+
+
+
+@l{"name":"Hedda"}
+
+
+Who knows? 
+@d{}
+[With a slight smile.] 
+@l{"name":"Hedda"}
+I hear they have reclaimed him up at
+Sheriff Elvsted's--
+
+
+
+@l{"name":"Judge Brack"}
+
+
+And then this book that he has published--
+
+
+
+@l{"name":"George"}
+
+
+Well well, I hope to goodness they may find something for him to do. I
+have just written to him. I asked him to come and see us this evening,
+Hedda dear.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+But my dear fellow, you are booked for my bachelor's party this evening.
+You promised on the pier last night.
+
+
+
+@l{"name":"Hedda"}
+
+
+Had you forgotten, Tesman?
+
+
+
+@l{"name":"George"}
+
+
+Yes, I had utterly forgotten.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+But it doesn't matter, for you may be sure he won't come.
+
+
+
+@l{"name":"George"}
+
+
+What makes you think that? Eh?
+
+
+
+@d{}
+[With a little hesitation, rising and resting his hands on the back of
+his chair.] 
+@l{"name":"Judge Brack"}
+My dear Tesman--and you too, Mrs. Tesman--I think I ought
+not to keep you in the dark about something that--that--
+
+
+
+@l{"name":"George"}
+
+
+That concerns Eilert--?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Both you and him.
+
+
+
+@l{"name":"George"}
+
+
+Well, my dear Judge, out with it.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+You must be prepared to find your appointment deferred longer than you
+desired or expected.
+
+
+
+@d{}
+[Jumping up uneasily.] 
+@l{"name":"George"}
+Is there some hitch about it? Eh?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+The nomination may perhaps be made conditional on the result of a
+competition--
+
+
+
+@l{"name":"George"}
+
+
+Competition! Think of that, Hedda!
+
+
+
+@d{}
+[Leans further back in the chair.] 
+@l{"name":"Hedda"}
+Aha--aha!
+
+
+
+@l{"name":"George"}
+
+
+But who can my competitor be? Surely not--?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Yes, precisely--Eilert Lovborg.
+
+
+
+@d{}
+[Clasping his hands.] 
+@l{"name":"George"}
+No, no--it's quite impossible! Eh?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+H'm--that is what it may come to, all the same.
+
+
+
+@l{"name":"George"}
+
+
+Well but, Judge Brack--it would show the most incredible lack of
+consideration for me. 
+@d{}
+[Gesticulates with his arms.] 
+@l{"name":"George"}
+For--just think--I'm
+a married man! We have married on the strength of these prospects, Hedda
+and I; and run deep into debt; and borrowed money from Aunt Julia too.
+Good heavens, they had as good as promised me the appointment. Eh?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Well, well, well--no doubt you will get it in the end; only after a
+contest.
+
+
+
+@d{}
+[Immovable in her arm-chair.] 
+@l{"name":"Hedda"}
+Fancy, Tesman, there will be a sort of
+sporting interest in that.
+
+
+
+@l{"name":"George"}
+
+
+Why, my dearest Hedda, how can you be so indifferent about it?
+
+
+
+@d{}
+[As before.] 
+@l{"name":"Hedda"}
+I am not at all indifferent. I am most eager to see who
+wins.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+In any case, Mrs. Tesman, it is best that you should know how matters
+stand. I mean--before you set about the little purchases I hear you are
+threatening.
+
+
+
+@l{"name":"Hedda"}
+
+
+This can make no difference.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Indeed! Then I have no more to say. Good-bye! 
+@d{}
+[To George] 
+@l{"name":"Judge Brack"}
+I shall look
+in on my way back from my afternoon walk, and take you home with me.
+
+
+
+@l{"name":"George"}
+
+
+Oh yes, yes--your news has quite upset me.
+
+
+
+@d{}
+[Reclining, holds out her hand.] 
+@l{"name":"Hedda"}
+Good-bye, Judge; and be sure you call
+in the afternoon.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Many thanks. Good-bye, good-bye!
+
+
+
+@d{}
+[Accompanying him to the door.] 
+@l{"name":"George"}
+Good-bye my dear Judge! You must really
+excuse me-- 
+@d{}
+[JUDGE BRACK goes out by the hall door.
+
+
+
+@x{"names":["Judge Brack"]}
+
+@d{}
+[Crosses the room.] 
+@l{"name":"George"}
+Oh Hedda--one should never rush into adventures. Eh?
+
+
+
+@d{}
+[Looks at him, smiling.] 
+@l{"name":"Hedda"}
+Do you do that?
+
+
+
+@l{"name":"George"}
+
+
+Yes, dear--there is no denying--it was adventurous to go and marry and
+set up house upon mere expectations.
+
+
+
+@l{"name":"Hedda"}
+
+
+Perhaps you are right there.
+
+
+
+@l{"name":"George"}
+
+
+Well--at all events, we have our delightful home, Hedda! Fancy, the home
+we both dreamed of--the home we were in love with, I may almost say. Eh?
+
+
+
+@d{}
+[Rising slowly and wearily.] 
+@l{"name":"Hedda"}
+It was part of our compact that we were to
+go into society--to keep open house.
+
+
+
+@l{"name":"George"}
+
+
+Yes, if you only knew how I had been looking forward to it! Fancy--to
+see you as hostess--in a select circle! Eh? Well, well, well--for the
+present we shall have to get on without society, Hedda--only to invite
+Aunt Julia now and then.--Oh, I intended you to lead such an utterly
+different life, dear--!
+
+
+
+@l{"name":"Hedda"}
+
+
+Of course I cannot have my man in livery just yet.
+
+
+
+@l{"name":"George"}
+
+
+Oh, no, unfortunately. It would be out of the question for us to keep a
+footman, you know.
+
+
+
+@l{"name":"Hedda"}
+
+
+And the saddle-horse I was to have had--
+
+
+
+@d{}
+[Aghast.] 
+@l{"name":"George"}
+The saddle-horse!
+
+
+
+@l{"name":"Hedda"}
+
+
+--I suppose I must not think of that now.
+
+
+
+@l{"name":"George"}
+
+
+Good heavens, no!--that's as clear as daylight!
+
+
+
+@d{}
+[Goes up the room.] 
+@l{"name":"Hedda"}
+Well, I shall have one thing at least to kill time
+with in the meanwhile.
+
+
+
+@d{}
+[Beaming.] 
+@l{"name":"George"}
+Oh thank heaven for that! What is it, Hedda. Eh?
+
+
+
+@d{}
+[In the middle doorway, looks at him with covert scorn.] 
+@l{"name":"Hedda"}
+My pistols,
+George.
+
+
+
+@d{}
+[In alarm.] 
+@l{"name":"George"}
+Your pistols!
+
+
+
+@d{}
+[With cold eyes.] 
+@l{"name":"Hedda"}
+General Gabler's pistols.
+
+   
+@d{}
+[She goes out through the inner room, to the left.
+
+
+
+@d{}
+[Rushes up to the middle doorway and calls after her:] 
+@x{"names":["Hedda"]}
+
+@l{"name":"George"}
+No, for heaven's
+sake, Hedda darling--don't touch those dangerous things! For my sake
+Hedda! Eh?
+
+@x{"names":["George"]}
+
+
+@a{"number":2}
+@s{"number":1}
+@d{}
+
+
+ACT SECOND.
+
+
+  The room at the TESMANS' as in the first Act, except that the
+  piano has been removed, and an elegant little writing-table
+  with the book-shelves put in its place.  A smaller table
+  stands near the sofa on the left.  Most of the bouquets have
+  been taken away.  MRS. ELVSTED'S bouquet is upon the large
+  table in front.--It is afternoon.
+
+  HEDDA, dressed to receive callers, is alone in the room. She
+  stands by the open glass door, loading a revolver.  The
+  fellow to it lies in an open pistol-case on the writing-
+  table.
+
+
+
+@e{"names":["Hedda"]}
+
+@d{}
+[Looks down the garden, and calls:] 
+@l{"name":"Hedda"}
+So you are here again, Judge!
+
+
+
+@d{}
+[Is heard calling from a distance.] 
+@l{"name":"Judge Brack"}
+As you see, Mrs. Tesman!
+
+
+
+@d{}
+[Raises the pistol and points.] 
+@l{"name":"Hedda"}
+Now I'll shoot you, Judge Brack!
+
+
+
+@d{}
+[Calling unseen.] 
+@l{"name":"Judge Brack"}
+No, no, no! Don't stand aiming at me!
+
+
+
+@l{"name":"Hedda"}
+
+
+This is what comes of sneaking in by the back way.
+@d{}
+[She fires.
+
+
+
+@d{}
+[Nearer.] 
+@l{"name":"Judge Brack"}
+Are you out of your senses--!
+
+
+
+@l{"name":"Hedda"}
+
+
+Dear me--did I happen to hit you?
+
+
+
+@d{}
+[Still outside.] 
+@l{"name":"Judge Brack"}
+I wish you would let these pranks alone!
+
+
+
+@l{"name":"Hedda"}
+
+
+Come in then, Judge.
+
+
+  
+@d{}
+JUDGE BRACK, dressed as though for a men's party, enters by
+  the glass door.  He carries a light overcoat over his arm.
+
+
+
+@e{"names":["Judge Brack"]}
+
+@l{"name":"Judge Brack"}
+
+
+What the deuce--haven't you tired of that sport, yet? What are you
+shooting at?
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh, I am only firing in the air.
+
+
+
+@d{}
+[Gently takes the pistol out of her hand.] 
+@l{"name":"Judge Brack"}
+Allow me, madam! 
+@d{}
+[Looks at
+it.] 
+@l{"name":"Judge Brack"}
+Ah--I know this pistol well! 
+@d{}
+[Looks around.] 
+@l{"name":"Judge Brack"}
+Where is the case? Ah,
+here it is. 
+@d{}
+[Lays the pistol in it, and shuts it.] 
+@l{"name":"Judge Brack"}
+Now we won't play at
+that game any more to-day.
+
+
+
+@l{"name":"Hedda"}
+
+
+Then what in heaven's name would you have me do with myself?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Have you had no visitors?
+
+
+
+@d{}
+[Closing the glass door.] 
+@l{"name":"Hedda"}
+Not one. I suppose all our set are still out
+of town.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+And is Tesman not at home either?
+
+
+
+@d{}
+[At the writing-table, putting the pistol-case in a drawer which she
+shuts.] 
+@l{"name":"Hedda"}
+No. He rushed off to his aunt's directly after lunch; he didn't
+expect you so early.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+H'm--how stupid of me not to have thought of that!
+
+
+
+@d{}
+[Turning her head to look at him.] 
+@l{"name":"Hedda"}
+Why stupid?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Because if I had thought of it I should have come a little--earlier.
+
+
+
+@d{}
+[Crossing the room.] 
+@l{"name":"Hedda"}
+Then you would have found no one to receive you;
+for I have been in my room changing my dress ever since lunch.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+And is there no sort of little chink that we could hold a parley
+through?
+
+
+
+@l{"name":"Hedda"}
+
+
+You have forgotten to arrange one.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+That was another piece of stupidity.
+
+
+
+@l{"name":"Hedda"}
+
+
+Well, we must just settle down here--and wait. Tesman is not likely to
+be back for some time yet.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Never mind; I shall not be impatient.
+
+
+  
+@d{}
+HEDDA seats herself in the corner of the sofa.  BRACK lays his
+  overcoat over the back of the nearest chair, and sits down, but
+  keeps his hat in his hand.  A short silence.  They look at each
+  other.
+
+
+
+@l{"name":"Hedda"}
+
+
+Well?
+
+
+
+@d{}
+[In the same tone.] 
+@l{"name":"Judge Brack"}
+Well?
+
+
+
+@l{"name":"Hedda"}
+
+
+I spoke first.
+
+
+
+@d{}
+[Bending a little forward.] 
+@l{"name":"Judge Brack"}
+Come, let us have a cosy little chat, Mrs.
+Hedda.
+
+
+
+@d{}
+[Leaning further back in the sofa.] 
+@l{"name":"Hedda"}
+Does it not seem like a whole
+eternity since our last talk? Of course I don't count those few words
+yesterday evening and this morning.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+You mean since out last confidential talk? Our last _tete-a-tete_?
+
+
+
+@l{"name":"Hedda"}
+
+
+Well yes--since you put it so.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Not a day passed but I have wished that you were home again.
+
+
+
+@l{"name":"Hedda"}
+
+
+And I have done nothing but wish the same thing.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+You? Really, Mrs. Hedda? And I thought you had been enjoying your tour
+so much!
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh yes, you may be sure of that!
+
+
+
+@l{"name":"Judge Brack"}
+
+
+But Tesman's letters spoke of nothing but happiness.
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh, Tesman! You see, he thinks nothing is so delightful as grubbing
+in libraries and making copies of old parchments, or whatever you call
+them.
+
+
+
+@d{}
+[With a smile of malice.] 
+@l{"name":"Judge Brack"}
+Well, that is his vocation in life--or part of
+it at any rate.
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, of course; and no doubt when it's your vocation--. But _I_! Oh, my
+dear Mr. Brack, how mortally bored I have been.
+
+
+
+@d{}
+[Sympathetically.] 
+@l{"name":"Judge Brack"}
+Do you really say so? In downright earnest?
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, you can surely understand it--! To go for six whole months without
+meeting a soul that knew anything of our circle, or could talk about
+things we were interested in.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Yes, yes--I too should feel that a deprivation.
+
+
+
+@l{"name":"Hedda"}
+
+
+And then, what I found most intolerable of all--
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Well?
+
+
+
+@l{"name":"Hedda"}
+
+
+--was being everlastingly in the company of--one and the same person--
+
+
+
+@d{}
+[With a nod of assent.] 
+@l{"name":"Judge Brack"}
+Morning, noon, and night, yes--at all possible
+times and seasons.
+
+
+
+@l{"name":"Hedda"}
+
+
+I said "everlastingly."
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Just so. But I should have thought, with our excellent Tesman, one
+could--
+
+
+
+@l{"name":"Hedda"}
+
+
+Tesman is--a specialist, my dear Judge.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Undeniable.
+
+
+
+@l{"name":"Hedda"}
+
+
+And specialists are not at all amusing to travel with. Not in the long
+run at any rate.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Not even--the specialist one happens to love?
+
+
+
+@l{"name":"Hedda"}
+
+
+Faugh--don't use that sickening word!
+
+
+
+@d{}
+[Taken aback.] 
+@l{"name":"Judge Brack"}
+What do you say, Mrs. Hedda?
+
+
+
+@d{}
+[Half laughing, half irritated.] 
+@l{"name":"Hedda"}
+You should just try it! To hear of
+nothing but the history of civilisation, morning, noon, and night--
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Everlastingly.
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes yes yes! And then all this about the domestic industry of the middle
+ages--! That's the most disgusting part of it!
+
+
+
+@d{}
+[Looks searchingly at her.] 
+@l{"name":"Judge Brack"}
+But tell me--in that case, how am I to
+understand your--? H'm--
+
+
+
+@l{"name":"Hedda"}
+
+
+My accepting George Tesman, you mean?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Well, let us put it so.
+
+
+
+@l{"name":"Hedda"}
+
+
+Good heavens, do you see anything so wonderful in that?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Yes and no--Mrs. Hedda.
+
+
+
+@l{"name":"Hedda"}
+
+
+I had positively danced myself tired, my dear Judge. My day was
+done-- 
+@d{}
+[With a slight shudder.] 
+@l{"name":"Hedda"}
+Oh no--I won't say that; nor think
+it either!
+
+
+
+@l{"name":"Judge Brack"}
+
+
+You have assuredly no reason to.
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh, reasons-- 
+@d{}
+[Watching him closely.] 
+@l{"name":"Hedda"}
+And George Tesman--after all, you
+must admit that he is correctness itself.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+His correctness and respectability are beyond all question.
+
+
+
+@l{"name":"Hedda"}
+
+
+And I don't see anything absolutely ridiculous about him.--Do you?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Ridiculous? N--no--I shouldn't exactly say so--
+
+
+
+@l{"name":"Hedda"}
+
+
+Well--and his powers of research, at all events, are untiring.--I see no
+reason why he should not one day come to the front, after all.
+
+
+
+@d{}
+[Looks at her hesitatingly.] 
+@l{"name":"Judge Brack"}
+I thought that you, like every one else,
+expected him to attain the highest distinction.
+
+
+
+@d{}
+[With an expression of fatigue.] 
+@l{"name":"Hedda"}
+Yes, so I did.--And then, since he was
+bent, at all hazards, on being allowed to provide for me--I really don't
+know why I should not have accepted his offer?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+No--if you look at it in that light--
+
+
+
+@l{"name":"Hedda"}
+
+
+It was more than my other adorers were prepared to do for me, my dear
+Judge.
+
+
+
+@d{}
+[Laughing.] 
+@l{"name":"Judge Brack"}
+Well, I can't answer for all the rest; but as for myself,
+you know quite well that I have always entertained a--a certain respect
+for the marriage tie--for marriage as an institution, Mrs. Hedda.
+
+
+
+@d{}
+[Jestingly.] 
+@l{"name":"Hedda"}
+Oh, I assure you I have never cherished any hopes with
+respect to you.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+All I require is a pleasant and intimate interior, where I can make
+myself useful in every way, and am free to come and go as--as a trusted
+friend--
+
+
+
+@l{"name":"Hedda"}
+
+
+Of the master of the house, do you mean?
+
+
+
+@d{}
+[Bowing.] 
+@l{"name":"Judge Brack"}
+Frankly--of the mistress first of all; but of course of the
+master too, in the second place. Such a triangular friendship--if I may
+call it so--is really a great convenience for all the parties, let me
+tell you.
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, I have many a time longed for some one to make a third on our
+travels. Oh--those railway-carriage _tete-a-tetes_--!
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Fortunately your wedding journey is over now.
+
+
+
+@d{}
+[Shaking her head.] 
+@l{"name":"Hedda"}
+Not by a long--long way. I have only arrived at a
+station on the line.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Well, then the passengers jump out and move about a little, Mrs. Hedda.
+
+
+
+@l{"name":"Hedda"}
+
+
+I never jump out.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Really?
+
+
+
+@l{"name":"Hedda"}
+
+
+No--because there is always some one standing by to--
+
+
+
+@d{}
+[Laughing.] 
+@l{"name":"Judge Brack"}
+To look at your ankles, do you mean?
+
+
+
+@l{"name":"Hedda"}
+
+
+Precisely.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Well but, dear me--
+
+
+
+@d{}
+[With a gesture of repulsion.] 
+@l{"name":"Hedda"}
+I won't have it. I would rather keep my
+seat where I happen to be--and continue the _tete-a-tete_.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+But suppose a third person were to jump in and join the couple.
+
+
+
+@l{"name":"Hedda"}
+
+
+Ah--that is quite another matter!
+
+
+
+@l{"name":"Judge Brack"}
+
+
+A trusted, sympathetic friend--
+
+
+
+@l{"name":"Hedda"}
+
+
+--with a fund of conversation on all sorts of lively topics--
+
+
+
+@l{"name":"Judge Brack"}
+
+
+--and not the least bit of a specialist!
+
+
+
+@d{}
+[With an audible sigh.] 
+@l{"name":"Hedda"}
+Yes, that would be a relief indeed.
+
+
+
+@d{}
+[Hears the front door open, and glances in that direction.] 
+@l{"name":"Judge Brack"}
+The triangle
+is completed.
+
+
+
+@d{}
+[Half aloud.] 
+@l{"name":"Hedda"}
+And on goes the train.
+
+
+  
+@d{}
+GEORGE TESMAN, in a grey walking-suit, with a soft felt hat,
+  enters from the hall.  He has a number of unbound books under
+  his arm and in his pockets.
+
+
+
+@e{"names":["George"]}
+
+@d{}
+[Goes up to the table beside the corner settee.] 
+@l{"name":"George"}
+Ouf--what a load for
+a warm day--all these books. 
+@d{}
+[Lays them on the table.] 
+@l{"name":"George"}
+I'm positively
+perspiring, Hedda. Hallo--are you there already, my dear Judge? Eh?
+Berta didn't tell me.
+
+
+
+@d{}
+[Rising.] 
+@l{"name":"Judge Brack"}
+I came in through the garden.
+
+
+
+@l{"name":"Hedda"}
+
+
+What books have you got there?
+
+
+
+@d{}
+[Stands looking them through.] 
+@l{"name":"George"}
+Some new books on my special subjects
+--quite indispensable to me.
+
+
+
+@l{"name":"Hedda"}
+
+
+Your special subjects?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Yes, books on his special subjects, Mrs. Tesman.
+
+   
+@d{}
+[BRACK and HEDDA exchange a confidential smile.
+
+
+
+@l{"name":"Hedda"}
+
+
+Do you need still more books on your special subjects?
+
+
+
+@l{"name":"George"}
+
+
+Yes, my dear Hedda, one can never have too many of them. Of course one
+must keep up with all that is written and published.
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, I suppose one must.
+
+
+
+@d{}
+[Searching among his books.] 
+@l{"name":"George"}
+And look here--I have got hold of Eilert
+Lovborg's new book too. 
+@d{}
+[Offering it to her.] 
+@l{"name":"George"}
+Perhaps you would like to
+glance through it, Hedda? Eh?
+
+
+
+@l{"name":"Hedda"}
+
+
+No, thank you. Or rather--afterwards perhaps.
+
+
+
+@l{"name":"George"}
+
+
+I looked into it a little on the way home.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Well, what do you think of it--as a specialist?
+
+
+
+@l{"name":"George"}
+
+
+I think it shows quite remarkable soundness of judgment. He never wrote
+like that before. 
+@d{}
+[Putting the books together.] 
+@l{"name":"George"}
+Now I shall take all
+these into my study. I'm longing to cut the leaves--! And then I must
+change my clothes. 
+@d{}
+[To Judge Brack] 
+@l{"name":"George"}
+I suppose we needn't start just yet? Eh?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Oh, dear no--there is not the slightest hurry.
+
+
+
+@l{"name":"George"}
+
+
+Well then, I will take my time. 
+@d{}
+[Is going with his books, but stops in
+the doorway and turns.] 
+@l{"name":"George"}
+By-the-bye, Hedda--Aunt Julia is not coming this
+evening.
+
+
+
+@l{"name":"Hedda"}
+
+
+Not coming? Is it that affair of the bonnet that keeps her away?
+
+
+
+@l{"name":"George"}
+
+
+Oh, not at all. How could you think such a thing of Aunt Julia? Just
+fancy--! The fact is, Aunt Rina is very ill.
+
+
+
+@l{"name":"Hedda"}
+
+
+She always is.
+
+
+
+@l{"name":"George"}
+
+
+Yes, but to-day she is much worse than usual, poor dear.
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh, then it's only natural that her sister should remain with her. I
+must bear my disappointment.
+
+
+
+@l{"name":"George"}
+
+
+And you can't imagine, dear, how delighted Aunt Julia seemed to be--
+because you had come home looking so flourishing!
+
+
+
+@d{}
+[Half aloud, rising.] 
+@l{"name":"Hedda"}
+Oh, those everlasting Aunts!
+
+
+
+@l{"name":"George"}
+
+
+What?
+
+
+
+@d{}
+[Going to the glass door.] 
+@l{"name":"Hedda"}
+Nothing.
+
+
+
+@l{"name":"George"}
+
+
+Oh, all right. 
+@d{}
+[He goes through the inner room, out to the right.
+
+
+
+@x{"names":["George"]}
+
+@l{"name":"Judge Brack"}
+
+
+What bonnet were you talking about?
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh, it was a little episode with Miss Tesman this morning. She had laid
+down her bonnet on the chair 
+@d{}
+there--[Looks at him and smiles.]--and 
+@l{"name":"Hedda"}
+I
+pretended to think it was the servant's.
+
+
+
+@d{}
+[Shaking his head.] 
+@l{"name":"Judge Brack"}
+Now my dear Mrs. Hedda, how could you do such a
+thing? To the excellent old lady, too!
+
+
+
+@d{}
+[Nervously crossing the room.] 
+@l{"name":"Hedda"}
+Well, you see--these impulses come over
+me all of a sudden; and I cannot resist them. 
+@d{}
+[Throws herself down in
+the easy-chair by the stove.] 
+@l{"name":"Hedda"}
+Oh, I don't know how to explain it.
+
+
+
+@d{}
+[Behind the easy-chair.] 
+@l{"name":"Judge Brack"}
+You are not really happy--that is at the bottom
+of it.
+
+
+
+@d{}
+[Looking straight before her.] 
+@l{"name":"Hedda"}
+I know of no reason why I should be--
+happy. Perhaps you can give me one?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Well-amongst other things, because you have got exactly the home you had
+set your heart on.
+
+
+
+@d{}
+[Looks up at him and laughs.] 
+@l{"name":"Hedda"}
+Do you too believe in that legend?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Is there nothing in it, then?
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh yes, there is something in it.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Well?
+
+
+
+@l{"name":"Hedda"}
+
+
+There is this in it, that I made use of Tesman to see me home from
+evening parties last summer--
+
+
+
+@l{"name":"Judge Brack"}
+
+
+I, unfortunately, had to go quite a different way.
+
+
+
+@l{"name":"Hedda"}
+
+
+That's true. I know you were going a different way last summer.
+
+
+
+@d{}
+[Laughing.] 
+@l{"name":"Judge Brack"}
+Oh fie, Mrs. Hedda! Well, then--you and Tesman--?
+
+
+
+@l{"name":"Hedda"}
+
+
+Well, we happened to pass here one evening; Tesman, poor fellow, was
+writhing in the agony of having to find conversation; so I took pity on
+the learned man--
+
+
+
+@d{}
+[Smiles doubtfully.] 
+@l{"name":"Judge Brack"}
+You took pity? H'm--
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, I really did. And so--to help him out of his torment--I happened to
+say, in pure thoughtlessness, that I should like to live in this villa.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+No more than that?
+
+
+
+@l{"name":"Hedda"}
+
+
+Not that evening.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+But afterwards?
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, my thoughtlessness had consequences, my dear Judge.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Unfortunately that too often happens, Mrs. Hedda.
+
+
+
+@l{"name":"Hedda"}
+
+
+Thanks! So you see it was this enthusiasm for Secretary Falk's villa
+that first constituted a bond of sympathy between George Tesman and me.
+From that came our engagement and our marriage, and our wedding journey,
+and all the rest of it. Well, well, my dear Judge--as you make your bed
+so you must lie, I could almost say.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+This is exquisite! And you really cared not a rap about it all the time?
+
+
+
+@l{"name":"Hedda"}
+
+
+No, heaven knows I didn't.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+But now? Now that we have made it so homelike for you?
+
+
+
+@l{"name":"Hedda"}
+
+
+Uh--the rooms all seem to smell of lavender and dried rose-leaves.--But
+perhaps it's Aunt Julia that has brought that scent with her.
+
+
+
+@d{}
+[Laughing.] 
+@l{"name":"Judge Brack"}
+No, I think it must be a legacy from the late Mrs. Secretary
+Falk.
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, there is an odour of mortality about it. It reminds me of a
+bouquet--the day after the ball. 
+@d{}
+[Clasps her hands behind her head,
+leans back in her chair and looks at him.] 
+@l{"name":"Hedda"}
+Oh, my dear Judge--you cannot
+imagine how horribly I shall bore myself here.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Why should not you, too, find some sort of vocation in life, Mrs. Hedda?
+
+
+
+@l{"name":"Hedda"}
+
+
+A vocation--that should attract me?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+If possible, of course.
+
+
+
+@l{"name":"Hedda"}
+
+
+Heaven knows what sort of a vocation that could be. I often wonder
+whether-- 
+@d{}
+[Breaking off.] 
+@l{"name":"Hedda"}
+But that would never do either.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Who can tell? Let me hear what it is.
+
+
+
+@l{"name":"Hedda"}
+
+
+Whether I might not get Tesman to go into politics, I mean.
+
+
+
+@d{}
+[Laughing.] 
+@l{"name":"Judge Brack"}
+Tesman? No really now, political life is not the thing for
+him--not at all in his line.
+
+
+
+@l{"name":"Hedda"}
+
+
+No, I daresay not.--But if I could get him into it all the same?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Why--what satisfaction could you find in that? If he is not fitted for
+that sort of thing, why should you want to drive him into it?
+
+
+
+@l{"name":"Hedda"}
+
+
+Because I am bored, I tell you! 
+@d{}
+[After a pause.] 
+@l{"name":"Hedda"}
+So you think it quite
+out of the question that Tesman should ever get into the ministry?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+H'm--you see, my dear Mrs. Hedda--to get into the ministry, he would
+have to be a tolerably rich man.
+
+
+
+@d{}
+[Rising impatiently.] 
+@l{"name":"Hedda"}
+Yes, there we have it! It is this genteel poverty
+I have managed to drop into--! 
+@d{}
+[Crosses the room.] 
+@l{"name":"Hedda"}
+That is what makes
+life so pitiable! So utterly ludicrous!--For that's what it is.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Now _I_ should say the fault lay elsewhere.
+
+
+
+@l{"name":"Hedda"}
+
+
+Where, then?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+You have never gone through any really stimulating experience.
+
+
+
+@l{"name":"Hedda"}
+
+
+Anything serious, you mean?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Yes, you may call it so. But now you may perhaps have one in store.
+
+
+
+@d{}
+[Tossing her head.] 
+@l{"name":"Hedda"}
+Oh, you're thinking of the annoyances about this
+wretched professorship! But that must be Tesman's own affair. I assure
+you I shall not waste a thought upon it.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+No, no, I daresay not. But suppose now that what people call--in elegant
+language--a solemn responsibility were to come upon you? 
+@d{}
+[Smiling.] 
+@l{"name":"Judge Brack"}
+A
+new responsibility, Mrs. Hedda?
+
+
+
+@d{}
+[Angrily.] 
+@l{"name":"Hedda"}
+Be quiet! Nothing of that sort will ever happen!
+
+
+
+@d{}
+[Warily.] 
+@l{"name":"Judge Brack"}
+We will speak of this again a year hence--at the very outside.
+
+
+
+@d{}
+[Curtly.] 
+@l{"name":"Hedda"}
+I have no turn for anything of the sort, Judge Brack. No
+responsibilities for me!
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Are you so unlike the generality of women as to have no turn for duties
+which--?
+
+
+
+@d{}
+[Beside the glass door.] 
+@l{"name":"Hedda"}
+Oh, be quiet, I tell you!--I often think there
+is only one thing in the world I have any turn for.
+
+
+
+@d{}
+[Drawing near to her.] 
+@l{"name":"Judge Brack"}
+And what is that, if I may ask?
+
+
+
+@d{}
+[Stands looking out.] 
+@l{"name":"Hedda"}
+Boring myself to death. Now you know it. 
+@d{}
+[Turns,
+looks towards the inner room, and laughs.] 
+@l{"name":"Hedda"}
+Yes, as I thought! Here comes
+the Professor.
+
+
+
+@d{}
+[Softly, in a tone of warning.] 
+@l{"name":"Judge Brack"}
+Come, come, come, Mrs. Hedda!
+
+
+  
+@d{}
+GEORGE TESMAN, dressed for the party, with his gloves and hat
+  in his hand, enters from the right through the inner room.
+
+
+
+@e{"names":["George"]}
+
+@l{"name":"George"}
+
+
+Hedda, has no message come from Eilert Lovborg? Eh?
+
+
+
+@l{"name":"Hedda"}
+
+
+No.
+
+
+
+@l{"name":"George"}
+
+
+Then you'll see he'll be here presently.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Do you really think he will come?
+
+
+
+@l{"name":"George"}
+
+
+Yes, I am almost sure of it. For what you were telling us this morning
+must have been a mere floating rumour.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+You think so?
+
+
+
+@l{"name":"George"}
+
+
+At any rate, Aunt Julia said she did not believe for a moment that he
+would ever stand in my way again. Fancy that!
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Well then, that's all right.
+
+
+
+@d{}
+[Placing his hat and gloves on a chair on the right.] 
+@l{"name":"George"}
+Yes, but you must
+really let me wait for him as long as possible.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+We have plenty of time yet. None of my guests will arrive before seven
+or half-past.
+
+
+
+@l{"name":"George"}
+
+
+Then meanwhile we can keep Hedda company, and see what happens. Eh?
+
+
+
+@d{}
+[Placing BRACK'S hat and overcoat upon the corner settee.] 
+@l{"name":"Hedda"}
+And at the
+worst Mr. Lovborg can remain here with me.
+
+
+
+@d{}
+[Offering to take his things.] 
+@l{"name":"Judge Brack"}
+Oh, allow me, Mrs. Tesman!--What do you
+mean by "At the worst"?
+
+
+
+@l{"name":"Hedda"}
+
+
+If he won't go with you and Tesman.
+
+
+
+@d{}
+[Looks dubiously at her.] 
+@l{"name":"George"}
+But, Hedda dear--do you think it would quite
+do for him to remain here with you? Eh? Remember, Aunt Julia can't come.
+
+
+
+@l{"name":"Hedda"}
+
+
+No, but Mrs. Elvsted is coming. We three can have a cup of tea together.
+
+
+
+@l{"name":"George"}
+
+
+Oh yes, that will be all right.
+
+
+
+@d{}
+[Smiling.] 
+@l{"name":"Judge Brack"}
+And that would perhaps be the safest plan for him.
+
+
+
+@l{"name":"Hedda"}
+
+
+Why so?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Well, you know, Mrs. Tesman, how you used to gird at my little bachelor
+parties. You declared they were adapted only for men of the strictest
+principles.
+
+
+
+@l{"name":"Hedda"}
+
+
+But no doubt Mr. Lovborg's principles are strict enough now. A converted
+sinner-- 
+@d{}
+[BERTA appears at the hall door.
+
+
+
+@e{"names":["Berta"]}
+
+@l{"name":"Berta"}
+
+
+There's a gentleman asking if you are at home, ma'am--
+
+
+
+@l{"name":"Hedda"}
+
+
+Well, show him in.
+
+
+
+@d{}
+[Softly.] 
+@l{"name":"George"}
+I'm sure it is he! Fancy that!
+
+
+  
+@d{}
+EILERT LOVBORG enters from the hall.  He is slim and lean;
+  of the same age as TESMAN, but looks older and somewhat
+  worn-out.  His hair and beard are of a blackish brown, his
+  face long and pale, but with patches of colour on the cheeks.
+  He is dressed in a well-cut black visiting suit, quite new.
+  He has dark gloves and a silk hat.  He stops near the door,
+  and makes a rapid bow, seeming somewhat embarrassed.
+
+
+
+@e{"names":["Eilert Lovborg"]}
+
+@x{"names":["Berta"]}
+
+@d{}
+[Goes up to him and shakes him warmly by the hand.] 
+@l{"name":"George"}
+Well, my dear
+Eilert--so at last we meet again!
+
+
+
+@d{}
+[Speaks in a subdued voice.] 
+@l{"name":"Eilert Lovborg"}
+Thanks for your letter, Tesman.
+
+@d{}
+[Approaching Hedda] 
+@l{"name":"Eilert Lovborg"}
+Will you too shake hands with me, Mrs. Tesman?
+
+
+
+@d{}
+[Taking his hand.] 
+@l{"name":"Hedda"}
+I am glad to see you, Mr. Lovborg. 
+@d{}
+[With a motion of
+her hand.] 
+@l{"name":"Hedda"}
+I don't know whether you two gentlemen--?
+
+
+
+@d{}
+[Bowing slightly.] 
+@l{"name":"Eilert Lovborg"}
+Judge Brack, I think.
+
+
+
+@d{}
+[Doing likewise.] 
+@l{"name":"Judge Brack"}
+Oh yes,--in the old days--
+
+
+
+@d{}
+[To LOVBORG, with his hands on his shoulders.] 
+@l{"name":"George"}
+And now you must make
+yourself entirely at home, Eilert! Mustn't he, Hedda?--For I hear you
+are going to settle in town again? Eh?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Yes, I am.
+
+
+
+@l{"name":"George"}
+
+
+Quite right, quite right. Let me tell you, I have got hold of your new
+book; but I haven't had time to read it yet.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+You may spare yourself the trouble.
+
+
+
+@l{"name":"George"}
+
+
+Why so?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Because there is very little in it.
+
+
+
+@l{"name":"George"}
+
+
+Just fancy--how can you say so?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+But it has been very much praised, I hear.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+That was what I wanted; so I put nothing into the book but what every
+one would agree with.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Very wise of you.
+
+
+
+@l{"name":"George"}
+
+
+Well but, my dear Eilert--!
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+For now I mean to win myself a position again--to make a fresh start.
+
+
+
+@d{}
+[A little embarrassed.] 
+@l{"name":"George"}
+Ah, that is what you wish to do? Eh?
+
+
+
+@d{}
+[Smiling, lays down his hat, and draws a packet wrapped in paper, from
+his coat pocket.] 
+@l{"name":"Eilert Lovborg"}
+But when this one appears, George Tesman, you will
+have to read it. For this is the real book--the book I have put my true
+self into.
+
+
+
+@l{"name":"George"}
+
+
+Indeed? And what is it?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+It is the continuation.
+
+
+
+@l{"name":"George"}
+
+
+The continuation? Of what?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Of the book.
+
+
+
+@l{"name":"George"}
+
+
+Of the new book?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Of course.
+
+
+
+@l{"name":"George"}
+
+
+
+Why, my dear Eilert--does it not come down to our own days?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Yes, it does; and this one deals with the future.
+
+
+
+@l{"name":"George"}
+
+
+With the future! But, good heavens, we know nothing of the future!
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+No; but there is a thing or two to be said about it all the same. 
+@d{}
+[Opens
+the packet.] 
+@l{"name":"Eilert Lovborg"}
+Look here--
+
+
+
+@l{"name":"George"}
+
+
+Why, that's not your handwriting.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+I dictated it. 
+@d{}
+[Turning over the pages.] 
+@l{"name":"Eilert Lovborg"}
+It falls into two sections. The
+first deals with the civilising forces of the future. And here is the
+
+@d{}
+second--[running through the pages towards the end]--forecasting 
+@l{"name":"Eilert Lovborg"}
+the
+probable line of development.
+
+
+
+@l{"name":"George"}
+
+
+How odd now! I should never have thought of writing anything of that
+sort.
+
+
+
+@d{}
+[At the glass door, drumming on the pane.] 
+@l{"name":"Hedda"}
+H'm--. I daresay not.
+
+
+
+@d{}
+[Replacing the manuscript in its paper and laying the packet on the
+table.] 
+@l{"name":"Eilert Lovborg"}
+I brought it, thinking I might read you a little of it this
+evening.
+
+
+
+@l{"name":"George"}
+
+
+That was very good of you, Eilert. But this evening--? 
+@d{}
+[Looking back at
+Judge Brack] 
+@l{"name":"George"}
+I don't see how we can manage it--
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Well then, some other time. There is no hurry.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+I must tell you, Mr. Lovborg--there is a little gathering at my house
+this evening--mainly in honour of Tesman, you know--
+
+
+
+@d{}
+[Looking for his hat.] 
+@l{"name":"Eilert Lovborg"}
+Oh--then I won't detain you--
+
+
+
+@l{"name":"Judge Brack"}
+
+
+No, but listen--will you not do me the favour of joining us?
+
+
+
+@d{}
+[Curtly and decidedly.] 
+@l{"name":"Eilert Lovborg"}
+No, I can't--thank you very much.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Oh, nonsense--do! We shall be quite a select little circle. And I assure
+you we shall have a "lively time," as Mrs. Hed--as Mrs. Tesman says.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+I have no doubt of it. But nevertheless--
+
+
+
+@l{"name":"Judge Brack"}
+
+
+And then you might bring your manuscript with you, and read it to Tesman
+at my house. I could give you a room to yourselves.
+
+
+
+@l{"name":"George"}
+
+
+Yes, think of that, Eilert,--why shouldn't you? Eh?
+
+
+
+@d{}
+[Interposing.] 
+@l{"name":"Hedda"}
+But, Tesman, if Mr. Lovborg would really rather not! I
+am sure Mr. Lovborg is much more inclined to remain here and have supper
+with me.
+
+
+
+@d{}
+[Looking at her.] 
+@l{"name":"Eilert Lovborg"}
+With you, Mrs. Tesman?
+
+
+
+@l{"name":"Hedda"}
+
+
+And with Mrs. Elvsted.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Ah-- 
+@d{}
+[Lightly.] 
+@l{"name":"Eilert Lovborg"}
+I saw her for a moment this morning.
+
+
+
+@l{"name":"Hedda"}
+
+
+Did you? Well, she is coming this evening. So you see you are almost
+bound to remain, Mr. Lovborg, or she will have no one to see her home.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+That's true. Many thanks, Mrs. Tesman--in that case I will remain.
+
+
+
+@l{"name":"Hedda"}
+
+
+Then I have one or two orders to give the servant--
+
+   
+@d{}
+[She goes to the hall door and rings.  BERTA enters. HEDDA talks
+       to her in a whisper, and points towards the inner room.  BERTA
+       nods and goes out again.
+
+
+
+@d{}
+[At the same time, to Eilert Lovborg] 
+@l{"name":"George"}
+Tell me, Eilert--is it this new
+subject--the future--that you are going to lecture about?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Yes.
+
+
+
+@l{"name":"George"}
+
+
+They told me at the bookseller's that you are going to deliver a course
+of lectures this autumn.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+That is my intention. I hope you won't take it ill, Tesman.
+
+
+
+@l{"name":"George"}
+
+
+Oh no, not in the least! But--?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+I can quite understand that it must be very disagreeable to you.
+
+
+
+@d{}
+[Cast down.] 
+@l{"name":"George"}
+Oh, I can't expect you, out of consideration for me, to--
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+But I shall wait till you have received your appointment.
+
+
+
+@l{"name":"George"}
+
+
+Will you wait? Yes but--yes but--are you not going to compete with me?
+Eh?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+No; it is only the moral victory I care for.
+
+
+
+@l{"name":"George"}
+
+
+Why, bless me--then Aunt Julia was right after all! Oh yes--I knew it!
+Hedda! Just fancy--Eilert Lovborg is not going to stand in our way!
+
+
+
+@d{}
+[Curtly.] 
+@l{"name":"Hedda"}
+Our way? Pray leave me out of the question.
+
+   
+@d{}
+[She goes up towards the inner room, where BERTA is placing a
+       tray with decanters and glasses on the table.  HEDDA nods
+       approval, and comes forward again.  BERTA goes out.
+
+
+
+@d{}
+[At the same time.] 
+@l{"name":"George"}
+And you, Judge Brack--what do you say to this? Eh?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Well, I say that a moral victory--h'm--may be all very fine--
+
+
+
+@l{"name":"George"}
+
+
+Yes, certainly. But all the same--
+
+
+
+@d{}
+[Looking at TESMAN with a cold smile.] 
+@l{"name":"Hedda"}
+You stand there looking as if you
+were thunderstruck--
+
+
+
+@l{"name":"George"}
+
+
+Yes--so I am--I almost think--
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Don't you see, Mrs. Tesman, a thunderstorm has just passed over?
+
+
+
+@d{}
+[Pointing towards the room.] 
+@l{"name":"Hedda"}
+Will you not take a glass of cold punch,
+gentlemen?
+
+
+
+@d{}
+[Looking at his watch.] 
+@l{"name":"Judge Brack"}
+A stirrup-cup? Yes, it wouldn't come amiss.
+
+
+
+@l{"name":"George"}
+
+
+A capital idea, Hedda! Just the thing! Now that the weight has been
+taken off my mind--
+
+
+
+@l{"name":"Hedda"}
+
+
+Will you not join them, Mr. Lovborg?
+
+
+
+@d{}
+[With a gesture of refusal.] 
+@l{"name":"Eilert Lovborg"}
+No, thank you. Nothing for me.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Why bless me--cold punch is surely not poison.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Perhaps not for everyone.
+
+
+
+@l{"name":"Hedda"}
+
+
+I will keep Mr. Lovborg company in the meantime.
+
+
+
+@l{"name":"George"}
+
+
+Yes, yes, Hedda dear, do.
+
+     
+@d{}
+[He and BRACK go into the inner room, seat themselves, drink
+       punch, smoke cigarettes, and carry on a lively conversation
+       during what follows.  EILERT LOVBORG remains standing beside
+       the stove.  HEDDA goes to the writing-table.
+
+
+
+@x{"names":["George","Judge Brack"]}
+
+@d{}
+[Raising he voice a little.] 
+@l{"name":"Hedda"}
+Do you care to look at some photographs,
+Mr. Lovborg? You know Tesman and I made a tour in the Tyrol on our way
+home?
+
+     
+@d{}
+[She takes up an album, and places it on the table beside the
+       sofa, in the further corner of which she seats herself.  EILERT
+       LOVBORG approaches, stops, and looks at her.  Then he takes a
+       chair and seats himself to her left.
+
+
+
+@d{}
+[Opening the album.] 
+@l{"name":"Hedda"}
+Do you see this range of mountains, Mr. Lovborg?
+It's the Ortler group. Tesman has written the name underneath. Here it
+is: "The Ortler group near Meran."
+
+
+
+@d{}
+[Who has never taken his eyes off her, says softly and slowly:]
+
+@l{"name":"Eilert Lovborg"}
+Hedda--Gabler!
+
+
+
+@d{}
+[Glancing hastily at him.] 
+@l{"name":"Hedda"}
+Ah! Hush!
+
+
+
+@d{}
+[Repeats softly.] 
+@l{"name":"Eilert Lovborg"}
+Hedda Gabler!
+
+
+
+@d{}
+[Looking at the album.] 
+@l{"name":"Hedda"}
+That was my name in the old days--when we two
+knew each other.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+And I must teach myself never to say Hedda Gabler again--never, as long
+as I live.
+
+
+
+@d{}
+[Still turning over the pages.] 
+@l{"name":"Hedda"}
+Yes, you must. And I think you ought to
+practise in time. The sooner the better, I should say.
+
+
+
+@d{}
+[In a tone of indignation.] 
+@l{"name":"Eilert Lovborg"}
+Hedda Gabler married? And married to--
+George Tesman!
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes--so the world goes.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Oh, Hedda, Hedda--how could you throw yourself away!
+
+
+
+@d{}
+[Looks sharply at him.] 
+@l{"name":"Hedda"}
+What? I can't allow this!
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+What do you mean?
+
+     
+@d{}
+[TESMAN comes into the room and goes towards the sofa.
+
+
+
+@e{"names":["George"]}
+
+@d{}
+[Hears him coming and says in an indifferent tone.] 
+@l{"name":"Hedda"}
+And this is a view
+from the Val d'Ampezzo, Mr. Lovborg. Just look at these peaks! 
+@d{}
+[Looks
+affectionately up at George] 
+@l{"name":"Hedda"}
+What's the name of these curious peaks,
+dear?
+
+
+
+@l{"name":"George"}
+
+
+Let me see. Oh, those are the Dolomites.
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, that's it!--Those are the Dolomites, Mr. Lovborg.
+
+
+
+@l{"name":"George"}
+
+
+Hedda, dear,--I only wanted to ask whether I shouldn't bring you a
+little punch after all? For yourself at any rate--eh?
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, do, please; and perhaps a few biscuits.
+
+
+
+@l{"name":"George"}
+
+
+No cigarettes?
+
+
+
+@l{"name":"Hedda"}
+
+
+No.
+
+
+
+@l{"name":"George"}
+
+
+Very well.
+
+     
+@d{}
+[He goes into the inner room and out to the right.  BRACK sits
+       in the inner room, and keeps an eye from time to time on HEDDA
+       and Eilert Lovborg
+
+
+
+@x{"names":["George"]}
+
+@d{}
+[Softly, as before.] 
+@l{"name":"Eilert Lovborg"}
+Answer me, Hedda--how could you go and do this?
+
+
+
+@d{}
+[Apparently absorbed in the album.] 
+@l{"name":"Hedda"}
+If you continue to say _du_ to me I
+won't talk to you.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+May I not say _du_ even when we are alone?
+
+
+
+@l{"name":"Hedda"}
+
+
+No. You may think it; but you mustn't say it.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Ah, I understand. It is an offence against George Tesman, whom
+you--love.
+
+
+
+@d{}
+[Glances at him and smiles.] 
+@l{"name":"Hedda"}
+Love? What an idea!
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+You don't love him then!
+
+
+
+@l{"name":"Hedda"}
+
+
+But I won't hear of any sort of unfaithfulness! Remember that.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Hedda--answer me one thing--
+
+
+
+@l{"name":"Hedda"}
+
+
+Hush! 
+@d{}
+[TESMAN enters with a small tray from the inner room.
+
+
+
+@e{"names":["George"]}
+
+@l{"name":"George"}
+
+
+Here you are! Isn't this tempting? [He puts the tray on the table.
+
+
+
+@l{"name":"Hedda"}
+
+
+Why do you bring it yourself?
+
+
+
+@d{}
+[Filling the glasses.] 
+@l{"name":"George"}
+Because I think it's such fun to wait upon you,
+Hedda.
+
+
+
+@l{"name":"Hedda"}
+
+
+But you have poured out two glasses. Mr. Lovborg said he wouldn't have
+any--
+
+
+
+@l{"name":"George"}
+
+
+No, but Mrs. Elvsted will soon be here, won't she?
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, by-the-bye--Mrs. Elvsted--
+
+
+
+@l{"name":"George"}
+
+
+Had you forgotten her? Eh?
+
+
+
+@l{"name":"Hedda"}
+
+
+We were so absorbed in these photographs. 
+@d{}
+[Shows him a picture.] 
+@l{"name":"Hedda"}
+Do you
+remember this little village?
+
+
+
+@l{"name":"George"}
+
+
+Oh, it's that one just below the Brenner Pass. It was there we passed
+the night--
+
+
+
+@l{"name":"Hedda"}
+
+
+--and met that lively party of tourists.
+
+
+
+@l{"name":"George"}
+
+
+Yes, that was the place. Fancy--if we could only have had you with us,
+Eilert! Eh?
+
+     
+@d{}
+[He returns to the inner room and sits beside Judge Brack
+
+
+
+@x{"names":["George"]}
+
+@l{"name":"Eilert Lovborg"}
+
+
+Answer me one thing, Hedda--
+
+
+
+@l{"name":"Hedda"}
+
+
+Well?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Was there no love in your friendship for me either? Not a spark--not a
+tinge of love in it?
+
+
+
+@l{"name":"Hedda"}
+
+
+I wonder if there was? To me it seems as though we were two good
+comrades--two thoroughly intimate friends. 
+@d{}
+[Smilingly.] 
+@l{"name":"Hedda"}
+You especially
+were frankness itself.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+It was you that made me so.
+
+
+
+@l{"name":"Hedda"}
+
+
+As I look back upon it all, I think there was really something
+beautiful, something fascinating--something daring--in--in that secret
+intimacy--that comradeship which no living creature so much as dreamed
+of.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Yes, yes, Hedda! Was there not?--When I used to come to your father's
+in the afternoon--and the General sat over at the window reading his
+papers--with his back towards us--
+
+
+
+@l{"name":"Hedda"}
+
+
+And we two on the corner sofa--
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Always with the same illustrated paper before us--
+
+
+
+@l{"name":"Hedda"}
+
+
+For want of an album, yes.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Yes, Hedda, and when I made my confessions to you--told you about
+myself, things that at that time no one else knew! There I would sit
+and tell you of my escapades--my days and nights of devilment. Oh,
+Hedda--what was the power in you that forced me to confess these things?
+
+
+
+@l{"name":"Hedda"}
+
+
+Do you think it was any power in me?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+How else can I explain it? And all those--those roundabout questions you
+used to put to me--
+
+
+
+@l{"name":"Hedda"}
+
+
+Which you understood so particularly well--
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+How could you sit and question me like that? Question me quite
+frankly--
+
+
+
+@l{"name":"Hedda"}
+
+
+In roundabout terms, please observe.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Yes, but frankly nevertheless. Cross-question me about--all that sort of
+thing?
+
+
+
+@l{"name":"Hedda"}
+
+
+And how could you answer, Mr. Lovborg?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Yes, that is just what I can't understand--in looking back upon it. But
+tell me now, Hedda--was there not love at the bottom of our friendship?
+On your side, did you not feel as though you might purge my stains
+away--if I made you my confessor? Was it not so?
+
+
+
+@l{"name":"Hedda"}
+
+
+No, not quite.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+What was you motive, then?
+
+
+
+@l{"name":"Hedda"}
+
+
+Do think it quite incomprehensible that a young girl--when it can be
+done--without any one knowing--
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Well?
+
+
+
+@l{"name":"Hedda"}
+
+
+--should be glad to have a peep, now and then, into a world which--?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Which--?
+
+
+
+@l{"name":"Hedda"}
+
+
+--which she is forbidden to know anything about?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+So that was it?
+
+
+
+@l{"name":"Hedda"}
+
+
+Partly. Partly--I almost think.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Comradeship in the thirst for life. But why should not that, at any
+rate, have continued?
+
+
+
+@l{"name":"Hedda"}
+
+
+The fault was yours.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+It was you that broke with me.
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, when our friendship threatened to develop into something more
+serious. Shame upon you, Eilert Lovborg! How could you think of wronging
+your--your frank comrade.
+
+
+
+@d{}
+[Clenches his hands.] 
+@l{"name":"Eilert Lovborg"}
+Oh, why did you not carry out your threat? Why did
+you not shoot me down?
+
+
+
+@l{"name":"Hedda"}
+
+
+Because I have such a dread of scandal.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Yes, Hedda, you are a coward at heart.
+
+
+
+@l{"name":"Hedda"}
+
+
+A terrible coward. 
+@d{}
+[Changing her tone.] 
+@l{"name":"Hedda"}
+But it was a lucky thing for
+you. And now you have found ample consolation at the Elvsteds'.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+I know what Thea has confided to you.
+
+
+
+@l{"name":"Hedda"}
+
+
+And perhaps you have confided to her something about us?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Not a word. She is too stupid to understand anything of that sort.
+
+
+
+@l{"name":"Hedda"}
+
+
+Stupid?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+She is stupid about matters of that sort.
+
+
+
+@l{"name":"Hedda"}
+
+
+And I am cowardly. 
+@d{}
+[Bends over towards him, without looking him in the
+face, and says more softly:] 
+@l{"name":"Hedda"}
+But now I will confide something to you.
+
+
+
+@d{}
+[Eagerly.] 
+@l{"name":"Eilert Lovborg"}
+Well?
+
+
+
+@l{"name":"Hedda"}
+
+
+The fact that I dared not shoot you down--
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Yes!
+
+
+
+@l{"name":"Hedda"}
+
+
+--that was not my arrant cowardice--that evening.
+
+
+
+@d{}
+[Looks at her a moment, understands, and whispers passionately.] 
+@l{"name":"Eilert Lovborg"}
+Oh,
+Hedda! Hedda Gabler! Now I begin to see a hidden reason beneath our
+comradeship! You and I--! After all, then, it was your craving for
+life--
+
+
+
+@d{}
+[Softly, with a sharp glance.] 
+@l{"name":"Hedda"}
+Take care! Believe nothing of the sort!
+
+   
+@d{}
+[Twilight has begun to fall.  The hall door is opened from
+       without by Berta
+
+
+
+@e{"names":["Berta"]}
+
+@d{}
+[Closes the album with a bang and calls smilingly:] 
+@l{"name":"Hedda"}
+Ah, at last! My
+darling Thea,--come along!
+
+  
+@d{}
+MRS. ELVSTED enters from the hall.  She is in evening dress.
+  The door is closed behind her.
+
+@e{"names":["Mrs. Elvsted"]}
+
+
+@x{"names":["Berta"]}
+
+@d{}
+[On the sofa, stretches out her arms towards her.] 
+@l{"name":"Hedda"}
+My sweet Thea--you
+can't think how I have been longing for you!
+
+     
+@d{}
+[MRS. ELVSTED, in passing, exchanges slight salutations with
+       the gentlemen in the inner room, then goes up to the table
+       and gives HEDDA her hand.  EILERT LOVBORG has risen.  He and
+       MRS. ELVSTED greet each other with a silent nod.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Ought I to go in and talk to your husband for a moment?
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh, not at all. Leave those two alone. They will soon be going.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Are they going out?
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, to a supper-party.
+
+
+
+@d{}
+[Quickly, to Eilert Lovborg] 
+@l{"name":"Mrs. Elvsted"}
+Not you?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+No.
+
+
+
+@l{"name":"Hedda"}
+
+
+Mr. Lovborg remains with us.
+
+
+
+@d{}
+[Takes a chair and is about to seat herself at his side.] 
+@l{"name":"Mrs. Elvsted"}
+Oh, how nice
+it is here!
+
+
+
+@l{"name":"Hedda"}
+
+
+No, thank you, my little Thea! Not there! You'll be good enough to come
+over here to me. I will sit between you.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, just as you please.
+
+   
+@d{}
+[She goes round the table and seats herself on the sofa on
+       HEDDA'S right.  LOVBORG re-seats himself on his chair.
+
+
+
+@d{}
+[After a short pause, to Hedda] 
+@l{"name":"Eilert Lovborg"}
+Is not she lovely to look at?
+
+
+
+@d{}
+[Lightly stroking her hair.] 
+@l{"name":"Hedda"}
+Only to look at!
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Yes. For we two--she and I--we are two real comrades. We have absolute
+faith in each other; so we can sit and talk with perfect frankness--
+
+
+
+@l{"name":"Hedda"}
+
+
+Not round about, Mr. Lovborg?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Well--
+
+
+
+@d{}
+[Softly clinging close to Hedda] 
+@l{"name":"Mrs. Elvsted"}
+Oh, how happy I am, Hedda! For only
+think, he says I have inspired him too.
+
+
+
+@d{}
+[Looks at her with a smile.] 
+@l{"name":"Hedda"}
+Ah! Does he say that, dear?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+And then she is so brave, Mrs. Tesman!
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Good heavens--am I brave?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Exceedingly--where your comrade is concerned.
+
+
+
+@l{"name":"Hedda"}
+
+
+Exceedingly--where your comrade is concerned.
+
+
+
+@l{"name":"Hedda"}
+
+
+Ah, yes--courage! If one only had that!
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+What then? What do you mean?
+
+
+
+@l{"name":"Hedda"}
+
+
+Then life would perhaps be liveable, after all. 
+@d{}
+[With a sudden change
+of tone.] 
+@l{"name":"Hedda"}
+But now, my dearest Thea, you really must have a glass of cold
+punch.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+No, thanks--I never take anything of that kind.
+
+
+
+@l{"name":"Hedda"}
+
+
+Well then, you, Mr. Lovborg.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Nor I, thank you.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+No, he doesn't either.
+
+
+
+@d{}
+[Looks fixedly at him.] 
+@l{"name":"Hedda"}
+But if I say you shall?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+It would be of no use.
+
+
+
+@d{}
+[Laughing.] 
+@l{"name":"Hedda"}
+Then I, poor creature, have no sort of power over you?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Not in that respect.
+
+
+
+@l{"name":"Hedda"}
+
+
+But seriously, I think you ought to--for your own sake.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Why, Hedda--!
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+How so?
+
+
+
+@l{"name":"Hedda"}
+
+
+Or rather on account of other people.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Indeed?
+
+
+
+@l{"name":"Hedda"}
+
+
+Otherwise people might be apt to suspect that--in your heart of
+hearts--you did not feel quite secure--quite confident in yourself.
+
+
+
+@d{}
+[Softly.] 
+@l{"name":"Mrs. Elvsted"}
+Oh please, Hedda--!
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+People may suspect what they like--for the present.
+
+
+
+@d{}
+[Joyfully.] 
+@l{"name":"Mrs. Elvsted"}
+Yes, let them!
+
+
+
+@l{"name":"Hedda"}
+
+
+I saw it plainly in Judge Brack's face a moment ago.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+What did you see?
+
+
+
+@l{"name":"Hedda"}
+
+
+His contemptuous smile, when you dared not go with them into the inner
+room.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Dared not? Of course I preferred to stop here and talk to you.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+What could be more natural, Hedda?
+
+
+
+@l{"name":"Hedda"}
+
+
+But the Judge could not guess that. And I say, too, the way he smiled
+and glanced at Tesman when you dared not accept his invitation to this
+wretched little supper-party of his.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Dared not! Do you say I dared not?
+
+
+
+@l{"name":"Hedda"}
+
+
+_I_ don't say so. But that was how Judge Brack understood it.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Well, let him.
+
+
+
+@l{"name":"Hedda"}
+
+
+Then you are not going with them?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+I will stay here with you and Thea.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, Hedda--how can you doubt that?
+
+
+
+@d{}
+[Smiles and nods approvingly to Eilert Lovborg] 
+@l{"name":"Hedda"}
+Firm as a rock! Faithful to
+your principles, now and for ever! Ah, that is how a man should be!
+
+@d{}
+[Turns to MRS. ELVSTED and caresses her.] 
+@l{"name":"Hedda"}
+Well now, what did I tell you,
+when you came to us this morning in such a state of distraction--
+
+
+
+@d{}
+[Surprised.] 
+@l{"name":"Eilert Lovborg"}
+Distraction!
+
+
+
+@d{}
+[Terrified.] 
+@l{"name":"Mrs. Elvsted"}
+Hedda--oh Hedda--!
+
+
+
+@l{"name":"Hedda"}
+
+
+You can see for yourself! You haven't the slightest reason to be in such
+mortal terror-- 
+@d{}
+[Interrupting herself.] 
+@l{"name":"Hedda"}
+There! Now we can all three
+enjoy ourselves!
+
+
+
+@d{}
+[Who has given a start.] 
+@l{"name":"Eilert Lovborg"}
+Ah--what is all this, Mrs. Tesman?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh my God, Hedda! What are you saying? What are you doing?
+
+
+
+@l{"name":"Hedda"}
+
+
+Don't get excited! That horrid Judge Brack is sitting watching you.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+So she was in mortal terror! On my account!
+
+
+
+@d{}
+[Softly and piteously.] 
+@l{"name":"Mrs. Elvsted"}
+Oh, Hedda--now you have ruined everything!
+
+
+
+@d{}
+[Looks fixedly at her for a moment. His face is distorted.] 
+@l{"name":"Eilert Lovborg"}
+So that was
+my comrade's frank confidence in me?
+
+
+
+@d{}
+[Imploringly.] 
+@l{"name":"Mrs. Elvsted"}
+Oh, my dearest friend--only let me tell you--
+
+
+
+@d{}
+[Takes one of the glasses of punch, raises it to his lips, and says in a
+low, husky voice.] 
+@l{"name":"Eilert Lovborg"}
+Your health, Thea!
+
+   
+@d{}
+[He empties the glass, puts it down, and takes the second.
+
+
+
+@d{}
+[Softly.] 
+@l{"name":"Mrs. Elvsted"}
+Oh, Hedda, Hedda--how could you do this?
+
+
+
+@l{"name":"Hedda"}
+
+
+_I_ do it? _I_? Are you crazy?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Here's to your health too, Mrs. Tesman. Thanks for the truth. Hurrah for
+the truth!
+
+   
+@d{}
+[He empties the glass and is about to re-fill it.
+
+
+
+@d{}
+[Lays her hand on his arm.] 
+@l{"name":"Hedda"}
+Come, come--no more for the present.
+Remember you are going out to supper.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+No, no, no!
+
+
+
+@l{"name":"Hedda"}
+
+
+Hush! They are sitting watching you.
+
+
+
+@d{}
+[Putting down the glass.] 
+@l{"name":"Eilert Lovborg"}
+Now, Thea--tell me the truth--
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Did your husband know that you had come after me?
+
+
+
+@d{}
+[Wringing her hands.] 
+@l{"name":"Mrs. Elvsted"}
+Oh, Hedda--do you hear what his is asking?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Was it arranged between you and him that you were to come to town and
+look after me? Perhaps it was the Sheriff himself that urged you to
+come? Aha, my dear--no doubt he wanted my help in his office! Or was it
+at the card-table that he missed me?
+
+
+
+@d{}
+[Softly, in agony.] 
+@l{"name":"Mrs. Elvsted"}
+Oh, Lovborg, Lovborg--!
+
+
+
+@d{}
+[Seizes a glass and is on the point of filling it.] 
+@l{"name":"Eilert Lovborg"}
+Here's a glass for
+the old Sheriff too!
+
+
+
+@d{}
+[Preventing him.] 
+@l{"name":"Hedda"}
+No more just now. Remember, you have to read your
+manuscript to Tesman.
+
+
+
+@d{}
+[Calmly, putting down the glass.] 
+@l{"name":"Eilert Lovborg"}
+It was stupid of me all this. Thea--to
+take it in this way, I mean. Don't be angry with me, my dear, dear
+comrade. You shall see--both you and the others--that if I was fallen
+once--now I have risen again! Thanks to you, Thea.
+
+
+
+@d{}
+[Radiant with joy.] 
+@l{"name":"Mrs. Elvsted"}
+Oh, heaven be praised--!
+
+     
+@d{}
+[BRACK has in the meantime looked at his watch.  He and TESMAN
+       rise and come into the drawing-room.
+
+
+@e{"names":["George", "Judge Brack"]}
+
+
+
+@d{}
+[Takes his hat and overcoat.] 
+@l{"name":"Judge Brack"}
+Well, Mrs. Tesman, our time has come.
+
+
+
+@l{"name":"Hedda"}
+
+
+I suppose it has.
+
+
+
+@d{}
+[Rising.] 
+@l{"name":"Eilert Lovborg"}
+Mine too, Judge Brack.
+
+
+
+@d{}
+[Softly and imploringly.] 
+@l{"name":"Mrs. Elvsted"}
+Oh, Lovborg, don't do it!
+
+
+
+@d{}
+[Pinching her arm.] 
+@l{"name":"Hedda"}
+They can hear you!
+
+
+
+@d{}
+[With a suppressed shriek.] 
+@l{"name":"Mrs. Elvsted"}
+Ow!
+
+
+
+@d{}
+[To Judge Brack] 
+@l{"name":"Eilert Lovborg"}
+You were good enough to invite me.
+
+
+
+@d{}
+@l{"name":"Judge Brack"}
+
+
+Well, are you coming after all?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Yes, many thanks.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+I'm delighted--
+
+
+
+@d{}
+[To TESMAN, putting the parcel of MS. in his pocket.] 
+@l{"name":"Eilert Lovborg"}
+I should like to
+show you one or two things before I send it to the printers.
+
+
+
+@l{"name":"George"}
+
+
+Fancy--that will be delightful. But, Hedda dear, how is Mrs. Elvsted to
+get home? Eh?
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh, that can be managed somehow.
+
+
+
+@d{}
+[Looking towards the ladies.] 
+@l{"name":"Eilert Lovborg"}
+Mrs. Elvsted? Of course, I'll come again
+and fetch her. 
+@d{}
+[Approaching.] 
+@l{"name":"Eilert Lovborg"}
+At ten or thereabouts, Mrs. Tesman? Will
+that do?
+
+
+
+@l{"name":"Hedda"}
+
+
+Certainly. That will do capitally.
+
+
+
+@l{"name":"George"}
+
+
+Well, then, that's all right. But you must not expect me so early,
+Hedda.
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh, you may stop as long--as long as ever you please.
+
+
+
+@d{}
+[Trying to conceal her anxiety.] 
+@l{"name":"Mrs. Elvsted"}
+Well then, Mr. Lovborg--I shall remain
+here until you come.
+
+
+
+@d{}
+[With his hat in his hand.] 
+@l{"name":"Eilert Lovborg"}
+Pray do, Mrs. Elvsted.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+And now off goes the excursion train, gentlemen! I hope we shall have a
+lively time, as a certain fair lady puts it.
+
+
+
+@l{"name":"Hedda"}
+
+
+Ah, if only the fair lady could be present unseen--!
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Why unseen?
+
+
+
+@l{"name":"Hedda"}
+
+
+In order to hear a little of your liveliness at first hand, Judge Brack.
+
+
+
+@d{}
+[Laughing.] 
+@l{"name":"Judge Brack"}
+I should not advise the fair lady to try it.
+
+
+
+@d{}
+[Also laughing.] 
+@l{"name":"George"}
+Come, you're a nice one Hedda! Fancy that!
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Well, good-bye, good-bye, ladies.
+
+
+
+@d{}
+[Bowing.] 
+@l{"name":"Eilert Lovborg"}
+About ten o'clock, then,
+
+   
+@d{}
+[BRACK, LOVBORG, and TESMAN go out by the hall door.  At the
+       same time, BERTA enters from the inner room with a lighted
+       lamp, which she places on the drawing-room table; she goes
+       out by the way she came.
+
+@x{"names":["George", "Judge Brack", "Eilert Lovborg"]}
+
+
+@d{}
+[Who has risen and is wandering restlessly about the room.] 
+@l{"name":"Mrs. Elvsted"}
+Hedda--
+Hedda--what will come of all this?
+
+
+
+@l{"name":"Hedda"}
+
+
+At ten o'clock--he will be here. I can see him already--with vine-leaves
+in his hair--flushed and fearless--
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh, I hope he may.
+
+
+
+@l{"name":"Hedda"}
+
+
+And then, you see--then he will have regained control over himself. Then
+he will be a free man for all his days.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh God!--if he would only come as you see him now!
+
+
+
+@l{"name":"Hedda"}
+
+
+He will come as I see him--so, and not otherwise! 
+@d{}
+[Rises and approaches
+THEA.] 
+@l{"name":"Hedda"}
+You may doubt him as long as you please; _I_ believe in him. And
+now we will try--
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+You have some hidden motive in this, Hedda!
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, I have. I want for once in my life to have power to mould a human
+destiny.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Have you not the power?
+
+
+
+@l{"name":"Hedda"}
+
+
+I have not--and have never had it.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Not your husband's?
+
+
+
+@l{"name":"Hedda"}
+
+
+Do you think that is worth the trouble? Oh, if you could only understand
+how poor I am. And fate has made you so rich! 
+@d{}
+[Clasps her passionately
+in her arms.] 
+@l{"name":"Hedda"}
+I think I must burn your hair off after all.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Let me go! Let me go! I am afraid of you, Hedda!
+
+
+
+@d{}
+[In the middle doorway.] 
+@l{"name":"Berta"}
+Tea is laid in the dining-room, ma'am.
+
+
+
+@l{"name":"Hedda"}
+
+
+Very well. We are coming
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+No, no, no! I would rather go home alone! At once!
+
+
+
+@l{"name":"Hedda"}
+
+
+Nonsense! First you shall have a cup of tea, you little stupid. And
+then--at ten o'clock--Eilert Lovborg will be here--with vine-leaves in
+his hair.
+
+   
+@d{}
+[She drags MRS. ELVSTED almost by force to the middle doorway.
+
+@x{"names":["Hedda", "Mrs. Elvsted"]}
+
+@a{"number":3}
+@s{"number":1}
+@d{}
+
+
+ACT THIRD.
+
+
+  The room at the TESMANS'.  The curtains are drawn over the
+  middle doorway, and also over the glass door.  The lamp,
+  half turned down, and with a shade over it, is burning on
+  the table.  In the stove, the door of which stands open,
+  there has been a fire, which is now nearly burnt out.
+
+  MRS. ELVSTED, wrapped in a large shawl, and with her feet
+  upon a foot-rest, sits close to the stove, sunk back in
+  the arm-chair.  HEDDA, fully dressed, lies sleeping upon
+  the sofa, with a sofa-blanket over her.
+
+
+
+@e{"names":["Mrs. Elvsted","Hedda"]}
+
+@d{}
+[After a pause, suddenly sits up in her chair, and listens eagerly. Then
+she sinks back again wearily, moaning to herself.] 
+@l{"name":"Mrs. Elvsted"}
+Not yet!--Oh God--oh
+God--not yet!
+
+
+  
+@d{}
+BERTA slips cautiously in by the hall door.  She has a letter in
+  her hand.
+
+
+
+@e{"names":["Berta"]}
+
+@d{}
+[Turns and whispers eagerly.] 
+@l{"name":"Mrs. Elvsted"}
+Well--has any one come?
+
+
+
+@d{}
+[Softly.] 
+@l{"name":"Berta"}
+Yes, a girl has just brought this letter.
+
+
+
+@d{}
+[Quickly, holding out her hand.] 
+@l{"name":"Mrs. Elvsted"}
+A letter! Give it to me!
+
+
+
+@l{"name":"Berta"}
+
+
+No, it's for Dr. Tesman, ma'am.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh, indeed.
+
+
+
+@l{"name":"Berta"}
+
+
+It was Miss Tesman's servant that brought it. I'll lay it here on the
+table.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, do.
+
+
+
+@d{}
+[Laying down the letter.] 
+@l{"name":"Berta"}
+I think I had better put out the lamp. It's
+smoking.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, put it out. It must soon be daylight now.
+
+
+
+@d{}
+[Putting out the lamp.] 
+@l{"name":"Berta"}
+It is daylight already, ma'am.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, broad day! And no one come back yet--!
+
+
+
+@l{"name":"Berta"}
+
+
+Lord bless you, ma'am--I guessed how it would be.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+You guessed?
+
+
+
+@l{"name":"Berta"}
+
+
+Yes, when I saw that a certain person had come back to town--and that he
+went off with them. For we've heard enough about that gentleman before
+now.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Don't speak so loud. You will waken Mrs. Tesman.
+
+
+
+@d{}
+[Looks towards the sofa and sighs.] 
+@l{"name":"Berta"}
+No, no--let her sleep, poor thing.
+Shan't I put some wood on the fire?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Thanks, not for me.
+
+
+
+@l{"name":"Berta"}
+
+
+Oh, very well. 
+@d{}
+[She goes softly out by the hall door.
+
+
+
+@x{"names":["Berta"]}
+
+@d{}
+[Is wakened by the shutting of the door, and looks up.] 
+@l{"name":"Hedda"}
+What's that--?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+It was only the servant.
+
+
+
+@d{}
+[Looking about her.] 
+@l{"name":"Hedda"}
+Oh, we're here--! Yes, now I remember. 
+@d{}
+[Sits erect
+upon the sofa, stretches herself, and rubs her eyes.] 
+@l{"name":"Hedda"}
+What o'clock is
+it, Thea?
+
+
+
+@d{}
+[Looks at her watch.] 
+@l{"name":"Mrs. Elvsted"}
+It's past seven.
+
+
+
+@l{"name":"Hedda"}
+
+
+When did Tesman come home?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+He has not come.
+
+
+
+@l{"name":"Hedda"}
+
+
+Not come home yet?
+
+
+
+@d{}
+[Rising.] 
+@l{"name":"Mrs. Elvsted"}
+No one has come.
+
+
+
+@l{"name":"Hedda"}
+
+
+Think of our watching and waiting here till four in the morning--
+
+
+
+@d{}
+[Wringing her hands.] 
+@l{"name":"Mrs. Elvsted"}
+And how I watched and waited for him!
+
+
+
+@d{}
+[Yawns, and says with her hand before her mouth.] 
+@l{"name":"Hedda"}
+Well well--we might
+have spared ourselves the trouble.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Did you get a little sleep?
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh yes; I believe I have slept pretty well. Have you not?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Not for a moment. I couldn't, Hedda!--not to save my life.
+
+
+
+@d{}
+[Rises and goes towards her.] 
+@l{"name":"Hedda"}
+There there there! There's nothing to be
+so alarmed about. I understand quite well what has happened.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Well, what do you think? Won't you tell me?
+
+
+
+@l{"name":"Hedda"}
+
+
+Why, of course it has been a very late affair at Judge Brack's--
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, yes--that is clear enough. But all the same--
+
+
+
+@l{"name":"Hedda"}
+
+
+And then, you see, Tesman hasn't cared to come home and ring us up in
+the middle of the night. 
+@d{}
+[Laughing.] 
+@l{"name":"Hedda"}
+Perhaps he wasn't inclined to show
+himself either--immediately after a jollification.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+But in that case--where can he have gone?
+
+
+
+@l{"name":"Hedda"}
+
+
+Of course he has gone to his Aunts' and slept there. They have his old
+room ready for him.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+No, he can't be with them for a letter has just come for him from Miss
+Tesman. There it lies.
+
+
+
+@l{"name":"Hedda"}
+
+
+Indeed? 
+@d{}
+[Looks at the address.] 
+@l{"name":"Hedda"}
+Why yes, it's addressed in Aunt Julia's
+hand. Well then, he has remained at Judge Brack's. And as for Eilert
+Lovborg--he is sitting, with vine-leaves in his hair, reading his
+manuscript.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh, Hedda, you are just saying things you don't believe a bit.
+
+
+
+@l{"name":"Hedda"}
+
+
+You really are a little blockhead, Thea.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh yes, I suppose I am.
+
+
+
+@l{"name":"Hedda"}
+
+
+And how mortally tired you look.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, I am mortally tired.
+
+
+
+@l{"name":"Hedda"}
+
+
+Well then, you must do as I tell you. You must go into my room and lie
+down for a little while.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh no, no--I shouldn't be able to sleep.
+
+
+
+@l{"name":"Hedda"}
+
+
+I am sure you would.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Well, but you husband is certain to come soon now; and then I want to
+know at once--
+
+
+
+@l{"name":"Hedda"}
+
+
+I shall take care to let you know when he comes.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Do you promise me, Hedda?
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, rely upon me. Just you go in and have a sleep in the meantime.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Thanks; then I'll try. 
+@d{}
+[She goes off to the inner room.
+
+     [HEDDA goes up to the glass door and draws back the curtains.
+       The broad daylight streams into the room.  Then she takes a
+       little hand-glass from the writing-table, looks at herself
+       in it, and arranges her hair.  Next she goes to the hall
+       door and presses the bell-button.
+
+
+  BERTA presently appears at the hall door.
+
+
+
+@e{"names":["Berta"]}
+
+@x{"names":["Mrs. Elvsted"]}
+
+@l{"name":"Berta"}
+
+
+Did you want anything, ma'am?
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes; you must put some more wood in the stove. I am shivering.
+
+
+
+@l{"name":"Berta"}
+
+
+Bless me--I'll make up the fire at once. 
+@d{}
+[She rakes the embers together
+and lays a piece of wood upon them; then stops and listens.] 
+@l{"name":"Berta"}
+That was a
+ring at the front door, ma'am.
+
+
+
+@l{"name":"Hedda"}
+
+
+Then go to the door. I will look after the fire.
+
+
+
+@l{"name":"Berta"}
+
+
+It'll soon burn up. 
+@d{}
+[She goes out by the hall door.
+
+     [HEDDA kneels on the foot-rest and lays some more pieces of
+       wood in the stove.
+
+
+   After a short pause, GEORGE TESMAN enters from the hall.  He
+   steals on tiptoe towards the middle doorway and is about to
+   slip through the curtains.
+
+
+
+@e{"names":["George"]}
+
+@x{"names":["Berta"]}
+
+@d{}
+[At the stove, without looking up.] 
+@l{"name":"Hedda"}
+Good morning.
+
+
+
+@d{}
+[Turns.] 
+@l{"name":"George"}
+Hedda! 
+@d{}
+[Approaching her.] 
+@l{"name":"George"}
+Good heavens--are you up so early?
+Eh?
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, I am up very early this morning.
+
+
+
+@l{"name":"George"}
+
+
+And I never doubted you were still sound asleep! Fancy that, Hedda!
+
+
+
+@l{"name":"Hedda"}
+
+
+Don't speak so loud. Mrs. Elvsted is resting in my room.
+
+
+
+@l{"name":"George"}
+
+
+Has Mrs. Elvsted been here all night?
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, since no one came to fetch her.
+
+
+
+@l{"name":"George"}
+
+
+Ah, to be sure.
+
+
+
+@d{}
+[Closes the door of the stove and rises.] 
+@l{"name":"Hedda"}
+Well, did you enjoy yourselves
+at Judge Brack's?
+
+
+
+@l{"name":"George"}
+
+
+Have you been anxious about me? Eh?
+
+
+
+@l{"name":"Hedda"}
+
+
+No, I should never think of being anxious. But I asked if you had
+enjoyed yourself.
+
+
+
+@l{"name":"George"}
+
+
+Oh yes,--for once in a way. Especially the beginning of the evening; for
+then Eilert read me part of his book. We arrived more than an hour too
+early--fancy that! And Brack had all sorts of arrangements to make--so
+Eilert read to me.
+
+
+
+@d{}
+[Seating herself by the table on the right.] 
+@l{"name":"Hedda"}
+Well? Tell me then--
+
+
+
+@d{}
+[Sitting on a footstool near the stove.] 
+@l{"name":"George"}
+Oh, Hedda, you can't conceive
+what a book that is going to be! I believe it is one of the most
+remarkable things that have ever been written. Fancy that!
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes yes; I don't care about that--
+
+
+
+@l{"name":"George"}
+
+
+I must make a confession to you, Hedda. When he had finished reading--a
+horrid feeling came over me.
+
+
+
+@l{"name":"Hedda"}
+
+
+A horrid feeling?
+
+
+
+@l{"name":"George"}
+
+
+I felt jealous of Eilert for having had it in him to write such a book.
+Only think, Hedda!
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, yes, I am thinking!
+
+
+
+@l{"name":"George"}
+
+
+And then how pitiful to think that he--with all his gifts--should be
+irreclaimable, after all.
+
+
+
+@l{"name":"Hedda"}
+
+
+I suppose you mean that he has more courage than the rest?
+
+
+
+@l{"name":"George"}
+
+
+No, not at all--I mean that he is incapable of taking his pleasure in
+moderation.
+
+
+
+@l{"name":"Hedda"}
+
+
+And what came of it all--in the end?
+
+
+
+@l{"name":"George"}
+
+
+Well, to tell the truth, I think it might best be described as an orgie,
+Hedda.
+
+
+
+@l{"name":"Hedda"}
+
+
+Had he vine-leaves in his hair?
+
+
+
+@l{"name":"George"}
+
+
+Vine-leaves? No, I saw nothing of the sort. But he made a long, rambling
+speech in honour of the woman who had inspired him in his work--that was
+the phrase he used.
+
+
+
+@l{"name":"Hedda"}
+
+
+Did he name her?
+
+
+
+@l{"name":"George"}
+
+
+No, he didn't; but I can't help thinking he meant Mrs. Elvsted. You may
+be sure he did.
+
+
+
+@l{"name":"Hedda"}
+
+
+Well--where did you part from him?
+
+
+
+@l{"name":"George"}
+
+
+On the way to town. We broke up--the last of us at any rate--all
+together; and Brack came with us to get a breath of fresh air. And then,
+you see, we agreed to take Eilert home; for he had had far more than was
+good for him.
+
+
+
+@l{"name":"Hedda"}
+
+
+I daresay.
+
+
+
+@l{"name":"George"}
+
+
+But now comes the strange part of it, Hedda; or, I should rather say,
+the melancholy part of it. I declare I am almost ashamed--on Eilert's
+account--to tell you--
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh, go on--!
+
+
+
+@l{"name":"George"}
+
+
+Well, as we were getting near town, you see, I happened to drop a little
+behind the others. Only for a minute or two--fancy that!
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes yes yes, but--?
+
+
+
+@l{"name":"George"}
+
+
+And then, as I hurried after them--what do you think I found by the
+wayside? Eh?
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh, how should I know!
+
+
+
+@l{"name":"George"}
+
+
+You mustn't speak of it to a soul, Hedda! Do you hear! Promise me, for
+Eilert's sake. 
+@d{}
+[Draws a parcel, wrapped in paper, from his coat pocket.]
+
+@l{"name":"George"}
+Fancy, dear--I found this.
+
+
+
+@l{"name":"Hedda"}
+
+
+Is not that the parcel he had with him yesterday?
+
+
+
+@l{"name":"George"}
+
+
+Yes, it is the whole of his precious, irreplaceable manuscript! And he
+had gone and lost it, and knew nothing about it. Only fancy, Hedda! So
+deplorably--
+
+
+
+@l{"name":"Hedda"}
+
+
+But why did you not give him back the parcel at once?
+
+
+
+@l{"name":"George"}
+
+
+I didn't dare to--in the state he was then in--
+
+
+
+@l{"name":"Hedda"}
+
+
+Did you not tell any of the others that you had found it?
+
+
+
+@l{"name":"George"}
+
+
+Oh, far from it! You can surely understand that, for Eilert's sake, I
+wouldn't do that.
+
+
+
+@l{"name":"Hedda"}
+
+
+So no one knows that Eilert Lovborg's manuscript is in your possession?
+
+
+
+@l{"name":"George"}
+
+
+No. And no one must know it.
+
+
+@l{"name":"Hedda"}
+
+
+Then what did you say to him afterwards?
+
+
+
+@l{"name":"George"}
+
+
+I didn't talk to him again at all; for when we got in among the streets,
+he and two or three of the others gave us the slip and disappeared.
+Fancy that!
+
+
+
+@l{"name":"Hedda"}
+
+
+Indeed! They must have taken him home then.
+
+
+
+@l{"name":"George"}
+
+
+Yes, so it would appear. And Brack, too, left us.
+
+
+
+@l{"name":"Hedda"}
+
+
+And what have you been doing with yourself since?
+
+
+
+@l{"name":"George"}
+
+
+Well, I and some of the others went home with one of the party, a jolly
+fellow, and took our morning coffee with him; or perhaps I should rather
+call it our night coffee--eh? But now, when I have rested a little, and
+given Eilert, poor fellow, time to have his sleep out, I must take this
+back to him.
+
+
+
+@d{}
+[Holds out her hand for the packet.] 
+@l{"name":"Hedda"}
+No--don't give it to him! Not in
+such a hurry, I mean. Let me read it first.
+
+
+
+@l{"name":"George"}
+
+
+No, my dearest Hedda, I mustn't, I really mustn't.
+
+
+
+@l{"name":"Hedda"}
+
+
+You must not?
+
+
+
+@l{"name":"George"}
+
+
+No--for you can imagine what a state of despair he will be in when he
+wakens and misses the manuscript. He has no copy of it, you must know!
+He told me so.
+
+
+
+@d{}
+[Looking searchingly at him.] 
+@l{"name":"Hedda"}
+Can such a thing not be reproduced?
+Written over again?
+
+
+
+@l{"name":"George"}
+
+
+No, I don't think that would be possible. For the inspiration, you
+see--
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, yes--I suppose it depends on that--
+@d{}
+[Lightly.] 
+@l{"name":"Hedda"}
+But, by-the-bye
+--here is a letter for you.
+
+
+
+@l{"name":"George"}
+
+
+Fancy--!
+
+
+
+@d{}
+[Handing it to him.] 
+@l{"name":"Hedda"}
+It came early this morning.
+
+
+
+@l{"name":"George"}
+
+
+It's from Aunt Julia! What can it be? 
+@d{}
+[He lays the packet on the other
+footstool, opens the letter, runs his eye through it, and jumps up.] 
+@l{"name":"George"}
+Oh,
+Hedda--she says that poor Aunt Rina is dying!
+
+
+
+@l{"name":"Hedda"}
+
+
+Well, we were prepared for that.
+
+
+
+@l{"name":"George"}
+
+
+And that if I want to see her again, I must make haste. I'll run in to
+them at once.
+
+
+
+@d{}
+[Suppressing a smile.] 
+@l{"name":"Hedda"}
+Will you run?
+
+
+
+@l{"name":"George"}
+
+
+Oh, my dearest Hedda--if you could only make up your mind to come with
+me! Just think!
+
+
+
+@d{}
+[Rises and says wearily, repelling the idea.] 
+@l{"name":"Hedda"}
+No, no don't ask me. I
+will not look upon sickness and death. I loathe all sorts of ugliness.
+
+
+
+@l{"name":"George"}
+
+
+Well, well, then--! 
+@d{}
+[Bustling around.] 
+@l{"name":"George"}
+My hat--? My overcoat--? Oh,
+in the hall--. I do hope I mayn't come too late, Hedda! Eh?
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh, if you run-- 
+@d{}
+[BERTA appears at the hall door.
+
+
+
+@e{"names":["Berta"]}
+
+@l{"name":"Berta"}
+
+
+Judge Brack is at the door, and wishes to know if he may come in.
+
+
+
+@l{"name":"George"}
+
+
+At this time! No, I can't possibly see him.
+
+
+
+@l{"name":"Hedda"}
+
+
+But I can. 
+@d{}
+[To Berta] 
+@l{"name":"Hedda"}
+Ask Judge Brack to come in. 
+@d{}
+[BERTA goes out.
+
+
+
+@x{"names":["Berta"]}
+
+@d{}
+[Quickly, whispering.] 
+@l{"name":"Hedda"}
+The parcel, Tesman!
+
+   
+@d{}
+[She snatches it up from the stool.
+
+
+
+@l{"name":"George"}
+
+
+Yes, give it to me!
+
+
+
+@l{"name":"Hedda"}
+
+
+No, no, I will keep it till you come back.
+
+     
+@d{}
+[She goes to the writing-table and places it in the bookcase.
+       TESMAN stands in a flurry of haste, and cannot get his
+       gloves on.
+
+
+  JUDGE BRACK enters from the hall.
+
+
+
+@e{"names":["Judge Brack"]}
+
+@d{}
+[Nodding to him.] 
+@l{"name":"Hedda"}
+You are an early bird, I must say.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Yes, don't you think so! 
+@d{}
+[To George] 
+@l{"name":"Judge Brack"}
+Are you on the move, too?
+
+
+
+@l{"name":"George"}
+
+
+Yes, I must rush of to my aunts'. Fancy--the invalid one is lying at
+death's door, poor creature.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Dear me, is she indeed? Then on no account let me detain you. At such a
+critical moment--
+
+
+
+@l{"name":"George"}
+
+
+Yes, I must really rush-- Good-bye! Good-bye!
+
+   
+@d{}
+[He hastens out by the hall door.
+
+
+
+@x{"names":["George"]}
+
+@d{}
+[Approaching.] 
+@l{"name":"Hedda"}
+You seem to have made a particularly lively night of it
+at your rooms, Judge Brack.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+I assure you I have not had my clothes off, Mrs. Hedda.
+
+
+
+@l{"name":"Hedda"}
+
+
+Not you, either?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+No, as you may see. But what has Tesman been telling you of the night's
+adventures?
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh, some tiresome story. Only that they went and had coffee somewhere or
+other.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+I have heard about that coffee-party already. Eilert Lovborg was not
+with them, I fancy?
+
+
+
+@l{"name":"Hedda"}
+
+
+No, they had taken him home before that.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Tesman too?
+
+
+
+@l{"name":"Hedda"}
+
+
+No, but some of the others, he said.
+
+
+
+@d{}
+[Smiling.] 
+@l{"name":"Judge Brack"}
+George Tesman is really an ingenuous creature, Mrs. Hedda.
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, heaven knows he is. Then is there something behind all this?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Yes, perhaps there may be.
+
+
+
+@l{"name":"Hedda"}
+
+
+Well then, sit down, my dear Judge, and tell your story in comfort.
+
+     
+@d{}
+[She seats herself to the left of the table.  BRACK sits near
+       her, at the long side of the table.
+
+
+
+@l{"name":"Hedda"}
+
+
+Now then?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+I had special reasons for keeping track of my guests--last night.
+
+
+
+@l{"name":"Hedda"}
+
+
+Of Eilert Lovborg among the rest, perhaps?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Frankly, yes.
+
+
+
+@l{"name":"Hedda"}
+
+
+Now you make me really curious--
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Do you know where he and one or two of the others finished the night,
+Mrs. Hedda?
+
+
+
+@l{"name":"Hedda"}
+
+
+If it is not quite unmentionable, tell me.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Oh no, it's not at all unmentionable. Well, they put in an appearance at
+a particularly animated soiree.
+
+
+
+@l{"name":"Hedda"}
+
+
+Of the lively kind?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Of the very liveliest--
+
+
+
+@l{"name":"Hedda"}
+
+
+Tell me more of this, Judge Brack--
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Lovborg, as well as the others, had been invited in advance. I knew all
+about it. But he had declined the invitation; for now, as you know, he
+has become a new man.
+
+
+
+@l{"name":"Hedda"}
+
+
+Up at the Elvsteds', yes. But he went after all, then?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Well, you see, Mrs. Hedda--unhappily the spirit moved him at my rooms
+last evening--
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, I hear he found inspiration.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Pretty violent inspiration. Well, I fancy that altered his purpose; for
+we menfolk are unfortunately not always so firm in our principles as we
+ought to be.
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh, I am sure you are an exception, Judge Brack. But as to Lovborg--?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+To make a long story short--he landed at last in Mademoiselle Diana's
+rooms.
+
+
+
+@l{"name":"Hedda"}
+
+
+Mademoiselle Diana's?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+It was Mademoiselle Diana that was giving the soiree, to a select circle
+of her admirers and her lady friends.
+
+
+
+@l{"name":"Hedda"}
+
+
+Is she a red-haired woman?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Precisely.
+
+
+
+@l{"name":"Hedda"}
+
+
+A sort of a--singer?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Oh yes--in her leisure moments. And moreover a mighty huntress--of
+men--Mrs. Hedda. You have no doubt heard of her. Eilert Lovborg was one
+of her most enthusiastic protectors--in the days of his glory.
+
+
+
+@l{"name":"Hedda"}
+
+
+And how did all this end?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Far from amicably, it appears. After a most tender meeting, they seem to
+have come to blows--
+
+
+
+@l{"name":"Hedda"}
+
+
+Lovborg and she?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Yes. He accused her or her friends of having robbed him. He declared
+that his pocket-book had disappeared--and other things as well. In
+short, he seems to have made a furious disturbance.
+
+
+
+@l{"name":"Hedda"}
+
+
+And what came of it all?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+It came to a general scrimmage, in which the ladies as well as the
+gentlemen took part. Fortunately the police at last appeared on the
+scene.
+
+
+
+@l{"name":"Hedda"}
+
+
+The police too?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Yes. I fancy it will prove a costly frolic for Eilert Lovborg, crazy
+being that he is.
+
+
+
+@l{"name":"Hedda"}
+
+
+How so?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+He seems to have made a violent resistance--to have hit one of the
+constables on the head and torn the coat off his back. So they had to
+march him off to the police-station with the rest.
+
+
+
+@l{"name":"Hedda"}
+
+
+How have you learnt all this?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+From the police themselves.
+
+
+
+@d{}
+[Gazing straight before her.] 
+@l{"name":"Hedda"}
+So that is what happened. Then he had no
+vine-leaves in his hair.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Vine-leaves, Mrs. Hedda?
+
+
+
+@d{}
+[Changing her tone.] 
+@l{"name":"Hedda"}
+But tell me now, Judge--what is your real reason
+for tracking out Eilert Lovborg's movements so carefully?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+In the first place, it could not be entirely indifferent to me if it
+should appear in the police-court that he came straight from my house.
+
+
+
+@l{"name":"Hedda"}
+
+
+Will the matter come into court then?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Of course. However, I should scarcely have troubled so much about that.
+But I thought that, as a friend of the family, it was my duty to supply
+you and Tesman with a full account of his nocturnal exploits.
+
+
+
+@l{"name":"Hedda"}
+
+
+Why so, Judge Brack?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Why, because I have a shrewd suspicion that he intends to use you as a
+sort of blind.
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh, how can you think such a thing!
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Good heavens, Mrs. Hedda--we have eyes in our head. Mark my words! This
+Mrs. Elvsted will be in no hurry to leave town again.
+
+
+
+@l{"name":"Hedda"}
+
+
+Well, even if there should be anything between them, I suppose there are
+plenty of other places where they could meet.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Not a single home. Henceforth, as before, every respectable house will
+be closed against Eilert Lovborg.
+
+
+
+@l{"name":"Hedda"}
+
+
+And so ought mine to be, you mean?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Yes. I confess it would be more than painful to me if this personage
+were to be made free of your house. How superfluous, how intrusive, he
+would be, if he were to force his way into--
+
+
+
+@l{"name":"Hedda"}
+
+
+--into the triangle?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Precisely. It would simply mean that I should find myself homeless.
+
+
+
+@d{}
+[Looks at him with a smile.] 
+@l{"name":"Hedda"}
+So you want to be the one cock in the
+basket--that is your aim.
+
+
+
+@d{}
+[Nods slowly and lowers his voice.] 
+@l{"name":"Judge Brack"}
+Yes, that is my aim. And for that I
+will fight--with every weapon I can command.
+
+
+
+@d{}
+[Her smile vanishing.] 
+@l{"name":"Hedda"}
+I see you are a dangerous person--when it comes
+to the point.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Do you think so?
+
+
+
+@l{"name":"Hedda"}
+
+
+I am beginning to think so. And I am exceedingly glad to think--that you
+have no sort of hold over me.
+
+
+
+@d{}
+[Laughing equivocally.] 
+@l{"name":"Judge Brack"}
+Well well, Mrs. Hedda--perhaps you are right
+there. If I had, who knows what I might be capable of?
+
+
+
+@l{"name":"Hedda"}
+
+
+Come come now, Judge Brack! That sounds almost like a threat.
+
+
+
+@d{}
+[Rising.] 
+@l{"name":"Judge Brack"}
+Oh, not at all! The triangle, you know, ought, if possible, to
+be spontaneously constructed.
+
+
+
+@l{"name":"Hedda"}
+
+
+There I agree with you.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Well, now I have said all I had to say; and I had better be getting back
+to town. Good-bye, Mrs. Hedda. [He goes towards the glass door.
+
+
+
+@d{}
+[Rising.] 
+@l{"name":"Hedda"}
+Are you going through the garden?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Yes, it's a short cut for me.
+
+
+
+@l{"name":"Hedda"}
+
+
+And then it is a back way, too.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Quite so. I have no objection to back ways. They may be piquant enough
+at times.
+
+
+
+@l{"name":"Hedda"}
+
+
+When there is ball practice going on, you mean?
+
+
+
+@d{}
+[In the doorway, laughing to her.] 
+@l{"name":"Judge Brack"}
+Oh, people don't shoot their tame
+poultry, I fancy.
+
+
+
+@d{}
+[Also laughing.] 
+@l{"name":"Hedda"}
+Oh no, when there is only one cock in the basket--
+
+     
+@d{}
+[They exchange laughing nods of farewell.  He goes.  She closes
+       the door behind him.
+
+     [HEDDA, who has become quite serious, stands for a moment
+       looking out.  Presently she goes and peeps through the
+       curtain over the middle doorway.  Then she goes to the
+       writing-table, takes LOVBORG'S packet out of the bookcase,
+       and is on the point of looking through its contents.  BERTA
+       is heard speaking loudly in the hall.  HEDDA turns and
+       listens.  Then she hastily locks up the packet in the drawer,
+       and lays the key on the inkstand.
+
+
+  EILERT LOVBORG, with his greatcoat on and his hat in his
+  hand, tears open the hall door.  He looks somewhat confused
+  and irritated.
+
+
+
+@e{"names":["Eilert Lovborg"]}
+
+@x{"names":["Judge Brack"]}
+
+@d{}
+[Looking towards the hall.] 
+@l{"name":"Eilert Lovborg"}
+and I tell you I must and will come in!
+There!
+
+     
+@d{}
+[He closes the door, turns, sees HEDDA, at once regains his self-
+       control, and bows.
+
+
+
+@d{}
+[At the writing-table.] 
+@l{"name":"Hedda"}
+Well, Mr Lovborg, this is rather a late hour to
+call for Thea.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+You mean rather an early hour to call on you. Pray pardon me.
+
+
+
+@l{"name":"Hedda"}
+
+
+How do you know that she is still here?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+They told me at her lodgings that she had been out all night.
+
+
+
+@d{}
+[Going to the oval table.] 
+@l{"name":"Hedda"}
+Did you notice anything about the people of
+the house when they said that?
+
+
+
+@d{}
+[Looks inquiringly at her.] 
+@l{"name":"Eilert Lovborg"}
+Notice anything about them?
+
+
+
+@l{"name":"Hedda"}
+
+
+I mean, did they seem to think it odd?
+
+
+
+@d{}
+[Suddenly understanding.] 
+@l{"name":"Eilert Lovborg"}
+Oh yes, of course! I am dragging her down with
+me! However, I didn't notice anything.--I suppose Tesman is not up yet.
+
+
+
+@l{"name":"Hedda"}
+
+
+No--I think not--
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+When did he come home?
+
+
+
+@l{"name":"Hedda"}
+
+
+Very late.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Did he tell you anything?
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, I gathered that you had had an exceedingly jolly evening at Judge
+Brack's.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Nothing more?
+
+
+
+@l{"name":"Hedda"}
+
+
+I don't think so. However, I was so dreadfully sleepy--
+
+
+    
+@d{}
+MRS. ELVSTED enters through the curtains of the middle doorway.
+
+
+
+@e{"names":["Mrs. Elvsted"]}
+
+@d{}
+[Going towards him.] 
+@l{"name":"Mrs. Elvsted"}
+Ah, Lovborg! At last--!
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Yes, at last. And too late!
+
+
+
+@d{}
+[Looks anxiously at him.] 
+@l{"name":"Mrs. Elvsted"}
+What is too late?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Everything is too late now. It is all over with me.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh no, no--don't say that!
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+You will say the same when you hear--
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+I won't hear anything!
+
+
+
+@l{"name":"Hedda"}
+
+
+Perhaps you would prefer to talk to her alone? If so, I will leave you.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+No, stay--you too. I beg you to stay.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, but I won't hear anything, I tell you.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+It is not last night's adventures that I want to talk about.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+What is it then--?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+I want to say that now our ways must part.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Part!
+
+
+
+@d{}
+[
+@l{"name":"Hedda"}
+Involuntarily.] I knew it!
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+You can be of no more service to me, Thea.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+How can you stand there and say that! No more service to you! Am I not
+to help you now, as before? Are we not to go on working together?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Henceforward I shall do no work.
+
+
+
+@d{}
+[Despairingly.] 
+@l{"name":"Mrs. Elvsted"}
+Then what am I to do with my life?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+You must try to live your life as if you had never know me.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+But you know I cannot do that!
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Try if you cannot, Thea. You must go home again--
+
+
+
+@d{}
+[In vehement protest.] 
+@l{"name":"Mrs. Elvsted"}
+Never in this world! Where you are, there will I
+be also! I will not let myself be driven away like this! I will remain
+here! I will be with you when the book appears.
+
+
+
+@d{}
+[Half aloud, in suspense.] 
+@l{"name":"Hedda"}
+Ah yes--the book!
+
+
+
+@d{}
+[Looks at her.] 
+@l{"name":"Eilert Lovborg"}
+My book and Thea's; for that is what it is.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, I feel that it is. And that is why I have a right to be with you
+when it appears! I will see with my own eyes how respect and honour pour
+in upon you afresh. And the happiness--the happiness--oh, I must share
+it with you!
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Thea--our book will never appear.
+
+
+
+@l{"name":"Hedda"}
+
+
+Ah!
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Never appear!
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Can never appear.
+
+
+
+@d{}
+[In agonised foreboding.] 
+@l{"name":"Mrs. Elvsted"}
+Lovborg--what have you done with the
+manuscript?
+
+
+
+@d{}
+[Looks anxiously at him.] 
+@l{"name":"Hedda"}
+Yes, the manuscript--?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Where is it?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+The manuscript--. Well then--I have torn the manuscript into a thousand
+pieces.
+
+
+
+@d{}
+[Shrieks.] 
+@l{"name":"Mrs. Elvsted"}
+Oh no, no--!
+
+
+
+@d{}
+[Involuntarily.] 
+@l{"name":"Hedda"}
+But that's not--
+
+
+
+@d{}
+[Looks at her.] 
+@l{"name":"Eilert Lovborg"}
+Not true, you think?
+
+
+
+@d{}
+[Collecting herself.] 
+@l{"name":"Hedda"}
+Oh well, of course--since you say so. But it
+sounded so improbable--
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+It is true, all the same.
+
+
+
+@d{}
+[Wringing her hands.] 
+@l{"name":"Mrs. Elvsted"}
+Oh God--oh God, Hedda--torn his own work to
+pieces!
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+I have torn my own life to pieces. So why should I not tear my
+life-work too--?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+And you did this last night?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Yes, I tell you! Tore it into a thousand pieces--and scattered them on
+the fiord--far out. There there is cool sea-water at any rate--let them
+drift upon it--drift with the current and the wind. And then presently
+they will sink--deeper and deeper--as I shall, Thea.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Do you know, Lovborg, that what you have done with the book--I shall
+think of it to my dying day as though you had killed a little child.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Yes, you are right. It is a sort of child-murder.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+How could you, then--! Did not the child belong to me too?
+
+
+
+@d{}
+[Almost inaudibly.] 
+@l{"name":"Hedda"}
+Ah, the child--
+
+
+
+@d{}
+[Breathing heavily.] 
+@l{"name":"Mrs. Elvsted"}
+It is all over then. Well well, now I will go,
+Hedda.
+
+
+
+@l{"name":"Hedda"}
+
+
+But you are not going away from town?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh, I don't know what I shall do. I see nothing but darkness before me.
+
+@d{}
+[She goes out by the hall door.
+
+
+
+@x{"names":["Mrs. Elvsted"]}
+
+@d{}
+[Stands waiting for a moment.] 
+@l{"name":"Hedda"}
+So you are not going to see her home, Mr.
+Lovborg?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+I? Through the streets? Would you have people see her walking with me?
+
+
+
+@l{"name":"Hedda"}
+
+
+Of course I don't know what else may have happened last night. But is it
+so utterly irretrievable?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+It will not end with last night--I know that perfectly well. And the
+thing is that now I have no taste for that sort of life either. I won't
+begin it anew. She has broken my courage and my power of braving life
+out.
+
+
+
+@d{}
+[Looking straight before her.] 
+@l{"name":"Hedda"}
+So that pretty little fool has had her
+fingers in a man's destiny. 
+@d{}
+[Looks at him.] 
+@l{"name":"Hedda"}
+But all the same, how could
+you treat her so heartlessly.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Oh, don't say that I was heartless!
+
+
+
+@l{"name":"Hedda"}
+
+
+To go and destroy what has filled her whole soul for months and years!
+You do not call that heartless!
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+To you I can tell the truth, Hedda.
+
+
+
+@l{"name":"Hedda"}
+
+
+The truth?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+First promise me--give me your word--that what I now confide in you Thea
+shall never know.
+
+
+
+@l{"name":"Hedda"}
+
+
+I give you my word.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Good. Then let me tell you that what I said just now was untrue.
+
+
+
+@l{"name":"Hedda"}
+
+
+About the manuscript?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Yes. I have not torn it to pieces--nor thrown it into the fiord.
+
+
+
+@l{"name":"Hedda"}
+
+
+No, no--. But--where is it then?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+I have destroyed it none the less--utterly destroyed it, Hedda!
+
+
+
+@l{"name":"Hedda"}
+
+
+I don't understand.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Thea said that what I had done seemed to her like a child-murder.
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, so she said.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+But to kill his child--that is not the worst thing a father can do to
+it.
+
+
+
+@l{"name":"Hedda"}
+
+
+Not the worst?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Suppose now, Hedda, that a man--in the small hours of the morning--came
+home to his child's mother after a night of riot and debauchery, and
+said: "Listen--I have been here and there--in this place and in that.
+And I have taken our child with--to this place and to that. And I have
+lost the child--utterly lost it. The devil knows into what hands it may
+have fallen--who may have had their clutches on it."
+
+
+
+@l{"name":"Hedda"}
+
+
+Well--but when all is said and done, you know--this was only a book--
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Thea's pure soul was in that book.
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, so I understand.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+And you can understand, too, that for her and me together no future is
+possible.
+
+
+
+@l{"name":"Hedda"}
+
+
+What path do you mean to take then?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+None. I will only try to make an end of it all--the sooner the better.
+
+
+
+@d{}
+[A step nearer him.] 
+@l{"name":"Hedda"}
+Eilert Lovborg--listen to me.--Will you not try
+to--to do it beautifully?
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Beautifully? 
+@d{}
+[Smiling.] 
+@l{"name":"Eilert Lovborg"}
+With vine-leaves in my hair, as you used to
+dream in the old days--?
+
+
+
+@l{"name":"Hedda"}
+
+
+No, no. I have lost my faith in the vine-leaves. But beautifully
+nevertheless! For once in a way!--Good-bye! You must go now--and do not
+come here any more.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Good-bye, Mrs. Tesman. And give George Tesman my love.
+
+   
+@d{}
+[He is on the point of going.
+
+
+
+@l{"name":"Hedda"}
+
+
+No, wait! I must give you a memento to take with you.
+
+     
+@d{}
+[She goes to the writing-table and opens the drawer and the
+       pistol-case; then returns to LOVBORG with one of the pistols.
+
+
+
+@d{}
+[Looks at her.] 
+@l{"name":"Eilert Lovborg"}
+This? Is this the memento?
+
+
+
+@d{}
+[Nodding slowly.] 
+@l{"name":"Hedda"}
+Do you recognise it? It was aimed at you once.
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+You should have used it then.
+
+
+
+@l{"name":"Hedda"}
+
+
+Take it--and do you use it now.
+
+
+
+@d{}
+[Puts the pistol in his breast pocket.] 
+@l{"name":"Eilert Lovborg"}
+Thanks!
+
+
+
+@l{"name":"Hedda"}
+
+
+And beautifully, Eilert Lovborg. Promise me that!
+
+
+
+@l{"name":"Eilert Lovborg"}
+
+
+Good-bye, Hedda Gabler. 
+@d{}
+[He goes out by the hall door.
+
+     [HEDDA listens for a moment at the door.  Then she goes up to
+       the writing-table, takes out the packet of manuscript, peeps
+       under the cover, draws a few of the sheets half out, and
+       looks at them.  Next she goes over and seats herself in the
+       arm-chair beside the stove, with the packet in her lap.
+       Presently she opens the stove door, and then the packet.
+
+
+
+@x{"names":["Eilert Lovborg"]}
+
+@d{}
+[Throws one of the quires into the fire and whispers to herself.] 
+@l{"name":"Hedda"}
+Now I
+am burning your child, Thea!--Burning it, curly-locks! 
+@d{}
+[Throwing one
+or two more quires into the stove.] 
+@l{"name":"Hedda"}
+Your child and Eilert Lovborg's.
+
+@d{}
+[Throws the rest in.] 
+@l{"name":"Hedda"}
+I am burning--I am burning your child.
+
+
+
+@x{"names":["Hedda"]}
+
+
+@a{"number":4}
+@s{"number":1}
+@d{}
+
+ACT FOURTH.
+
+  The same rooms at the TESMANS'.  It is evening.  The drawing-
+  room is in darkness.  The back room is light by the hanging
+  lamp over the table.  The curtains over the glass door are
+  drawn close.
+
+  HEDDA, dressed in black, walks to and fro in the dark room.
+  Then she goes into the back room and disappears for a moment
+  to the left.  She is heard to strike a few chords on the
+  piano.  Presently she comes in sight again, and returns to
+  the drawing-room.
+
+  BERTA enters from the right, through the inner room, with a
+  lighted lamp, which she places on the table in front of the
+  corner settee in the drawing-room.  Her eyes are red with
+  weeping, and she has black ribbons in her cap.  She goes
+  quietly and circumspectly out to the right.  HEDDA goes up
+  to the glass door, lifts the curtain a little aside, and
+  looks out into the darkness.
+
+  Shortly afterwards, MISS TESMAN, in mourning, with a bonnet
+  and veil on, comes in from the hall.  HEDDA goes towards her
+  and holds out her hand.
+
+
+
+@e{"names":["Hedda","Miss Tesman"]}
+
+@l{"name":"Miss Tesman"}
+
+
+Yes, Hedda, here I am, in mourning and forlorn; for now my poor sister
+has at last found peace.
+
+
+
+@l{"name":"Hedda"}
+
+
+I have heard the news already, as you see. Tesman sent me a card.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Yes, he promised me he would. But nevertheless I thought that to
+Hedda--here in the house of life--I ought myself to bring the tidings of
+death.
+
+
+
+@l{"name":"Hedda"}
+
+
+That was very kind of you.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Ah, Rina ought not to have left us just now. This is not the time for
+Hedda's house to be a house of mourning.
+
+
+
+@d{}
+[Changing the subject.] 
+@l{"name":"Hedda"}
+She died quite peacefully, did she not, Miss
+Tesman?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Oh, her end was so calm, so beautiful. And then she had the unspeakable
+happiness of seeing George once more--and bidding him good-bye.--Has he
+not come home yet?
+
+
+
+@l{"name":"Hedda"}
+
+
+No. He wrote that he might be detained. But won't you sit down?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+No thank you, my dear, dear Hedda. I should like to, but I have so much
+to do. I must prepare my dear one for her rest as well as I can. She
+shall go to her grave looking her best.
+
+
+
+@l{"name":"Hedda"}
+
+
+Can I not help you in any way?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Oh, you must not think of it! Hedda Tesman must have no hand in such
+mournful work. Nor let her thought dwell on it either--not at this time.
+
+
+
+@l{"name":"Hedda"}
+
+
+One is not always mistress of one's thoughts--
+
+
+
+@d{}
+[Continuing.] 
+@l{"name":"Miss Tesman"}
+Ah yes, it is the way of the world. At home we shall be
+sewing a shroud; and here there will soon be sewing too, I suppose--but
+of another sort, thank God!
+
+
+  
+@d{}
+GEORGE TESMAN enters by the hall door.
+
+
+
+@e{"names":["George"]}
+
+@l{"name":"Hedda"}
+
+
+Ah, you have come at last!
+
+
+
+@l{"name":"George"}
+
+
+You here, Aunt Julia? With Hedda? Fancy that!
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+I was just going, my dear boy. Well, have you done all you promised?
+
+
+
+@l{"name":"George"}
+
+
+No; I'm really afraid I have forgotten half of it. I must come to you
+again to-morrow. To-day my brain is all in a whirl. I can't keep my
+thoughts together.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Why, my dear George, you mustn't take it in this way.
+
+
+
+@l{"name":"George"}
+
+
+Mustn't--? How do you mean?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Even in your sorrow you must rejoice, as I do--rejoice that she is at
+rest.
+
+
+
+@l{"name":"George"}
+
+
+Oh yes, yes--you are thinking of Aunt Rina.
+
+
+
+@l{"name":"Hedda"}
+
+
+You will feel lonely now, Miss Tesman.
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Just at first, yes. But that will not last very long, I hope. I daresay
+I shall soon find an occupant for Rina's little room.
+
+
+
+@l{"name":"George"}
+
+
+Indeed? Who do you think will take it? Eh?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Oh, there's always some poor invalid or other in want of nursing,
+unfortunately.
+
+
+
+@l{"name":"Hedda"}
+
+
+Would you really take such a burden upon you again?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+A burden! Heaven forgive you, child--it has been no burden to me.
+
+
+
+@l{"name":"Hedda"}
+
+
+But suppose you had a total stranger on your hands--
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Oh, one soon makes friends with sick folk; and it's such an absolute
+necessity for me to have some one to live for. Well, heaven be praised,
+there may soon be something in this house, too, to keep an old aunt
+busy.
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh, don't trouble about anything here.
+
+
+
+@l{"name":"George"}
+
+
+Yes, just fancy what a nice time we three might have together, if--?
+
+
+
+@l{"name":"Hedda"}
+
+
+If--?
+
+
+
+@d{}
+[Uneasily.] 
+@l{"name":"George"}
+Oh nothing. It will all come right. Let us hope so--eh?
+
+
+
+@l{"name":"Miss Tesman"}
+
+
+Well well, I daresay you two want to talk to each other. 
+@d{}
+[Smiling.] 
+@l{"name":"Miss Tesman"}
+And
+perhaps Hedda may have something to tell you too, George. Good-bye! I
+must go home to Rina. 
+@d{}
+[Turning at the door.] 
+@l{"name":"Miss Tesman"}
+How strange it is to think
+that now Rina is with me and with my poor brother as well!
+
+
+
+@l{"name":"George"}
+
+
+Yes, fancy that, Aunt Julia! Eh?
+
+   
+@d{}
+[MISS TESMAN goes out by the hall door.
+
+
+
+@x{"names":["Miss Tesman"]}
+
+@d{}
+[Follows TESMAN coldly and searchingly with her eyes.] 
+@l{"name":"Hedda"}
+I almost believe
+your Aunt Rina's death affects you more than it does your Aunt Julia.
+
+
+
+@l{"name":"George"}
+
+
+Oh, it's not that alone. It's Eilert I am so terribly uneasy about.
+
+
+
+@d{}
+[Quickly.] 
+@l{"name":"Hedda"}
+Is there anything new about him?
+
+
+
+@l{"name":"George"}
+
+
+I looked in at his rooms this afternoon, intending to tell him the
+manuscript was in safe keeping.
+
+
+
+@l{"name":"Hedda"}
+
+
+Well, did you find him?
+
+
+
+@l{"name":"George"}
+
+
+No. He wasn't at home. But afterwards I met Mrs. Elvsted, and she told
+me that he had been here early this morning.
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, directly after you had gone.
+
+
+
+@l{"name":"George"}
+
+
+And he said that he had torn his manuscript to pieces--eh?
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, so he declared.
+
+
+
+@l{"name":"George"}
+
+
+Why, good heavens, he must have been completely out of his mind! And I
+suppose you thought it best not to give it back to him, Hedda?
+
+
+
+@l{"name":"Hedda"}
+
+
+No, he did not get it.
+
+
+
+@l{"name":"George"}
+
+
+But of course you told him that we had it?
+
+
+
+@l{"name":"Hedda"}
+
+
+No. 
+@d{}
+[Quickly.] 
+@l{"name":"Hedda"}
+Did you tell Mrs. Elvsted?
+
+
+
+@l{"name":"George"}
+
+
+No; I thought I had better not. But you ought to have told him. Fancy,
+if, in desperation, he should go and do himself some injury! Let me have
+the manuscript, Hedda! I will take it to him at once. Where is it?
+
+
+
+@d{}
+[Cold and immovable, leaning on the arm-chair.] 
+@l{"name":"Hedda"}
+I have not got it.
+
+
+
+@l{"name":"George"}
+
+
+Have not got it? What in the world do you mean?
+
+
+
+@l{"name":"Hedda"}
+
+
+I have burnt it--every line of it.
+
+
+
+@d{}
+[With a violent movement of terror.] 
+@l{"name":"George"}
+Burnt! Burnt Eilert's manuscript!
+
+
+
+@l{"name":"Hedda"}
+
+
+Don't scream so. The servant might hear you.
+
+
+
+@l{"name":"George"}
+
+
+Burnt! Why, good God--! No, no, no! It's impossible!
+
+
+
+@l{"name":"Hedda"}
+
+
+It is so, nevertheless.
+
+
+
+@l{"name":"George"}
+
+
+Do you know what you have done, Hedda? It's unlawful appropriation of
+lost property. Fancy that! Just ask Judge Brack, and he'll tell you what
+it is.
+
+
+
+@l{"name":"Hedda"}
+
+
+I advise you not to speak of it--either to Judge Brack or to anyone
+else.
+
+
+
+@l{"name":"George"}
+
+
+But how could you do anything so unheard-of? What put it into your head?
+What possessed you? Answer me that--eh?
+
+
+
+@d{}
+[Suppressing an almost imperceptible smile.] 
+@l{"name":"Hedda"}
+I did it for your sake,
+George.
+
+
+
+@l{"name":"George"}
+
+
+For my sake!
+
+
+
+@l{"name":"Hedda"}
+
+
+This morning, when you told me about what he had read to you--
+
+
+
+@l{"name":"George"}
+
+
+Yes yes--what then?
+
+
+
+@l{"name":"Hedda"}
+
+
+You acknowledged that you envied him his work.
+
+
+
+@l{"name":"George"}
+
+
+Oh, of course I didn't mean that literally.
+
+
+
+@l{"name":"Hedda"}
+
+
+No matter--I could not bear the idea that any one should throw you into
+the shade.
+
+
+
+@d{}
+[In an outburst of mingled doubt and joy.] 
+@l{"name":"George"}
+Hedda! Oh, is this true?
+But--but--I never knew you show your love like that before. Fancy that!
+
+
+
+@l{"name":"Hedda"}
+
+
+Well, I may as well tell you that--just at this time-- 
+@d{}
+[Impatiently
+breaking off.] 
+@l{"name":"Hedda"}
+No, no; you can ask Aunt Julia. She well tell you, fast
+enough.
+
+
+
+@l{"name":"George"}
+
+
+Oh, I almost think I understand you, Hedda! 
+@d{}
+[Clasps his hands together.]
+
+@l{"name":"George"}
+Great heavens! do you really mean it! Eh?
+
+
+
+@l{"name":"Hedda"}
+
+
+Don't shout so. The servant might hear.
+
+
+
+@d{}
+[Laughing in irrepressible glee.] 
+@l{"name":"George"}
+The servant! Why, how absurd you are,
+Hedda. It's only my old Berta! Why, I'll tell Berta myself.
+
+
+
+@d{}
+[Clenching her hands together in desperation.] 
+@l{"name":"Hedda"}
+Oh, it is killing me,
+--it is killing me, all this!
+
+
+
+@l{"name":"George"}
+
+
+What is, Hedda? Eh?
+
+
+
+@d{}
+[Coldly, controlling herself.] 
+@l{"name":"Hedda"}
+All this--absurdity--George.
+
+
+
+@l{"name":"George"}
+
+
+Absurdity! Do you see anything absurd in my being overjoyed at the news!
+But after all--perhaps I had better not say anything to Berta.
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh--why not that too?
+
+
+
+@l{"name":"George"}
+
+
+No, no, not yet! But I must certainly tell Aunt Julia. And then that you
+have begun to call me George too! Fancy that! Oh, Aunt Julia will be so
+happy--so happy!
+
+
+
+@l{"name":"Hedda"}
+
+
+When she hears that I have burnt Eilert Lovborg's manuscript--for your
+sake?
+
+
+
+@l{"name":"George"}
+
+
+No, by-the-bye--that affair of the manuscript--of course nobody must
+know about that. But that you love me so much, Hedda--Aunt Julia
+must really share my joy in that! I wonder, now, whether this sort of
+thing is usual in young wives? Eh?
+
+
+
+@l{"name":"Hedda"}
+
+
+I think you had better ask Aunt Julia that question too.
+
+
+
+@l{"name":"George"}
+
+
+I will indeed, some time or other. 
+@d{}
+[Looks uneasy and downcast again.]
+
+@l{"name":"George"}
+And yet the manuscript--the manuscript! Good God! it is terrible to
+think what will become of poor Eilert now.
+
+
+  
+@d{}
+MRS. ELVSTED, dressed as in the first Act, with hat and cloak,
+  enters by the hall door.
+
+
+
+@e{"names":["Mrs. Elvsted"]}
+
+@d{}
+[Greets them hurriedly, and says in evident agitation.] 
+@l{"name":"Mrs. Elvsted"}
+Oh, dear Hedda,
+forgive my coming again.
+
+
+
+@l{"name":"Hedda"}
+
+
+What is the matter with you, Thea?
+
+
+
+@l{"name":"George"}
+
+
+Something about Eilert Lovborg again--eh?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes! I am dreadfully afraid some misfortune has happened to him.
+
+
+
+@d{}
+[Seized her arm.] 
+@l{"name":"Hedda"}
+Ah,--do you think so?
+
+
+
+@l{"name":"George"}
+
+
+Why, good Lord--what makes you think that, Mrs. Elvsted?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+I heard them talking of him at my boarding-house--just as I came in. Oh,
+the most incredible rumours are afloat about him to-day.
+
+
+
+@l{"name":"George"}
+
+
+Yes, fancy, so I heard too! And I can bear witness that he went straight
+home to bed last night. Fancy that!
+
+
+
+@l{"name":"Hedda"}
+
+
+Well, what did they say at the boarding-house?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh, I couldn't make out anything clearly. Either they knew nothing
+definite, or else--. They stopped talking when the saw me; and I did
+not dare to ask.
+
+
+
+@d{}
+[Moving about uneasily.] 
+@l{"name":"George"}
+We must hope--we must hope that you
+misunderstood them, Mrs. Elvsted.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+No, no; I am sure it was of him they were talking. And I heard something
+about the hospital or--
+
+
+
+@l{"name":"George"}
+
+
+The hospital?
+
+
+
+@l{"name":"Hedda"}
+
+
+No--surely that cannot be!
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh, I was in such mortal terror! I went to his lodgings and asked for
+him there.
+
+
+
+@l{"name":"Hedda"}
+
+
+You could make up your mind to that, Thea!
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+What else could I do? I really could bear the suspense no longer.
+
+
+
+@l{"name":"George"}
+
+
+But you didn't find him either--eh?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+No. And the people knew nothing about him. He hadn't been home since
+yesterday afternoon, they said.
+
+
+
+@l{"name":"George"}
+
+
+Yesterday! Fancy, how could they say that?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh, I am sure something terrible must have happened to him.
+
+
+
+@l{"name":"George"}
+
+
+Hedda dear--how would it be if I were to go and make inquiries--?
+
+
+
+@l{"name":"Hedda"}
+
+
+No, no--don't you mix yourself up in this affair.
+
+
+  
+@d{}
+JUDGE BRACK, with his hat in his hand, enters by the hall
+  door, which BERTA opens, and closes behind him.  He looks
+  grave and bows in silence.
+
+
+
+@e{"names":["Judge Brack"]}
+
+@l{"name":"George"}
+
+
+Oh, is that you, my dear Judge? Eh?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Yes. It was imperative I should see you this evening.
+
+
+
+@l{"name":"George"}
+
+
+I can see you have heard the news about Aunt Rina?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Yes, that among other things.
+
+
+
+@l{"name":"George"}
+
+
+Isn't it sad--eh?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Well, my dear Tesman, that depends on how you look at it.
+
+
+
+@d{}
+[Looks doubtfully at him.] 
+@l{"name":"George"}
+Has anything else happened?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Yes.
+
+
+
+@d{}
+[In suspense.] 
+@l{"name":"Hedda"}
+Anything sad, Judge Brack?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+That, too, depends on how you look at it, Mrs. Tesman.
+
+
+
+@d{}
+[Unable to restrain her anxiety.] 
+@l{"name":"Mrs. Elvsted"}
+Oh! it is something about Eilert
+Lovborg!
+
+
+
+@d{}
+[With a glance at her.] 
+@l{"name":"Judge Brack"}
+What makes you think that, Madam? Perhaps you
+have already heard something--?
+
+
+
+@d{}
+[In confusion.] 
+@l{"name":"Mrs. Elvsted"}
+No, nothing at all, but--
+
+
+
+@l{"name":"George"}
+
+
+Oh, for heaven's sake, tell us!
+
+
+
+@d{}
+[Shrugging his shoulders.] 
+@l{"name":"Judge Brack"}
+Well, I regret to say Eilert Lovborg has been
+taken to the hospital. He is lying at the point of death.
+
+
+
+@d{}
+[Shrieks.] 
+@l{"name":"Mrs. Elvsted"}
+Oh God! oh God--!
+
+
+
+@l{"name":"George"}
+
+
+To the hospital! And at the point of death!
+
+
+
+@d{}
+[Involuntarily.] 
+@l{"name":"Hedda"}
+So soon then--
+
+
+
+@d{}
+[Wailing.] 
+@l{"name":"Mrs. Elvsted"}
+And we parted in anger, Hedda!
+
+
+
+@d{}
+[Whispers.] 
+@l{"name":"Hedda"}
+Thea--Thea--be careful!
+
+
+
+@d{}
+[Not heeding her.] 
+@l{"name":"Mrs. Elvsted"}
+I must go to him! I must see him alive!
+
+
+
+@l{"name":"Judge Brack"}
+
+
+It is useless, Madam. No one will be admitted.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh, at least tell me what has happened to him? What is it?
+
+
+
+@l{"name":"George"}
+
+
+You don't mean to say that he has himself-- Eh?
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, I am sure he has.
+
+
+
+@d{}
+[Keeping his eyes fixed upon her.] 
+@l{"name":"Judge Brack"}
+Unfortunately you have guessed quite
+correctly, Mrs. Tesman.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh, how horrible!
+
+
+
+@l{"name":"George"}
+
+
+Himself, then! Fancy that!
+
+
+
+@l{"name":"Hedda"}
+
+
+Shot himself!
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Rightly guessed again, Mrs. Tesman.
+
+
+
+@d{}
+[With an effort at self-control.] 
+@l{"name":"Mrs. Elvsted"}
+When did it happen, Mr. Brack?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+This afternoon--between three and four.
+
+
+
+@l{"name":"George"}
+
+
+But, good Lord, where did he do it? Eh?
+
+
+
+@d{}
+[With some hesitation.] 
+@l{"name":"Judge Brack"}
+Where? Well--I suppose at his lodgings.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+No, that cannot be; for I was there between six and seven.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Well then, somewhere else. I don't know exactly. I only know that he was
+found--. He had shot himself--in the breast.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh, how terrible! That he should die like that!
+
+
+
+@d{}
+[To Judge Brack] 
+@l{"name":"Hedda"}
+Was it in the breast?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Yes--as I told you.
+
+
+
+@l{"name":"Hedda"}
+
+
+Not in the temple?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+In the breast, Mrs. Tesman.
+
+
+
+@l{"name":"Hedda"}
+
+
+Well, well--the breast is a good place, too.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+How do you mean, Mrs. Tesman?
+
+
+
+@d{}
+[Evasively.] 
+@l{"name":"Hedda"}
+Oh, nothing--nothing.
+
+
+
+@l{"name":"George"}
+
+
+And the wound is dangerous, you say--eh?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Absolutely mortal. The end has probably come by this time.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, yes, I feel it. The end! The end! Oh, Hedda--!
+
+
+
+@l{"name":"George"}
+
+
+But tell me, how have you learnt all this?
+
+
+
+@d{}
+[Curtly.] 
+@l{"name":"Judge Brack"}
+Through one of the police. A man I had some business with.
+
+
+
+@d{}
+[In a clear voice.] 
+@l{"name":"Hedda"}
+At last a deed worth doing!
+
+
+
+@d{}
+[Terrified.] 
+@l{"name":"George"}
+Good heavens, Hedda! what are you saying?
+
+
+
+@l{"name":"Hedda"}
+
+
+I say there is beauty in this.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+H'm, Mrs. Tesman--
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh, Hedda, how can you talk of beauty in such an act!
+
+
+
+@l{"name":"Hedda"}
+
+
+Eilert Lovborg has himself made up his account with life. He has had the
+courage to do--the one right thing.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+No, you must never think that was how it happened! It must have been in
+delirium that he did it.
+
+
+
+@l{"name":"George"}
+
+
+In despair!
+
+
+
+@l{"name":"Hedda"}
+
+
+That he did not. I am certain of that.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, yes! In delirium! Just as when he tore up our manuscript.
+
+
+
+@d{}
+[Starting.] 
+@l{"name":"Judge Brack"}
+The manuscript? Has he torn that up?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, last night.
+
+
+
+@d{}
+[Whispers softly.] 
+@l{"name":"George"}
+Oh, Hedda, we shall never get over this.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+H'm, very extraordinary.
+
+
+
+@d{}
+[Moving about the room.] 
+@l{"name":"George"}
+To think of Eilert going out of the world
+in this way! And not leaving behind him the book that would have
+immortalised his name--
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh, if only it could be put together again!
+
+
+
+@l{"name":"George"}
+
+
+Yes, if it only could! I don't know what I would not give--
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Perhaps it can, Mr. Tesman.
+
+
+
+@l{"name":"George"}
+
+
+What do you mean?
+
+
+
+@d{}
+[Searches in the pocket of her dress.] 
+@l{"name":"Mrs. Elvsted"}
+Look here. I have kept all the
+loose notes he used to dictate from.
+
+
+
+@d{}
+[A step forward.] 
+@l{"name":"Hedda"}
+Ah--!
+
+
+
+@l{"name":"George"}
+
+
+You have kept them, Mrs. Elvsted! Eh?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, I have them here. I put them in my pocket when I left home. Here
+they still are--
+
+
+
+@l{"name":"George"}
+
+
+Oh, do let me see them!
+
+
+
+@d{}
+[Hands him a bundle of papers.] 
+@l{"name":"Mrs. Elvsted"}
+But they are in such disorder--all mixed
+up.
+
+
+
+@l{"name":"George"}
+
+
+Fancy, if we could make something out of them, after all! Perhaps if we
+two put our heads together--
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh yes, at least let us try--
+
+
+
+@l{"name":"George"}
+
+
+We will manage it! We must! I will dedicate my life to this task.
+
+
+
+@l{"name":"Hedda"}
+
+
+You, George? Your life?
+
+
+
+@l{"name":"George"}
+
+
+Yes, or rather all the time I can spare. My own collections must wait in
+the meantime. Hedda--you understand, eh? I owe this to Eilert's memory.
+
+
+
+@l{"name":"Hedda"}
+
+
+Perhaps.
+
+
+
+@l{"name":"George"}
+
+
+And so, my dear Mrs. Elvsted, we will give our whole minds to it. There
+is no use in brooding over what can't be undone--eh? We must try to
+control our grief as much as possible, and--
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Yes, yes, Mr. Tesman, I will do the best I can.
+
+
+
+@l{"name":"George"}
+
+
+Well then, come here. I can't rest until we have looked through the
+notes. Where shall we sit? Here? No, in there, in the back room. Excuse
+me, my dear Judge. Come with me, Mrs. Elvsted.
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Oh, if only it were possible!
+
+     
+@d{}
+[TESMAN and MRS. ELVSTED go into the back room.  She takes
+       off her hat and cloak.  They both sit at the table under the
+       hanging lamp, and are soon deep in an eager examination of
+       the papers.  HEDDA crosses to the stove and sits in the arm-
+       chair.  Presently BRACK goes up to her.
+
+
+
+@x{"names":["George","Mrs. Elvsted"]}
+
+@d{}
+[In a low voice.] 
+@l{"name":"Hedda"}
+Oh, what a sense of freedom it gives one, this act of
+Eilert Lovborg's.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Freedom, Mrs. Hedda? Well, of course, it is a release for him--
+
+
+
+@l{"name":"Hedda"}
+
+
+I mean for me. It gives me a sense of freedom to know that a deed
+of deliberate courage is still possible in this world,--a deed of
+spontaneous beauty.
+
+
+
+@d{}
+[Smiling.] 
+@l{"name":"Judge Brack"}
+H'm--my dear Mrs. Hedda--
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh, I know what you are going to say. For you are a kind of specialist
+too, like--you know!
+
+
+
+@d{}
+[Looking hard at her.] 
+@l{"name":"Judge Brack"}
+Eilert Lovborg was more to you than perhaps you
+are willing to admit to yourself. Am I wrong?
+
+
+
+@l{"name":"Hedda"}
+
+
+I don't answer such questions. I only know that Eilert Lovborg has had
+the courage to live his life after his own fashion. And then--the last
+great act, with its beauty! Ah! that he should have the will and the
+strength to turn away from the banquet of life--so early.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+I am sorry, Mrs. Hedda,--but I fear I must dispel an amiable illusion.
+
+
+
+@l{"name":"Hedda"}
+
+
+Illusion?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Which could not have lasted long in any case.
+
+
+
+@l{"name":"Hedda"}
+
+
+What do you mean?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Eilert Lovborg did not shoot himself--voluntarily.
+
+
+
+@l{"name":"Hedda"}
+
+
+Not voluntarily?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+No. The thing did not happen exactly as I told it.
+
+
+
+@d{}
+[In suspense.] 
+@l{"name":"Hedda"}
+Have you concealed something? What is it?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+For poor Mrs. Elvsted's sake I idealised the facts a little.
+
+
+
+@l{"name":"Hedda"}
+
+
+What are the facts?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+First, that he is already dead.
+
+
+
+@l{"name":"Hedda"}
+
+
+At the hospital?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Yes--without regaining consciousness.
+
+
+
+@l{"name":"Hedda"}
+
+
+What more have you concealed?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+This--the event did not happen at his lodgings.
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh, that can make no difference.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Perhaps it may. For I must tell you--Eilert Lovborg was found shot
+in--in Mademoiselle Diana's boudoir.
+
+
+
+@d{}
+[Makes a motion as if to rise, but sinks back again.] 
+@l{"name":"Hedda"}
+That is
+impossible, Judge Brack! He cannot have been there again to-day.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+He was there this afternoon. He went there, he said, to demand the
+return of something which they had taken from him. Talked wildly about a
+lost child--
+
+
+
+@l{"name":"Hedda"}
+
+
+Ah--so that is why--
+
+
+
+@l{"name":"Judge Brack"}
+
+
+I thought probably he meant his manuscript; but now I hear he destroyed
+that himself. So I suppose it must have been his pocket-book.
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, no doubt. And there--there he was found?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Yes, there. With a pistol in his breast-pocket, discharged. The ball had
+lodged in a vital part.
+
+
+
+@l{"name":"Hedda"}
+
+
+In the breast--yes?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+No--in the bowels.
+
+
+
+@d{}
+[Looks up at him with an expression of loathing.] 
+@l{"name":"Hedda"}
+That too! Oh, what
+curse is it that makes everything I touch turn ludicrous and mean?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+There is one point more, Mrs. Hedda--another disagreeable feature in the
+affair.
+
+
+
+@l{"name":"Hedda"}
+
+
+And what is that?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+The pistol he carried--
+
+
+
+@d{}
+[Breathless.] 
+@l{"name":"Hedda"}
+Well? What of it?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+He must have stolen it.
+
+
+
+@d{}
+[Leaps up.] 
+@l{"name":"Hedda"}
+Stolen it! That is not true! He did not steal it!
+
+
+
+@l{"name":"Judge Brack"}
+
+
+No other explanation is possible. He must have stolen it--. Hush!
+
+
+  
+@d{}
+TESMAN and MRS. ELVSTED have risen from the table in the back-
+  room, and come into the drawing-room.
+
+
+
+@e{"names":["George","Mrs. Elvsted"]}
+
+@d{}
+[With the papers in both his hands.] 
+@l{"name":"George"}
+Hedda, dear, it is almost
+impossible to see under that lamp. Think of that!
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, I am thinking.
+
+
+
+@l{"name":"George"}
+
+
+Would you mind our sitting at you writing-table--eh?
+
+
+
+@l{"name":"Hedda"}
+
+
+If you like. 
+@d{}
+[Quickly.] 
+@l{"name":"Hedda"}
+No, wait! Let me clear it first!
+
+
+
+@l{"name":"George"}
+
+
+Oh, you needn't trouble, Hedda. There is plenty of room.
+
+
+
+@l{"name":"Hedda"}
+
+
+No no, let me clear it, I say! I will take these things in and put them
+on the piano. There!
+
+     
+@d{}
+[She has drawn out an object, covered with sheet music, from
+       under the bookcase, places several other pieces of music upon
+       it, and carries the whole into the inner room, to the left.
+       TESMAN lays the scraps of paper on the writing-table, and moves
+       the lamp there from the corner table.  He and Mrs. Elvsted sit
+       down and proceed with their work.  HEDDA returns.
+
+
+
+@d{}
+[Behind Mrs. Elvsted's chair, gently ruffling her hair.] 
+@l{"name":"Hedda"}
+Well, my sweet
+Thea,--how goes it with Eilert Lovborg's monument?
+
+
+
+@d{}
+[Looks dispiritedly up at her.] 
+@l{"name":"Mrs. Elvsted"}
+Oh, it will be terribly hard to put in
+order.
+
+
+
+@l{"name":"George"}
+
+
+We must manage it. I am determined. And arranging other people's papers
+is just the work for me.
+
+     
+@d{}
+[HEDDA goes over to the stove, and seats herself on one of the
+       footstools.  BRACK stands over her, leaning on the arm-chair.
+
+
+
+@d{}
+[Whispers.] 
+@l{"name":"Hedda"}
+What did you say about the pistol?
+
+
+
+@d{}
+[Softly.] 
+@l{"name":"Judge Brack"}
+That he must have stolen it.
+
+
+
+@l{"name":"Hedda"}
+
+
+Why stolen it?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Because every other explanation ought to be impossible, Mrs. Hedda.
+
+
+
+@l{"name":"Hedda"}
+
+
+Indeed?
+
+
+
+@d{}
+[Glances at her.] 
+@l{"name":"Judge Brack"}
+Of course Eilert Lovborg was here this morning. Was he
+not?
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Were you alone with him?
+
+
+
+@l{"name":"Hedda"}
+
+
+Part of the time.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Did you not leave the room whilst he was here?
+
+
+
+@l{"name":"Hedda"}
+
+
+No.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Try to recollect. Were you not out of the room a moment?
+
+
+
+@l{"name":"Hedda"}
+
+
+Yes, perhaps just a moment--out in the hall.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+And where was you pistol-case during that time?
+
+
+
+@l{"name":"Hedda"}
+
+
+I had it locked up in--
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Well, Mrs. Hedda?
+
+
+
+@l{"name":"Hedda"}
+
+
+The case stood there on the writing-table.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Have you looked since, to see whether both the pistols are there?
+
+
+
+@l{"name":"Hedda"}
+
+
+No.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Well, you need not. I saw the pistol found in Lovborg's pocket, and I
+knew it at once as the one I had seen yesterday--and before, too.
+
+
+
+@l{"name":"Hedda"}
+
+
+Have you it with you?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+No; the police have it.
+
+
+
+@l{"name":"Hedda"}
+
+
+What will the police do with it?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Search till they find the owner.
+
+
+
+@l{"name":"Hedda"}
+
+
+Do you think they will succeed?
+
+
+
+@d{}
+[Bends over her and whispers.] 
+@l{"name":"Judge Brack"}
+No, Hedda Gabler--not so long as I say
+nothing.
+
+
+
+@d{}
+[Looks frightened at him.] 
+@l{"name":"Hedda"}
+And if you do not say nothing,--what then?
+
+
+
+@d{}
+[Shrugs his shoulders.] 
+@l{"name":"Judge Brack"}
+There is always the possibility that the pistol
+was stolen.
+
+
+
+@d{}
+[Firmly.] 
+@l{"name":"Hedda"}
+Death rather than that.
+
+
+
+@d{}
+[Smiling.] 
+@l{"name":"Judge Brack"}
+People say such things--but they don't do them.
+
+
+
+@d{}
+[Without replying.] 
+@l{"name":"Hedda"}
+And supposing the pistol was not stolen, and the
+owner is discovered? What then?
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Well, Hedda--then comes the scandal!
+
+
+
+@l{"name":"Hedda"}
+
+
+The scandal!
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Yes, the scandal--of which you are so mortally afraid. You will, of
+course, be brought before the court--both you and Mademoiselle Diana.
+She will have to explain how the thing happened--whether it was an
+accidental shot or murder. Did the pistol go off as he was trying to
+take it out of his pocket, to threaten her with? Or did she tear the
+pistol out of his hand, shoot him, and push it back into his pocket?
+That would be quite like her; for she is an able-bodied young person,
+this same Mademoiselle Diana.
+
+
+
+@l{"name":"Hedda"}
+
+
+But _I_ have nothing to do with all this repulsive business.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+No. But you will have to answer the question: Why did you give Eilert
+the pistol? And what conclusions will people draw from the fact that you
+did give it to him?
+
+
+
+@d{}
+[Lets her head sink.] 
+@l{"name":"Hedda"}
+That is true. I did not think of that.
+
+
+
+@l{"name":"Judge Brack"}
+
+
+Well, fortunately, there is no danger, so long as I say nothing.
+
+
+
+@d{}
+[Looks up at him.] 
+@l{"name":"Hedda"}
+So I am in your power, Judge Brack. You have me at
+your beck and call, from this time forward.
+
+
+
+@d{}
+[Whispers softly.] 
+@l{"name":"Judge Brack"}
+Dearest Hedda--believe me--I shall not abuse my
+advantage.
+
+
+
+@l{"name":"Hedda"}
+
+
+I am in your power none the less. Subject to your will and your demands.
+A slave, a slave then! 
+@d{}
+[Rises impetuously.] 
+@l{"name":"Hedda"}
+No, I cannot endure the
+thought of that! Never!
+
+
+
+@d{}
+[Looks half-mockingly at her.] 
+@l{"name":"Judge Brack"}
+People generally get used to the
+inevitable.
+
+
+
+@d{}
+[Returns his look.] 
+@l{"name":"Hedda"}
+Yes, perhaps. 
+@d{}
+[She crosses to the writing-table.
+Suppressing an involuntary smile, she imitates TESMAN'S intonations.]
+
+@l{"name":"Hedda"}
+Well? Are you getting on, George? Eh?
+
+
+
+@l{"name":"George"}
+
+
+Heaven knows, dear. In any case it will be the work of months.
+
+
+
+@d{}
+[As before.] 
+@l{"name":"Hedda"}
+Fancy that! 
+@d{}
+[Passes her hands softly through Mrs. Elvsted's
+hair.] 
+@l{"name":"Hedda"}
+Doesn't it seem strange to you, Thea? Here are you sitting with
+Tesman--just as you used to sit with Eilert Lovborg?
+
+
+
+@l{"name":"Mrs. Elvsted"}
+
+
+Ah, if I could only inspire your husband in the same way!
+
+
+
+@l{"name":"Hedda"}
+
+
+Oh, that will come too--in time.
+
+
+
+@l{"name":"George"}
+
+
+Yes, do you know, Hedda--I really think I begin to feel something of the
+sort. But won't you go and sit with Brack again?
+
+
+
+@l{"name":"Hedda"}
+
+
+Is there nothing I can do to help you two?
+
+
+
+@l{"name":"George"}
+
+
+No, nothing in the world. 
+@d{}
+[Turning his head.] 
+@l{"name":"George"}
+I trust to you to keep
+Hedda company, my dear Brack.
+
+
+
+@d{}
+[With a glance at Hedda] 
+@l{"name":"Judge Brack"}
+With the very greatest of pleasure.
+
+
+
+@l{"name":"Hedda"}
+
+
+Thanks. But I am tired this evening. I will go in and lie down a little
+on the sofa.
+
+
+
+@l{"name":"George"}
+
+
+Yes, do dear--eh?
+
+     
+@d{}
+[HEDDA goes into the back room and draws the curtains.  A short
+       pause.  Suddenly she is heard playing a wild dance on the piano.
+
+
+
+@x{"names":["Hedda"]}
+
+@d{}
+[Starts from her chair.] 
+@l{"name":"Mrs. Elvsted"}
+Oh--what is that?
+
+
+
+@d{}
+[Runs to the doorway.] 
+@l{"name":"George"}
+Why, my dearest Hedda--don't play dance-music
+to-night! Just think of Aunt Rina! And of Eilert too!
+
+
+
+@d{}
+[Puts her head out between the curtains.] 
+@e{"names":["Hedda"]}
+
+@l{"name":"Hedda"}
+And of Aunt Julia. And of all
+the rest of them.--After this, I will be quiet. 
+@d{}
+[Closes the curtains
+again.]
+
+
+
+@x{"names":["Hedda"]}
+
+@d{}
+[At the writing-table.] 
+@l{"name":"George"}
+It's not good for her to see us at this
+distressing work. I'll tell you what, Mrs. Elvsted,--you shall take the
+empty room at Aunt Julia's, and then I will come over in the evenings,
+and we can sit and work there--eh?
+
+
+
+@d{}
+[In the inner room.] 
+@l{"name":"Hedda"}
+I hear what you are saying, Tesman. But how am _I_
+to get through the evenings out here?
+
+
+
+@d{}
+[Turning over the papers.] 
+@l{"name":"George"}
+Oh, I daresay Judge Brack will be so kind as
+to look in now and then, even though I am out.
+
+
+
+@d{}
+[In the arm-chair, calls out gaily.] 
+@l{"name":"Judge Brack"}
+Every blessed evening, with all the
+pleasure in life, Mrs. Tesman! We shall get on capitally together, we
+two!
+
+
+
+@d{}
+[Speaking loud and clear.] 
+@l{"name":"Hedda"}
+Yes, don't you flatter yourself we will,
+Judge Brack? Now that you are the one cock in the basket--
+
+     
+@d{}
+[A shot is heard within.  TESMAN, MRS. ELVSTED, and BRACK leap
+       to their feet.
+
+
+
+@l{"name":"George"}
+
+
+Oh, now she is playing with those pistols again.
+
+   
+@d{}
+[He throws back the curtains and runs in, followed by MRS.
+       ELVSTED.  HEDDA lies stretched on the sofa, lifeless.
+       Confusion and cries.  BERTA enters in alarm from the right.
+
+
+
+@e{"names":["Hedda","Berta"]}
+
+@d{}
+[Shrieks to Judge Brack] 
+@l{"name":"George"}
+Shot herself! Shot herself in the temple! Fancy
+that!
+
+
+
+@d{}
+[Half-fainting in the arm-chair.] 
+@l{"name":"Judge Brack"}
+Good God!--people don't do such
+things.
+
+
+
+@d{}
+THE END
+@x{"names":["Berta","George","Hedda","Judge Brack","Mrs. Elvsted"]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
