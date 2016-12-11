@@ -1,0 +1,6608 @@
+﻿@v{"version": 0.1} 
+@play{"title":"Ghosts", "author": "Henrik Ibsen"}
+
+@a{"number":1}
+@s{"number":1}
+@d{}
+GHOSTS
+
+By Henrik Ibsen
+
+Translated, with an Introduction, by William Archer
+
+The action takes place at Mrs. Alving's country house, beside one of the
+large fjords in Western Norway.
+
+
+ACT FIRST.
+
+[A spacious garden-room, with one door to the left, and two doors to the
+right. In the middle of the room a round table, with chairs about it. On
+the table lie books, periodicals, and newspapers. In the foreground to
+the left a window, and by it a small sofa, with a worktable in front of
+it. In the background, the room is continued into a somewhat narrower
+conservatory, the walls of which are formed by large panes of glass. In
+the right-hand wall of the conservatory is a door leading down into
+the garden. Through the glass wall a gloomy fjord landscape is faintly
+visible, veiled by steady rain.]
+
+[ENGSTRAND, the carpenter, stands by the garden door. His left leg
+is somewhat bent; he has a clump of wood under the sole of his boot.
+REGINA, with an empty garden syringe in her hand, hinders him from
+advancing.]
+
+
+@e{"names":["Engstrand","Regina"]}
+
+@d{}
+[In a low voice.] 
+@l{"name":"Regina"}
+What do you want? Stop where you are. You're
+positively dripping.
+
+
+@l{"name":"Engstrand"}
+ It's the Lord's own rain, my girl.
+
+
+@l{"name":"Regina"}
+ It's the devil's rain, _I_ say.
+
+
+@l{"name":"Engstrand"}
+ Lord, how you talk, Regina. 
+@d{}
+[Limps a step or two forward into
+the room.] 
+@l{"name":"Engstrand"}
+It's just this as I wanted to say--
+
+
+@l{"name":"Regina"}
+ Don't clatter so with that foot of yours, I tell you! The young
+master's asleep upstairs.
+
+
+@l{"name":"Engstrand"}
+ Asleep? In the middle of the day?
+
+
+@l{"name":"Regina"}
+ It's no business of yours.
+
+
+@l{"name":"Engstrand"}
+ I was out on the loose last night--
+
+
+@l{"name":"Regina"}
+ I can quite believe that.
+
+
+@l{"name":"Engstrand"}
+ Yes, we're weak vessels, we poor mortals, my girl--
+
+
+@l{"name":"Regina"}
+ So it seems.
+
+
+@l{"name":"Engstrand"}
+--and temptations are manifold in this world, you see. But all
+the same, I was hard at work, God knows, at half-past five this morning.
+
+
+@l{"name":"Regina"}
+ Very well; only be off now. I won't stop here and have
+_rendezvous's_ 
+@d{}
+[Note: This and other French words by Regina are in that
+language in the original] 
+@l{"name":"Regina"}
+with you.
+
+
+@l{"name":"Engstrand"}
+ What do you say you won't have?
+
+
+@l{"name":"Regina"}
+ I won't have any one find you here; so just you go about your
+business.
+
+
+@d{}
+[Advances a step or two.] 
+@l{"name":"Engstrand"}
+Blest if I go before I've had
+a talk with you. This afternoon I shall have finished my work at the
+school house, and then I shall take to-night's boat and be off home to
+the town.
+
+
+@d{}
+[Mutters.] 
+@l{"name":"Regina"}
+Pleasant journey to you!
+
+
+@l{"name":"Engstrand"}
+ Thank you, my child. To-morrow the Orphanage is to be opened,
+and then there'll be fine doings, no doubt, and plenty of intoxicating
+drink going, you know. And nobody shall say of Jacob Engstrand that he
+can't keep out of temptation's way.
+
+
+@l{"name":"Regina"}
+ Oh!
+
+
+@l{"name":"Engstrand"}
+ You see, there's to be heaps of grand folks here to-morrow.
+Pastor Manders is expected from town, too.
+
+
+@l{"name":"Regina"}
+ He's coming to-day.
+
+
+@l{"name":"Engstrand"}
+ There, you see! And I should be cursedly sorry if he found
+out anything against me, don't you understand?
+
+
+@l{"name":"Regina"}
+ Oho! is that your game?
+
+
+@l{"name":"Engstrand"}
+ Is what my game?
+
+
+@d{}
+[Looking hard at him.] 
+@l{"name":"Regina"}
+What are you going to fool Pastor Manders
+into doing, this time?
+
+
+@l{"name":"Engstrand"}
+ Sh! sh! Are you crazy? Do _I_ want to fool Pastor Manders? Oh
+no! Pastor Manders has been far too good a friend to me for that. But I
+just wanted to say, you know--that I mean to be off home again to-night.
+
+
+@l{"name":"Regina"}
+ The sooner the better, say I.
+
+
+@l{"name":"Engstrand"}
+ Yes, but I want you with me, Regina.
+
+
+@d{}
+[Open-mouthed.] 
+@l{"name":"Regina"}
+You want me--? What are you talking about?
+
+
+@l{"name":"Engstrand"}
+ I want you to come home with me, I say.
+
+
+@d{}
+[Scornfully.] 
+@l{"name":"Regina"}
+Never in this world shall you get me home with
+you.
+
+
+@l{"name":"Engstrand"}
+ Oh, we'll see about that.
+
+
+@l{"name":"Regina"}
+ Yes, you may be sure we'll see about it! Me, that have been
+brought up by a lady like Mrs Alving! Me, that am treated almost as a
+daughter here! Is it me you want to go home with you?--to a house like
+yours? For shame!
+
+
+@l{"name":"Engstrand"}
+ What the devil do you mean? Do you set yourself up against
+your father, you hussy?
+
+
+@d{}
+[Mutters without looking at him.] 
+@l{"name":"Regina"}
+You've said often enough I was
+no concern of yours.
+
+
+@l{"name":"Engstrand"}
+ Pooh! Why should you bother about that--
+
+
+@l{"name":"Regina"}
+ Haven't you many a time sworn at me and called me a--? _Fi
+donc_!
+
+
+@l{"name":"Engstrand"}
+ Curse me, now, if ever I used such an ugly word.
+
+
+@l{"name":"Regina"}
+ Oh, I remember very well what word you used.
+
+
+@l{"name":"Engstrand"}
+ Well, but that was only when I was a bit on, don't you know?
+Temptations are manifold in this world, Regina.
+
+
+@l{"name":"Regina"}
+ Ugh!
+
+
+@l{"name":"Engstrand"}
+ And besides, it was when your mother was that aggravating--I
+had to find something to twit her with, my child. She was always setting
+up for a fine lady. 
+@d{}
+[Mimics.] 
+@l{"name":"Engstrand"}
+"Let me go, Engstrand; let me be.
+Remember I was three years in Chamberlain Alving's family at Rosenvold."
+
+@d{}
+[Laughs.] 
+@l{"name":"Engstrand"}
+Mercy on us! She could never forget that the Captain was made
+a Chamberlain while she was in service here.
+
+
+@l{"name":"Regina"}
+ Poor mother! you very soon tormented her into her grave.
+
+
+@d{}
+[With a twist of his shoulders.] 
+@l{"name":"Engstrand"}
+Oh, of course! I'm to have
+the blame for everything.
+
+
+@d{}
+[Turns away; half aloud.] 
+@l{"name":"Regina"}
+Ugh--! And that leg too!
+
+
+@l{"name":"Engstrand"}
+ What do you say, my child?
+
+
+@l{"name":"Regina"}
+ _Pied de mouton_.
+
+
+@l{"name":"Engstrand"}
+ Is that English, eh?
+
+
+@l{"name":"Regina"}
+ Yes.
+
+
+@l{"name":"Engstrand"}
+ Ay, ay; you've picked up some learning out here; and that may
+come in useful now, Regina.
+
+
+@d{}
+[After a short silence.] 
+@l{"name":"Regina"}
+What do you want with me in town?
+
+
+@l{"name":"Engstrand"}
+ Can you ask what a father wants with his only child? A'n't I
+a lonely, forlorn widower?
+
+
+@l{"name":"Regina"}
+ Oh, don't try on any nonsense like that with me! Why do you want
+me?
+
+
+@l{"name":"Engstrand"}
+ Well, let me tell you, I've been thinking of setting up in a
+new line of business.
+
+
+@d{}
+[Contemptuously.] 
+@l{"name":"Regina"}
+You've tried that often enough, and much good
+you've done with it.
+
+
+@l{"name":"Engstrand"}
+ Yes, but this time you shall see, Regina! Devil take me--
+
+
+@d{}
+[Stamps.] 
+@l{"name":"Regina"}
+Stop your swearing!
+
+
+@l{"name":"Engstrand"}
+ Hush, hush; you're right enough there, my girl. What I wanted
+to say was just this--I've laid by a very tidy pile from this Orphanage
+job.
+
+
+@l{"name":"Regina"}
+ Have you? That's a good thing for you.
+
+
+@l{"name":"Engstrand"}
+ What can a man spend his ha'pence on here in this country
+hole?
+
+
+@l{"name":"Regina"}
+ Well, what then?
+
+
+@l{"name":"Engstrand"}
+ Why, you see, I thought of putting the money into some paying
+speculation. I thought of a sort of a sailor's tavern--
+
+
+@l{"name":"Regina"}
+ Pah!
+
+
+@l{"name":"Engstrand"}
+ A regular high-class affair, of course; not any sort of
+pig-sty for common sailors. No! damn it! it would be for captains and
+mates, and--and--regular swells, you know.
+
+
+@l{"name":"Regina"}
+ And I was to--?
+
+
+@l{"name":"Engstrand"}
+ You were to help, to be sure. Only for the look of the thing,
+you understand. Devil a bit of hard work shall you have, my girl. You
+shall do exactly what you like.
+
+
+@l{"name":"Regina"}
+ Oh, indeed!
+
+
+@l{"name":"Engstrand"}
+ But there must be a petticoat in the house; that's as clear
+as daylight. For I want to have it a bit lively like in the evenings,
+with singing and dancing, and so on. You must remember they're weary
+wanderers on the ocean of life. 
+@d{}
+[Nearer.] 
+@l{"name":"Engstrand"}
+Now don't be a fool and
+stand in your own light, Regina. What's to become of you out here? Your
+mistress has given you a lot of learning; but what good is that to you?
+You're to look after the children at the new Orphanage, I hear. Is that
+the sort of thing for you, eh? Are you so dead set on wearing your life
+out for a pack of dirty brats?
+
+
+@l{"name":"Regina"}
+ No; if things go as I want them to--Well there's no
+saying--there's no saying.
+
+
+@l{"name":"Engstrand"}
+ What do you mean by "there's no saying"?
+
+
+@l{"name":"Regina"}
+ Never you mind.--How much money have you saved?
+
+
+@l{"name":"Engstrand"}
+ What with one thing and another, a matter of seven or
+eight hundred crowns. 
+@d{}
+[A "krone" is equal to one shilling and
+three-halfpence.]
+
+
+@l{"name":"Regina"}
+ That's not so bad.
+
+
+@l{"name":"Engstrand"}
+ It's enough to make a start with, my girl.
+
+
+@l{"name":"Regina"}
+ Aren't you thinking of giving me any?
+
+
+@l{"name":"Engstrand"}
+ No, I'm blest if I am!
+
+
+@l{"name":"Regina"}
+ Not even of sending me a scrap of stuff for a new dress?
+
+
+@l{"name":"Engstrand"}
+ Come to town with me, my lass, and you'll soon get dresses
+enough.
+
+
+@l{"name":"Regina"}
+ Pooh! I can do that on my own account, if I want to.
+
+
+@l{"name":"Engstrand"}
+ No, a father's guiding hand is what you want, Regina. Now,
+I've got my eye on a capital house in Little Harbour Street. They don't
+want much ready-money; and it could be a sort of a Sailors' Home, you
+know.
+
+
+@l{"name":"Regina"}
+ But I will not live with you! I have nothing whatever to do with
+you. Be off!
+
+
+@l{"name":"Engstrand"}
+ You wouldn't stop long with me, my girl. No such luck! If
+you knew how to play your cards, such a fine figure of a girl as you've
+grown in the last year or two--
+
+
+@l{"name":"Regina"}
+ Well?
+
+
+@l{"name":"Engstrand"}
+ You'd soon get hold of some mate--or maybe even a captain--
+
+
+@l{"name":"Regina"}
+ I won't marry any one of that sort. Sailors have no _savoir
+vivre_.
+
+
+@l{"name":"Engstrand"}
+ What's that they haven't got?
+
+
+@l{"name":"Regina"}
+ I know what sailors are, I tell you. They're not the sort of
+people to marry.
+
+
+@l{"name":"Engstrand"}
+ Then never mind about marrying them. You can make it pay all
+the same. 
+@d{}
+[More confidentially.] 
+@l{"name":"Engstrand"}
+He--the Englishman--the man with the
+yacht--he came down with three hundred dollars, he did; and she wasn't a
+bit handsomer than you.
+
+
+@d{}
+[Making for him.] 
+@l{"name":"Regina"}
+Out you go!
+
+
+@d{}
+[Falling back.] 
+@l{"name":"Engstrand"}
+Come, come! You're not going to hit me, I
+hope.
+
+
+@l{"name":"Regina"}
+ Yes, if you begin talking about mother I shall hit you. Get away
+with you, I say! 
+@d{}
+[Drives him back towards the garden door.] 
+@l{"name":"Regina"}
+And don't
+slam the doors. Young Mr. Alving--
+
+
+@l{"name":"Engstrand"}
+ He's asleep; I know. You're mightily taken up about young Mr. Alving--
+
+@d{}
+[More softly.] 
+@l{"name":"Engstrand"}
+Oho! you don't mean to say it's him as--?
+
+
+@l{"name":"Regina"}
+ Be off this minute! You're crazy, I tell you! No, not that way.
+There comes Pastor Manders. Down the kitchen stairs with you.
+
+
+@d{}
+[Towards the right.] 
+@l{"name":"Engstrand"}
+Yes, yes, I'm going. But just you talk
+to him as is coming there. He's the man to tell you what a child owes
+its father. For I am your father all the same, you know. I can prove it
+from the church register.
+
+
+@d{}
+[He goes out through the second door to the right, which REGINA has
+opened, and closes again after him. REGINA glances hastily at herself in
+the mirror, dusts herself with her pocket handkerchief; and settles her
+necktie; then she busies herself with the flowers.]
+
+[PASTOR MANDERS, wearing an overcoat, carrying an umbrella, and with
+a small travelling-bag on a strap over his shoulder, comes through the
+garden door into the conservatory.]
+
+
+@e{"names":["Manders"]}
+
+@x{"names":["Engstrand"]}
+
+@l{"name":"Manders"}
+ Good-morning, Miss Engstrand.
+
+
+@d{}
+[Turning round, surprised and pleased.] 
+@l{"name":"Regina"}
+No, really! Good
+morning, Pastor Manders. Is the steamer in already?
+
+
+@l{"name":"Manders"}
+ It is just in. 
+@d{}
+[Enters the sitting-room.] 
+@l{"name":"Manders"}
+Terrible weather we
+have been having lately.
+
+
+@d{}
+[Follows him.] 
+@l{"name":"Regina"}
+It's such blessed weather for the country, sir.
+
+
+@l{"name":"Manders"}
+ No doubt; you are quite right. We townspeople give too little
+thought to that. 
+@d{}
+[He begins to take of his overcoat.]
+
+
+@l{"name":"Regina"}
+ Oh, mayn't I help you?--There! Why, how wet it is? I'll just
+hang it up in the hall. And your umbrella, too--I'll open it and let it
+dry.
+
+
+@d{}
+[She goes out with the things through the second door on the right.
+PASTOR MANDERS takes off his travelling bag and lays it and his hat on a
+chair. Meanwhile REGINA comes in again.]
+
+
+@l{"name":"Manders"}
+ Ah, it's a comfort to get safe under cover. I hope everything
+is going on well here?
+
+
+@l{"name":"Regina"}
+ Yes, thank you, sir.
+
+
+@l{"name":"Manders"}
+ You have your hands full, I suppose, in preparation for
+to-morrow?
+
+
+@l{"name":"Regina"}
+ Yes, there's plenty to do, of course.
+
+
+@l{"name":"Manders"}
+ And Mrs. Alving is at home, I trust?
+
+
+@l{"name":"Regina"}
+ Oh dear, yes. She's just upstairs, looking after the young
+master's chocolate.
+
+
+@l{"name":"Manders"}
+ Yes, by-the-bye--I heard down at the pier that Oswald had
+arrived.
+
+
+@l{"name":"Regina"}
+ Yes, he came the day before yesterday. We didn't expect him
+before to-day.
+
+
+@l{"name":"Manders"}
+ Quite strong and well, I hope?
+
+
+@l{"name":"Regina"}
+ Yes, thank you, quite; but dreadfully tired with the journey. He
+has made one rush right through from Paris--the whole way in one train,
+I believe. He's sleeping a little now, I think; so perhaps we'd better
+talk a little quietly.
+
+
+@l{"name":"Manders"}
+ Sh!--as quietly as you please.
+
+
+@d{}
+[Arranging an arm-chair beside the table.] 
+@l{"name":"Regina"}
+Now, do sit down,
+Pastor Manders, and make yourself comfortable. 
+@d{}
+[He sits down; she places
+a footstool under his feet.] 
+@l{"name":"Regina"}
+There! Are you comfortable now, sir?
+
+
+@l{"name":"Manders"}
+ Thanks, thanks, extremely so. 
+@d{}
+[Looks at her.] 
+@l{"name":"Manders"}
+Do you know, Miss
+Engstrand, I positively believe you have grown since I last saw you.
+
+
+@l{"name":"Regina"}
+ Do you think so, Sir? Mrs. Alving says I've filled out too.
+
+
+@l{"name":"Manders"}
+ Filled out? Well, perhaps a little; just enough.
+
+
+@d{}
+[Short pause.]
+
+
+@l{"name":"Regina"}
+ Shall I tell Mrs. Alving you are here?
+
+
+@l{"name":"Manders"}
+ Thanks, thanks, there is no hurry, my dear child.--By-the-bye,
+Regina, my good girl, tell me: how is your father getting on out here?
+
+
+@l{"name":"Regina"}
+ Oh, thank you, sir, he's getting on well enough.
+
+
+@l{"name":"Manders"}
+ He called upon me last time he was in town.
+
+
+@l{"name":"Regina"}
+ Did he, indeed? He's always so glad of a chance of talking to
+you, sir.
+
+
+@l{"name":"Manders"}
+ And you often look in upon him at his work, I daresay?
+
+
+@l{"name":"Regina"}
+ I? Oh, of course, when I have time, I--
+
+
+@l{"name":"Manders"}
+ Your father is not a man of strong character, Miss Engstrand.
+He stands terribly in need of a guiding hand.
+
+
+@l{"name":"Regina"}
+ Oh, yes; I daresay he does.
+
+
+@l{"name":"Manders"}
+ He requires some one near him whom he cares for, and whose
+judgment he respects. He frankly admitted as much when he last came to
+see me.
+
+
+@l{"name":"Regina"}
+ Yes, he mentioned something of the sort to me. But I don't know
+whether Mrs. Alving can spare me; especially now that we've got the
+new Orphanage to attend to. And then I should be so sorry to leave Mrs.
+Alving; she has always been so kind to me.
+
+
+@l{"name":"Manders"}
+ But a daughter's duty, my good girl--Of course, we should first
+have to get your mistress's consent.
+
+
+@l{"name":"Regina"}
+ But I don't know whether it would be quite proper for me, at my
+age, to keep house for a single man.
+
+
+@l{"name":"Manders"}
+ What! My dear Miss Engstrand! When the man is your own father!
+
+
+@l{"name":"Regina"}
+ Yes, that may be; but all the same--Now, if it were in a
+thoroughly nice house, and with a real gentleman--
+
+
+@l{"name":"Manders"}
+ Why, my dear Regina--
+
+
+@l{"name":"Regina"}
+--one I could love and respect, and be a daughter to--
+
+
+@l{"name":"Manders"}
+ Yes, but my dear, good child--
+
+
+@l{"name":"Regina"}
+ Then I should be glad to go to town. It's very lonely out here;
+you know yourself, sir, what it is to be alone in the world. And I can
+assure you I'm both quick and willing. Don't you know of any such place
+for me, sir?
+
+
+@l{"name":"Manders"}
+ I? No, certainly not.
+
+
+@l{"name":"Regina"}
+ But, dear, dear Sir, do remember me if--
+
+
+@d{}
+[Rising.] 
+@l{"name":"Manders"}
+Yes, yes, certainly, Miss Engstrand.
+
+
+@l{"name":"Regina"}
+ For if I--
+
+
+@l{"name":"Manders"}
+ Will you be so good as to tell your mistress I am here?
+
+
+@l{"name":"Regina"}
+ I will, at once, sir. 
+@d{}
+[She goes out to the left.]
+
+
+@x{"names":["Regina"]}
+
+@d{}
+[Paces the room two or three times, stands a moment in the
+background with his hands behind his back, and looks out over the
+garden. Then he returns to the table, takes up a book, and looks at the
+title-page; starts, and looks at several books.] 
+@l{"name":"Manders"}
+Ha--indeed!
+
+
+@d{}
+[MRS. ALVING enters by the door on the left; she is followed by REGINA,
+who immediately goes out by the first door on the right.]
+
+
+@e{"names":["Mrs. Alving"]}
+
+@d{}
+[Holds out her hand.] 
+@l{"name":"Mrs. Alving"}
+Welcome, my dear Pastor.
+
+
+@l{"name":"Manders"}
+ How do you do, Mrs. Alving? Here I am as I promised.
+
+
+@l{"name":"Mrs. Alving"}
+ Always punctual to the minute.
+
+
+@l{"name":"Manders"}
+ You may believe it was not so easy for me to get away. With all
+the Boards and Committees I belong to--
+
+
+@l{"name":"Mrs. Alving"}
+ That makes it all the kinder of you to come so early.
+Now we can get through our business before dinner. But where is your
+portmanteau?
+
+
+@d{}
+[Quickly.] 
+@l{"name":"Manders"}
+I left it down at the inn. I shall sleep there
+to-night.
+
+
+@d{}
+[Suppressing a smile.] 
+@l{"name":"Mrs. Alving"}
+Are you really not to be persuaded,
+even now, to pass the night under my roof?
+
+
+@l{"name":"Manders"}
+ No, no, Mrs. Alving; many thanks. I shall stay at the inn, as
+usual. It is so conveniently near the landing-stage.
+
+
+@l{"name":"Mrs. Alving"}
+ Well, you must have your own way. But I really should have
+thought we two old people--
+
+
+@l{"name":"Manders"}
+ Now you are making fun of me. Ah, you're naturally in great
+spirits to-day--what with to-morrow's festival and Oswald's return.
+
+
+@l{"name":"Mrs. Alving"}
+ Yes; you can think what a delight it is to me! It's more
+than two years since he was home last. And now he has promised to stay
+with me all the winter.
+
+
+@l{"name":"Manders"}
+ Has he really? That is very nice and dutiful of him. For I can
+well believe that life in Rome and Paris has very different attractions
+from any we can offer here.
+
+
+@l{"name":"Mrs. Alving"}
+ Ah, but here he has his mother, you see. My own darling
+boy--he hasn't forgotten his old mother!
+
+
+@l{"name":"Manders"}
+ It would be grievous indeed, if absence and absorption in art
+and that sort of thing were to blunt his natural feelings.
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, you may well say so. But there's nothing of that sort
+to fear with him. I'm quite curious to see whether you know him again.
+He'll be down presently; he's upstairs just now, resting a little on the
+sofa. But do sit down, my dear Pastor.
+
+
+@l{"name":"Manders"}
+ Thank you. Are you quite at liberty--?
+
+
+@l{"name":"Mrs. Alving"}
+ Certainly. 
+@d{}
+[She sits by the table.]
+
+
+@l{"name":"Manders"}
+ Very well. Then let me show you--
+@d{}
+[He goes to the chair where
+his travelling-bag lies, takes out a packet of papers, sits down on
+the opposite side of the table, and tries to find a clear space for
+the papers.] 
+@l{"name":"Manders"}
+Now, to begin with, here is--
+@d{}
+[Breaking off.] 
+@l{"name":"Manders"}
+Tell me, Mrs.
+Alving, how do these books come to be here?
+
+
+@l{"name":"Mrs. Alving"}
+ These books? They are books I am reading.
+
+
+@l{"name":"Manders"}
+ Do you read this sort of literature?
+
+
+@l{"name":"Mrs. Alving"}
+ Certainly I do.
+
+
+@l{"name":"Manders"}
+ Do you feel better or happier for such reading?
+
+
+@l{"name":"Mrs. Alving"}
+ I feel, so to speak, more secure.
+
+
+@l{"name":"Manders"}
+ That is strange. How do you mean?
+
+
+@l{"name":"Mrs. Alving"}
+ Well, I seem to find explanation and confirmation of all
+sorts of things I myself have been thinking. For that is the wonderful
+part of it, Pastor Manders--there is really nothing new in these books,
+nothing but what most people think and believe. Only most people either
+don't formulate it to themselves, or else keep quiet about it.
+
+
+@l{"name":"Manders"}
+ Great heavens! Do you really believe that most people--?
+
+
+@l{"name":"Mrs. Alving"}
+ I do, indeed.
+
+
+@l{"name":"Manders"}
+ But surely not in this country? Not here among us?
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, certainly; here as elsewhere.
+
+
+@l{"name":"Manders"}
+ Well, I really must say--!
+
+
+@l{"name":"Mrs. Alving"}
+ For the rest, what do you object to in these books?
+
+
+@l{"name":"Manders"}
+ Object to in them? You surely do not suppose that I have
+nothing better to do than to study such publications as these?
+
+
+@l{"name":"Mrs. Alving"}
+ That is to say, you know nothing of what you are
+condemning?
+
+
+@l{"name":"Manders"}
+ I have read enough about these writings to disapprove of them.
+
+
+@l{"name":"Mrs. Alving"}
+ Yes; but your own judgment--
+
+
+@l{"name":"Manders"}
+ My dear Mrs. Alving, there are many occasions in life when one
+must rely upon others. Things are so ordered in this world; and it is
+well that they are. Otherwise, what would become of society?
+
+
+@l{"name":"Mrs. Alving"}
+ Well, well, I daresay you're right there.
+
+
+@l{"name":"Manders"}
+ Besides, I of course do not deny that there may be much that
+is attractive in such books. Nor can I blame you for wishing to keep
+up with the intellectual movements that are said to be going on in the
+great world-where you have let your son pass so much of his life. But--
+
+
+@l{"name":"Mrs. Alving"}
+ But?
+
+
+@d{}
+[Lowering his voice.] 
+@l{"name":"Manders"}
+But one should not talk about it, Mrs.
+Alving. One is certainly not bound to account to everybody for what one
+reads and thinks within one's own four walls.
+
+
+@l{"name":"Mrs. Alving"}
+ Of course not; I quite agree with you.
+
+
+@l{"name":"Manders"}
+ Only think, now, how you are bound to consider the interests
+of this Orphanage, which you decided on founding at a time when--if
+I understand you rightly--you thought very differently on spiritual
+matters.
+
+
+@l{"name":"Mrs. Alving"}
+ Oh, yes; I quite admit that. But it was about the
+Orphanage--
+
+
+@l{"name":"Manders"}
+ It was about the Orphanage we were to speak; yes. All I say
+is: prudence, my dear lady! And now let us get to business. 
+@d{}
+[Opens the
+packet, and takes out a number of papers.] 
+@l{"name":"Manders"}
+Do you see these?
+
+
+@l{"name":"Mrs. Alving"}
+ The documents?
+
+
+@l{"name":"Manders"}
+ All--and in perfect order. I can tell you it was hard work to
+get them in time. I had to put on strong pressure. The authorities are
+almost morbidly scrupulous when there is any decisive step to be taken.
+But here they are at last. 
+@d{}
+[Looks through the bundle.] 
+@l{"name":"Manders"}
+See! here is the
+formal deed of gift of the parcel of ground known as Solvik in the Manor
+of Rosenvold, with all the newly constructed buildings, schoolrooms,
+master's house, and chapel. And here is the legal fiat for the endowment
+and for the Bye-laws of the Institution. Will you look at them? 
+@d{}
+[Reads.]
+
+@l{"name":"Manders"}
+"Bye-laws for the Children's Home to be known as 'Captain Alving's
+Foundation.'"
+
+
+@d{}
+(Looks long at the paper.) 
+@l{"name":"Mrs. Alving"}
+So there it is.
+
+
+@l{"name":"Manders"}
+ I have chosen the designation "Captain" rather than
+"Chamberlain." "Captain" looks less pretentious.
+
+
+@l{"name":"Mrs. Alving"}
+ Oh, yes; just as you think best.
+
+
+@l{"name":"Manders"}
+ And here you have the Bank Account of the capital lying at
+interest to cover the current expenses of the Orphanage.
+
+
+@l{"name":"Mrs. Alving"}
+ Thank you; but please keep it--it will be more convenient.
+
+
+@l{"name":"Manders"}
+ With pleasure. I think we will leave the money in the Bank for
+the present. The interest is certainly not what we could wish--four per
+cent. and six months' notice of withdrawal. If a good mortgage could
+be found later on--of course it must be a first mortgage and an
+unimpeachable security--then we could consider the matter.
+
+
+@l{"name":"Mrs. Alving"}
+ Certainly, my dear Pastor Manders. You are the best judge
+in these things.
+
+
+@l{"name":"Manders"}
+ I will keep my eyes open at any rate.--But now there is one
+thing more which I have several times been intending to ask you.
+
+
+@l{"name":"Mrs. Alving"}
+ And what is that?
+
+
+@l{"name":"Manders"}
+ Shall the Orphanage buildings be insured or not?
+
+
+@l{"name":"Mrs. Alving"}
+ Of course they must be insured.
+
+
+@l{"name":"Manders"}
+ Well, wait a moment, Mrs. Alving. Let us look into the matter a
+little more closely.
+
+
+@l{"name":"Mrs. Alving"}
+ I have everything insured; buildings and movables and stock
+and crops.
+
+
+@l{"name":"Manders"}
+ Of course you have--on your own estate. And so have I--of
+course. But here, you see, it is quite another matter. The Orphanage is
+to be consecrated, as it were, to a higher purpose.
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, but that's no reason--
+
+
+@l{"name":"Manders"}
+ For my own part, I should certainly not see the smallest
+impropriety in guarding against all contingencies--
+
+
+@l{"name":"Mrs. Alving"}
+ No, I should think not.
+
+
+@l{"name":"Manders"}
+ But what is the general feeling in the neighbourhood? You, of
+course, know better than I.
+
+
+@l{"name":"Mrs. Alving"}
+ Well--the general feeling--
+
+
+@l{"name":"Manders"}
+ Is there any considerable number of people--really responsible
+people--who might be scandalised?
+
+
+@l{"name":"Mrs. Alving"}
+ What do you mean by "really responsible people"?
+
+
+@l{"name":"Manders"}
+ Well, I mean people in such independent and influential
+positions that one cannot help attaching some weight to their opinions.
+
+
+@l{"name":"Mrs. Alving"}
+ There are several people of that sort here, who would very
+likely be shocked if--
+
+
+@l{"name":"Manders"}
+ There, you see! In town we have many such people. Think of all
+my colleague's adherents! People would be only too ready to interpret
+our action as a sign that neither you nor I had the right faith in a
+Higher Providence.
+
+
+@l{"name":"Mrs. Alving"}
+ But for your own part, my dear Pastor, you can at least
+tell yourself that--
+
+
+@l{"name":"Manders"}
+ Yes, I know--I know; my conscience would be quite easy, that
+is true enough. But nevertheless we should not escape grave
+misinterpretation; and that might very likely react unfavourably upon
+the Orphanage.
+
+
+@l{"name":"Mrs. Alving"}
+ Well, in that case--
+
+
+@l{"name":"Manders"}
+ Nor can I entirely lose sight of the difficult--I may even say
+painful--position in which _I_ might perhaps be placed. In the leading
+circles of the town, people take a lively interest in this Orphanage. It
+is, of course, founded partly for the benefit of the town, as well;
+and it is to be hoped it will, to a considerable extent, result in
+lightening our Poor Rates. Now, as I have been your adviser, and have
+had the business arrangements in my hands, I cannot but fear that I may
+have to bear the brunt of fanaticism--
+
+
+@l{"name":"Mrs. Alving"}
+ Oh, you mustn't run the risk of that.
+
+
+@l{"name":"Manders"}
+ To say nothing of the attacks that would assuredly be made upon
+me in certain papers and periodicals, which--
+
+
+@l{"name":"Mrs. Alving"}
+ Enough, my dear Pastor Manders. That consideration is quite
+decisive.
+
+
+@l{"name":"Manders"}
+ Then you do not wish the Orphanage to be insured?
+
+
+@l{"name":"Mrs. Alving"}
+ No. We will let it alone.
+
+
+@d{}
+[Leaning hack in his chair.] 
+@l{"name":"Manders"}
+But if, now, a disaster were to
+happen? One can never tell--Should you be able to make good the damage?
+
+
+@l{"name":"Mrs. Alving"}
+ No; I tell you plainly I should do nothing of the kind.
+
+
+@l{"name":"Manders"}
+ Then I must tell you, Mrs. Alving--we are taking no small
+responsibility upon ourselves.
+
+
+@l{"name":"Mrs. Alving"}
+ Do you think we can do otherwise?
+
+
+@l{"name":"Manders"}
+ No, that is just the point; we really cannot do otherwise. We
+ought not to expose ourselves to misinterpretation; and we have no right
+whatever to give offence to the weaker brethren.
+
+
+@l{"name":"Mrs. Alving"}
+ You, as a clergyman, certainly should not.
+
+
+@l{"name":"Manders"}
+ I really think, too, we may trust that such an institution has
+fortune on its side; in fact, that it stands under a special providence.
+
+
+@l{"name":"Mrs. Alving"}
+ Let us hope so, Pastor Manders.
+
+
+@l{"name":"Manders"}
+ Then we will let it take its chance?
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, certainly.
+
+
+@l{"name":"Manders"}
+ Very well. So be it. 
+@d{}
+[Makes a note.] 
+@l{"name":"Manders"}
+Then--no insurance.
+
+
+@l{"name":"Mrs. Alving"}
+ It's odd that you should just happen to mention the matter
+to-day--
+
+
+@l{"name":"Manders"}
+ I have often thought of asking you about it--
+
+
+@l{"name":"Mrs. Alving"}
+--for we very nearly had a fire down there yesterday.
+
+
+@l{"name":"Manders"}
+ You don't say so!
+
+
+@l{"name":"Mrs. Alving"}
+ Oh, it was a trifling matter. A heap of shavings had caught
+fire in the carpenter's workshop.
+
+
+@l{"name":"Manders"}
+ Where Engstrand works?
+
+
+@l{"name":"Mrs. Alving"}
+ Yes. They say he's often very careless with matches.
+
+
+@l{"name":"Manders"}
+ He has so much on his mind, that man--so many things to fight
+against. Thank God, he is now striving to lead a decent life, I hear.
+
+
+@l{"name":"Mrs. Alving"}
+ Indeed! Who says so?
+
+
+@l{"name":"Manders"}
+ He himself assures me of it. And he is certainly a capital
+workman.
+
+
+@l{"name":"Mrs. Alving"}
+ Oh, yes; so long as he's sober--
+
+
+@l{"name":"Manders"}
+ Ah, that melancholy weakness! But, a is often driven to it
+by his injured leg, lie says,' Last time he was in town I was really
+touched by him. He came and thanked me so warmly for having got him work
+here, so that he might be near Regina.
+
+
+@l{"name":"Mrs. Alving"}
+ He doesn't see much of her.
+
+
+@l{"name":"Manders"}
+ Oh, yes; he has a talk with her every day. He told me so
+himself.
+
+
+@l{"name":"Mrs. Alving"}
+ Well, it may be so.
+
+
+@l{"name":"Manders"}
+ He feels so acutely that he needs some one to keep a firm hold
+on him when temptation comes. That is what I cannot help liking about
+Jacob Engstrand: he comes to you so helplessly, accusing himself and
+confessing his own weakness. The last time he was talking to me--Believe
+me, Mrs. Alving, supposing it were a real necessity for him to have
+Regina home again--
+
+
+@d{}
+[Rising hastily.] 
+@l{"name":"Mrs. Alving"}
+Regina!
+
+
+@l{"name":"Manders"}
+--you must not set yourself against it.
+
+
+@l{"name":"Mrs. Alving"}
+ Indeed I shall set myself against it. And besides--Regina
+is to have a position in the Orphanage.
+
+
+@l{"name":"Manders"}
+ But, after all, remember he is her father--
+
+
+@l{"name":"Mrs. Alving"}
+ Oh, I know very well what sort of a father he has been to
+her. No! She shall never go to him with my goodwill.
+
+
+@d{}
+[Rising.] 
+@l{"name":"Manders"}
+My dear lady, don't take the matter so warmly. You
+sadly misjudge poor Engstrand. You seem to be quite terrified--
+
+
+@d{}
+[More quietly.] 
+@l{"name":"Mrs. Alving"}
+It makes no difference. I have taken Regina
+into my house, and there she shall stay. 
+@d{}
+[Listens.] 
+@l{"name":"Mrs. Alving"}
+Hush, my dear Mr.
+Manders; say no more about it. 
+@d{}
+[Her face lights up with gladness.]
+
+@l{"name":"Mrs. Alving"}
+Listen! there is Oswald coming downstairs. Now we'll think of no one but
+him.
+
+
+@d{}
+[OSWALD ALVING, in a light overcoat, hat in hand, and smoking a large
+meerschaum, enters by the door on the left; he stops in the doorway.]
+
+
+@e{"names":["Oswald"]}
+
+@l{"name":"Oswald"}
+ Oh, I beg your pardon; I thought you were in the study. 
+@d{}
+[Comes
+forward.] 
+@l{"name":"Oswald"}
+Good-morning, Pastor Manders.
+
+
+@d{}
+[Staring.] 
+@l{"name":"Manders"}
+Ah--! How strange--!
+
+
+@l{"name":"Mrs. Alving"}
+ Well now, what do you think of him, Mr. Manders?
+
+
+@l{"name":"Manders"}
+ I--I--can it really be--?
+
+
+@l{"name":"Oswald"}
+ Yes, it's really the Prodigal Son, sir.
+
+
+@d{}
+[Protesting.] 
+@l{"name":"Manders"}
+My dear young friend--
+
+
+@l{"name":"Oswald"}
+ Well, then, the Lost Sheep Found.
+
+
+@l{"name":"Mrs. Alving"}
+ Oswald is thinking of the time when you were so much
+opposed to his becoming a painter.
+
+
+@l{"name":"Manders"}
+ To our human eyes many a step seems dubious, which afterwards proves--
+
+@d{}
+[Wrings his hand.] 
+@l{"name":"Manders"}
+But first of all, welcome, welcome home! Do
+not think, my dear Oswald--I suppose I may call you by your Christian
+name?
+
+
+@l{"name":"Oswald"}
+ What else should you call me?
+
+
+@l{"name":"Manders"}
+ Very good. What I wanted to say was this, my dear Oswald you
+must not think that I utterly condemn the artist's calling. I have no
+doubt there are many who can keep their inner self unharmed in that
+profession, as in any other.
+
+
+@l{"name":"Oswald"}
+ Let us hope so.
+
+
+@d{}
+[Beaming with delight.] 
+@l{"name":"Mrs. Alving"}
+I know one who has kept both his
+inner and his outer self unharmed. Just look at him, Mr. Manders.
+
+
+@d{}
+[Moves restlessly about the room.] 
+@l{"name":"Oswald"}
+Yes, yes, my dear mother;
+let's say no more about it.
+
+
+@l{"name":"Manders"}
+ Why, certainly--that is undeniable. And you have begun to make
+a name for yourself already. The newspapers have often spoken of you,
+most favourably. Just lately, by-the-bye, I fancy I haven't seen your
+name quite so often.
+
+
+@d{}
+[Up in the conservatory.] 
+@l{"name":"Oswald"}
+I haven't been able to paint so much
+lately.
+
+
+@l{"name":"Mrs. Alving"}
+ Even a painter needs a little rest now and then.
+
+
+@l{"name":"Manders"}
+ No doubt, no doubt. And meanwhile he can be preparing himself
+and mustering his forces for some great work.
+
+
+@l{"name":"Oswald"}
+ Yes.--Mother, will dinner soon be ready?
+
+
+@l{"name":"Mrs. Alving"}
+ In less than half an hour. He has a capital appetite, thank
+God.
+
+
+@l{"name":"Manders"}
+ And a taste for tobacco, too.
+
+
+@l{"name":"Oswald"}
+ I found my father's pipe in my room--
+
+
+@l{"name":"Manders"}
+ Aha--then that accounts for it!
+
+
+@l{"name":"Mrs. Alving"}
+ For what?
+
+
+@l{"name":"Manders"}
+ When Oswald appeared there, in the doorway, with the pipe in
+his mouth, I could have sworn I saw his father, large as life.
+
+
+@l{"name":"Oswald"}
+ No, really?
+
+
+@l{"name":"Mrs. Alving"}
+ Oh, how can you say so? Oswald takes after me.
+
+
+@l{"name":"Manders"}
+ Yes, but there is an expression about the corners of the
+mouth--something about the lips--that reminds one exactly of Alving: at
+any rate, now that he is smoking.
+
+
+@l{"name":"Mrs. Alving"}
+ Not in the least. Oswald has rather a clerical curve about
+his mouth, I think.
+
+
+@l{"name":"Manders"}
+ Yes, yes; some of my colleagues have much the same expression.
+
+
+@l{"name":"Mrs. Alving"}
+ But put your pipe away, my dear boy; I won't have smoking
+in here.
+
+
+@d{}
+[Does so.] 
+@l{"name":"Oswald"}
+By all means. I only wanted to try it; for I once
+smoked it when I was a child.
+
+
+@l{"name":"Mrs. Alving"}
+ You?
+
+
+@l{"name":"Oswald"}
+ Yes. I was quite small at the time. I recollect I came up to
+father's room one evening when he was in great spirits.
+
+
+@l{"name":"Mrs. Alving"}
+ Oh, you can't recollect anything of those times.
+
+
+@l{"name":"Oswald"}
+ Yes, I recollect it distinctly. He took me on his knee, and gave
+me the pipe. "Smoke, boy," he said; "smoke away, boy!" And I smoked
+as hard as I could, until I felt I was growing quite pale, and the
+perspiration stood in great drops on my forehead. Then he burst out
+laughing heartily--
+
+
+@l{"name":"Manders"}
+ That was most extraordinary.
+
+
+@l{"name":"Mrs. Alving"}
+ My dear friend, it's only something Oswald has dreamt.
+
+
+@l{"name":"Oswald"}
+ No, mother, I assure you I didn't dream it. For--don't you
+remember this?--you came and carried me out into the nursery. Then I
+was sick, and I saw that you were crying.--Did father often play such
+practical jokes?
+
+
+@l{"name":"Manders"}
+ In his youth he overflowed with the joy of life--
+
+
+@l{"name":"Oswald"}
+ And yet he managed to do so much in the world; so much that was
+good and useful; although he died so early.
+
+
+@l{"name":"Manders"}
+ Yes, you have inherited the name of an energetic and admirable
+man, my dear Oswald Alving. No doubt it will be an incentive to you--
+
+
+@l{"name":"Oswald"}
+ It ought to, indeed.
+
+
+@l{"name":"Manders"}
+ It was good of you to come home for the ceremony in his honour.
+
+
+@l{"name":"Oswald"}
+ I could do no less for my father.
+
+
+@l{"name":"Mrs. Alving"}
+ And I am to keep him so long! That is the best of all.
+
+
+@l{"name":"Manders"}
+ You are going to pass the winter at home, I hear.
+
+
+@l{"name":"Oswald"}
+ My stay is indefinite, sir.-But, ah! it is good to be at home!
+
+
+@d{}
+[Beaming.] 
+@l{"name":"Mrs. Alving"}
+Yes, isn't it, dear?
+
+
+@d{}
+[Looking sympathetically at him.] 
+@l{"name":"Manders"}
+You went out into the world
+early, my dear Oswald.
+
+
+@l{"name":"Oswald"}
+ I did. I sometimes wonder whether it wasn't too early.
+
+
+@l{"name":"Mrs. Alving"}
+ Oh, not at all. A healthy lad is all the better for it;
+especially when he's an only child. He oughtn't to hang on at home with
+his mother and father, and get spoilt.
+
+
+@l{"name":"Manders"}
+ That is a very disputable point, Mrs. Alving. A child's proper
+place is, and must be, the home of his fathers.
+
+
+@l{"name":"Oswald"}
+ There I quite agree with you, Pastor Manders.
+
+
+@l{"name":"Manders"}
+ Only look at your own son--there is no reason why we should not
+say it in his presence--what has the consequence been for him? He is six
+or seven and twenty, and has never had the opportunity of learning what
+a well-ordered home really is.
+
+
+@l{"name":"Oswald"}
+ I beg your pardon, Pastor; there you're quite mistaken.
+
+
+@l{"name":"Manders"}
+ Indeed? I thought you had lived almost exclusively in artistic
+circles.
+
+
+@l{"name":"Oswald"}
+ So I have.
+
+
+@l{"name":"Manders"}
+ And chiefly among the younger artists?
+
+
+@l{"name":"Oswald"}
+ Yes, certainly.
+
+
+@l{"name":"Manders"}
+ But I thought few of those young fellows could afford to set up
+house and support a family.
+
+
+@l{"name":"Oswald"}
+ There are many who cannot afford to marry, sir.
+
+
+@l{"name":"Manders"}
+ Yes, that is just what I say.
+
+
+@l{"name":"Oswald"}
+ But they may have a home for all that. And several of them have,
+as a matter of fact; and very pleasant, well-ordered homes they are,
+too.
+
+
+@d{}
+[MRS. ALVING follows with breathless interest; nods, but says nothing.]
+
+
+@l{"name":"Manders"}
+ But I'm not talking of bachelors' quarters. By a "home" I
+understand the home of a family, where a man lives with his wife and
+children.
+
+
+@l{"name":"Oswald"}
+ Yes; or with his children and his children's mother.
+
+
+@d{}
+[Starts; clasps his hands.] 
+@l{"name":"Manders"}
+But, good heavens--
+
+
+@l{"name":"Oswald"}
+ Well?
+
+
+@l{"name":"Manders"}
+ Lives with--his children's mother!
+
+
+@l{"name":"Oswald"}
+ Yes. Would you have him turn his children's mother out of doors?
+
+
+@l{"name":"Manders"}
+ Then it is illicit relations you are talking of! Irregular
+marriages, as people call them!
+
+
+@l{"name":"Oswald"}
+ I have never noticed anything particularly irregular about the
+life these people lead.
+
+
+@l{"name":"Manders"}
+ But how is it possible that a--a young man or young woman with
+any decency of feeling can endure to live in that way?--in the eyes of
+all the world!
+
+
+@l{"name":"Oswald"}
+ What are they to do? A poor young artist--a poor girl--marriage
+costs a great deal. What are they to do?
+
+
+@l{"name":"Manders"}
+ What are they to do? Let me tell you, Mr. Alving, what they
+ought to do. They ought to exercise self-restraint from the first; that
+is what they ought to do.
+
+
+@l{"name":"Oswald"}
+ That doctrine will scarcely go down with warm-blooded young
+people who love each other.
+
+
+@l{"name":"Mrs. Alving"}
+ No, scarcely!
+
+
+@d{}
+[Continuing.] 
+@l{"name":"Manders"}
+How can the authorities tolerate such things!
+Allow them to go on in the light of day! 
+@d{}
+[Confronting Mrs. Alving] 
+@l{"name":"Manders"}
+Had
+I not cause to be deeply concerned about your son? In circles where open
+immorality prevails, and has even a sort of recognised position--!
+
+
+@l{"name":"Oswald"}
+ Let me tell you, sir, that I have been in the habit of spending
+nearly all my Sundays in one or two such irregular homes--
+
+
+@l{"name":"Manders"}
+ Sunday of all days!
+
+
+@l{"name":"Oswald"}
+ Isn't that the day to enjoy one's self? Well, never have I heard
+an offensive word, and still less have I witnessed anything that could
+be called immoral. No; do you know when and where I have come across
+immorality in artistic circles?
+
+
+@l{"name":"Manders"}
+ No, thank heaven, I don't!
+
+
+@l{"name":"Oswald"}
+ Well, then, allow me to inform you. I have met with it when one
+or other of our pattern husbands and fathers has come to Paris to have
+a look round on his own account, and has done the artists the honour of
+visiting their humble haunts. They knew what was what. These gentlemen
+could tell us all about places and things we had never dreamt of.
+
+
+@l{"name":"Manders"}
+ What! Do you mean to say that respectable men from home here
+would--?
+
+
+@l{"name":"Oswald"}
+ Have you never heard these respectable men, when they got home
+again, talking about the way in which immorality runs rampant abroad?
+
+
+@l{"name":"Manders"}
+ Yes, no doubt--
+
+
+@l{"name":"Mrs. Alving"}
+ I have too.
+
+
+@l{"name":"Oswald"}
+ Well, you may take their word for it. They know what they are
+talking about! 
+@d{}
+[Presses has hands to his head.] 
+@l{"name":"Oswald"}
+Oh! that that great,
+free, glorious life out there should be defiled in such a way!
+
+
+@l{"name":"Mrs. Alving"}
+ You mustn't get excited, Oswald. It's not good for you.
+
+
+@l{"name":"Oswald"}
+ Yes; you're quite right, mother. It's bad for me, I know.
+You see, I'm wretchedly worn out. I shall go for a little turn before
+dinner. Excuse me, Pastor: I know you can't take my point of view; but
+I couldn't help speaking out. 
+@d{}
+[He goes out by the second door to the
+right.]
+
+
+@x{"names":["Oswald"]}
+
+@l{"name":"Mrs. Alving"}
+ My poor boy!
+
+
+@l{"name":"Manders"}
+ You may well say so. Then this is what he has come to!
+
+
+@d{}
+[MRS. ALVING looks at him silently.]
+
+
+@d{}
+[Walking up and down.] 
+@l{"name":"Manders"}
+He called himself the Prodigal Son.
+Alas! alas!
+
+
+@d{}
+[MRS. ALVING continues looking at him.]
+
+
+@l{"name":"Manders"}
+ And what do you say to all this?
+
+
+@l{"name":"Mrs. Alving"}
+ I say that Oswald was right in every word.
+
+
+@d{}
+[Stands still.] 
+@l{"name":"Manders"}
+Right? Right! In such principles?
+
+
+@l{"name":"Mrs. Alving"}
+ Here, in my loneliness, I have come to the same way of
+thinking, Pastor Manders. But I have never dared to say anything. Well!
+now my boy shall speak for me.
+
+
+@l{"name":"Manders"}
+ You are greatly to be pitied, Mrs. Alving. But now I must speak
+seriously to you. And now it is no longer your business manager and
+adviser, your own and your husband's early friend, who stands before
+you. It is the priest--the priest who stood before you in the moment of
+your life when you had gone farthest astray.
+
+
+@l{"name":"Mrs. Alving"}
+ And what has the priest to say to me?
+
+
+@l{"name":"Manders"}
+ I will first stir up your memory a little. The moment is well
+chosen. To-morrow will be the tenth anniversary of your husband's death.
+To-morrow the memorial in his honour will be unveiled. To-morrow I shall
+have to speak to the whole assembled multitude. But to-day I will speak
+to you alone.
+
+
+@l{"name":"Mrs. Alving"}
+ Very well, Pastor Manders. Speak.
+
+
+@l{"name":"Manders"}
+ Do you remember that after less than a year of married life you
+stood on the verge of an abyss? That you forsook your house and home?
+That you fled from your husband? Yes, Mrs. Alving--fled, fled, and
+refused to return to him, however much he begged and prayed you?
+
+
+@l{"name":"Mrs. Alving"}
+ Have you forgotten how infinitely miserable I was in that
+first year?
+
+
+@l{"name":"Manders"}
+ It is the very mark of the spirit of rebellion to crave for
+happiness in this life. What right have we human beings to happiness?
+We have simply to do our duty, Mrs. Alving! And your duty was to hold
+firmly to the man you had once chosen, and to whom you were bound by the
+holiest ties.
+
+
+@l{"name":"Mrs. Alving"}
+ You know very well what sort of life Alving was
+leading--what excesses he was guilty of.
+
+
+@l{"name":"Manders"}
+ I know very well what rumours there were about him; and I am
+the last to approve the life he led in his young days, if report did not
+wrong him. But a wife is not appointed to be her husband's judge. It was
+your duty to bear with humility the cross which a Higher Power had, in
+its wisdom, laid upon you. But instead of that you rebelliously throw
+away the cross, desert the backslider whom you should have supported, go
+and risk your good name and reputation, and--nearly succeed in ruining
+other people's reputation into the bargain.
+
+
+@l{"name":"Mrs. Alving"}
+ Other people's? One other person's, you mean.
+
+
+@l{"name":"Manders"}
+ It was incredibly reckless of you to seek refuge with me.
+
+
+@l{"name":"Mrs. Alving"}
+ With our clergyman? With our intimate friend?
+
+
+@l{"name":"Manders"}
+ Just on that account. Yes, you may thank God that I possessed
+the necessary firmness; that I succeeded in dissuading you from your
+wild designs; and that it was vouchsafed me to lead you back to the path
+of duty, and home to your lawful husband.
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, Pastor Manders, that was certainly your work.
+
+
+@l{"name":"Manders"}
+ I was but a poor instrument in a Higher Hand. And what a
+blessing has it not proved to you, all the days of your life, that I
+induced you to resume the yoke of duty and obedience! Did not everything
+happen as I foretold? Did not Alving turn his back on his errors, as
+a man should? Did he not live with you from that time, lovingly and
+blamelessly, all his days? Did he not become a benefactor to the whole
+district? And did he not help you to rise to his own level, so that you,
+little by little, became his assistant in all his undertakings? And a
+capital assistant, too--oh, I know, Mrs. Alving, that praise is due to
+you.--But now I come to the next great error in your life.
+
+
+@l{"name":"Mrs. Alving"}
+ What do you mean?
+
+
+@l{"name":"Manders"}
+ Just as you once disowned a wife's duty, so you have since
+disowned a mother's.
+
+
+@l{"name":"Mrs. Alving"}
+ Ah--!
+
+
+@l{"name":"Manders"}
+ You have been all your life under the dominion of a pestilent
+spirit of self-will. The whole bias of your mind has been towards
+insubordination and lawlessness. You have never known how to endure any
+bond. Everything that has weighed upon you in life you have cast away
+without care or conscience, like a burden you were free to throw off at
+will. It did not please you to be a wife any longer, and you left your
+husband. You found it troublesome to be a mother, and you sent your
+child forth among strangers.
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, that is true. I did so.
+
+
+@l{"name":"Manders"}
+ And thus you have become a stranger to him.
+
+
+@l{"name":"Mrs. Alving"}
+ No! no! I am not.
+
+
+@l{"name":"Manders"}
+ Yes, you are; you must be. And in what state of mind has he
+returned to you? Bethink yourself well, Mrs. Alving. You sinned greatly
+against your husband;--that you recognise by raising yonder memorial to
+him. Recognise now, also, how you have sinned against your son--there
+may yet be time to lead him back from the paths of error. Turn back
+yourself, and save what may yet be saved in him. For 
+@d{}
+[With uplifted
+forefinger] 
+@l{"name":"Manders"}
+verily, Mrs. Alving, you are a guilt-laden mother! This I
+have thought it my duty to say to you.
+
+
+@d{}
+[Silence.]
+
+
+@d{}
+[Slowly and with self-control.] 
+@l{"name":"Mrs. Alving"}
+You have now spoken out,
+Pastor Manders; and to-morrow you are to speak publicly in memory of my
+husband. I shall not speak to-morrow. But now I will speak frankly to
+you, as you have spoken to me.
+
+
+@l{"name":"Manders"}
+ To be sure; you will plead excuses for your conduct--
+
+
+@l{"name":"Mrs. Alving"}
+ No. I will only tell you a story.
+
+
+@l{"name":"Manders"}
+ Well--?
+
+
+@l{"name":"Mrs. Alving"}
+ All that you have just said about my husband and me, and
+our life after you had brought me back to the path of duty--as you
+called it--about all that you know nothing from personal observation.
+From that moment you, who had been our intimate friend, never set foot
+in our house gain.
+
+
+@l{"name":"Manders"}
+ You and your husband left the town immediately after.
+
+
+@l{"name":"Mrs. Alving"}
+ Yes; and in my husband's lifetime you never came to see
+us. It was business that forced you to visit me when you undertook the
+affairs of the Orphanage.
+
+
+@d{}
+[Softly and hesitatingly.] 
+@l{"name":"Manders"}
+Helen--if that is meant as a
+reproach, I would beg you to bear in mind--
+
+
+@l{"name":"Mrs. Alving"}
+--the regard you owed to your position, yes; and that I was
+a runaway wife. One can never be too cautious with such unprincipled
+creatures.
+
+
+@l{"name":"Manders"}
+ My dear--Mrs. Alving, you know that is an absurd exaggeration--
+
+
+@l{"name":"Mrs. Alving"}
+ Well well, suppose it is. My point is that your judgment
+as to my married life is founded upon nothing but common knowledge and
+report.
+
+
+@l{"name":"Manders"}
+ I admit that. What then?
+
+
+@l{"name":"Mrs. Alving"}
+ Well, then, Pastor Manders--I will tell you the truth. I
+have sworn to myself that one day you should know it--you alone!
+
+
+@l{"name":"Manders"}
+ What is the truth, then?
+
+
+@l{"name":"Mrs. Alving"}
+ The truth is that my husband died just as dissolute as he
+had lived all his days.
+
+
+@d{}
+[Feeling after a chair.] 
+@l{"name":"Manders"}
+What do you say?
+
+
+@l{"name":"Mrs. Alving"}
+ After nineteen years of marriage, as dissolute--in his
+desires at any rate--as he was before you married us.
+
+
+@l{"name":"Manders"}
+ And those-those wild oats--those irregularities--those
+excesses, if you like--you call "a dissolute life"?
+
+
+@l{"name":"Mrs. Alving"}
+ Our doctor used the expression.
+
+
+@l{"name":"Manders"}
+ I do not understand you.
+
+
+@l{"name":"Mrs. Alving"}
+ You need not.
+
+
+@l{"name":"Manders"}
+ It almost makes me dizzy. Your whole married life, the seeming
+union of all these years, was nothing more than a hidden abyss!
+
+
+@l{"name":"Mrs. Alving"}
+ Neither more nor less. Now you know it.
+
+
+@l{"name":"Manders"}
+ This is--this is inconceivable to me. I cannot grasp it! I
+cannot realise it! But how was it possible to--? How could such a state
+of things be kept secret?
+
+
+@l{"name":"Mrs. Alving"}
+ That has been my ceaseless struggle, day after day. After
+Oswald's birth, I thought Alving seemed to be a little better. But it
+did not last long. And then I had to struggle twice as hard, fighting as
+though for life or death, so that nobody should know what sort of man
+my child's father was. And you know what power Alving had of winning
+people's hearts. Nobody seemed able to believe anything but good of
+him. He was one of those people whose life does not bite upon their
+reputation. But at last, Mr. Manders--for you must know the whole
+story--the most repulsive thing of all happened.
+
+
+@l{"name":"Manders"}
+ More repulsive than what you have told me?
+
+
+@l{"name":"Mrs. Alving"}
+ I had gone on bearing with him, although I knew very well
+the secrets of his life out of doors. But when he brought the scandal
+within our own walls--
+
+
+@l{"name":"Manders"}
+ Impossible! Here!
+
+
+@l{"name":"Mrs. Alving"}
+ Yes; here in our own home. It was there 
+@d{}
+[Pointing towards
+the first door on the right], 
+@l{"name":"Mrs. Alving"}
+in the dining-room, that I first came
+to know of it. I was busy with something in there, and the door was
+standing ajar. I heard our housemaid come up from the garden, with water
+for those flowers.
+
+
+@l{"name":"Manders"}
+ Well--?
+
+
+@l{"name":"Mrs. Alving"}
+ Soon after, I heard Alving come in too. I heard him say
+something softly to her. And then I heard--
+@d{}
+[With a short laugh]--oh! 
+@l{"name":"Mrs. Alving"}
+it
+still sounds in my ears, so hateful and yet so ludicrous--I heard my own
+servant-maid whisper, "Let me go, Mr. Alving! Let me be!"
+
+
+@l{"name":"Manders"}
+ What unseemly levity on his part'! But it cannot have been more
+than levity, Mrs. Alving; believe me, it cannot.
+
+
+@l{"name":"Mrs. Alving"}
+ I soon knew what to believe. Mr. Alving had his way with
+the girl; and that connection had consequences, Mr. Manders.
+
+
+@d{}
+[As though petrified.] 
+@l{"name":"Manders"}
+Such things in this house--in this
+house!
+
+
+@l{"name":"Mrs. Alving"}
+ I had borne a great deal in this house. To keep him at home
+in the evenings, and at night, I had to make myself his boon companion
+in his secret orgies up in his room. There I have had to sit alone with
+him, to clink glasses and drink with him, and to listen to his ribald,
+silly talk. I have had to fight with him to get him dragged to bed--
+
+
+@d{}
+[Moved.] 
+@l{"name":"Manders"}
+And you were able to bear all this!
+
+
+@l{"name":"Mrs. Alving"}
+ I had to bear it for my little boy's sake. But when the
+last insult was added; when my own servant-maid--; then I swore to
+myself: This shall come to an end! And so I took the reins into my own
+hand--the whole control--over him and everything else. For now I had a
+weapon against him, you see; he dared not oppose me. It was then I sent
+Oswald away from home. He was nearly seven years old, and was beginning
+to observe and ask questions, as children do. That I could not bear. It
+seemed to me the child must be poisoned by merely breathing the air of
+this polluted home. That was why I sent him away. And now you can see,
+too, why he was never allowed to set foot inside his home so long as his
+father lived. No one knows what that cost me.
+
+
+@l{"name":"Manders"}
+ You have indeed had a life of trial.
+
+
+@l{"name":"Mrs. Alving"}
+ I could never have borne it if I had not had my work. For
+I may truly say that I have worked! All the additions to the estate--all
+the improvements--all the labour-saving appliances, that Alving was so
+much praised for having introduced--do you suppose he had energy for
+anything of the sort?--he, who lay all day on the sofa, reading an old
+Court Guide! No; but I may tell you this too: when he had his better
+intervals, it was I who urged him on; it was I who had to drag the
+whole load when he relapsed into his evil ways, or sank into querulous
+wretchedness.
+
+
+@l{"name":"Manders"}
+ And it is to this man that you raise a memorial?
+
+
+@l{"name":"Mrs. Alving"}
+ There you see the power of an evil conscience.
+
+
+@l{"name":"Manders"}
+ Evil--? What do you mean?
+
+
+@l{"name":"Mrs. Alving"}
+ It always seemed to me impossible but that the truth must
+come out and be believed. So the Orphanage was to deaden all rumours and
+set every doubt at rest.
+
+
+@l{"name":"Manders"}
+ In that you have certainly not missed your aim, Mrs. Alving.
+
+
+@l{"name":"Mrs. Alving"}
+ And besides, I had one other reason. I was determined that
+Oswald, my own boy, should inherit nothing whatever from his father.
+
+
+@l{"name":"Manders"}
+ Then it is Alving's fortune that--?
+
+
+@l{"name":"Mrs. Alving"}
+ Yes. The sums I have spent upon the Orphanage, year by
+year, make up the amount--I have reckoned it up precisely--the amount
+which made Lieutenant Alving "a good match" in his day.
+
+
+@l{"name":"Manders"}
+ I don't understand--
+
+
+@l{"name":"Mrs. Alving"}
+ It was my purchase-money. I do not choose that that money
+should pass into Oswald's hands. My son shall have everything from
+me--everything.
+
+
+@d{}
+[OSWALD ALVING enters through the second door to the right; he has taken
+of his hat and overcoat in the hall.]
+
+
+@e{"names":["Oswald"]}
+
+@d{}
+[Going towards him.] 
+@l{"name":"Mrs. Alving"}
+Are you back again already? My dear,
+dear boy!
+
+
+@l{"name":"Oswald"}
+ Yes. What can a fellow do out of doors in this eternal rain? But
+I hear dinner is ready. That's capital!
+
+
+@d{}
+[With a parcel, from the dining-room.] 
+@e{"names":["Regina"]}
+
+@l{"name":"Regina"}
+A parcel has come for
+you, Mrs. Alving. 
+@d{}
+[Hands it to her.]
+
+
+@d{}
+[With a glance at MR. Manders] 
+@l{"name":"Mrs. Alving"}
+No doubt copies of the ode
+for to-morrow's ceremony.
+
+
+@l{"name":"Manders"}
+ H'm--
+
+
+@l{"name":"Regina"}
+ And dinner is ready.
+
+
+@l{"name":"Mrs. Alving"}
+ Very well. We will come directly. I will just--
+@d{}
+[Begins to
+open the parcel.]
+
+
+@d{}
+[To Oswald] 
+@l{"name":"Regina"}
+Would Mr. Alving like red or white wine?
+
+
+@l{"name":"Oswald"}
+ Both, if you please.
+
+
+@l{"name":"Regina"}
+ _Bien_. Very well, sir. 
+@d{}
+[She goes into the dining-room.]
+
+
+@x{"names":["Regina"]}
+
+@l{"name":"Oswald"}
+ I may as well help to uncork it. 
+@d{}
+[He also goes into the dining
+room, the door of which swings half open behind him.]
+
+
+@x{"names":["Oswald"]}
+
+@d{}
+[Who has opened the parcel.] 
+@l{"name":"Mrs. Alving"}
+Yes, I thought so. Here is the
+Ceremonial Ode, Pastor Manders.
+
+
+@d{}
+[With folded hands.] 
+@l{"name":"Manders"}
+With what countenance I am to deliver my
+discourse to-morrow--!
+
+
+@l{"name":"Mrs. Alving"}
+ Oh, you will get through it somehow.
+
+
+@d{}
+[Softly, so as not to be heard in the dining-room.] 
+@l{"name":"Manders"}
+Yes; it
+would not do to provoke scandal.
+
+
+@d{}
+[Under her breath, but firmly.] 
+@l{"name":"Mrs. Alving"}
+No. But then this long,
+hateful comedy will be ended. From the day after to-morrow, I shall act
+in every way as though he who is dead had never lived in this house.
+There shall be no one here but my boy and his mother.
+
+
+@d{}
+[From the dining-room comes the noise of a chair overturned, and at the
+same moment is heard:]
+
+
+@d{}
+[Sharply, but in a whisper.] 
+@l{"name":"Regina"}
+Oswald! take care! are you mad? Let
+me go!
+
+
+@d{}
+[Starts in terror.] 
+@l{"name":"Mrs. Alving"}
+Ah--!
+
+
+@d{}
+[She stares wildly towards the half-open door. OSWALD is heard laughing
+and humming. A bottle is uncorked.]
+
+
+@d{}
+[Agitated.] 
+@l{"name":"Manders"}
+What can be the matter? What is it, Mrs. Alving?
+
+
+@d{}
+[Hoarsely.] 
+@l{"name":"Mrs. Alving"}
+Ghosts! The couple from the conservatory--risen
+again!
+
+
+@l{"name":"Manders"}
+ Is it possible! Regina--? Is she--?
+
+
+@l{"name":"Mrs. Alving"}
+ Yes. Come. Not a word--!
+
+
+@d{}
+[She seizes PASTOR MANDERS by the arm, and walks unsteadily towards the
+dining-room.]
+
+@x{"names":["Manders","Mrs. Alving"]}
+
+@a{"number":2}
+@s{"number":1}
+@d{}
+
+
+ACT SECOND.
+
+[The same room. The mist still lies heavy over the landscape.]
+
+[MANDERS and MRS. ALVING enter from the dining-room.]
+
+
+@e{"names":["Manders","Mrs. Alving"]}
+
+@d{}
+[Still in the doorway.] 
+@l{"name":"Mrs. Alving"}
+_Velbekomme_ 
+@d{}
+[Note: A phrase
+equivalent to the German _Prosit die Mahlzeit_--May good digestion wait
+on appetite.], 
+@l{"name":"Mrs. Alving"}
+Mr. Manders. 
+@d{}
+[Turns back towards the dining-room.] 
+@l{"name":"Mrs. Alving"}
+Aren't
+you coming too, Oswald?
+
+
+@d{}
+[From within.] 
+@l{"name":"Oswald"}
+No, thank you. I think I shall go out a little.
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, do. The weather seems a little brighter now. 
+@d{}
+[She
+shuts the dining-room door, goes to the hall door, and calls:] 
+@l{"name":"Mrs. Alving"}
+Regina!
+
+
+@d{}
+[Outside.] 
+@l{"name":"Regina"}
+Yes, Mrs. Alving?
+
+
+@l{"name":"Mrs. Alving"}
+ Go down to the laundry, and help with the garlands.
+
+
+@l{"name":"Regina"}
+ Yes, Mrs. Alving.
+
+
+@d{}
+[MRS. ALVING assures herself that REGINA goes; then shuts the door.]
+
+
+@l{"name":"Manders"}
+ I suppose he cannot overhear us in there?
+
+
+@l{"name":"Mrs. Alving"}
+ Not when the door is shut. Besides, he's just going out.
+
+
+@l{"name":"Manders"}
+ I am still quite upset. I don't know how I could swallow a
+morsel of dinner.
+
+
+@d{}
+[Controlling her nervousness, walks up and down.] 
+@l{"name":"Mrs. Alving"}
+Nor I.
+But what is to be done now?
+
+
+@l{"name":"Manders"}
+ Yes; what is to be done? I am really quite at a loss. I am so
+utterly without experience in matters of this sort.
+
+
+@l{"name":"Mrs. Alving"}
+ I feel sure that, so far, no mischief has been done.
+
+
+@l{"name":"Manders"}
+ No; heaven forbid! But it is an unseemly state of things,
+nevertheless.
+
+
+@l{"name":"Mrs. Alving"}
+ It is only an idle fancy on Oswald's part; you may be sure
+of that.
+
+
+@l{"name":"Manders"}
+ Well, as I say, I am not accustomed to affairs of the kind. But
+I should certainly think--
+
+
+@l{"name":"Mrs. Alving"}
+ Out of the house she must go, and that immediately. That is
+as clear as daylight--
+
+
+@l{"name":"Manders"}
+ Yes, of course she must.
+
+
+@l{"name":"Mrs. Alving"}
+ But where to? It would not be right to--
+
+
+@l{"name":"Manders"}
+ Where to? Home to her father, of course.
+
+
+@l{"name":"Mrs. Alving"}
+ To whom did you say?
+
+
+@l{"name":"Manders"}
+ To her--But then, Engstrand is not--? Good God, Mrs. Alving,
+it's impossible! You must be mistaken after all.
+
+
+@l{"name":"Mrs. Alving"}
+ Unfortunately there is no possibility of mistake. Johanna
+confessed everything to me; and Alving could not deny it. So there was
+nothing to be done but to get the matter hushed up.
+
+
+@l{"name":"Manders"}
+ No, you could do nothing else.
+
+
+@l{"name":"Mrs. Alving"}
+ The girl left our service at once, and got a good sum of
+money to hold her tongue for the time. The rest she managed for herself
+when she got to town. She renewed her old acquaintance with Engstrand,
+no doubt let him see that she had money in her purse, and told him some
+tale about a foreigner who put in here with a yacht that summer. So she
+and Engstrand got married in hot haste. Why, you married them yourself.
+
+
+@l{"name":"Manders"}
+ But then how to account for--? I recollect distinctly Engstrand
+coming to give notice of the marriage. He was quite overwhelmed with
+contrition, and bitterly reproached himself for the misbehaviour he and
+his sweetheart had been guilty of.
+
+
+@l{"name":"Mrs. Alving"}
+ Yes; of course he had to take the blame upon himself.
+
+
+@l{"name":"Manders"}
+ But such a piece of duplicity on his part! And towards me too!
+I never could have believed it of Jacob Engstrand. I shall not fail
+to take him seriously to task; he may be sure of that.--And then the
+immorality of such a connection! For money--! How much did the girl
+receive?
+
+
+@l{"name":"Mrs. Alving"}
+ Three hundred dollars.
+
+
+@l{"name":"Manders"}
+ Just think of it--for a miserable three hundred dollars, to go
+and marry a fallen woman!
+
+
+@l{"name":"Mrs. Alving"}
+ Then what have you to say of me? I went and married a
+fallen man.
+
+
+@l{"name":"Manders"}
+ Why--good heavens!--what are you talking about! A fallen man!
+
+
+@l{"name":"Mrs. Alving"}
+ Do you think Alving was any purer when I went with him to
+the altar than Johanna was when Engstrand married her?
+
+
+@l{"name":"Manders"}
+ Well, but there is a world of difference between the two
+cases--
+
+
+@l{"name":"Mrs. Alving"}
+ Not so much difference after all--except in the price:--a
+miserable three hundred dollars and a whole fortune.
+
+
+@l{"name":"Manders"}
+ How can you compare such absolutely dissimilar cases? You had
+taken counsel with your own heart and with your natural advisers.
+
+
+@d{}
+[Without looking at him.] 
+@l{"name":"Mrs. Alving"}
+I thought you understood where
+what you call my heart had strayed to at the time.
+
+
+@d{}
+[Distantly.] 
+@l{"name":"Manders"}
+Had I understood anything of the kind, I should
+not have been a daily guest in your husband's house.
+
+
+@l{"name":"Mrs. Alving"}
+ At any rate, the fact remains that with myself I took no
+counsel whatever.
+
+
+@l{"name":"Manders"}
+ Well then, with your nearest relatives--as your duty bade
+you--with your mother and your two aunts.
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, that is true. Those three cast up the account for me.
+Oh, it's marvellous how clearly they made out that it would be downright
+madness to refuse such an offer. If mother could only see me now, and
+know what all that grandeur has come to!
+
+
+@l{"name":"Manders"}
+ Nobody can be held responsible for the result. This, at least,
+remains clear: your marriage was in full accordance with law and order.
+
+
+@d{}
+[At the window.] 
+@l{"name":"Mrs. Alving"}
+Oh, that perpetual law and order! I often
+think that is what does all the mischief in this world of ours.
+
+
+@l{"name":"Manders"}
+ Mrs. Alving, that is a sinful way of talking.
+
+
+@l{"name":"Mrs. Alving"}
+ Well, I can't help it; I must have done with all this
+constraint and insincerity. I can endure it no longer. I must work my
+way out to freedom.
+
+
+@l{"name":"Manders"}
+ What do you mean by that?
+
+
+@d{}
+[Drumming on the window frame.] 
+@l{"name":"Mrs. Alving"}
+I ought never to have
+concealed the facts of Alving's life. But at that time I dared not
+do anything else-I was afraid, partly on my own account. I was such a
+coward.
+
+
+@l{"name":"Manders"}
+ A coward?
+
+
+@l{"name":"Mrs. Alving"}
+ If people had come to know anything, they would have
+said--"Poor man! with a runaway wife, no wonder he kicks over the
+traces."
+
+
+@l{"name":"Manders"}
+ Such remarks might have been made with a certain show of right.
+
+
+@d{}
+[Looking steadily at him.] 
+@l{"name":"Mrs. Alving"}
+If I were what I ought to be, I
+should go to Oswald and say, "Listen, my boy: your father led a vicious
+life--"
+
+
+@l{"name":"Manders"}
+ Merciful heavens--!
+
+
+@l{"name":"Mrs. Alving"}
+--and then I should tell him all I have told you--every word
+of it.
+
+
+@l{"name":"Manders"}
+ You shock me unspeakably, Mrs. Alving.
+
+
+@l{"name":"Mrs. Alving"}
+ Yes; I know that. I know that very well. I myself am
+shocked at the idea. 
+@d{}
+[Goes away from the window.] 
+@l{"name":"Mrs. Alving"}
+I am such a coward.
+
+
+@l{"name":"Manders"}
+ You call it "cowardice" to do your plain duty? Have you
+forgotten that a son ought to love and honour his father and mother?
+
+
+@l{"name":"Mrs. Alving"}
+ Do not let us talk in such general terms. Let us ask: Ought
+Oswald to love and honour Chamberlain Alving?
+
+
+@l{"name":"Manders"}
+ Is there no voice in your mother's heart that forbids you to
+destroy your son's ideals?
+
+
+@l{"name":"Mrs. Alving"}
+ But what about the truth?
+
+
+@l{"name":"Manders"}
+ But what about the ideals?
+
+
+@l{"name":"Mrs. Alving"}
+ Oh--ideals, ideals! If only I were not such a coward!
+
+
+@l{"name":"Manders"}
+ Do not despise ideals, Mrs. Alving; they will avenge themselves
+cruelly. Take Oswald's case: he, unfortunately, seems to have few enough
+ideals as it is; but I can see that his father stands before him as an
+ideal.
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, that is true.
+
+
+@l{"name":"Manders"}
+ And this habit of mind you have yourself implanted and fostered
+by your letters.
+
+
+@l{"name":"Mrs. Alving"}
+ Yes; in my superstitious awe for duty and the proprieties,
+I lied to my boy, year after year. Oh, what a coward--what a coward I
+have been!
+
+
+@l{"name":"Manders"}
+ You have established a happy illusion in your son's heart, Mrs.
+Alving; and assuredly you ought not to undervalue it.
+
+
+@l{"name":"Mrs. Alving"}
+ H'm; who knows whether it is so happy after all--? But, at
+any rate, I will not have any tampering wide Regina. He shall not go and
+wreck the poor girl's life.
+
+
+@l{"name":"Manders"}
+ No; good God--that would be terrible!
+
+
+@l{"name":"Mrs. Alving"}
+ If I knew he was in earnest, and that it would be for his
+happiness--
+
+
+@l{"name":"Manders"}
+ What? What then?
+
+
+@l{"name":"Mrs. Alving"}
+ But it couldn't be; for unfortunately Regina is not the
+right sort of woman.
+
+
+@l{"name":"Manders"}
+ Well, what then? What do you mean?
+
+
+@l{"name":"Mrs. Alving"}
+ If I weren't such a pitiful coward, I should say to him,
+"Marry her, or make what arrangement you please, only let us have
+nothing underhand about it."
+
+
+@l{"name":"Manders"}
+ Merciful heavens, would you let them marry! Anything so
+dreadful--! so unheard of--
+
+
+@l{"name":"Mrs. Alving"}
+ Do you really mean "unheard of"? Frankly, Pastor Manders,
+do you suppose that throughout the country there are not plenty of
+married couples as closely akin as they?
+
+
+@l{"name":"Manders"}
+ I don't in the least understand you.
+
+
+@l{"name":"Mrs. Alving"}
+ Oh yes, indeed you do.
+
+
+@l{"name":"Manders"}
+ Ah, you are thinking of the possibility that--Alas! yes, family
+life is certainly not always so pure as it ought to be. But in such a
+case as you point to, one can never know--at least with any certainty.
+Here, on the other hand--that you, a mother, can think of letting your
+son--
+
+
+@l{"name":"Mrs. Alving"}
+ But I cannot--I wouldn't for anything in the world; that is
+precisely what I am saying.
+
+
+@l{"name":"Manders"}
+ No, because you are a "coward," as you put it. But if you were
+not a "coward," then--? Good God! a connection so shocking!
+
+
+@l{"name":"Mrs. Alving"}
+ So far as that goes, they say we are all sprung from
+connections of that sort. And who is it that arranged the world so,
+Pastor Manders?
+
+
+@l{"name":"Manders"}
+ Questions of that kind I must decline to discuss with you, Mrs.
+Alving; you are far from being in the right frame of mind for them. But
+that you dare to call your scruples "cowardly"--!
+
+
+@l{"name":"Mrs. Alving"}
+ Let me tell you what I mean. I am timid and faint-hearted
+because of the ghosts that hang about me, and that I can never quite
+shake off.
+
+
+@l{"name":"Manders"}
+ What do you say hangs about you?
+
+
+@l{"name":"Mrs. Alving"}
+ Ghosts! When I heard Regina and Oswald in there, it was
+as though ghosts rose up before me. But I almost think we are all of us
+ghosts, Pastor Manders. It is not only what we have inherited from our
+father and mother that "walks" in us. It is all sorts of dead ideas,
+and lifeless old beliefs, and so forth. They have no vitality, but they
+cling to us all the same, and we cannot shake them off. Whenever I take
+up a newspaper, I seem to see ghosts gliding between the lines. There
+must be ghosts all the country over, as thick as the sands of the sea.
+And then we are, one and all, so pitifully afraid of the light.
+
+
+@l{"name":"Manders"}
+ Aha--here we have the fruits of your reading. And pretty fruits
+they are, upon my word! Oh, those horrible, revolutionary, free-thinking
+books!
+
+
+@l{"name":"Mrs. Alving"}
+ You are mistaken, my dear Pastor. It was you yourself who
+set me thinking; and I thank you for it with all my heart.
+
+
+@l{"name":"Manders"}
+ I!
+
+
+@l{"name":"Mrs. Alving"}
+ Yes--when you forced me under the yoke of what you called
+duty and obligation; when you lauded as right and proper what my whole
+soul rebelled against as something loathsome. It was then that I began
+to look into the seams of your doctrines. I wanted only to pick at a
+single knot; but when I had got that undone, the whole thing ravelled
+out. And then I understood that it was all machine-sewn.
+
+
+@d{}
+[Softly, with emotion.] 
+@l{"name":"Manders"}
+And was that the upshot of my life's
+hardest battle?
+
+
+@l{"name":"Mrs. Alving"}
+ Call it rather your most pitiful defeat.
+
+
+@l{"name":"Manders"}
+ It was my greatest victory, Helen--the victory over myself.
+
+
+@l{"name":"Mrs. Alving"}
+ It was a crime against us both.
+
+
+@l{"name":"Manders"}
+ When you went astray, and came to me crying, "Here I am; take
+me!" I commanded you, saying, "Woman, go home to your lawful husband."
+Was that a crime?
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, I think so.
+
+
+@l{"name":"Manders"}
+ We two do not understand each other.
+
+
+@l{"name":"Mrs. Alving"}
+ Not now, at any rate.
+
+
+@l{"name":"Manders"}
+ Never--never in my most secret thoughts have I regarded you
+otherwise than as another's wife.
+
+
+@l{"name":"Mrs. Alving"}
+ Oh--indeed?
+
+
+@l{"name":"Manders"}
+ Helen--!
+
+
+@l{"name":"Mrs. Alving"}
+ People so easily forget their past selves.
+
+
+@l{"name":"Manders"}
+ I do not. I am what I always was.
+
+
+@d{}
+[Changing the subject.] 
+@l{"name":"Mrs. Alving"}
+Well well well; don't let us talk
+of old times any longer. You are now over head and ears in Boards and
+Committees, and I am fighting my battle with ghosts, both within me and
+without.
+
+
+@l{"name":"Manders"}
+ Those without I shall help you to lay. After all the terrible
+things I have heard from you today, I cannot in conscience permit an
+unprotected girl to remain in your house.
+
+
+@l{"name":"Mrs. Alving"}
+ Don't you think the best plan would be to get her provided
+for?--I mean, by a good marriage.
+
+
+@l{"name":"Manders"}
+ No doubt. I think it would be desirable for her in every
+respect. Regina is now at the age when--Of course I don't know much
+about these things, but--
+
+
+@l{"name":"Mrs. Alving"}
+ Regina matured very early.
+
+
+@l{"name":"Manders"}
+ Yes, I thought so. I have an impression that she was remarkably
+well developed, physically, when I prepared her for confirmation. But in
+the meantime, she ought to be at home, under her father's eye--Ah! but
+Engstrand is not--That he--that he--could so hide the truth from me! 
+@d{}
+[A
+knock at the door into the hall.]
+
+
+@l{"name":"Mrs. Alving"}
+ Who can this be? Come in!
+
+
+@d{}
+[In his Sunday clothes, in the doorway.] 
+@e{"names":["Engstrand"]}
+
+@l{"name":"Engstrand"}
+I humbly beg your
+pardon, but--
+
+
+@l{"name":"Manders"}
+ Aha! H'm--
+
+
+@l{"name":"Mrs. Alving"}
+ Is that you, Engstrand?
+
+
+@l{"name":"Engstrand"}
+--there was none of the servants about, so I took the great
+liberty of just knocking.
+
+
+@l{"name":"Mrs. Alving"}
+ Oh, very well. Come in. Do you want to speak to me?
+
+
+@d{}
+[Comes in.] 
+@l{"name":"Engstrand"}
+No, I'm obliged to you, ma'am; it was with his
+Reverence I wanted to have a word or two.
+
+
+@d{}
+[Walking up and down the room.] 
+@l{"name":"Manders"}
+Ah--indeed! You want to speak
+to me, do you?
+
+
+@l{"name":"Engstrand"}
+ Yes, I'd like so terrible much to--
+
+
+@d{}
+[Stops in front of him.] 
+@l{"name":"Manders"}
+Well; may I ask what you want?
+
+
+@l{"name":"Engstrand"}
+ Well, it was just this, your Reverence: we've been paid off
+down yonder--my grateful thanks to you, ma'am,--and now everything's
+finished, I've been thinking it would be but right and proper if we,
+that have been working so honestly together all this time--well, I was
+thinking we ought to end up with a little prayer-meeting to-night.
+
+
+@l{"name":"Manders"}
+ A prayer-meeting? Down at the Orphanage?
+
+
+@l{"name":"Engstrand"}
+ Oh, if your Reverence doesn't think it proper--
+
+
+@l{"name":"Manders"}
+ Oh yes, I do; but--h'm--
+
+
+@l{"name":"Engstrand"}
+ I've been in the habit of offering up a little prayer in the
+evenings, myself--
+
+
+@l{"name":"Mrs. Alving"}
+ Have you?
+
+
+@l{"name":"Engstrand"}
+ Yes, every now and then just a little edification, in a
+manner of speaking. But I'm a poor, common man, and have little enough
+gift, God help me!--and so I thought, as the Reverend Mr. Manders
+happened to be here, I'd--
+
+
+@l{"name":"Manders"}
+ Well, you see, Engstrand, I have a question to put to you
+first. Are you in the right frame of mind for such a meeting! Do you
+feel your conscience clear and at ease?
+
+
+@l{"name":"Engstrand"}
+ Oh, God help us, your Reverence! we'd better not talk about
+conscience.
+
+
+@l{"name":"Manders"}
+ Yes, that is just what we must talk about. What have you to
+answer?
+
+
+@l{"name":"Engstrand"}
+ Why--a man's conscience--it can be bad enough now and then.
+
+
+@l{"name":"Manders"}
+ Ah, you admit that. Then perhaps you will make a clean breast
+of it, and tell me--the real truth about Regina?
+
+
+@d{}
+[Quickly.] 
+@l{"name":"Mrs. Alving"}
+Mr. Manders!
+
+
+@d{}
+[Reassuringly.] 
+@l{"name":"Manders"}
+Please allow me--
+
+
+@l{"name":"Engstrand"}
+ About Regina! Lord, what a turn you gave me! 
+@d{}
+[Looks at MRS.
+ALVING.] 
+@l{"name":"Engstrand"}
+There's nothing wrong about Regina, is there?
+
+
+@l{"name":"Manders"}
+ We will hope not. But I mean, what is the truth about you and
+Regina? You pass for her father, eh!
+
+
+@d{}
+[Uncertain.] 
+@l{"name":"Engstrand"}
+Well--h'm--your Reverence knows all about me and
+poor Johanna.
+
+
+@l{"name":"Manders"}
+ Come now, no more prevarication! Your wife told Mrs. Alving the
+whole story before quitting her service.
+
+
+@l{"name":"Engstrand"}
+ Well, then, may--! Now, did she really?
+
+
+@l{"name":"Manders"}
+ You see we know you now, Engstrand.
+
+
+@l{"name":"Engstrand"}
+ And she swore and took her Bible oath--
+
+
+@l{"name":"Manders"}
+ Did she take her Bible oath?
+
+
+@l{"name":"Engstrand"}
+ No; she only swore; but she did it that solemn-like.
+
+
+@l{"name":"Manders"}
+ And you have hidden the truth from me all these years? Hidden
+it from me, who have trusted you without reserve, in everything.
+
+
+@l{"name":"Engstrand"}
+ Well, I can't deny it.
+
+
+@l{"name":"Manders"}
+ Have I deserved this of you, Engstrand? Have I not always been
+ready to help you in word and deed, so far as it lay in my power? Answer
+me. Have I not?
+
+
+@l{"name":"Engstrand"}
+ It would have been a poor look-out for me many a time but for
+the Reverend Mr. Manders.
+
+
+@l{"name":"Manders"}
+ And this is how you reward me! You cause me to enter falsehoods
+in the Church Register, and you withhold from me, year after year, the
+explanations you owed alike to me and to the truth. Your conduct has
+been wholly inexcusable, Engstrand; and from this time forward I have
+done with you!
+
+
+@d{}
+[With a sigh.] 
+@l{"name":"Engstrand"}
+Yes! I suppose there's no help for it.
+
+
+@l{"name":"Manders"}
+ How can you possibly justify yourself?
+
+
+@l{"name":"Engstrand"}
+ Who could ever have thought she'd have gone and made bad
+worse by talking about it? Will your Reverence just fancy yourself in
+the same trouble as poor Johanna--
+
+
+@l{"name":"Manders"}
+ I!
+
+
+@l{"name":"Engstrand"}
+ Lord bless you, I don't mean just exactly the same. But I
+mean, if your Reverence had anything to be ashamed of in the eyes of the
+world, as the saying goes. We menfolk oughtn't to judge a poor woman too
+hardly, your Reverence.
+
+
+@l{"name":"Manders"}
+ I am not doing so. It is you I am reproaching.
+
+
+@l{"name":"Engstrand"}
+ Might I make so bold as to ask your Reverence a bit of a
+question?
+
+
+@l{"name":"Manders"}
+ Yes, if you want to.
+
+
+@l{"name":"Engstrand"}
+ Isn't it right and proper for a man to raise up the fallen?
+
+
+@l{"name":"Manders"}
+ Most certainly it is.
+
+
+@l{"name":"Engstrand"}
+ And isn't a man bound to keep his sacred word?
+
+
+@l{"name":"Manders"}
+ Why, of course he is; but--
+
+
+@l{"name":"Engstrand"}
+ When Johanna had got into trouble through that Englishman--or
+it might have been an American or a Russian, as they call them--well,
+you see, she came down into the town. Poor thing, she'd sent me about
+my business once or twice before: for she couldn't bear the sight of
+anything as wasn't handsome; and I'd got this damaged leg of mine. Your
+Reverence recollects how I ventured up into a dancing saloon, where
+seafaring men was carrying on with drink and devilry, as the saying
+goes. And then, when I was for giving them a bit of an admonition to
+lead a new life--
+
+
+@d{}
+[At the window.] 
+@l{"name":"Mrs. Alving"}
+H'm--
+
+
+@l{"name":"Manders"}
+ I know all about that, Engstrand; the ruffians threw you
+downstairs. You have told me of the affair already. Your infirmity is an
+honour to you.
+
+
+@l{"name":"Engstrand"}
+ I'm not puffed up about it, your Reverence. But what I wanted
+to say was, that when she came and confessed all to me, with weeping and
+gnashing of teeth, I can tell your Reverence I was sore at heart to hear
+it.
+
+
+@l{"name":"Manders"}
+ Were you indeed, Engstrand? Well, go on.
+
+
+@l{"name":"Engstrand"}
+ So I says to her, "The American, he's sailing about on the
+boundless sea. And as for you, Johanna," says I, "you've committed a
+grievous sin, and you're a fallen creature. But Jacob Engstrand,"
+says I, "he's got two good legs to stand upon, he has--" You see, your
+Reverence, I was speaking figurative-like.
+
+
+@l{"name":"Manders"}
+ I understand quite well. Go on.
+
+
+@l{"name":"Engstrand"}
+ Well, that was how I raised her up and made an honest woman
+of her, so as folks shouldn't get to know how as she'd gone astray with
+foreigners.
+
+
+@l{"name":"Manders"}
+ In all that you acted very well. Only I cannot approve of your
+stooping to take money--
+
+
+@l{"name":"Engstrand"}
+ Money? I? Not a farthing!
+
+
+@d{}
+[Inquiringly to Mrs. Alving] 
+@l{"name":"Manders"}
+But--
+
+
+@l{"name":"Engstrand"}
+ Oh, wait a minute!--now I recollect. Johanna did have a
+trifle of money. But I would have nothing to do with that. "No," says I,
+"that's mammon; that's the wages of sin. This dirty gold--or notes, or
+whatever it was--we'll just flint, that back in the American's face,"
+says I. But he was off and away, over the stormy sea, your Reverence.
+
+
+@l{"name":"Manders"}
+ Was he really, my good fellow?
+
+
+@l{"name":"Engstrand"}
+ He was indeed, sir. So Johanna and I, we agreed that the
+money should go to the child's education; and so it did, and I can
+account for every blessed farthing of it.
+
+
+@l{"name":"Manders"}
+ Why, this alters the case considerably.
+
+
+@l{"name":"Engstrand"}
+ That's just how it stands, your Reverence. And I make so bold
+as to say as I've been an honest father to Regina, so far as my poor
+strength went; for I'm but a weak vessel, worse luck!
+
+
+@l{"name":"Manders"}
+ Well, well, my good fellow--
+
+
+@l{"name":"Engstrand"}
+ All the same, I bear myself witness as I've brought up the
+child, and lived kindly with poor Johanna, and ruled over my own house,
+as the Scripture has it. But it couldn't never enter my head to go to
+your Reverence and puff myself up and boast because even the likes of
+me had done some good in the world. No, sir; when anything of that
+sort happens to Jacob Engstrand, he holds his tongue about it. It don't
+happen so terrible often, I daresay. And when I do come to see your
+Reverence, I find a mortal deal that's wicked and weak to talk about.
+For I said it before, and I says it again--a man's conscience isn't
+always as clean as it might be.
+
+
+@l{"name":"Manders"}
+ Give me your hand, Jacob Engstrand.
+
+
+@l{"name":"Engstrand"}
+ Oh, Lord! your Reverence--
+
+
+@l{"name":"Manders"}
+ Come, no nonsense 
+@d{}
+[wrings his hand]. 
+@l{"name":"Manders"}
+There we are!
+
+
+@l{"name":"Engstrand"}
+ And if I might humbly beg your Reverence's pardon--
+
+
+@l{"name":"Manders"}
+ You? On the contrary, it is I who ought to beg your pardon--
+
+
+@l{"name":"Engstrand"}
+ Lord, no, Sir!
+
+
+@l{"name":"Manders"}
+ Yes, assuredly. And I do it with all my heart. Forgive me for
+misunderstanding you. I only wish I could give you some proof of my
+hearty regret, and of my good-will towards you--
+
+
+@l{"name":"Engstrand"}
+ Would your Reverence do it?
+
+
+@l{"name":"Manders"}
+ With the greatest pleasure.
+
+
+@l{"name":"Engstrand"}
+ Well then, here's the very chance. With the bit of money I've
+saved here, I was thinking I might set up a Sailors' Home down in the
+town.
+
+
+@l{"name":"Mrs. Alving"}
+ You?
+
+
+@l{"name":"Engstrand"}
+ Yes; it might be a sort of Orphanage, too, in a manner of
+speaking. There's such a many temptations for seafaring folk ashore. But
+in this Home of mine, a man might feel like as he was under a father's
+eye, I was thinking.
+
+
+@l{"name":"Manders"}
+ What do you say to this, Mrs. Alving?
+
+
+@l{"name":"Engstrand"}
+ It isn't much as I've got to start with, Lord help me! But if
+I could only find a helping hand, why--
+
+
+@l{"name":"Manders"}
+ Yes, yes; we will look into the matter more closely. I entirely
+approve of your plan. But now, go before me and make everything
+ready, and get the candles lighted, so as to give the place an air of
+festivity. And then we will pass an edifying hour together, my good
+fellow; for now I quite believe you are in the right frame of mind.
+
+
+@l{"name":"Engstrand"}
+ Yes, I trust I am. And so I'll say good-bye, ma'am, and thank
+you kindly; and take good care of Regina for me--
+@d{}
+[Wipes a tear from his
+eye]--poor 
+@l{"name":"Engstrand"}
+Johanna's child. Well, it's a queer thing, now; but it's just
+like as if she'd growd into the very apple of my eye. It is, indeed. 
+@d{}
+[He
+bows and goes out through the hall.]
+
+
+@x{"names":["Engstrand"]}
+
+@l{"name":"Manders"}
+ Well, what do you say of that man now, Mrs. Alving? That was a
+very different account of matters, was it not?
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, it certainly was.
+
+
+@l{"name":"Manders"}
+ It only shows how excessively careful one ought to be in
+judging one's fellow creatures. But what a heartfelt joy it is to
+ascertain that one has been mistaken! Don't you think so?
+
+
+@l{"name":"Mrs. Alving"}
+ I think you are, and will always be, a great baby, Manders.
+
+
+@l{"name":"Manders"}
+ I?
+
+
+@d{}
+[Laying her two hands upon his shoulders.] 
+@l{"name":"Mrs. Alving"}
+And I say that I
+have half a mind to put my arms round your neck, and kiss you.
+
+
+@d{}
+[Stepping hastily back.] 
+@l{"name":"Manders"}
+No, no! God bless me! What an idea!
+
+
+@d{}
+[With a smile.] 
+@l{"name":"Mrs. Alving"}
+Oh, you needn't be afraid of me.
+
+
+@d{}
+[By the table.] 
+@l{"name":"Manders"}
+You have sometimes such an exaggerated way of
+expressing yourself. Now, let me just collect all the documents, and put
+them in my bag. 
+@d{}
+[He does so.] 
+@l{"name":"Manders"}
+There, that's all right. And now, good-bye
+for the present. Keep your eyes open when Oswald comes back. I shall
+look in again later. 
+@d{}
+[He takes his hat and goes out through the hall
+door.]
+
+
+@x{"names":["Manders"]}
+
+@d{}
+[Sighs, looks for a moment out of the window, sets the room
+in order a little, and is about to go into the dining-room, but stops at
+the door with a half-suppressed cry.] 
+@l{"name":"Mrs. Alving"}
+Oswald, are you still at table?
+
+
+@d{}
+[In the dining room.] 
+@l{"name":"Oswald"}
+I'm only finishing my cigar.
+
+
+@l{"name":"Mrs. Alving"}
+ I thought you had gone for a little walk.
+
+
+@l{"name":"Oswald"}
+ In such weather as this?
+
+
+@d{}
+[A glass clinks. MRS. ALVING leaves the door open, and sits down with
+her knitting on the sofa by the window.]
+
+
+@l{"name":"Oswald"}
+ Wasn't that Pastor Manders that went out just now?
+
+
+@l{"name":"Mrs. Alving"}
+ Yes; he went down to the Orphanage.
+
+
+@l{"name":"Oswald"}
+ H'm. 
+@d{}
+[The glass and decanter clink again.]
+
+
+@d{}
+[With a troubled glance.] 
+@l{"name":"Mrs. Alving"}
+Dear Oswald, you should take care
+of that liqueur. It is strong.
+
+
+@l{"name":"Oswald"}
+ It keeps out the damp.
+
+
+@l{"name":"Mrs. Alving"}
+ Wouldn't you rather come in here, to me?
+
+
+@l{"name":"Oswald"}
+ I mayn't smoke in there.
+
+
+@l{"name":"Mrs. Alving"}
+ You know quite well you may smoke cigars.
+
+
+@l{"name":"Oswald"}
+ Oh, all right then; I'll come in. Just a tiny drop more first.
+There! 
+@d{}
+[He comes into the room with his cigar, and shuts the door after
+him. A short silence.] 
+@e{"names":["Oswald"]}
+
+@l{"name":"Oswald"}
+Where has the pastor gone to?
+
+
+@l{"name":"Mrs. Alving"}
+ I have just told you; he went down to the Orphanage.
+
+
+@l{"name":"Oswald"}
+ Oh, yes; so you did.
+
+
+@l{"name":"Mrs. Alving"}
+ You shouldn't sit so long at table, Oswald.
+
+
+@d{}
+[Holding his cigar behind him.] 
+@l{"name":"Oswald"}
+But I find it so pleasant,
+mother. 
+@d{}
+[Strokes and caresses her.] 
+@l{"name":"Oswald"}
+Just think what it is for me to come
+home and sit at mother's own table, in mother's room, and eat mother's
+delicious dishes.
+
+
+@l{"name":"Mrs. Alving"}
+ My dear, dear boy!
+
+
+@d{}
+[Somewhat impatiently, walks about and smokes.] 
+@l{"name":"Oswald"}
+And what else
+can I do with myself here? I can't set to work at anything.
+
+
+@l{"name":"Mrs. Alving"}
+ Why can't you?
+
+
+@l{"name":"Oswald"}
+ In such weather as this? Without a single ray of sunshine the
+whole day? 
+@d{}
+[Walks up the room.] 
+@l{"name":"Oswald"}
+Oh, not to be able to work--!
+
+
+@l{"name":"Mrs. Alving"}
+ Perhaps it was not quite wise of you to come home?
+
+
+@l{"name":"Oswald"}
+ Oh, yes, mother; I had to.
+
+
+@l{"name":"Mrs. Alving"}
+ You know I would ten times rather forgo the joy of having
+you here, than let you--
+
+
+@d{}
+[Stops beside the table.] 
+@l{"name":"Oswald"}
+Now just tell me, mother: does it
+really make you so very happy to have me home again?
+
+
+@l{"name":"Mrs. Alving"}
+ Does it make me happy!
+
+
+@d{}
+[Crumpling up a newspaper.] 
+@l{"name":"Oswald"}
+I should have thought it must be
+pretty much the same to you whether I was in existence or not.
+
+
+@l{"name":"Mrs. Alving"}
+ Have you the heart to say that to your mother, Oswald?
+
+
+@l{"name":"Oswald"}
+ But you've got on very well without me all this time.
+
+
+@l{"name":"Mrs. Alving"}
+ Yes; I have got on without you. That is true.
+
+
+@d{}
+[A silence. Twilight slowly begins to fall. OSWALD paces to and fro
+across the room. He has laid his cigar down.]
+
+
+@d{}
+[Stops beside Mrs. Alving] 
+@l{"name":"Oswald"}
+Mother, may I sit on the sofa beside
+you?
+
+
+@d{}
+[Makes room for him.] 
+@l{"name":"Mrs. Alving"}
+Yes, do, my dear boy.
+
+
+@d{}
+[Sits down.] 
+@l{"name":"Oswald"}
+There is something I must tell you, mother.
+
+
+@d{}
+[Anxiously.] 
+@l{"name":"Mrs. Alving"}
+Well?
+
+
+@d{}
+[Looks fixedly before him.] 
+@l{"name":"Oswald"}
+For I can't go on hiding it any
+longer.
+
+
+@l{"name":"Mrs. Alving"}
+ Hiding what? What is it?
+
+
+@d{}
+[As before.] 
+@l{"name":"Oswald"}
+I could never bring myself to write to you about
+it; and since I've come home--
+
+
+@d{}
+[Seizes him by the arm.] 
+@l{"name":"Mrs. Alving"}
+Oswald, what is the matter?
+
+
+@l{"name":"Oswald"}
+ Both yesterday and to-day I have tried to put the thoughts away
+from me--to cast them off; but it's no use.
+
+
+@d{}
+[Rising.] 
+@l{"name":"Mrs. Alving"}
+Now you must tell me everything, Oswald!
+
+
+@d{}
+[Draws her down to the sofa again.] 
+@l{"name":"Oswald"}
+Sit still; and then I will
+try to tell you.--I complained of fatigue after my journey--
+
+
+@l{"name":"Mrs. Alving"}
+ Well? What then?
+
+
+@l{"name":"Oswald"}
+ But it isn't that that is the matter with me; not any ordinary
+fatigue--
+
+
+@d{}
+[Tries to jump up.] 
+@l{"name":"Mrs. Alving"}
+You are not ill, Oswald?
+
+
+@d{}
+[Draws her down again.] 
+@l{"name":"Oswald"}
+Sit still, mother. Do take it quietly.
+I'm not downright ill, either; not what is commonly called "ill."
+
+@d{}
+[Clasps his hands above his head.] 
+@l{"name":"Oswald"}
+Mother, my mind is broken
+down--ruined--I shall never be able to work again! 
+@d{}
+[With his hands
+before his face, he buries his head in her lap, and breaks into bitter
+sobbing.]
+
+
+@d{}
+[White and trembling.] 
+@l{"name":"Mrs. Alving"}
+Oswald! Look at me! No, no; it's not
+true.
+
+
+@d{}
+[Looks up with despair in his eyes.] 
+@l{"name":"Oswald"}
+Never to be able to work
+again! Never!--never! A living death! Mother, can you imagine anything
+so horrible?
+
+
+@l{"name":"Mrs. Alving"}
+ My poor boy! How has this horrible thing come upon you?
+
+
+@d{}
+[Sitting upright again.] 
+@l{"name":"Oswald"}
+That's just what I cannot possibly
+grasp or understand. I have never led a dissipated life never, in any
+respect. You mustn't believe that of me, mother! I've never done that.
+
+
+@l{"name":"Mrs. Alving"}
+ I am sure you haven't, Oswald.
+
+
+@l{"name":"Oswald"}
+ And yet this has come upon me just the same--this awful
+misfortune!
+
+
+@l{"name":"Mrs. Alving"}
+ Oh, but it will pass over, my dear, blessed boy. It's
+nothing but over-work. Trust me, I am right.
+
+
+@d{}
+[Sadly.] 
+@l{"name":"Oswald"}
+I thought so too, at first; but it isn't so.
+
+
+@l{"name":"Mrs. Alving"}
+ Tell me everything, from beginning to end.
+
+
+@l{"name":"Oswald"}
+ Yes, I will.
+
+
+@l{"name":"Mrs. Alving"}
+ When did you first notice it?
+
+
+@l{"name":"Oswald"}
+ It was directly after I had been home last time, and had got
+back to Paris again. I began to feel the most violent pains in my
+head--chiefly in the back of my head, they seemed to come. It was as
+though a tight iron ring was being screwed round my neck and upwards.
+
+
+@l{"name":"Mrs. Alving"}
+ Well, and then?
+
+
+@l{"name":"Oswald"}
+ At first I thought it was nothing but the ordinary headache I
+had been so plagued with while I was growing up--
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, yes--
+
+
+@l{"name":"Oswald"}
+ But it wasn't that. I soon found that out. I couldn't work any
+more. I wanted to begin upon a big new picture, but my powers seemed to
+fail me; all my strength was crippled; I could form no definite images;
+everything swam before me--whirling round and round. Oh, it was an awful
+state! At last I sent for a doctor--and from him I learned the truth.
+
+
+@l{"name":"Mrs. Alving"}
+ How do you mean?
+
+
+@l{"name":"Oswald"}
+ He was one of the first doctors in Paris. I told him my
+symptoms; and then he set to work asking me a string of questions which
+I thought had nothing to do with the matter. I couldn't imagine what the
+man was after--
+
+
+@l{"name":"Mrs. Alving"}
+ Well?
+
+
+@l{"name":"Oswald"}
+ At last he said: "There has been something worm-eaten in you
+from your birth." He used that very word--_vermoulu_.
+
+
+@d{}
+[Breathlessly.] 
+@l{"name":"Mrs. Alving"}
+What did he mean by that?
+
+
+@l{"name":"Oswald"}
+ I didn't understand either, and begged him to explain himself
+more clearly. And then the old cynic said--
+@d{}
+[Clenching his fist] 
+@l{"name":"Oswald"}
+Oh--!
+
+
+@l{"name":"Mrs. Alving"}
+ What did he say?
+
+
+@l{"name":"Oswald"}
+ He said, "The sins of the fathers are visited upon the
+children."
+
+
+@d{}
+[Rising slowly.] 
+@l{"name":"Mrs. Alving"}
+The sins of the fathers--!
+
+
+@l{"name":"Oswald"}
+ I very nearly struck him in the face--
+
+
+@d{}
+[Walks away across the room.] 
+@l{"name":"Mrs. Alving"}
+The sins of the fathers--
+
+
+@d{}
+[Smiles sadly.] 
+@l{"name":"Oswald"}
+Yes; what do you think of that? Of course I
+assured him that such a thing was out of the question. But do you think
+he gave in? No, he stuck to it; and it was only when I produced your
+letters and translated the passages relating to father--
+
+
+@l{"name":"Mrs. Alving"}
+ But then--?
+
+
+@l{"name":"Oswald"}
+ Then of course he had to admit that he was on the wrong track;
+and so I learned the truth--the incomprehensible truth! I ought not to
+have taken part with my comrades in that lighthearted, glorious life of
+theirs. It had been too much for my strength. So I had brought it upon
+myself!
+
+
+@l{"name":"Mrs. Alving"}
+ Oswald! No, no; do not believe it!
+
+
+@l{"name":"Oswald"}
+ No other explanation was possible, he said. That's the awful
+part of it. Incurably ruined for life--by my own heedlessness! All that
+I meant to have done in the world--I never dare think of it again--I'm
+not able to think of it. Oh! if I could only live over again, and undo
+all I have done! 
+@d{}
+[He buries his face in the sofa.]
+
+
+@d{}
+[Wrings her hands and walks, in silent struggle, backwards
+and forwards.]
+
+
+@d{}
+[After a while, looks up and remains resting upon his elbow.] 
+@l{"name":"Oswald"}
+If
+it had only been something inherited--something one wasn't responsible
+for! But this! To have thrown away so shamefully, thoughtlessly,
+recklessly, one's own happiness, one's own health, everything in the
+world--one's future, one's very life--!
+
+
+@l{"name":"Mrs. Alving"}
+ No, no, my dear, darling boy; this is impossible! 
+@d{}
+[Bends
+over him.] 
+@l{"name":"Mrs. Alving"}
+Things are not so desperate as you think.
+
+
+@l{"name":"Oswald"}
+ Oh, you don't know--
+@d{}
+[Springs up.] 
+@l{"name":"Oswald"}
+And then, mother, to cause
+you all this sorrow! Many a time I have almost wished and hoped that at
+bottom you didn't care so very much about me.
+
+
+@l{"name":"Mrs. Alving"}
+ I, Oswald? My only boy! You are all I have in the world!
+The only thing I care about!
+
+
+@d{}
+[Seizes both her hands and kisses them.] 
+@l{"name":"Oswald"}
+Yes, yes, I see it.
+When I'm at home, I see it, of course; and that's almost the hardest
+part for me.--But now you know the whole story and now we won't talk any
+more about it to-day. I daren't think of it for long together. 
+@d{}
+[Goes up
+the room.] 
+@l{"name":"Oswald"}
+Get me something to drink, mother.
+
+
+@l{"name":"Mrs. Alving"}
+ To drink? What do you want to drink now?
+
+
+@l{"name":"Oswald"}
+ Oh, anything you like. You have some cold punch in the house.
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, but my dear Oswald--
+
+
+@l{"name":"Oswald"}
+ Don't refuse me, mother. Do be kind, now! I must have something
+to wash down all these gnawing thoughts. 
+@d{}
+[Goes into the conservatory.]
+
+@l{"name":"Oswald"}
+And then--it's so dark here! 
+@d{}
+[MRS. ALVING pulls a bell-rope on the
+right.] 
+@l{"name":"Oswald"}
+And this ceaseless rain! It may go on week after week, for
+months together. Never to get a glimpse of the sun! I can't recollect
+ever having seen the sun shine all the times I've been at home.
+
+
+@l{"name":"Mrs. Alving"}
+ Oswald--you are thinking of going away from me.
+H'm--
+
+@d{}
+[Drawing a heavy breath.]
+@l{"name":"Oswald"}
+--I'm not thinking of anything. I
+cannot think of anything! 
+@d{}
+[In a low voice.] 
+@l{"name":"Oswald"}
+I let thinking alone.
+
+
+@d{}
+[From the dining-room.] 
+@e{"names":["Regina"]}
+
+@l{"name":"Regina"}
+Did you ring, ma'am?
+
+
+@l{"name":"Mrs. Alving"}
+ Yes; let us have the lamp in.
+
+
+@l{"name":"Regina"}
+ Yes, ma'am. It's ready lighted. 
+@d{}
+[Goes out.]
+
+
+@x{"names":["Regina"]}
+
+@d{}
+[Goes across to Oswald] 
+@l{"name":"Mrs. Alving"}
+Oswald, be frank with me.
+
+
+@l{"name":"Oswald"}
+ Well, so I am, mother. 
+@d{}
+[Goes to the table.] 
+@l{"name":"Oswald"}
+I think I have told
+you enough.
+
+
+@d{}
+[REGINA brings the lamp and sets it upon the table.]
+
+
+@e{"names":["Regina"]}
+
+@l{"name":"Mrs. Alving"}
+ Regina, you may bring us a small bottle of champagne.
+
+
+@l{"name":"Regina"}
+ Very well, ma'am. 
+@d{}
+[Goes out.]
+
+
+@x{"names":["Regina"]}
+
+@d{}
+[Puts his arm round MRS. ALVING's neck.] 
+@l{"name":"Oswald"}
+That's just what I
+wanted. I knew mother wouldn't let her boy go thirsty.
+
+
+@l{"name":"Mrs. Alving"}
+ My own, poor, darling Oswald; how could I deny you anything
+now?
+
+
+@d{}
+[Eagerly.] 
+@l{"name":"Oswald"}
+Is that true, mother? Do you mean it?
+
+
+@l{"name":"Mrs. Alving"}
+ How? What?
+
+
+@l{"name":"Oswald"}
+ That you couldn't deny me anything.
+
+
+@l{"name":"Mrs. Alving"}
+ My dear Oswald--
+
+
+@l{"name":"Oswald"}
+ Hush!
+
+
+@d{}
+[Brings a tray with a half-bottle of champagne and two glasses,
+which she sets on the table.] 
+@e{"names":["Regina"]}
+
+@l{"name":"Regina"}
+Shall I open it?
+
+
+@l{"name":"Oswald"}
+ No, thanks. I will do it myself.
+
+
+@d{}
+[REGINA goes out again.]
+
+
+@x{"names":["Regina"]}
+
+@d{}
+[Sits down by the table.] 
+@l{"name":"Mrs. Alving"}
+What was it you meant--that I
+musn't deny you?
+
+
+@d{}
+[Busy opening the bottle.] 
+@l{"name":"Oswald"}
+First let us have a glass--or two.
+
+
+@d{}
+[The cork pops; he pours wine into one glass, and is about to pour it
+into the other.]
+
+
+@d{}
+[Holding her hand over it.] 
+@l{"name":"Mrs. Alving"}
+Thanks; not for me.
+
+
+@l{"name":"Oswald"}
+ Oh! won't you? Then I will!
+
+
+@d{}
+[He empties the glass, fells, and empties it again; then he sits down by
+the table.]
+
+
+@d{}
+[In expectancy.] 
+@l{"name":"Mrs. Alving"}
+Well?
+
+
+@d{}
+[Without looking at her.] 
+@l{"name":"Oswald"}
+Tell me--I thought you and Pastor
+Manders seemed so odd--so quiet--at dinner to-day.
+
+
+@l{"name":"Mrs. Alving"}
+ Did you notice it?
+
+
+@l{"name":"Oswald"}
+ Yes. H'm--
+@d{}
+[After a short silence.] 
+@l{"name":"Oswald"}
+Tell me: what do you think of
+Regina?
+
+
+@l{"name":"Mrs. Alving"}
+ What do I think?
+
+
+@l{"name":"Oswald"}
+ Yes; isn't she splendid?
+
+
+@l{"name":"Mrs. Alving"}
+ My dear Oswald, you don't know her as I do--
+
+
+@l{"name":"Oswald"}
+ Well?
+
+
+@l{"name":"Mrs. Alving"}
+ Regina, unfortunately, was allowed to stay at home too
+long. I ought to have taken her earlier into my house.
+
+
+@l{"name":"Oswald"}
+ Yes, but isn't she splendid to look at, mother? 
+@d{}
+[He fills his
+glass.]
+
+
+@l{"name":"Mrs. Alving"}
+ Regina has many serious faults--
+
+
+@l{"name":"Oswald"}
+ Oh, what does that matter? 
+@d{}
+[He drinks again.]
+
+
+@l{"name":"Mrs. Alving"}
+ But I am fond of her, nevertheless, and I am responsible
+for her. I wouldn't for all the world have any harm happen to her.
+
+
+@d{}
+[Springs up.] 
+@l{"name":"Oswald"}
+Mother, Regina is my only salvation!
+
+
+@d{}
+[Rising.] 
+@l{"name":"Mrs. Alving"}
+What do you mean by that?
+
+
+@l{"name":"Oswald"}
+ I cannot go on bearing all this anguish of soul alone.
+
+
+@l{"name":"Mrs. Alving"}
+ Have you not your mother to share it with you?
+
+
+@l{"name":"Oswald"}
+ Yes; that's what I thought; and so I came home to you. But that
+will not do. I see it won't do. I cannot endure my life here.
+
+
+@l{"name":"Mrs. Alving"}
+ Oswald!
+
+
+@l{"name":"Oswald"}
+ I must live differently, mother. That is why I must leave you. I
+will not have you looking on at it.
+
+
+@l{"name":"Mrs. Alving"}
+ My unhappy boy! But, Oswald, while you are so ill as this--
+
+
+@l{"name":"Oswald"}
+ If it were only the illness, I should stay with you, mother, you
+may be sure; for you are the best friend I have in the world.
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, indeed I am, Oswald; am I not?
+
+
+@d{}
+[Wanders restlessly about.] 
+@l{"name":"Oswald"}
+But it's all the torment, the
+gnawing remorse--and then, the great, killing dread. Oh--that awful
+dread!
+
+
+@d{}
+[Walking after him.] 
+@l{"name":"Mrs. Alving"}
+Dread? What dread? What do you mean?
+
+
+@l{"name":"Oswald"}
+ Oh, you mustn't ask me any more. I don't know. I can't describe
+it.
+
+
+@d{}
+[Goes over to the right and pulls the bell.]
+
+
+@l{"name":"Oswald"}
+ What is it you want?
+
+
+@l{"name":"Mrs. Alving"}
+ I want my boy to be happy--that is what I want. He sha'n't
+go on brooding over things 
+@d{}
+[To REGINA, who appears at the door:] 
+@e{"names":["Regina"]}
+
+@l{"name":"Mrs. Alving"}
+More
+champagne--a large bottle. 
+@d{}
+[REGINA goes.]
+
+
+@x{"names":["Regina"]}
+
+@l{"name":"Oswald"}
+ Mother!
+
+
+@l{"name":"Mrs. Alving"}
+ Do you think we don't know how to live here at home?
+
+
+@l{"name":"Oswald"}
+ Isn't she splendid to look at? How beautifully she's built! And
+so thoroughly healthy!
+
+
+@d{}
+[Sits by the table.] 
+@l{"name":"Mrs. Alving"}
+Sit down, Oswald; let us talk quietly
+together.
+
+
+@d{}
+[Sits.] 
+@l{"name":"Oswald"}
+I daresay you don't know, mother, that I owe Regina some
+reparation.
+
+
+@l{"name":"Mrs. Alving"}
+ You!
+
+
+@l{"name":"Oswald"}
+ For a bit of thoughtlessness, or whatever you like to call
+it--very innocent, at any rate. When I was home last time--
+
+
+@l{"name":"Mrs. Alving"}
+ Well?
+
+
+@l{"name":"Oswald"}
+ She used often to ask me about Paris, and I used to tell her one
+thing and another. Then I recollect I happened to say to her one day,
+"Shouldn't you like to go there yourself?"
+
+
+@l{"name":"Mrs. Alving"}
+ Well?
+
+
+@l{"name":"Oswald"}
+ I saw her face flush, and then she said, "Yes, I should like it
+of all things." "Ah, well," I replied, "it might perhaps be managed"--or
+something like that.
+
+
+@l{"name":"Mrs. Alving"}
+ And then?
+
+
+@l{"name":"Oswald"}
+ Of course I had forgotten all about it; but the day before
+yesterday I happened to ask her whether she was glad I was to stay at
+home so long--
+
+
+@l{"name":"Mrs. Alving"}
+ Yes?
+
+
+@l{"name":"Oswald"}
+ And then she gave me such a strange look, and asked, "But what's
+to become of my trip to Paris?"
+
+
+@l{"name":"Mrs. Alving"}
+ Her trip!
+
+
+@l{"name":"Oswald"}
+ And so it came out that she had taken the thing seriously; that
+she had been thinking of me the whole time, and had set to work to learn
+French--
+
+
+@l{"name":"Mrs. Alving"}
+ So that was why--!
+
+
+@l{"name":"Oswald"}
+ Mother--when I saw that fresh, lovely, splendid girl standing
+there before me--till then I had hardly noticed her--but when she stood
+there as though with open arms ready to receive me--
+
+
+@l{"name":"Mrs. Alving"}
+ Oswald!
+
+
+@l{"name":"Oswald"}
+--then it flashed upon me that in her lay my salvation; for I saw
+that she was full of the joy of life.
+
+
+@d{}
+[Starts.] 
+@l{"name":"Mrs. Alving"}
+The joy of life? Can there be salvation in that?
+
+
+@d{}
+[From the dining room, with a bottle of champagne.] 
+@e{"names":["Regina"]}
+
+@l{"name":"Regina"}
+I'm sorry to
+have been so long, but I had to go to the cellar. 
+@d{}
+[Places the bottle on
+the table.]
+
+
+@l{"name":"Oswald"}
+ And now bring another glass.
+
+
+@d{}
+[Looks at him in surprise.] 
+@l{"name":"Regina"}
+There is Mrs. Alving's glass, Mr.
+Alving.
+
+
+@l{"name":"Oswald"}
+ Yes, but bring one for yourself, Regina. 
+@d{}
+[REGINA starts and
+gives a lightning-like side glance at Mrs. Alving] 
+@l{"name":"Oswald"}
+Why do you wait?
+
+
+@d{}
+[Softly and hesitatingly.] 
+@l{"name":"Regina"}
+Is it Mrs. Alving's wish?
+
+
+@l{"name":"Mrs. Alving"}
+ Bring the glass, Regina.
+
+
+@d{}
+[REGINA goes out into the dining-room.]
+
+
+@x{"names":["Regina"]}
+
+@d{}
+[Follows her with his eyes.] 
+@l{"name":"Oswald"}
+Have you noticed how she walks?--so
+firmly and lightly!
+
+
+@l{"name":"Mrs. Alving"}
+ This can never be, Oswald!
+
+
+@l{"name":"Oswald"}
+ It's a settled thing. Can't you see that? It's no use saying
+anything against it.
+
+
+@d{}
+[REGINA enters with an empty glass, which she keeps in her hand.]
+
+
+@e{"names":["Regina"]}
+
+@l{"name":"Oswald"}
+ Sit down, Regina.
+
+
+@d{}
+[REGINA looks inquiringly at Mrs. Alving]
+
+
+@l{"name":"Mrs. Alving"}
+ Sit down. 
+@d{}
+[REGINA sits on a chair by the dining room door,
+still holding the empty glass in her hand.] 
+@l{"name":"Mrs. Alving"}
+Oswald--what were you saying
+about the joy of life?
+
+
+@l{"name":"Oswald"}
+ Ah, the joy of life, mother--that's a thing you don't know much
+about in these parts. I have never felt it here.
+
+
+@l{"name":"Mrs. Alving"}
+ Not when you are with me?
+
+
+@l{"name":"Oswald"}
+ Not when I'm at home. But you don't understand that.
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, yes; I think I almost understand it--now.
+
+
+@l{"name":"Oswald"}
+ And then, too, the joy of work! At bottom, it's the same thing.
+But that, too, you know nothing about.
+
+
+@l{"name":"Mrs. Alving"}
+ Perhaps you are right. Tell me more about it, Oswald.
+
+
+@l{"name":"Oswald"}
+ I only mean that here people are brought up to believe that
+work is a curse and a punishment for sin, and that life is something
+miserable, something; it would be best to have done with, the sooner the
+better.
+
+
+@l{"name":"Mrs. Alving"}
+ "A vale of tears," yes; and we certainly do our best to
+make it one.
+
+
+@l{"name":"Oswald"}
+ But in the great world people won't hear of such things. There,
+nobody really believes such doctrines any longer. There, you feel it a
+positive bliss and ecstasy merely to draw the breath of life. Mother,
+have you noticed that everything I have painted has turned upon the joy
+of life?--always, always upon the joy of life?--light and sunshine and
+glorious air-and faces radiant with happiness. That is why I'm afraid of
+remaining at home with you.
+
+
+@l{"name":"Mrs. Alving"}
+ Afraid? What are you afraid of here, with me?
+
+
+@l{"name":"Oswald"}
+ I'm afraid lest all my instincts should be warped into ugliness.
+
+
+@d{}
+[Looks steadily at him.] 
+@l{"name":"Mrs. Alving"}
+Do you think that is what would
+happen?
+
+
+@l{"name":"Oswald"}
+ I know it. You may live the same life here as there, and yet it
+won't be the same life.
+
+
+@d{}
+[Who has been listening eagerly, rises, her eyes big with
+thought, and says:] 
+@l{"name":"Mrs. Alving"}
+Now I see the sequence of things.
+
+
+@l{"name":"Oswald"}
+ What is it you see?
+
+
+@l{"name":"Mrs. Alving"}
+ I see it now for the first time. And now I can speak.
+
+
+@d{}
+[Rising.] 
+@l{"name":"Oswald"}
+Mother, I don't understand you.
+
+
+@d{}
+[Who has also risen.] 
+@l{"name":"Regina"}
+Perhaps I ought to go?
+
+
+@l{"name":"Mrs. Alving"}
+ No. Stay here. Now I can speak. Now, my boy, you shall know
+the whole truth. And then you can choose. Oswald! Regina!
+
+
+@l{"name":"Oswald"}
+ Hush! The Pastor--
+
+
+@d{}
+[Enters by the hall door.] 
+@e{"names":["Manders"]}
+
+@l{"name":"Manders"}
+There! We have had a most edifying
+time down there.
+
+
+@l{"name":"Oswald"}
+ So have we.
+
+
+@l{"name":"Manders"}
+ We must stand by Engstrand and his Sailors' Home. Regina must
+go to him and help him--
+
+
+@l{"name":"Regina"}
+ No thank you, sir.
+
+
+@d{}
+[Noticing her for the first tine.] 
+@l{"name":"Manders"}
+What--? You here? And with a
+glass in your hand!
+
+
+@d{}
+[Hastily putting the glass down.] 
+@l{"name":"Regina"}
+Pardon!
+
+
+@l{"name":"Oswald"}
+ Regina is going with me, Mr. Manders.
+
+
+@l{"name":"Manders"}
+ Going! With you!
+
+
+@l{"name":"Oswald"}
+ Yes; as my wife--if she wishes it.
+
+
+@l{"name":"Manders"}
+ But, merciful God--!
+
+
+@l{"name":"Regina"}
+ I can't help it, sir.
+
+
+@l{"name":"Oswald"}
+ Or she'll stay here, if I stay.
+
+
+@d{}
+[Involuntarily.] 
+@l{"name":"Regina"}
+Here!
+
+
+@l{"name":"Manders"}
+ I am thunderstruck at your conduct, Mrs. Alving.
+
+
+@l{"name":"Mrs. Alving"}
+ They will do neither one thing nor the other; for now I can
+speak out plainly.
+
+
+@l{"name":"Manders"}
+ You surely will not do that! No, no, no!
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, I can speak and I will. And no ideals shall suffer
+after all.
+
+
+@l{"name":"Oswald"}
+ Mother--what is it you are hiding from me?
+
+
+@d{}
+[Listening.] 
+@l{"name":"Regina"}
+Oh, ma'am, listen! Don't you hear shouts outside.
+
+@d{}
+[She goes into the conservatory and looks out.]
+
+
+@d{}
+[At the window on the left.] 
+@l{"name":"Oswald"}
+What's going on? Where does that
+light come from?
+
+
+@d{}
+[Cries out.] 
+@l{"name":"Regina"}
+The Orphanage is on fire!
+
+
+@d{}
+[Rushing to the window.] 
+@l{"name":"Mrs. Alving"}
+On fire!
+
+
+@l{"name":"Manders"}
+ On fire! Impossible! I've just come from there.
+
+
+@l{"name":"Oswald"}
+ Where's my hat? Oh, never mind it--Father's Orphanage--! 
+@d{}
+[He
+rushes out through the garden door.]
+
+
+@x{"names":["Oswald"]}
+
+@l{"name":"Mrs. Alving"}
+ My shawl, Regina! The whole place is in a blaze!
+
+
+@l{"name":"Manders"}
+ Terrible! Mrs. Alving, it is a judgment upon this abode of
+lawlessness.
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, of course. Come, Regina. 
+@d{}
+[She and REGINA hasten out
+through the hall.]
+
+
+@x{"names":["Mrs. Alving","Regina"]}
+
+@d{}
+[Clasps his hands together.] 
+@l{"name":"Manders"}
+And we left it uninsured! 
+@d{}
+[He goes
+out the same way.]
+@x{"names":["Manders"]}
+
+@a{"number":3}
+@s{"number":1}
+@d{}
+
+ACT THIRD.
+
+[The room as before. All the doors stand open. The lamp is still burning
+on the table. It is dark out of doors; there is only a faint glow from
+the conflagration in the background to the left.]
+
+[MRS. ALVING, with a shawl over her head, stands in the conservatory,
+looking out. REGINA, also with a shawl on, stands a little behind her.]
+
+
+@e{"names":["Mrs. Alving","Regina"]}
+
+@l{"name":"Mrs. Alving"}
+ The whole thing burnt!--burnt to the ground!
+
+
+@l{"name":"Regina"}
+ The basement is still burning.
+
+
+@l{"name":"Mrs. Alving"}
+ How is it Oswald doesn't come home? There's nothing to be
+saved.
+
+
+@l{"name":"Regina"}
+ Should you like me to take down his hat to him?
+
+
+@l{"name":"Mrs. Alving"}
+ Has he not even got his hat on?
+
+
+@d{}
+[Pointing to the hall.] 
+@l{"name":"Regina"}
+No; there it hangs.
+
+
+@l{"name":"Mrs. Alving"}
+ Let it be. He must come up now. I shall go and look for him
+myself. 
+@d{}
+[She goes out through the garden door.]
+
+
+@x{"names":["Mrs. Alving"]}
+
+@d{}
+[Comes in from the hall.] 
+@e{"names":["Manders"]}
+
+@l{"name":"Manders"}
+Is not Mrs. Alving here?
+
+
+@l{"name":"Regina"}
+ She has just gone down the garden.
+
+
+@l{"name":"Manders"}
+ This is the most terrible night I ever went through.
+
+
+@l{"name":"Regina"}
+ Yes; isn't it a dreadful misfortune, sir?
+
+
+@l{"name":"Manders"}
+ Oh, don't talk about it! I can hardly bear to think of it.
+
+
+@l{"name":"Regina"}
+ How can it have happened--?
+
+
+@l{"name":"Manders"}
+ Don't ask me, Miss Engstrand! How should _I_ know? Do you,
+too--? Is it not enough that your father--?
+
+
+@l{"name":"Regina"}
+ What about him?
+
+
+@l{"name":"Manders"}
+ Oh, he has driven me distracted--
+
+
+@d{}
+[Enters through the hall.] 
+@e{"names":["Engstrand"]}
+
+@l{"name":"Engstrand"}
+Your Reverence--
+
+
+@d{}
+[Turns round in terror.] 
+@l{"name":"Manders"}
+Are you after me here, too?
+
+
+@l{"name":"Engstrand"}
+ Yes, strike me dead, but I must--! Oh, Lord! what am I
+saying? But this is a terrible ugly business, your Reverence.
+
+
+@d{}
+[Walks to and fro.] 
+@l{"name":"Manders"}
+Alas! alas!
+
+
+@l{"name":"Regina"}
+ What's the matter?
+
+
+@l{"name":"Engstrand"}
+ Why, it all came of this here prayer-meeting, you see.
+
+@d{}
+[Softly.] 
+@l{"name":"Engstrand"}
+The bird's limed, my girl. 
+@d{}
+[Aloud.] 
+@l{"name":"Engstrand"}
+And to think it should be
+my doing that such a thing should be his Reverence's doing!
+
+
+@l{"name":"Manders"}
+ But I assure you, Engstrand--
+
+
+@l{"name":"Engstrand"}
+ There wasn't another soul except your Reverence as ever laid
+a finger on the candles down there.
+
+
+@d{}
+[Stops.] 
+@l{"name":"Manders"}
+So you declare. But I certainly cannot recollect that
+I ever had a candle in my hand.
+
+
+@l{"name":"Engstrand"}
+ And I saw as clear as daylight how your Reverence took the
+candle and snuffed it with your fingers, and threw away the snuff among
+the shavings.
+
+
+@l{"name":"Manders"}
+ And you stood and looked on?
+
+
+@l{"name":"Engstrand"}
+ Yes; I saw it as plain as a pike-staff, I did.
+
+
+@l{"name":"Manders"}
+ It's quite beyond my comprehension. Besides, it has never been
+my habit to snuff candles with my fingers.
+
+
+@l{"name":"Engstrand"}
+ And terrible risky it looked, too, that it did! But is there
+such a deal of harm done after all, your Reverence?
+
+
+@d{}
+[Walks restlessly to and fro.] 
+@l{"name":"Manders"}
+Oh, don't ask me!
+
+
+@d{}
+[Walks with him.] 
+@l{"name":"Engstrand"}
+And your Reverence hadn't insured it,
+neither?
+
+
+@d{}
+[Continuing to walk up and down.] 
+@l{"name":"Manders"}
+No, no, no; I have told you
+so.
+
+
+@d{}
+[Following him.] 
+@l{"name":"Engstrand"}
+Not insured! And then to go straight away
+down and set light to the whole thing! Lord, Lord, what a misfortune!
+
+
+@d{}
+[Wipes the sweat from his forehead.] 
+@l{"name":"Manders"}
+Ay, you may well say that,
+Engstrand.
+
+
+@l{"name":"Engstrand"}
+ And to think that such a thing should happen to a benevolent
+Institution, that was to have been a blessing both to town and country,
+as the saying goes! The newspapers won't be for handling your Reverence
+very gently, I expect.
+
+
+@l{"name":"Manders"}
+ No; that is just what I am thinking of. That is almost the
+worst of the whole matter. All the malignant attacks and imputations--!
+Oh, it makes me shudder to think of it!
+
+
+@d{}
+[Comes in from the garden.] 
+@e{"names":["Mrs. Alving"]}
+
+@l{"name":"Mrs. Alving"}
+He is not to be persuaded to
+leave the fire.
+
+
+@l{"name":"Manders"}
+ Ah, there you are, Mrs. Alving.
+
+
+@l{"name":"Mrs. Alving"}
+ So you have escaped your Inaugural Address, Pastor Manders.
+
+
+@l{"name":"Manders"}
+ Oh, I should so gladly--
+
+
+@d{}
+[In an undertone.] 
+@l{"name":"Mrs. Alving"}
+It is all for the best. That Orphanage
+would have done no one any good.
+
+
+@l{"name":"Manders"}
+ Do you think not?
+
+
+@l{"name":"Mrs. Alving"}
+ Do you think it would?
+
+
+@l{"name":"Manders"}
+ It is a terrible misfortune, all the same.
+
+
+@l{"name":"Mrs. Alving"}
+ Let us speak of it plainly, as a matter of business.--Are
+you waiting for Mr. Manders, Engstrand?
+
+
+@d{}
+[At the hall door.] 
+@l{"name":"Engstrand"}
+That's just what I'm a-doing of, ma'am.
+
+
+@l{"name":"Mrs. Alving"}
+ Then sit down meanwhile.
+
+
+@l{"name":"Engstrand"}
+ Thank you, ma'am; I'd as soon stand.
+
+
+@d{}
+[To Manders] 
+@l{"name":"Mrs. Alving"}
+I suppose you are going by the steamer?
+
+
+@l{"name":"Manders"}
+ Yes; it starts in an hour.
+
+
+@l{"name":"Mrs. Alving"}
+ Then be so good as to take all the papers with you. I won't
+hear another word about this affair. I have other things to think of--
+
+
+@l{"name":"Manders"}
+ Mrs. Alving--
+
+
+@l{"name":"Mrs. Alving"}
+ Later on I shall send you a Power of Attorney to settle
+everything as you please.
+
+
+@l{"name":"Manders"}
+ That I will very readily undertake. The original destination of
+the endowment must now be completely changed, alas!
+
+
+@l{"name":"Mrs. Alving"}
+ Of course it must.
+
+
+@l{"name":"Manders"}
+ I think, first of all, I shall arrange that the Solvik property
+shall pass to the parish. The land is by no means without value. It can
+always be turned to account for some purpose or other. And the interest
+of the money in the Bank I could, perhaps, best apply for the benefit of
+some undertaking of acknowledged value to the town.
+
+
+@l{"name":"Mrs. Alving"}
+ Do just as you please. The whole matter is now completely
+indifferent to me.
+
+
+@l{"name":"Engstrand"}
+ Give a thought to my Sailors' Home, your Reverence.
+
+
+@l{"name":"Manders"}
+ Upon my word, that is not a bad suggestion. That must be
+considered.
+
+
+@l{"name":"Engstrand"}
+ Oh, devil take considering--Lord forgive me!
+
+
+@d{}
+[With a sigh.] 
+@l{"name":"Manders"}
+And unfortunately I cannot tell how long I shall
+be able to retain control of these things--whether public opinion may
+not compel me to retire. It entirely depends upon the result of the
+official inquiry into the fire--
+
+
+@l{"name":"Mrs. Alving"}
+ What are you talking about?
+
+
+@l{"name":"Manders"}
+ And the result can by no means be foretold.
+
+
+@d{}
+[Comes close to him.] 
+@l{"name":"Engstrand"}
+Ay, but it can though. For here stands
+old Jacob Engstrand.
+
+
+@l{"name":"Manders"}
+ Well well, but--?
+
+
+@d{}
+[More softy.] 
+@l{"name":"Engstrand"}
+And Jacob Engstrand isn't the man to desert a
+noble benefactor in the hour of need, as the saying goes.
+
+
+@l{"name":"Manders"}
+ Yes, but my good fellow--how--?
+
+
+@l{"name":"Engstrand"}
+ Jacob Engstrand may be likened to a sort of a guardian angel,
+he may, your Reverence.
+
+
+@l{"name":"Manders"}
+ No, no; I really cannot accept that.
+
+
+@l{"name":"Engstrand"}
+ Oh, that'll be the way of it, all the same. I know a man as
+has taken others' sins upon himself before now, I do.
+
+
+@l{"name":"Manders"}
+ Jacob! 
+@d{}
+[Wrings his hand.] 
+@l{"name":"Manders"}
+Yours is a rare nature. Well,
+you shall be helped with your Sailors' Home. That you may rely upon.
+
+@d{}
+[ENGSTRAND tries to thank him, but cannot for emotion.]
+
+
+@d{}
+[Hangs his travelling-bag over his shoulder.] 
+@l{"name":"Manders"}
+And now let us
+set out. We two will go together.
+
+
+@d{}
+[At the dining-room door, softly to Regina] 
+@l{"name":"Engstrand"}
+You come along
+too, my lass. You shall live as snug as the yolk in an egg.
+
+
+@d{}
+[Tosses her head.] 
+@l{"name":"Regina"}
+_Merci_! 
+@d{}
+[She goes out into the hall and
+fetches MANDERS' overcoat.]
+
+
+@l{"name":"Manders"}
+ Good-bye, Mrs. Alving! and may the spirit of Law and Order
+descend upon this house, and that quickly.
+
+
+@l{"name":"Mrs. Alving"}
+ Good-bye, Pastor Manders. 
+@d{}
+[She goes up towards the
+conservatory, as she sees OSWALD coming in through the garden door.]
+
+
+@e{"names":["Oswald"]}
+
+@d{}
+[While he and REGINA help MANDERS to get his coat on.]
+
+@l{"name":"Engstrand"}
+Good-bye, my child. And if any trouble should come to you, you know
+where Jacob Engstrand is to be found. 
+@d{}
+[Softly.] 
+@l{"name":"Engstrand"}
+Little Harbour Street,
+h'm--! 
+@d{}
+[To MRS. ALVING and Oswald] 
+@l{"name":"Engstrand"}
+And the refuge for wandering
+mariners shall be called "Chamberlain Alving's Home," that it shall! And
+if so be as I'm spared to carry on that house in my own way, I make so
+bold as to promise that it shall be worthy of the Chamberlain's memory.
+
+
+@d{}
+[In the doorway.] 
+@l{"name":"Manders"}
+H'm--h'm!--Come along, my dear Enstrand.
+Good-bye! Good-bye! 
+@d{}
+[He and ENGSTRAND go out through the hall.]
+
+
+@x{"names":["Engstrand","Manders"]}
+
+@d{}
+[Goes towards the table.] 
+@l{"name":"Oswald"}
+What house was he talking about?
+
+
+@l{"name":"Mrs. Alving"}
+ Oh, a kind of Home that he and Pastor Manders want to set
+up.
+
+
+@l{"name":"Oswald"}
+ It will burn down like the other.
+
+
+@l{"name":"Mrs. Alving"}
+ What makes you think so?
+
+
+@l{"name":"Oswald"}
+ Everything will burn. All that recalls father's memory is
+doomed. Here am I, too, burning down. 
+@d{}
+[REGINA starts and looks at him.]
+
+
+@l{"name":"Mrs. Alving"}
+ Oswald! You oughtn't to have remained so long down there,
+my poor boy.
+
+
+@d{}
+[Sits down by the table.] 
+@l{"name":"Oswald"}
+I almost think you are right.
+
+
+@l{"name":"Mrs. Alving"}
+ Let me dry your face, Oswald; you are quite wet. 
+@d{}
+[She dries
+his face with her pocket-handkerchief.]
+
+
+@d{}
+[Stares indifferently in front of him.] 
+@l{"name":"Oswald"}
+Thanks, mother.
+
+
+@l{"name":"Mrs. Alving"}
+ Are you not tired, Oswald? Should you like to sleep?
+
+
+@d{}
+[Nervously.] 
+@l{"name":"Oswald"}
+No, no--not to sleep! I never sleep. I only pretend
+to. 
+@d{}
+[Sadly.] 
+@l{"name":"Oswald"}
+That will come soon enough.
+
+
+@d{}
+[Looking sorrowfully at him.] 
+@l{"name":"Mrs. Alving"}
+Yes, you really are ill, my
+blessed boy.
+
+
+@d{}
+[Eagerly.] 
+@l{"name":"Regina"}
+Is Mr. Alving ill?
+
+
+@d{}
+[Impatiently.] 
+@l{"name":"Oswald"}
+Oh, do shut all the doors! This killing dread--
+
+
+@l{"name":"Mrs. Alving"}
+ Close the doors, Regina.
+
+
+@d{}
+[REGINA shuts them and remains standing by the hall door. MRS. ALVING
+takes her shawl off: REGINA does the same. MRS. ALVING draws a chair
+across to OSWALD'S, and sits by him.]
+
+
+@l{"name":"Mrs. Alving"}
+ There now! I am going to sit beside you--
+
+
+@l{"name":"Oswald"}
+ Yes, do. And Regina shall stay here too. Regina shall be with me
+always. You will come to the rescue, Regina, won't you?
+
+
+@l{"name":"Regina"}
+ I don't understand--
+
+
+@l{"name":"Mrs. Alving"}
+ To the rescue?
+
+
+@l{"name":"Oswald"}
+ Yes--when the need comes.
+
+
+@l{"name":"Mrs. Alving"}
+ Oswald, have you not your mother to come to the rescue?
+
+
+@l{"name":"Oswald"}
+ You? 
+@d{}
+[Smiles.] 
+@l{"name":"Oswald"}
+No, mother; that rescue you will never bring me.
+
+@d{}
+[Laughs sadly.] 
+@l{"name":"Oswald"}
+You! ha ha! 
+@d{}
+[Looks earnestly at her.] 
+@l{"name":"Oswald"}
+Though, after all,
+who ought to do it if not you? 
+@d{}
+[Impetuously.] 
+@l{"name":"Oswald"}
+Why can't you say "thou"
+to me, Regina? 
+@d{}
+[Note: "Sige du" = Fr. _tutoyer_] 
+@l{"name":"Oswald"}
+Why do'n't you call me
+"Oswald"?
+
+
+@d{}
+[Softly.] 
+@l{"name":"Regina"}
+I don't think Mrs. Alving would like it.
+
+
+@l{"name":"Mrs. Alving"}
+ You shall have leave to, presently. And meanwhile sit over
+here beside us.
+
+
+@d{}
+[REGINA seats herself demurely and hesitatingly at the other side of the
+table.]
+
+
+@l{"name":"Mrs. Alving"}
+ And now, my poor suffering boy, I am going to take the
+burden off your mind--
+
+
+@l{"name":"Oswald"}
+ You, mother?
+
+
+@l{"name":"Mrs. Alving"}
+--all the gnawing remorse and self-reproach you speak of.
+
+
+@l{"name":"Oswald"}
+ And you think you can do that?
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, now I can, Oswald. A little while ago you spoke of the
+joy of life; and at that word a new light burst for me over my life and
+everything connected with it.
+
+
+@d{}
+[Shakes his head.] 
+@l{"name":"Oswald"}
+I don't understand you.
+
+
+@l{"name":"Mrs. Alving"}
+ You ought to have known your father when he was a young
+lieutenant. He was brimming over with the joy of life!
+
+
+@l{"name":"Oswald"}
+ Yes, I know he was.
+
+
+@l{"name":"Mrs. Alving"}
+ It was like a breezy day only to look at him. And what
+exuberant strength and vitality there was in him!
+
+
+@l{"name":"Oswald"}
+ Well--?
+
+
+@l{"name":"Mrs. Alving"}
+ Well then, child of joy as he was--for he was like a child
+in those days--he had to live at home here in a half-grown town,
+which had no joys to offer him--only dissipations. He had no object
+in life--only an official position. He had no work into which he could
+throw himself heart and soul; he had only business. He had not a single
+comrade that could realise what the joy of life meant--only loungers and
+boon-companions--
+
+
+@l{"name":"Oswald"}
+ Mother--!
+
+
+@l{"name":"Mrs. Alving"}
+ So the inevitable happened.
+
+
+@l{"name":"Oswald"}
+ The inevitable?
+
+
+@l{"name":"Mrs. Alving"}
+ You told me yourself, this evening, what would become of
+you if you stayed at home.
+
+
+@l{"name":"Oswald"}
+ Do you mean to say that father--?
+
+
+@l{"name":"Mrs. Alving"}
+ Your poor father found no outlet for the overpowering joy
+of life that was in him. And I brought no brightness into his home.
+
+
+@l{"name":"Oswald"}
+ Not even you?
+
+
+@l{"name":"Mrs. Alving"}
+ They had taught me a great deal about duties and so forth,
+which I went on obstinately believing in. Everything was marked out into
+duties--into my duties, and his duties, and--I am afraid I made his home
+intolerable for your poor father, Oswald.
+
+
+@l{"name":"Oswald"}
+ Why have you never spoken of this in writing to me?
+
+
+@l{"name":"Mrs. Alving"}
+ I have never before seen it in such a light that I could
+speak of it to you, his son.
+
+
+@l{"name":"Oswald"}
+ In what light did you see it, then?
+
+
+@d{}
+[Slowly.] 
+@l{"name":"Mrs. Alving"}
+I saw only this one thing: that your father was a
+broken-down man before you were born.
+
+
+@d{}
+[Softly.] 
+@l{"name":"Oswald"}
+Ah--! 
+@d{}
+[He rises and walks away to the window.]
+
+
+@l{"name":"Mrs. Alving"}
+ And then; day after day, I dwelt on the one thought that by
+rights Regina should be at home in this house--just like my own boy.
+
+
+@d{}
+[Turning round quickly.] 
+@l{"name":"Oswald"}
+Regina--!
+
+
+@d{}
+[Springs up and asks, with bated breath.] 
+@l{"name":"Regina"}
+I--?
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, now you know it, both of you.
+
+
+@l{"name":"Oswald"}
+ Regina!
+
+
+@d{}
+[To herself.] 
+@l{"name":"Regina"}
+So mother was that kind of woman.
+
+
+@l{"name":"Mrs. Alving"}
+ Your mother had many good qualities, Regina.
+
+
+@l{"name":"Regina"}
+ Yes, but she was one of that sort, all the same. Oh, I've often
+suspected it; but--And now, if you please, ma'am, may I be allowed to go
+away at once?
+
+
+@l{"name":"Mrs. Alving"}
+ Do you really wish it, Regina?
+
+
+@l{"name":"Regina"}
+ Yes, indeed I do.
+
+
+@l{"name":"Mrs. Alving"}
+ Of course you can do as you like; but--
+
+
+@d{}
+[Goes towards Regina] 
+@l{"name":"Oswald"}
+Go away now? Your place is here.
+
+
+@l{"name":"Regina"}
+ _Merci_, Mr. Alving!--or now, I suppose, I may say Oswald. But I
+can tell you this wasn't at all what I expected.
+
+
+@l{"name":"Mrs. Alving"}
+ Regina, I have not been frank with you--
+
+
+@l{"name":"Regina"}
+ No, that you haven't indeed. If I'd known that Oswald was an
+invalid, why--And now, too, that it can never come to anything serious
+between us--I really can't stop out here in the country and wear myself
+out nursing sick people.
+
+
+@l{"name":"Oswald"}
+ Not even one who is so near to you?
+
+
+@l{"name":"Regina"}
+ No, that I can't. A poor girl must make the best of her young
+days, or she'll be left out in the cold before she knows where she is.
+And I, too, have the joy of life in me, Mrs. Alving!
+
+
+@l{"name":"Mrs. Alving"}
+ Unfortunately, you leave. But don't throw yourself away,
+Regina.
+
+
+@l{"name":"Regina"}
+ Oh, what must be, must be. If Oswald takes after his father, I
+take after my mother, I daresay.--May I ask, ma'am, if Pastor Manders
+knows all this about me?
+
+
+@l{"name":"Mrs. Alving"}
+ Pastor Manders knows all about it.
+
+
+@d{}
+[Busied in putting on her shawl.] 
+@l{"name":"Regina"}
+Well then, I'd better make
+haste and get away by this steamer. The Pastor is such a nice man to
+deal with; and I certainly think I've as much right to a little of that
+money as he has--that brute of a carpenter.
+
+
+@l{"name":"Mrs. Alving"}
+ You are heartily welcome to it, Regina.
+
+
+@d{}
+[Looks hard at her.] 
+@l{"name":"Regina"}
+I think you might have brought me up as a
+gentleman's daughter, ma'am; it would have suited me better. 
+@d{}
+[Tosses her
+head.] 
+@l{"name":"Regina"}
+But pooh--what does it matter! 
+@d{}
+[With a bitter side glance at the
+corked bottle.] 
+@l{"name":"Regina"}
+I may come to drink champagne with gentlefolks yet.
+
+
+@l{"name":"Mrs. Alving"}
+ And if you ever need a home, Regina, come to me.
+
+
+@l{"name":"Regina"}
+ No, thank you, ma'am. Pastor Manders will look after me, I know.
+And if the worst comes to the worst, I know of one house where I've
+every right to a place.
+
+
+@l{"name":"Mrs. Alving"}
+ Where is that?
+
+
+@l{"name":"Regina"}
+ "Chamberlain Alving's Home."
+
+
+@l{"name":"Mrs. Alving"}
+ Regina--now I see it--you are going to your ruin.
+
+
+@l{"name":"Regina"}
+ Oh, stuff! Good-bye. 
+@d{}
+[She nods and goes out through the hall.]
+
+
+@x{"names":["Regina"]}
+
+@d{}
+[Stands at the window and looks out.] 
+@l{"name":"Oswald"}
+Is she gone?
+
+
+@l{"name":"Mrs. Alving"}
+ Yes.
+
+
+@d{}
+[Murmuring aside to himself.] 
+@l{"name":"Oswald"}
+I think it was a mistake, this.
+
+
+@d{}
+[Goes up behind him and lays her hands on his shoulders.]
+
+@l{"name":"Mrs. Alving"}
+Oswald, my dear boy--has it shaken you very much?
+
+
+@d{}
+[Turns his face towards her.] 
+@l{"name":"Oswald"}
+All that about father, do you
+mean?
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, about your unhappy father. I am so afraid it may have
+been too much for you.
+
+
+@l{"name":"Oswald"}
+ Why should you fancy that? Of course it came upon me as a great
+surprise; but it can make no real difference to me.
+
+
+@d{}
+[Draws her hands away.] 
+@l{"name":"Mrs. Alving"}
+No difference! That your father was
+so infinitely unhappy!
+
+
+@l{"name":"Oswald"}
+ Of course I can pity him, as I would anybody else; but--
+
+
+@l{"name":"Mrs. Alving"}
+ Nothing more! Your own father!
+
+
+@d{}
+[Impatiently.] 
+@l{"name":"Oswald"}
+Oh, "father,"--"father"! I never knew anything of
+father. I remember nothing about him, except that he once made me sick.
+
+
+@l{"name":"Mrs. Alving"}
+ This is terrible to think of! Ought not a son to love his
+father, whatever happens?
+
+
+@l{"name":"Oswald"}
+ When a son has nothing to thank his father for? has never known
+him? Do you really cling to that old superstition?--you who are so
+enlightened in other ways?
+
+
+@l{"name":"Mrs. Alving"}
+ Can it be only a superstition--?
+
+
+@l{"name":"Oswald"}
+ Yes; surely you can see that, mother. It's one of those notions
+that are current in the world, and so--
+
+
+@d{}
+[Deeply moved.] 
+@l{"name":"Mrs. Alving"}
+Ghosts!
+
+
+@d{}
+[Crossing the room.] 
+@l{"name":"Oswald"}
+Yes; you may call them ghosts.
+
+
+@d{}
+[Wildly.] 
+@l{"name":"Mrs. Alving"}
+Oswald--then you don't love me, either!
+
+
+@l{"name":"Oswald"}
+ You I know, at any rate--
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, you know me; but is that all!
+
+
+@l{"name":"Oswald"}
+ And, of course, I know how fond you are of me, and I can't but
+be grateful to you. And then you can be so useful to me, now that I am
+ill.
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, cannot I, Oswald? Oh, I could almost bless the illness
+that has driven you home to me. For I see very plainly that you are not
+mine: I have to win you.
+
+
+@d{}
+[Impatiently.] 
+@l{"name":"Oswald"}
+Yes yes yes; all these are just so many phrases.
+You must remember that I am a sick man, mother. I can't be much taken up
+with other people; I have enough to do thinking about myself.
+
+
+@d{}
+[In a low voice.] 
+@l{"name":"Mrs. Alving"}
+I shall be patient and easily satisfied.
+
+
+@l{"name":"Oswald"}
+ And cheerful too, mother!
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, my dear boy, you are quite right. 
+@d{}
+[Goes towards him.]
+
+@l{"name":"Mrs. Alving"}
+Have I relieved you of all remorse and self-reproach now?
+
+
+@l{"name":"Oswald"}
+ Yes, you have. But now who will relieve me of the dread?
+
+
+@l{"name":"Mrs. Alving"}
+ The dread?
+
+
+@d{}
+[Walks across the room.] 
+@l{"name":"Oswald"}
+Regina could have been got to do it.
+
+
+@l{"name":"Mrs. Alving"}
+ I don't understand you. What is this about dread--and
+Regina?
+
+
+@l{"name":"Oswald"}
+ Is it very late, mother?
+
+
+@l{"name":"Mrs. Alving"}
+ It is early morning. 
+@d{}
+[She looks out through the
+conservatory.] 
+@l{"name":"Mrs. Alving"}
+The day is dawning over the mountains. And the weather is
+clearing, Oswald. In a little while you shall see the sun.
+
+
+@l{"name":"Oswald"}
+ I'm glad of that. Oh, I may still have much to rejoice in and
+live for--
+
+
+@l{"name":"Mrs. Alving"}
+ I should think so, indeed!
+
+
+@l{"name":"Oswald"}
+ Even if I can't work--
+
+
+@l{"name":"Mrs. Alving"}
+ Oh, you'll soon be able to work again, my dear boy--now
+that you haven't got all those gnawing and depressing thoughts to brood
+over any longer.
+
+
+@l{"name":"Oswald"}
+ Yes, I'm glad you were able to rid me of all those fancies. And
+when I've got over this one thing more--
+@d{}
+[Sits on the sofa.] 
+@l{"name":"Oswald"}
+Now we will
+have a little talk, mother--
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, let us. 
+@d{}
+[She pushes an arm-chair towards the sofa, and
+sits down close to him.]
+
+
+@l{"name":"Oswald"}
+ And meantime the sun will be rising. And then you will know all.
+And then I shall not feel this dread any longer.
+
+
+@l{"name":"Mrs. Alving"}
+ What is it that I am to know?
+
+
+@d{}
+[Not listening to her.] 
+@l{"name":"Oswald"}
+Mother, did you not say a little while
+ago, that there was nothing in the world you would not do for me, if I
+asked you?
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, indeed I said so!
+
+
+@l{"name":"Oswald"}
+ And you'll stick to it, mother?
+
+
+@l{"name":"Mrs. Alving"}
+ You may rely on that, my dear and only boy! I have nothing
+in the world to live for but you alone.
+
+
+@l{"name":"Oswald"}
+ Very well, then; now you shall hear--Mother, you have a strong,
+steadfast mind, I know. Now you're to sit quite still when you hear it.
+
+
+@l{"name":"Mrs. Alving"}
+ What dreadful thing can it be--?
+
+
+@l{"name":"Oswald"}
+ You're not to scream out. Do you hear? Do you promise me that?
+We will sit and talk about it quietly. Do you promise me, mother?
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, yes; I promise. Only speak!
+
+
+@l{"name":"Oswald"}
+ Well, you must know that all this fatigue--and my inability to
+think of work--all that is not the illness itself--
+
+
+@l{"name":"Mrs. Alving"}
+ Then what is the illness itself?
+
+
+@l{"name":"Oswald"}
+ The disease I have as my birthright--
+@d{}
+[He points to his forehead
+and adds very softly]
+@l{"name":"Oswald"}
+--is seated here.
+
+
+@d{}
+[Almost voiceless.] 
+@l{"name":"Mrs. Alving"}
+Oswald! No--no!
+
+
+@l{"name":"Oswald"}
+ Don't scream. I can't bear it. Yes, mother, it is seated here
+waiting. And it may break out any day--at any moment.
+
+
+@l{"name":"Mrs. Alving"}
+ Oh, what horror--!
+
+
+@l{"name":"Oswald"}
+ Now, quiet, quiet. That is how it stands with me--
+
+
+@d{}
+[Springs up.] 
+@l{"name":"Mrs. Alving"}
+It's not true, Oswald! It's impossible! It
+cannot be so!
+
+
+@l{"name":"Oswald"}
+ I have had one attack down there already. It was soon over. But
+when I came to know the state I had been in, then the dread descended
+upon me, raging and ravening; and so I set off home to you as fast as I
+could.
+
+
+@l{"name":"Mrs. Alving"}
+ Then this is the dread--!
+
+
+@l{"name":"Oswald"}
+ Yes--it's so indescribably loathsome, you know. Oh, if it
+had only been an ordinary mortal disease--! For I'm not so afraid of
+death--though I should like to live as long as I can.
+
+
+@l{"name":"Mrs. Alving"}
+ Yes, yes, Oswald, you must!
+
+
+@l{"name":"Oswald"}
+ But this is so unutterably loathsome. To become a little baby
+again! To hive to be fed! To have to--Oh, it's not to be spoken of!
+
+
+@l{"name":"Mrs. Alving"}
+ The child has his mother to nurse him.
+
+
+@d{}
+[Springs up.] 
+@l{"name":"Oswald"}
+No, never that! That is just what I will not have.
+I can't endure to think that perhaps I should lie in that state for many
+years--and get old and grey. And in the meantime you might die and
+leave me. 
+@d{}
+[Sits in MRS. ALVING'S chair.] 
+@l{"name":"Oswald"}
+For the doctor said it wouldn't
+necessarily prove fatal at once. He called it a sort of softening of the
+brain--or something like that. 
+@d{}
+[Smiles sadly.] 
+@l{"name":"Oswald"}
+I think that expression
+sounds so nice. It always sets me thinking of cherry-coloured
+velvet--something soft and delicate to stroke.
+
+
+@d{}
+[Shrieks.] 
+@l{"name":"Mrs. Alving"}
+Oswald!
+
+
+@d{}
+[Springs up and paces the room.] 
+@l{"name":"Oswald"}
+And now you have taken Regina
+from me. If I could only have had her! She would have come to the
+rescue, I know.
+
+
+@d{}
+[Goes to him.] 
+@l{"name":"Mrs. Alving"}
+What do you mean by that, my darling boy? Is
+there any help in the world that I would not give you?
+
+
+@l{"name":"Oswald"}
+ When I got over my attack in Paris, the doctor told me that when
+it comes again--and it will come--there will be no more hope.
+
+
+@l{"name":"Mrs. Alving"}
+ He was heartless enough to--
+
+
+@l{"name":"Oswald"}
+ I demanded it of him. I told him I had preparations to make--
+@d{}
+[He
+smiles cunningly.] 
+@l{"name":"Oswald"}
+And so I had. 
+@d{}
+[He takes a little box from his inner
+breast pocket and opens it.] 
+@l{"name":"Oswald"}
+Mother, do you see this?
+
+
+@l{"name":"Mrs. Alving"}
+ What is it?
+
+
+@l{"name":"Oswald"}
+ Morphia.
+
+
+@d{}
+[Looks at him horror-struck.] 
+@l{"name":"Mrs. Alving"}
+Oswald--my boy!
+
+
+@l{"name":"Oswald"}
+ I've scraped together twelve pilules--
+
+
+@d{}
+[Snatches at it.] 
+@l{"name":"Mrs. Alving"}
+Give me the box, Oswald.
+
+
+@l{"name":"Oswald"}
+ Not yet, mother. 
+@d{}
+[He hides the box again in his pocket.]
+
+
+@l{"name":"Mrs. Alving"}
+ I shall never survive this!
+
+
+@l{"name":"Oswald"}
+ It must be survived. Now if I'd had Regina here, I should have
+told her how things stood with me--and begged her to come to the rescue
+at the last. She would have done it. I know she would.
+
+
+@l{"name":"Mrs. Alving"}
+ Never!
+
+
+@l{"name":"Oswald"}
+ When the horror had come upon me, and she saw me lying there
+helpless, like a little new-born baby, impotent, lost, hopeless--past
+all saving--
+
+
+@l{"name":"Mrs. Alving"}
+ Never in all the world would Regina have done this!
+
+
+@l{"name":"Oswald"}
+ Regina would have done it. Regina was so splendidly
+light-hearted. And she would soon have wearied of nursing an invalid
+like me.
+
+
+@l{"name":"Mrs. Alving"}
+ Then heaven be praised that Regina is not here.
+
+
+@l{"name":"Oswald"}
+ Well then, it is you that must come to the rescue, mother.
+
+
+@d{}
+[Shrieks aloud.] 
+@l{"name":"Mrs. Alving"}
+I!
+
+
+@l{"name":"Oswald"}
+ Who should do it if not you?
+
+
+@l{"name":"Mrs. Alving"}
+ I! your mother!
+
+
+@l{"name":"Oswald"}
+ For that very reason.
+
+
+@l{"name":"Mrs. Alving"}
+ I, who gave you life!
+
+
+@l{"name":"Oswald"}
+ I never asked you for life. And what sort of a life have you
+given me? I will not have it! You shall take it back again!
+
+
+@l{"name":"Mrs. Alving"}
+ Help! Help! 
+@d{}
+[She runs out into the hall.]
+
+
+@x{"names":["Mrs. Alving"]}
+
+@d{}
+[Going after her.] 
+@x{"names":["Oswald"]}
+
+@l{"name":"Oswald"}
+Do not leave me! Where are you going?
+
+
+@d{}
+[In the hall.] 
+@l{"name":"Mrs. Alving"}
+To fetch the doctor, Oswald! Let me pass!
+
+
+@d{}
+[Also outside.] 
+@l{"name":"Oswald"}
+You shall not go out. And no one shall come in.
+
+@d{}
+[The locking of a door is heard.]
+
+
+@d{}
+[Comes in again.] 
+@e{"names":["Mrs. Alving"]}
+
+@l{"name":"Mrs. Alving"}
+Oswald! Oswald--my child!
+
+
+@d{}
+[Follows her.] 
+@e{"names":["Oswald"]}
+
+@l{"name":"Oswald"}
+Have you a mother's heart for me--and yet can see
+me suffer from this unutterable dread?
+
+
+@d{}
+[After a moment's silence, commands herself, and says:]
+
+@l{"name":"Mrs. Alving"}
+Here is my hand upon it.
+
+
+@l{"name":"Oswald"}
+ Will you--?
+
+
+@l{"name":"Mrs. Alving"}
+ If it should ever be necessary. But it will never be
+necessary. No, no; it is impossible.
+
+
+@l{"name":"Oswald"}
+ Well, let us hope so. And let us live together as long as we
+can. Thank you, mother. 
+@d{}
+[He seats himself in the arm-chair which MRS.
+ALVING has moved to the sofa. Day is breaking. The lamp is still burning
+on the table.]
+
+
+@d{}
+[Drawing near cautiously.] 
+@l{"name":"Mrs. Alving"}
+Do you feel calm now?
+
+
+@l{"name":"Oswald"}
+ Yes.
+
+
+@d{}
+[Bending over him.] 
+@l{"name":"Mrs. Alving"}
+It has been a dreadful fancy of yours,
+Oswald--nothing but a fancy. All this excitement has been too much for
+you. But now you shall have along rest; at home with your mother, my own
+blessëd boy. Everything you point to you shall have, just as when you
+were a little child.--There now. The crisis is over. You see how easily
+it passed! Oh, I was sure it would.--And do you see, Oswald, what a
+lovely day we are going to have? Brilliant sunshine! Now you can really
+see your home. 
+@d{}
+[She goes to the table and puts out the lamp. Sunrise.
+The glacier and the snow-peaks in the background glow in the morning
+light.]
+
+
+@d{}
+[Sits in the arm-chair with his back towards the landscape,
+without moving. Suddenly he says:] 
+@l{"name":"Oswald"}
+Mother, give me the sun.
+
+
+@d{}
+[By the table, starts and looks at him.] 
+@l{"name":"Mrs. Alving"}
+What do you say?
+
+
+@d{}
+[Repeats, in a dull, toneless voice.] 
+@l{"name":"Oswald"}
+The sun. The sun.
+
+
+@d{}
+[Goes to him.] 
+@l{"name":"Mrs. Alving"}
+Oswald, what is the matter with you?
+
+
+@d{}
+[Seems to shrink together to the chair; all his muscles relax;
+his face is expressionless, his eyes have a glassy stare.]
+
+
+@d{}
+[Quivering with terror.] 
+@l{"name":"Mrs. Alving"}
+What is this? 
+@d{}
+[Shrieks.] 
+@l{"name":"Mrs. Alving"}
+Oswald!
+what is the matter with you? 
+@d{}
+[Falls on her knees beside him and shakes
+him.] 
+@l{"name":"Mrs. Alving"}
+Oswald! Oswald! look at me! Don't you know me?
+
+
+@d{}
+[Tonelessly as before.] 
+@l{"name":"Oswald"}
+The sun.--The sun.
+
+
+@d{}
+[Springs up in despair, entwines her hands in her hair and
+shrieks.] 
+@l{"name":"Mrs. Alving"}
+I cannot bear it! 
+@d{}
+[Whispers, as though petrified]; 
+@l{"name":"Mrs. Alving"}
+I cannot
+bear it! Never! 
+@d{}
+[Suddenly.] 
+@l{"name":"Mrs. Alving"}
+Where has he got them? 
+@d{}
+[Fumbles hastily
+in his breast.] 
+@l{"name":"Mrs. Alving"}
+Here! 
+@d{}
+[Shrinks back a few steps and screams:] 
+@l{"name":"Mrs. Alving"}
+No! No;
+no!--Yes!--No; no!
+
+
+@d{}
+[She stands a few steps away from him with her hands twisted in her
+hair, and stares at him in speechless horror.]
+
+
+@d{}
+[Sits motionless as before and says.] 
+@l{"name":"Oswald"}
+The sun.--The sun.
+
+
+
+@d{}
+THE END
+@x{"names":["Mrs. Alving","Oswald"]}
