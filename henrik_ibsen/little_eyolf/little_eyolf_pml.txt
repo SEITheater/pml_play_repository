@@ -1,0 +1,7358 @@
+﻿@v{"version": 0.1} 
+@play{"title":"Little Eyolf", "author": "Henrik Ibsen"}
+
+@a{"number":1}
+@s{"number":1}
+@d{}
+LITTLE EYOLF
+By Henrik Ibsen
+Translated, With an Introduction, by William Archer
+
+The action takes place on ALLMERS'S property, bordering on the fjord,
+twelve or fourteen miles from Christiania.
+
+
+ACT FIRST
+
+[A pretty and richly-decorated garden-room, full of furniture, flowers,
+and plants. At the back, open glass doors, leading out to a verandah. An
+extensive view over the fiord. In the distance, wooded hillsides. A door
+in each of the side walls, the one on the right a folding door, placed
+far back. In front on the right, a sofa, with cushions and rugs. Beside
+the sofa, a small table, and chairs. In front, on the left, a larger
+table, with arm-chairs around it. On the table stands an open hand-bag.
+It is an early summer morning, with warm sunshine.]
+
+[Mrs. RITA ALLMERS stands beside the table, facing towards the
+left, engaged in unpacking the bag. She is a handsome, rather tall,
+well-developed blonde, about thirty years of age, dressed in a
+light-coloured morning-gown.]
+
+[Shortly after, Miss ASTA ALLMERS enters by the door on the right,
+wearing a light brown summer dress, with hat, jacket, and parasol. Under
+her arm she carries a locked portfolio of considerable size. She
+is slim, of middle height, with dark hair, and deep, earnest eyes.
+Twenty-five years old.]
+
+
+@e{"names":["Rita","Asta"]}
+
+@d{}
+[As she enters.] 
+@l{"name":"Asta"}
+Good-morning, my dear Rita.
+
+
+@d{}
+[Turns her head, and nods to her.] 
+@l{"name":"Rita"}
+What! is that you, Asta? Come
+all the way from town so early?
+
+
+@d{}
+[Takes of her things, and lays them on a chair beside the door.]
+
+@l{"name":"Asta"}
+Yes, such a restless feeling came over me. I felt I must come out
+to-day, and see how little Eyolf was getting on--and you too. 
+@d{}
+[Lays the
+portfolio on the table beside the sofa.] 
+@l{"name":"Asta"}
+So I took the steamer, and here
+I am.
+
+
+@d{}
+[Smiling to her.] 
+@l{"name":"Rita"}
+And I daresay you met one or other of your
+friends on board? Quite by chance, of course.
+
+
+@d{}
+[Quietly.] 
+@l{"name":"Asta"}
+No, I did not meet a soul I knew. 
+@d{}
+[Sees the bag.] 
+@l{"name":"Asta"}
+Why,
+Rita, what have you got there?
+
+
+@d{}
+[Still unpacking.] 
+@l{"name":"Rita"}
+Alfred's travelling-bag. Don't you recognise
+it?
+
+
+@d{}
+[Joyfully, approaching her.] 
+@l{"name":"Asta"}
+What! Has Alfred come home?
+
+
+@l{"name":"Rita"}
+ Yes, only think--he came quite unexpectedly by the late train last
+night.
+
+
+@l{"name":"Asta"}
+ Oh, then that was what my feeling meant! It was that that drew
+me out here! And he hadn't written a line to let you know? Not even a
+post-card?
+
+
+@l{"name":"Rita"}
+ Not a single word.
+
+
+@l{"name":"Asta"}
+ Did he not even telegraph?
+
+
+@l{"name":"Rita"}
+ Yes, an hour before he arrived--quite curtly and coldly. 
+@d{}
+[Laughs.]
+
+@l{"name":"Rita"}
+Don't you think that was like him, Asta?
+
+
+@l{"name":"Asta"}
+ Yes; he goes so quietly about everything.
+
+
+@l{"name":"Rita"}
+ But that made it all the more delightful to have him again.
+
+
+@l{"name":"Asta"}
+ Yes, I am sure it would.
+
+
+@l{"name":"Rita"}
+ A whole fortnight before I expected him!
+
+
+@l{"name":"Asta"}
+ And is he quite well? Not in low spirits?
+
+
+@d{}
+[Closes the bag with a snap, and smiles at her.] 
+@l{"name":"Rita"}
+He looked quite
+transfigured as he stood in the doorway.
+
+
+@l{"name":"Asta"}
+ And was he not the least bit tired either?
+
+
+@l{"name":"Rita"}
+ Oh, yes, he seemed to be tired enough--very tired, in fact. But,
+poor fellow, he had come on foot the greater part of the way.
+
+
+@l{"name":"Asta"}
+ And then perhaps the high mountain air may have been rather too
+keen for him.
+
+
+@l{"name":"Rita"}
+ Oh, no; I don't think so at all. I haven't heard him cough once.
+
+
+@l{"name":"Asta"}
+ Ah, there you see now! It was a good thing, after all, that the
+doctor talked him into taking this tour.
+
+
+@l{"name":"Rita"}
+ Yes, now that it is safely over.--But I can tell you it has been a
+terrible time for me, Asta. I have never cared to talk about it--and you
+so seldom came out to see me, too--
+
+
+@l{"name":"Asta"}
+ Yes, I daresay that wasn't very nice of me--but--
+
+
+@l{"name":"Rita"}
+ Well, well, well, of course you had your school to attend to in
+town. 
+@d{}
+[Smiling.] 
+@l{"name":"Rita"}
+And then our road-maker friend--of course he was away
+too.
+
+
+@l{"name":"Asta"}
+ Oh, don't talk like that, Rita.
+
+
+@l{"name":"Rita"}
+ Very well, then; we will leave the road-maker out of the
+question.--You can't think how I have been longing for Alfred! How empty
+the place seemed! How desolate! Ugh, it felt as if there had been a
+funeral in the house!
+
+
+@l{"name":"Asta"}
+ Why, dear me, only six or seven weeks--
+
+
+@l{"name":"Rita"}
+ Yes; but you must remember that Alfred has never been away from
+me before--never so much as twenty-four hours. Not once in all these ten
+years.
+
+
+@l{"name":"Asta"}
+ No; but that is just why I really think it was high time he should
+have a little outing this year. He ought to have gone for a tramp in the
+mountains every summer--he really ought.
+
+
+@d{}
+[Half smiling.] 
+@l{"name":"Rita"}
+Oh yes, it's all very well fair you to talk. If
+I were as--as reasonable its you, I suppose I should have let him go
+before--perhaps. But I positively could not, Asta! It seemed to me I
+should never get him back again. Surely you can understand that?
+
+
+@l{"name":"Asta"}
+ No. But I daresay that is because I have no one to lose.
+
+
+@d{}
+[With a teasing smile.] 
+@l{"name":"Rita"}
+Really? No one at all?
+
+
+@l{"name":"Asta"}
+ Not that _I_ know of. 
+@d{}
+[Changing the subject.] 
+@l{"name":"Asta"}
+But tell me, Rita,
+where is Alfred? Is he still asleep?
+
+
+@l{"name":"Rita"}
+ Oh, not at all. He got up as early as ever to-day.
+
+
+@l{"name":"Asta"}
+ Then he can't have been so very tired after all.
+
+
+@l{"name":"Rita"}
+ Yes, he was last night--when he arrived. But now he has had little
+Eyolf with him in his room for a whole hour and more.
+
+
+@l{"name":"Asta"}
+ Poor little white-faced boy! Has he to be for ever at his lessons
+again?
+
+
+@d{}
+[With a slight shrug.] 
+@l{"name":"Rita"}
+Alfred will have it so, you know.
+
+
+@l{"name":"Asta"}
+ Yes; but I think you ought to put down your foot about it, Rita.
+
+
+@d{}
+[Somewhat impatiently.] 
+@l{"name":"Rita"}
+Oh no; come now, I really cannot meddle
+with that. Alfred knows so much better about these things than I do. And
+what would you have Eyolf do? He can't run about and play, you see--like
+other children.
+
+
+@d{}
+[With decision.] 
+@l{"name":"Asta"}
+I will talk to Alfred about this.
+
+
+@l{"name":"Rita"}
+ Yes, do; I wish you would.--Oh! here he is.
+
+
+@d{}
+[ALFRED ALLMERS, dressed in light summer clothes, enters by the door on
+the left, leading EYOLF by the hand. He is a slim, lightly-built man of
+about thirty-six or thirty-seven, with gentle eyes, and thin brown hair
+and beard. His expression is serious and thoughtful. EYOLF wears a suit
+cut like a uniform, with gold braid and gilt military buttons. He is
+lame, and walks with a crutch under his left arm. His leg is shrunken.
+He is undersized, and looks delicate, but has beautiful intelligent
+eyes.]
+
+
+@e{"names":["Allmers","Eyolf"]}
+
+@d{}
+[Drops EYOLF's hand, goes up to ASTA with an expression of
+marked pleasure, and holds out both his hands to her.] 
+@l{"name":"Allmers"}
+Asta! My dearest
+Asta! To think of your coming! To think of my seeing you so soon!
+
+
+@l{"name":"Asta"}
+ I felt I must--. Welcome home again!
+
+
+@d{}
+[Shaking her hands.] 
+@l{"name":"Allmers"}
+Thank you for coming.
+
+
+@l{"name":"Rita"}
+ Doesn't he look well?
+
+
+@d{}
+[Gazes fixedly at him.] 
+@l{"name":"Asta"}
+Splendid! Quite splendid! His eyes are so
+much brighter! And I suppose you have done a great deal of writing on
+your travels? 
+@d{}
+[With an outburst of joy.] 
+@l{"name":"Asta"}
+I shouldn't wonder if you had
+finished the whole book, Alfred?
+
+
+@d{}
+[Shrugging his shoulders.] 
+@l{"name":"Allmers"}
+The book? Oh, the book--
+
+
+@l{"name":"Asta"}
+ Yes, I was sure you would find it go so easily when once you got
+away.
+
+
+@l{"name":"Allmers"}
+ So I thought too. But, do you know, I didn't find it so at all.
+The truth is, I have not written a line of the book.
+
+
+@l{"name":"Asta"}
+ Not a line?
+
+
+@l{"name":"Rita"}
+ Oho! I wondered when I found all the paper lying untouched in your
+bag.
+
+
+@l{"name":"Asta"}
+ But, my dear Alfred, what have you been doing all this time?
+
+
+@d{}
+[Smiling.] 
+@l{"name":"Allmers"}
+Only thinking and thinking and thinking.
+
+
+@d{}
+[Putting her arm round his neck.] 
+@l{"name":"Rita"}
+And thinking a little, too, of
+those you had left at home?
+
+
+@l{"name":"Allmers"}
+ Yes, you may be sure of that. I have thought a great deal of
+you--every single day.
+
+
+@d{}
+[Taking her arm away.] 
+@l{"name":"Rita"}
+Ah, that is all I care about.
+
+
+@l{"name":"Asta"}
+ But you haven't even touched the book! And yet you can look so
+happy and contented! That is not what you generally do--I mean when your
+work is going badly.
+
+
+@l{"name":"Allmers"}
+ You are right there. You see, I have been such a fool hitherto.
+All the best that is in you goes into thinking. What you put on paper is
+worth very little.
+
+
+@d{}
+[Exclaiming.] 
+@l{"name":"Asta"}
+Worth very little!
+
+
+@d{}
+[Laughing.] 
+@l{"name":"Rita"}
+What an absurd thing to say, Alfred.
+
+
+@d{}
+[Looks confidingly up at him.] 
+@l{"name":"Eyolf"}
+Oh yes, Papa, what you write is
+worth a great deal!
+
+
+@d{}
+[Smiling and stroking his hair.] 
+@l{"name":"Allmers"}
+Well, well, since you say
+so.--But I can tell you, some one is coming after me who will do it
+better.
+
+
+@l{"name":"Eyolf"}
+ Who can that be? Oh, tell me!
+
+
+@l{"name":"Allmers"}
+ Only wait--you may be sure he will come, and let us hear of
+him.
+
+
+@l{"name":"Eyolf"}
+ And what will you do then?
+
+
+@d{}
+[Seriously.] 
+@l{"name":"Allmers"}
+Then I will go to the mountains again--
+
+
+@l{"name":"Rita"}
+ Fie, Alfred! For shame!
+
+
+@l{"name":"Allmers"}
+--up to the peaks and the great waste places.
+
+
+@l{"name":"Eyolf"}
+ Papa, don't you think I shall soon be well enough for you to take
+me with you?
+
+
+@d{}
+[With painful emotion.] 
+@l{"name":"Allmers"}
+Oh, yes, perhaps, my little boy.
+
+
+@l{"name":"Eyolf"}
+ It would be so splendid, you know, if I could climb the
+mountains, like you.
+
+
+@d{}
+[Changing the subject.] 
+@l{"name":"Asta"}
+Why, how beautifully you are dressed
+to-day, Eyolf!
+
+
+@l{"name":"Eyolf"}
+ Yes, don't you think so, Auntie?
+
+
+@l{"name":"Asta"}
+ Yes, indeed. Is it in honour of Papa that you have got your new
+clothes on?
+
+
+@l{"name":"Eyolf"}
+ Yes, I asked Mama to let me. I wanted so to let Papa see me in
+them.
+
+
+@d{}
+[In a low voice, to Rita] 
+@l{"name":"Allmers"}
+You shouldn't have given him clothes
+like that.
+
+
+@d{}
+[In a low voice.] 
+@l{"name":"Rita"}
+Oh, he has teased me so long about them--he had
+set his heart on them. He gave me no peace.
+
+
+@l{"name":"Eyolf"}
+ And I forgot to tell you, Papa--Borgheim has bought me a new bow.
+And he has taught me how to shoot with it too.
+
+
+@l{"name":"Allmers"}
+ Ah, there now--that's just the sort of thing for you, Eyolf.
+
+
+@l{"name":"Eyolf"}
+ And next time he comes, I shall ask him to teach me to swim, too.
+
+
+@l{"name":"Allmers"}
+ To swim! Oh, what makes you want to learn swimming?
+
+
+@l{"name":"Eyolf"}
+ Well, you know, all the boys down at the beach can swim. I am the
+only one that can't.
+
+
+@d{}
+[With emotion, taking him in his arms.] 
+@l{"name":"Allmers"}
+You shall learn
+whatever you like--everything you really want to.
+
+
+@l{"name":"Eyolf"}
+ Then do you know what I want most of all, Papa?
+
+
+@l{"name":"Allmers"}
+ No; tell me.
+
+
+@l{"name":"Eyolf"}
+ I want most of all to be a soldier.
+
+
+@l{"name":"Allmers"}
+ Oh, little Eyolf, there are many, many other things that are
+better than that.
+
+
+@l{"name":"Eyolf"}
+ Ah, but when I grow big, then I shall have to be a soldier. You
+know that, don't you?
+
+
+@d{}
+[Clenching his hands together.] 
+@l{"name":"Allmers"}
+Well, well, well: we shall
+see--
+
+
+@d{}
+[Seating herself at the table on the left.] 
+@l{"name":"Asta"}
+Eyolf! Come here to
+me, and I will tell you something.
+
+
+@d{}
+[Goes up to her.] 
+@l{"name":"Eyolf"}
+What is it, Auntie?
+
+
+@l{"name":"Asta"}
+ What do you think, Eyolf--I have seen the Rat-Wife.
+
+
+@l{"name":"Eyolf"}
+ What! Seen the Rat-Wife! Oh, you're only making a fool of me!
+
+
+@l{"name":"Asta"}
+ No; it's quite true. I saw her yesterday.
+
+
+@l{"name":"Eyolf"}
+ Where did you see her?
+
+
+@l{"name":"Asta"}
+ I saw her on the road, outside the town.
+
+
+@l{"name":"Allmers"}
+ I saw her, too, somewhere up in the country.
+
+
+@d{}
+[Who is sitting on the sofa.] 
+@l{"name":"Rita"}
+Perhaps it will be out turn to see
+her next, Eyolf.
+
+
+@l{"name":"Eyolf"}
+ Auntie, isn't it strange that she should be called the Rat-Wife?
+
+
+@l{"name":"Asta"}
+ Oh, people just give her that name because she wanders round the
+country driving away all the rats.
+
+
+@l{"name":"Allmers"}
+ I have heard that her real name is Varg.
+
+
+@l{"name":"Eyolf"}
+ Varg! That means a wolf, doesn't it?
+
+
+@d{}
+[Patting him on the head.] 
+@l{"name":"Allmers"}
+So you know that, do you?
+
+
+@d{}
+[Cautiously.] 
+@l{"name":"Eyolf"}
+Then perhaps it may be true, after all, that she is
+a were-wolf at night. Do you believe that, Papa?
+
+
+@l{"name":"Allmers"}
+ Oh, no; I don't believe it. Now you ought to go and play a
+little in the garden.
+
+
+@l{"name":"Eyolf"}
+ Should I not take some books with me?
+
+
+@l{"name":"Allmers"}
+ No, no books after this. You had better go down to the beach to
+the other boys.
+
+
+@d{}
+[Shyly.] 
+@l{"name":"Eyolf"}
+No, Papa, I won't go down to the boys to-day.
+
+
+@l{"name":"Allmers"}
+ Why not?
+
+
+@l{"name":"Eyolf"}
+ Oh, because I have these clothes on.
+
+
+@d{}
+[Knitting his brows.] 
+@l{"name":"Allmers"}
+Do you mean that they make fun of--of
+your pretty clothes?
+
+
+@d{}
+[Evasively.] 
+@l{"name":"Eyolf"}
+No, they daren't--for then I would thrash them.
+
+
+@l{"name":"Allmers"}
+ Aha!--then why--?
+
+
+@l{"name":"Eyolf"}
+ You see, they are so naughty, these boys. And then they say I can
+never be a soldier.
+
+
+@d{}
+[With suppressed indignation.] 
+@l{"name":"Allmers"}
+Why do they say that, do you
+think?
+
+
+@l{"name":"Eyolf"}
+ I suppose they are jealous of me. For you know, Papa, they are so
+poor, they have to go about barefoot.
+
+
+@d{}
+[Softly, with choking voice.] 
+@l{"name":"Allmers"}
+Oh, Rita--how it wrings my heart!
+
+
+@d{}
+[Soothingly, rising.] 
+@l{"name":"Rita"}
+There, there, there!
+
+
+@d{}
+[Threateningly.] 
+@l{"name":"Allmers"}
+But these rascals shall soon find out who is
+the master down at the beach!
+
+
+@d{}
+[Listening.] 
+@l{"name":"Asta"}
+There is some one knocking.
+
+
+@l{"name":"Eyolf"}
+ Oh, I'm sure it's Borgheim!
+
+
+@l{"name":"Rita"}
+ Come in.
+
+
+@d{}
+[The RAT-WIFE comes softly and noiselessly in by the door on the right.
+She is a thin little shrunken figure, old and grey-haired, with keen,
+piercing eyes, dressed in an old-fashioned flowered gown, with a black
+hood and cloak. She has in her hand a large red umbrella, and carries a
+black bag by a loop over her arm.]
+
+
+@e{"names":["The Rat-Wife"]}
+
+@d{}
+[Softly, taking hold of ASTA's dress.] 
+@l{"name":"Eyolf"}
+Auntie! That must surely
+be her!
+
+
+@d{}
+[Curtseying at the door.] 
+@l{"name":"The Rat-Wife"}
+I humbly beg pardon--but are
+your worships troubled with any gnawing things in the house?
+
+
+@l{"name":"Allmers"}
+ Here? No, I don't think so.
+
+
+@l{"name":"The Rat-Wife"}
+ For it would be such a pleasure to me to rid your
+worships' house of them.
+
+
+@l{"name":"Rita"}
+ Yes, yes; we understand. But we have nothing of the sort here.
+
+
+@l{"name":"The Rat-Wife"}
+ That's very unlucky, that is; for I just happened to be
+on my rounds now, and goodness knows when I may be in these parts
+again.--Oh, how tired I am!
+
+
+@d{}
+[Pointing to a chair.] 
+@l{"name":"Allmers"}
+Yes, you look tired.
+
+
+@l{"name":"The Rat-Wife"}
+ I know one ought never to get tired of doing good to the
+poor little things that are hated and persecuted so cruelly. But it
+takes your strength out of you, it does.
+
+
+@l{"name":"Rita"}
+ Won't you sit down and rest a little?
+
+
+@l{"name":"The Rat-Wife"}
+ I thank your ladyship with all my heart. 
+@d{}
+[Seats herself on
+a chair between the door and the sofa.] 
+@l{"name":"The Rat-Wife"}
+I have been out all night at my
+work.
+
+
+@l{"name":"Allmers"}
+ Have you indeed?
+
+
+@l{"name":"The Rat-Wife"}
+ Yes, over on the islands. 
+@d{}
+[With a chuckling laugh.] 
+@l{"name":"The Rat-Wife"}
+The
+people sent for me, I can assure you. They didn't like it a bit; but
+there was nothing else to be done. They had to put a good face on it,
+and bite the sour apple. 
+@d{}
+[Looks at EYOLF, and nods.] 
+@l{"name":"The Rat-Wife"}
+The sour apple,
+little master, the sour apple.
+
+
+@d{}
+[Involuntarily, a little timidly.] 
+@l{"name":"Eyolf"}
+Why did they have to--?
+
+
+@l{"name":"The Rat-Wife"}
+ What?
+
+
+@l{"name":"Eyolf"}
+ To bite it?
+
+
+@l{"name":"The Rat-Wife"}
+ Why, because they couldn't keep body and soul together
+on account of the rats and all the little rat-children, you see, young
+master.
+
+
+@l{"name":"Rita"}
+ Ugh! Poor people! Have they so many of them?
+
+
+@l{"name":"The Rat-Wife"}
+ Yes, it was all alive and swarming with them. 
+@d{}
+[Laughs with
+quiet glee.] 
+@l{"name":"The Rat-Wife"}
+They came creepy-crawly up into the beds all night long.
+They plumped into the milk-cans, and they went pittering and pattering
+all over the floor, backwards and forwards, and up and down.
+
+
+@d{}
+[Softly, to Asta] 
+@l{"name":"Eyolf"}
+I shall never go there, Auntie.
+
+
+@l{"name":"The Rat-Wife"}
+ But then I came--I, and another along with me. And we took
+them with us, every one--the sweet little creatures! We made an end of
+every one of them.
+
+
+@d{}
+[With a shriek.] 
+@l{"name":"Eyolf"}
+Papa--look! look!
+
+
+@l{"name":"Rita"}
+ Good Heavens, Eyolf!
+
+
+@l{"name":"Allmers"}
+ What's the matter?
+
+
+@d{}
+[Pointing.] 
+@l{"name":"Eyolf"}
+There's something wriggling in the bag!
+
+
+@d{}
+[At the extreme left, shrieks.] 
+@l{"name":"Rita"}
+Ugh! Send her away, Alfred.
+
+
+@d{}
+[Laughing.] 
+@l{"name":"The Rat-Wife"}
+Oh, dearest lady, you needn't be frightened of
+such a little mannikin.
+
+
+@l{"name":"Allmers"}
+ But what is the thing?
+
+
+@l{"name":"The Rat-Wife"}
+ Why, it's only little Mopsëman. 
+@d{}
+[Loosening the string of
+the bag.] 
+@l{"name":"The Rat-Wife"}
+Come up out of the dark, my own little darling friend.
+
+
+@d{}
+[A little dog with a broad black snout pokes its head out of the bag.]
+
+
+@d{}
+[Nodding and beckoning to Eyolf] 
+@l{"name":"The Rat-Wife"}
+Come along, don't be
+afraid, my little wounded warrior! He won't bite. Come here! Come here!
+
+
+@d{}
+[Clinging to Asta] 
+@l{"name":"Eyolf"}
+No, I dare not.
+
+
+@l{"name":"The Rat-Wife"}
+ Don't you think he has a gentle, lovable countenance, my
+young master?
+
+
+@d{}
+[Astonished, pointing.] 
+@l{"name":"Eyolf"}
+That thing there?
+
+
+@l{"name":"The Rat-Wife"}
+ Yes, this thing here.
+
+
+@d{}
+[Almost under his breath, staring fixedly at the dog.] 
+@l{"name":"Eyolf"}
+I think he
+has the horriblest--countenance I ever saw.
+
+
+@d{}
+[Closing the bag.] 
+@l{"name":"The Rat-Wife"}
+Oh, it will come--it will come, right
+enough.
+
+
+@d{}
+[Involuntarily drawing nearer, at last goes right up to her, and
+strokes the bag.] 
+@l{"name":"Eyolf"}
+But he is lovely--lovely all the same.
+
+
+@d{}
+[In a tone of caution.] 
+@l{"name":"The Rat-Wife"}
+But now he is so tired and weary,
+poor thing. He's utterly tired out, he is. 
+@d{}
+[Looks at Allmers] 
+@l{"name":"The Rat-Wife"}
+For it
+takes the strength out of you, that sort of game, I can tell you, sir.
+
+
+@l{"name":"Allmers"}
+ What sort of game do you mean?
+
+
+@l{"name":"The Rat-Wife"}
+ The luring game.
+
+
+@l{"name":"Allmers"}
+ Do you mean that it is the dog that lures the rats?
+
+
+@d{}
+[Nodding.] 
+@l{"name":"The Rat-Wife"}
+Mopsëman and I--we two do it together. And it
+goes so smoothly--for all you can see, at any rate. I just slip a string
+through his collar, and then I lead him three times round the house, and
+play on my Pan's-pipes. When they hear that, they have got to come up
+from the cellars, and down from the garrets, and out of flour boles, all
+the blessed little creatures.
+
+
+@l{"name":"Eyolf"}
+ And does he bite them to death then?
+
+
+@l{"name":"The Rat-Wife"}
+ Oh, not at all! No, we go down to the boat, he and I
+do--and then they follow after us, both the big ones and the little
+ratikins.
+
+
+@d{}
+[Eagerly.] 
+@l{"name":"Eyolf"}
+And what then--tell me!
+
+
+@l{"name":"The Rat-Wife"}
+ Then we push out from the land, and I scull with one
+oar, and play on my Pan's-pipes. And Mopsëman, he swims behind. 
+@d{}
+[With
+glittering eyes.] 
+@l{"name":"The Rat-Wife"}
+And all the creepers and crawlers, they follow and
+follow us out into the deep, deep waters. Ay, for they have to.
+
+
+@l{"name":"Eyolf"}
+ Why do they have to?
+
+
+@l{"name":"The Rat-Wife"}
+ Just because they want not to--just because they are so
+deadly afraid of the water. That is why they have got to plunge into it.
+
+
+@l{"name":"Eyolf"}
+ Are they drowned, then?
+
+
+@l{"name":"The Rat-Wife"}
+ Every blessed one. 
+@d{}
+[More softly.] 
+@l{"name":"The Rat-Wife"}
+And there it is all as
+still, and soft, and dark as their hearts can desire, the lovely little
+things. Down there they sleep a long, sweet sleep, with no one to hate
+them or persecute them any more. 
+@d{}
+[Rises.] 
+@l{"name":"The Rat-Wife"}
+In the old days, I can tell
+you, I didn't need any Mopsëman. Then I did the luring myself--I alone.
+
+
+@l{"name":"Eyolf"}
+ And what did you lure then?
+
+
+@l{"name":"The Rat-Wife"}
+ Men. One most of all.
+
+
+@d{}
+[With eagerness.] 
+@l{"name":"Eyolf"}
+Oh, who was that one? Tell me!
+
+
+@d{}
+[Laughing.] 
+@l{"name":"The Rat-Wife"}
+It was my own sweetheart, it was, little
+heart-breaker!
+
+
+@l{"name":"Eyolf"}
+ And where is he now, then?
+
+
+@d{}
+[Harshly.] 
+@l{"name":"The Rat-Wife"}
+Down where all the rats are. 
+@d{}
+[Resuming her
+milder tone.] 
+@l{"name":"The Rat-Wife"}
+But now I must be off and get to business again. Always on
+the move. 
+@d{}
+[To Rita] 
+@l{"name":"The Rat-Wife"}
+So your ladyship has no sort of use for me to-day?
+I could finish it all off while I am about it.
+
+
+@l{"name":"Rita"}
+ No, thank you; I don't think we require anything.
+
+
+@l{"name":"The Rat-Wife"}
+ Well, well, your sweet ladyship, you can never tell.
+If your ladyship should find that there is anything lure that keeps
+nibbling and gnawing, and creeping and crawling, then just see and get
+hold of me and Mopsëman.--Good-bye, good-bye, a kind good-bye to you
+all. 
+@d{}
+[She goes out by the door on the right.]
+
+
+@x{"names":["The Rat-Wife"]}
+
+@d{}
+[Softly and triumphantly, to Asta] 
+@l{"name":"Eyolf"}
+Only think, Auntie, now I
+have seen the Rat-Wife too!
+
+
+@d{}
+[RITA goes out upon the verandah, and fans herself with her
+pocket-handkerchief. Shortly afterwards, EYOLF slips cautiously and
+unnoticed out to the right.]
+
+
+@x{"names":["Eyolf","Rita"]}
+
+@d{}
+[Takes up the portfolio from the table by the sofa.] 
+@l{"name":"Allmers"}
+Is this
+your portfolio, Asta?
+
+
+@l{"name":"Asta"}
+ Yes. I have some of the old letters in it.
+
+
+@l{"name":"Allmers"}
+ Ah, the family letters--
+
+
+@l{"name":"Asta"}
+ You know you asked me to arrange them for you while you were away.
+
+
+@d{}
+[Pats her on the head.] 
+@l{"name":"Allmers"}
+And you have actually found time to do
+that, dear?
+
+
+@l{"name":"Asta"}
+ Oh, yes. I have done it partly out here and partly at my own rooms
+in town.
+
+
+@l{"name":"Allmers"}
+ Thanks, dear. Did you find anything particular in them?
+
+
+@d{}
+[Lightly.] 
+@l{"name":"Asta"}
+Oh, you know you always find something or other in such
+old papers. 
+@d{}
+[Speaking lower and seriously.] 
+@l{"name":"Asta"}
+It is the letters to mother
+that are in this portfolio.
+
+
+@l{"name":"Allmers"}
+ Those, of course, you must keep yourself.
+
+
+@d{}
+[With an effort.] 
+@l{"name":"Asta"}
+No; I am determined that you shall look through
+them, too, Alfred. Some time--later on in life. I haven't the key of the
+portfolio with me just now.
+
+
+@l{"name":"Allmers"}
+ It doesn't matter, my dear Asta, for I shall never read your
+mother's letters in any case.
+
+
+@d{}
+[Fixing her eyes on him.] 
+@l{"name":"Asta"}
+Then some time or other--some quiet
+evening--I will tell you a little of what is in them.
+
+
+@l{"name":"Allmers"}
+ Yes, that will be much better. But do you keep your mother's
+letters--you haven't so many mementos of her.
+
+
+@d{}
+[He hands ASTA the portfolio. She takes it, and lays it on the chair
+under her outdoor things. RITA comes into the room again.]
+
+
+@e{"names":["Rita"]}
+
+@l{"name":"Rita"}
+ Ugh! I feel as if that horrible old woman had brought a sort of
+graveyard smell with her.
+
+
+@l{"name":"Allmers"}
+ Yes, she was rather horrible.
+
+
+@l{"name":"Rita"}
+ I felt almost sick while she was in the room.
+
+
+@l{"name":"Allmers"}
+ However, I can very well understand the sort of spellbound
+fascination that she talked about. The loneliness of the mountain-peaks
+and of the great waste places has something of the same magic about it.
+
+
+@d{}
+[Looks attentively at him.] 
+@l{"name":"Asta"}
+What is it that has happened to you,
+Alfred?
+
+
+@d{}
+[Smiling.] 
+@l{"name":"Allmers"}
+To me?
+
+
+@l{"name":"Asta"}
+ Yes, something has happened--something seems almost to have
+transformed you. Rita noticed it too.
+
+
+@l{"name":"Rita"}
+ Yes, I saw it the moment you came. A change for the better, I
+hope, Alfred?
+
+
+@l{"name":"Allmers"}
+ It ought to be for the better. And it must and shall come to
+good.
+
+
+@d{}
+[With an outburst.] 
+@l{"name":"Rita"}
+You have had some adventure on your journey!
+Don't deny it! I can see it in your face!
+
+
+@d{}
+[Shaking his head.] 
+@l{"name":"Allmers"}
+No adventure in the world--outwardly at
+least. But--
+
+
+@d{}
+[Eagerly.] 
+@l{"name":"Rita"}
+But--?
+
+
+@l{"name":"Allmers"}
+ It is true that within me there has been something of a
+revolution.
+
+
+@l{"name":"Rita"}
+ Oh Heavens--!
+
+
+@d{}
+[Soothingly, patting her hand.] 
+@l{"name":"Allmers"}
+Only for the better, my dear
+Rita. You may be perfectly certain of that.
+
+
+@d{}
+[Seats herself on the sofa.] 
+@l{"name":"Rita"}
+You must tell us all about it, at
+once--tell us everything!
+
+
+@d{}
+[Turning to Asta] 
+@l{"name":"Allmers"}
+Yes, let us sit down, too, Asta. Then I will
+try to tell you as well as I can.
+
+
+@d{}
+[He seats himself on the sofa at RITA's side. ASTA moves a chair
+forward, and places herself near him.]
+
+
+@d{}
+[Looking at him expectantly.] 
+@l{"name":"Rita"}
+Well--?
+
+
+@d{}
+[Gazing straight before him.] 
+@l{"name":"Allmers"}
+When I look back over my
+life--and my fortunes--for the last ten or eleven years, it seems to me
+almost like a fairy-tale or a dream. Don't you think so too, Asta?
+
+
+@l{"name":"Asta"}
+ Yes, in many ways I think so.
+
+
+@d{}
+[Continuing.] 
+@l{"name":"Allmers"}
+When I remember what we two used to be, Asta--we
+two poor orphan children--
+
+
+@d{}
+[Impatiently.] 
+@l{"name":"Rita"}
+Oh, that is such an old, old story.
+
+
+@d{}
+[Not listening to her.] 
+@l{"name":"Allmers"}
+And now here I am in comfort and
+luxury. I have been able to follow my vocation. I have been able to work
+and study--just as I had always longed to. 
+@d{}
+[Holds out his hand.] 
+@l{"name":"Allmers"}
+And all
+this great--this fabulous good fortune we owe to you, my dearest Rita.
+
+
+@d{}
+[Half playfully, half angrily, slaps his hand.] 
+@l{"name":"Rita"}
+Oh, I do wish you
+would stop talking like that.
+
+
+@l{"name":"Allmers"}
+ I speak of it only as a sort of introduction.
+
+
+@l{"name":"Rita"}
+ Then do skip the introduction!
+
+
+@l{"name":"Allmers"}
+ Rita,--you must not think it was the doctor's advice that drove
+me up to the mountains.
+
+
+@l{"name":"Asta"}
+ Was it not, Alfred?
+
+
+@l{"name":"Rita"}
+ What was it, then?
+
+
+@l{"name":"Allmers"}
+ It was this: I found there was no more peace for me, there in
+my study.
+
+
+@l{"name":"Rita"}
+ No peace! Why, who disturbed you?
+
+
+@d{}
+[Shaking his head.] 
+@l{"name":"Allmers"}
+No one from without. But I felt as though
+I were positively abusing--or, say rather, wasting--my best
+powers--frittering away the time.
+
+
+@d{}
+[With wide eyes.] 
+@l{"name":"Asta"}
+When you were writing at your book?
+
+
+@d{}
+[Nodding.] 
+@l{"name":"Allmers"}
+For I cannot think that my powers are confined to
+that alone. I must surely have it in me to do one or two other things as
+well.
+
+
+@l{"name":"Rita"}
+ Was that what you sat there brooding over?
+
+
+@l{"name":"Allmers"}
+ Yes, mainly that.
+
+
+@l{"name":"Rita"}
+ And so that is what has made you so discontented with yourself
+of late; and with the rest of us as well. For you know you were
+discontented, Alfred.
+
+
+@d{}
+[Gazing straight before him.] 
+@l{"name":"Allmers"}
+There I sat bent over my table,
+day after day, and often half the night too--writing and writing at the
+great thick book on "Human Responsibility." H'm!
+
+
+@d{}
+[Laying her hand upon his arm.] 
+@l{"name":"Asta"}
+But, Alfred--that book is to be
+your life-work.
+
+
+@l{"name":"Rita"}
+ Yes, you have said so often enough.
+
+
+@l{"name":"Allmers"}
+ I thought so. Ever since I grew up, I have thought so. 
+@d{}
+[With an
+affectionate expression in his eyes.] 
+@l{"name":"Allmers"}
+And it was you that enabled me to
+devote myself to it, my dear Rita--
+
+
+@l{"name":"Rita"}
+ Oh, nonsense!
+
+
+@d{}
+[Smiling to her.]
+@l{"name":"Allmers"}
+--you, with your gold, and your green
+forests--
+
+
+@d{}
+[Half laughing, half vexed.] 
+@l{"name":"Rita"}
+If you begin all that rubbish again,
+I shall beat you.
+
+
+@d{}
+[Looking sorrowfully at him.] 
+@l{"name":"Asta"}
+But the book, Alfred?
+
+
+@l{"name":"Allmers"}
+ It began, as it were, to drift away from me. But I was more and
+more beset by the thought of the higher duties that laid their claims
+upon me.
+
+
+@d{}
+[Beaming, seizes his hand.] 
+@l{"name":"Rita"}
+Alfred!
+
+
+@l{"name":"Allmers"}
+ The thought of Eyolf, my dear Rita.
+
+
+@d{}
+[Disappointed, drops his hand.] 
+@l{"name":"Rita"}
+Ah--of Eyolf!
+
+
+@l{"name":"Allmers"}
+ Poor little Eyolf has taken deeper and deeper hold of me. After
+that unlucky fall from the table--and especially since we have been
+assured that the injury is incurable--
+
+
+@d{}
+[Insistently.] 
+@l{"name":"Rita"}
+But you take all the care you possibly can of him,
+Alfred!
+
+
+@l{"name":"Allmers"}
+ As a schoolmaster, yes; but not as a father. And it is a father
+that I want henceforth to be to Eyolf.
+
+
+@d{}
+[Looking at him and shaking her head.] 
+@l{"name":"Rita"}
+I don't think I quite
+understand you.
+
+
+@l{"name":"Allmers"}
+ I mean that I will try with all my might to make his misfortune
+as painless and easy to him as it can possibly be.
+
+
+@l{"name":"Rita"}
+ Oh, but, dear--thank Heaven, I don't think he feels it so deeply.
+
+
+@d{}
+[With emotion.] 
+@l{"name":"Asta"}
+Yes, Rita, he does.
+
+
+@l{"name":"Allmers"}
+ Yes, you may be sure he feels it deeply.
+
+
+@d{}
+[Impatiently.] 
+@l{"name":"Rita"}
+But, Alfred, what more can you do for him?
+
+
+@l{"name":"Allmers"}
+ I will try to perfect all the rich possibilities that are
+dawning in his childish soul. I will foster all the germs of good in his
+nature--make them blossom and bear fruit. 
+@d{}
+[With more and more warmth,
+rising.] 
+@l{"name":"Allmers"}
+And I will do more than that! I will help him to bring his
+desires into harmony with what lies attainable before him. That is just
+what at present they are not. All his longings are for things that
+must for ever remain unattainable to him. But I will create a conscious
+happiness in his mind. 
+@d{}
+[He goes once or twice up and down the room. ASTA
+and RITA follow him with their eyes.]
+
+
+@l{"name":"Rita"}
+ You should take these things more quietly, Alfred!
+
+
+@d{}
+[Stops beside the table on the left, and looks at them.] 
+@l{"name":"Allmers"}
+Eyolf
+shall carry on my life-work--if he wants to. Or he shall choose one
+that is altogether his own. Perhaps that would be best. At all events, I
+shall let mine rest as it is.
+
+
+@d{}
+[Rising.] 
+@l{"name":"Rita"}
+But, Alfred dear, can you not work both for yourself and
+for Eyolf?
+
+
+@l{"name":"Allmers"}
+ No, I cannot. It is impossible! I cannot divide myself in this
+matter--and therefore I efface myself. Eyolf shall be the complete man
+of our race. And it shall be my new life-work to make him the complete
+man.
+
+
+@d{}
+[Has risen and now goes up to him.] 
+@l{"name":"Asta"}
+This must have cost you a
+terribly hard struggle, Alfred?
+
+
+@l{"name":"Allmers"}
+ Yes, it has. At home here, I should never have conquered
+myself, never brought myself to the point of renunciation. Never at
+home!
+
+
+@l{"name":"Rita"}
+ Then that was why you went away this summer?
+
+
+@d{}
+[With shining eyes.] 
+@l{"name":"Allmers"}
+Yes! I went up into the infinite
+solitudes. I saw the sunrise gleaming on the mountain peaks. I felt
+myself nearer the stars--I seemed almost to be in sympathy and communion
+with them. And then I found the strength for it.
+
+
+@d{}
+[Looking sadly at him.] 
+@l{"name":"Asta"}
+But you will never write any more of your
+book on "Human Responsibility"?
+
+
+@l{"name":"Allmers"}
+ No, never, Asta. I tell you I cannot split up my life between
+two vocations. But I will act out my "human responsibility"--in my own
+life.
+
+
+@d{}
+[With a smile.] 
+@l{"name":"Rita"}
+Do you think you can live up to such high resolves
+at home here?
+
+
+@d{}
+[Taking her hand.] 
+@l{"name":"Allmers"}
+With you to help me, I can. 
+@d{}
+[Holds out the
+other hand.] 
+@l{"name":"Allmers"}
+And with you too, Asta.
+
+
+@d{}
+[Drawing her hand away.] 
+@l{"name":"Rita"}
+Ah--with both of us! So, after all, you
+can divide yourself.
+
+
+@l{"name":"Allmers"}
+ Why, my dearest Rita--!
+
+
+@d{}
+[RITA moves away from him and stands in the garden doorway. A light and
+rapid knock is heard at the door on the right. Engineer BORGHEIM enters
+quickly. He is a young man of a little over thirty. His expression is
+bright and cheerful, and he holds himself erect.]
+
+
+@e{"names":["Borgheim"]}
+
+@l{"name":"Borgheim"}
+ Good morning, Mrs. Allmers. 
+@d{}
+[Stops with an expression of
+pleasure on seeing Allmers] 
+@l{"name":"Borgheim"}
+Why, what's this? Home again already, Mr.
+
+@l{"name":"Allmers"}
+?
+
+
+@d{}
+[Shaking hands with him.] 
+@l{"name":"Allmers"}
+Yes, I arrived list night.
+
+
+@d{}
+[Gaily.] 
+@l{"name":"Rita"}
+His leave was up, Mr. Borgheim.
+
+
+@l{"name":"Allmers"}
+ No, you know it wasn't, Rita--
+
+
+@d{}
+[Approaching.] 
+@l{"name":"Rita"}
+Oh yes, but it was, though. His furlough had run
+out.
+
+
+@l{"name":"Borgheim"}
+ I see you hold your husband well in hand, Mrs. Allmers.
+
+
+@l{"name":"Rita"}
+ I hold to my rights. And besides, everything must have an end.
+
+
+@l{"name":"Borgheim"}
+ Oh, not everything--I hope. Good morning, Miss Allmers!
+
+
+@d{}
+[Holding aloof from him.] 
+@l{"name":"Asta"}
+Good morning.
+
+
+@d{}
+[Looking at Borgheim] 
+@l{"name":"Rita"}
+Not everything, you say?
+
+
+@l{"name":"Borgheim"}
+ Oh, I am firmly convinced that there are some things in the
+world that will never come to an end.
+
+
+@l{"name":"Rita"}
+ I suppose you are thinking of love--and that sort of thing.
+
+
+@d{}
+[Warmly.] 
+@l{"name":"Borgheim"}
+I am thinking of all that is lovely!
+
+
+@l{"name":"Rita"}
+ And that never comes to an end. Yes, let us think of that, hope
+for that, all of us.
+
+
+@d{}
+[Coming up to them.] 
+@l{"name":"Allmers"}
+I suppose you will soon have finished your
+road-work out here?
+
+
+@l{"name":"Borgheim"}
+ I have finished it already--finished it yesterday. It has been
+a long business, but, thank Heaven, that has come to an end.
+
+
+@l{"name":"Rita"}
+ And you are beaming with joy over that?
+
+
+@l{"name":"Borgheim"}
+ Yes, I am indeed!
+
+
+@l{"name":"Rita"}
+ Well, I must say--
+
+
+@l{"name":"Borgheim"}
+ What, Mrs. Allmers?
+
+
+@l{"name":"Rita"}
+ I don't think it is particularly nice of you, Mr. Borgheim.
+
+
+@l{"name":"Borgheim"}
+ Indeed! Why not?
+
+
+@l{"name":"Rita"}
+ Well, I suppose we sha'n't often see you in these parts after
+this.
+
+
+@l{"name":"Borgheim"}
+ No, that is true. I hadn't thought of that.
+
+
+@l{"name":"Rita"}
+ Oh well, I suppose you will be able to look in upon us now and
+then all the same.
+
+
+@l{"name":"Borgheim"}
+ No, unfortunately that will be out of my power for a very long
+time.
+
+
+@l{"name":"Allmers"}
+ Indeed! How so?
+
+
+@l{"name":"Borgheim"}
+ The fact is, I have got a big piece of new work that I must
+set about at once.
+
+
+@l{"name":"Allmers"}
+ Have you indeed?--
+@d{}
+[Pressing his hand.]--I 
+@l{"name":"Allmers"}
+am heartily glad to
+hear it.
+
+
+@l{"name":"Rita"}
+ I congratulate you, Mr. Borgheim!
+
+
+@l{"name":"Borgheim"}
+ Hush, hush--I really ought not to talk openly of it as
+yet! But I can't help coming out with it! It is a great piece of
+road-making--up in the north--with mountain ranges to cross, and
+the most tremendous difficulties to 
+@d{}
+overcome!--[With an outburst of
+gladness.]
+@l{"name":"Borgheim"}
+--Oh, what a glorious world this is--and what a joy it is to
+be a road-maker in it!
+
+
+@d{}
+[Smiling, and looking teasingly at him.] 
+@l{"name":"Rita"}
+Is it road-making
+business that has brought you out here to-day in such wild spirits?
+
+
+@l{"name":"Borgheim"}
+ No, not that alone. I am thinking of all the bright and
+hopeful prospects that are opening out before me.
+
+
+@l{"name":"Rita"}
+ Aha, then perhaps you have something still more exquisite in
+reserve!
+
+
+@d{}
+[Glancing towards Asta] 
+@l{"name":"Borgheim"}
+Who knows! When once happiness comes
+to us, it is apt to come like it spring flood. 
+@d{}
+[Turns to Asta] 
+@l{"name":"Borgheim"}
+Miss
+Allmers, would you not like to take a little walk with me? As we used
+to?
+
+
+@d{}
+[Quickly.] 
+@l{"name":"Asta"}
+No--no, thank you. Not now. Not to-day.
+
+
+@l{"name":"Borgheim"}
+ Oh, do come! Only a little bit of a walk! I have so much I
+want to talk to you about before I go.
+
+
+@l{"name":"Rita"}
+ Something else, perhaps, that you must not talk openly about as
+yet?
+
+
+@l{"name":"Borgheim"}
+ H'm, that depends--
+
+
+@l{"name":"Rita"}
+ But there is nothing to prevent your whispering, you know. 
+@d{}
+[Half
+aside.] 
+@l{"name":"Rita"}
+Asta, you must really go with him.
+
+
+@l{"name":"Asta"}
+ But, my dear Rita--
+
+
+@d{}
+[Imploringly.] 
+@l{"name":"Borgheim"}
+Miss Asta--remember it is to be a farewell
+walk--the last for many a day.
+
+
+@d{}
+[Takes her hat and parasol.] 
+@l{"name":"Asta"}
+Very well, suppose we take a stroll
+in the garden, then.
+
+
+@l{"name":"Borgheim"}
+ Oh, thank you, thank you!
+
+
+@l{"name":"Allmers"}
+ And while you are there you can see what Eyolf is doing.
+
+
+@l{"name":"Borgheim"}
+ Ah, Eyolf, by the bye! Where is Eyolf to-day? I've got
+something for him.
+
+
+@l{"name":"Allmers"}
+ He is out playing somewhere.
+
+
+@l{"name":"Borgheim"}
+ Is he really! Then he has begun to play now? He used always to
+be sitting indoors over his books.
+
+
+@l{"name":"Allmers"}
+ There is to be an end of that now. I am going to make a regular
+open-air boy of him.
+
+
+@l{"name":"Borgheim"}
+ Ah, now, that's right! Out into the open air with him, poor
+little fellow! Good Lord, what can we possibly do better than play
+in this blessed world? For my part, I think all life is one long
+playtime!--Come, Miss Asta!
+
+
+@d{}
+[BORGHEIM and ASTA go out on the verandah and down through the garden.]
+
+
+@x{"names":["Asta","Borgheim"]}
+
+@d{}
+[Stands looking after them.] 
+@l{"name":"Allmers"}
+Rita--do you think there is
+anything between those two?
+
+
+@l{"name":"Rita"}
+ I don't know what to say. I used to think there was. But Asta has
+grown so strange to me--so utterly incomprehensible of late.
+
+
+@l{"name":"Allmers"}
+ Indeed! Has she? While I have been away?
+
+
+@l{"name":"Rita"}
+ Yes, within the last week or two.
+
+
+@l{"name":"Allmers"}
+ And you think she doesn't care very much about him now?
+
+
+@l{"name":"Rita"}
+ Not, seriously; not utterly and entirely; not unreservedly--I am
+sure she doesn't. 
+@d{}
+[Looks searchingly at him.] 
+@l{"name":"Rita"}
+Would it displease you if
+she did?
+
+
+@l{"name":"Allmers"}
+ It would not exactly displease me. But it would certainly be a
+disquieting thought--
+
+
+@l{"name":"Rita"}
+ Disquieting?
+
+
+@l{"name":"Allmers"}
+ Yes; you must remember that I am responsible for Asta--for her
+life's happiness.
+
+
+@l{"name":"Rita"}
+ Oh, come--responsible! Surely Asta has come to years of
+discretion? I should say she was capable of choosing for herself.
+
+
+@l{"name":"Allmers"}
+ Yes, we must hope so, Rita.
+
+
+@l{"name":"Rita"}
+ For my part, I don't think at all ill of Borgheim.
+
+
+@l{"name":"Allmers"}
+ No, dear--no more do I--quite the contrary. But all the same--
+
+
+@d{}
+[Continuing.] 
+@l{"name":"Rita"}
+And I should be very glad indeed if he and Asta were
+to make a match of it.
+
+
+@d{}
+[Annoyed.] 
+@l{"name":"Allmers"}
+Oh, why should you be?
+
+
+@d{}
+[With increasing excitement.] 
+@l{"name":"Rita"}
+Why, for then she would have to go
+far, far away with him! Anal she could never come out here to us, as she
+does now.
+
+
+@d{}
+[Stares at her in astonishment.] 
+@l{"name":"Allmers"}
+What! Can you really wish Asta
+to go away?
+
+
+@l{"name":"Rita"}
+ Yes, yes, Alfred!
+
+
+@l{"name":"Allmers"}
+ Why in all the world--?
+
+
+@d{}
+[Throwing her arms passionately round his neck.] 
+@l{"name":"Rita"}
+For then, at
+last, I should have you to myself alone! And yet--not even then!
+Not wholly to myself! 
+@d{}
+[Bursts into convulsive weeping.] 
+@l{"name":"Rita"}
+Oh, Alfred,
+Alfred--I cannot give you up!
+
+
+@d{}
+[Gently releasing himself.] 
+@l{"name":"Allmers"}
+My dearest Rita, do be reasonable!
+
+
+@l{"name":"Rita"}
+ I don't care a bit about being reasonable! I care only for you!
+Only for you in all the world! 
+@d{}
+[Again throwing her arms round his neck.]
+
+@l{"name":"Rita"}
+For you, for you, for you!
+
+
+@l{"name":"Allmers"}
+ Let me go, let me go--you are strangling me!
+
+
+@d{}
+[Letting him go.] 
+@l{"name":"Rita"}
+How I wish I could! 
+@d{}
+[Looking at him with
+flashing eyes.] 
+@l{"name":"Rita"}
+Oh, if you knew how I have hated you--!
+
+
+@l{"name":"Allmers"}
+ Hated me--!
+
+
+@l{"name":"Rita"}
+ Yes--when you shut yourself up in your room and brooded over your
+work--till long, long into the night. 
+@d{}
+[Plaintively.] 
+@l{"name":"Rita"}
+So long, so late,
+Alfred. Oh, how I hated your work!
+
+
+@l{"name":"Allmers"}
+ But now I have done with that.
+
+
+@d{}
+[With a cutting laugh.] 
+@l{"name":"Rita"}
+Oh yes! Now you have given yourself up to
+something worse.
+
+
+@d{}
+[Shocked.] 
+@l{"name":"Allmers"}
+Worse! Do you call our child something worse?
+
+
+@d{}
+[Vehemently.] 
+@l{"name":"Rita"}
+Yes, I do. As he comes between you and me, I call
+him so. For the book--the book was not a living being, as the child is.
+
+@d{}
+[With increasing impetuosity.] 
+@l{"name":"Rita"}
+But I won't endure it, Alfred! I will not
+endure it--I tell you so plainly!
+
+
+@d{}
+[Looks steadily at her, and says in a low voice.] 
+@l{"name":"Allmers"}
+I am often
+almost afraid of you, Rita.
+
+
+@d{}
+[Gloomily.] 
+@l{"name":"Rita"}
+I am often afraid of myself. And for that very reason
+you must not awake the evil in me.
+
+
+@l{"name":"Allmers"}
+ Why, good Heavens, do I do that?
+
+
+@l{"name":"Rita"}
+ Yes, you do--when you tear to shreds the holiest bonds between us.
+
+
+@d{}
+[Urgently.] 
+@l{"name":"Allmers"}
+Think what you're saying, Rita. It is your own
+child--our only child, that you are speaking of.
+
+
+@l{"name":"Rita"}
+ The child is only half mine. 
+@d{}
+[With another outburst.] 
+@l{"name":"Rita"}
+But you
+shall be mine alone! You shall be wholly mine! That I have a right to
+demand of you!
+
+
+@d{}
+[Shrugging his shoulders.] 
+@l{"name":"Allmers"}
+Oh, my dear Rita, it is of no use
+demanding anything. Everything must be freely given.
+
+
+@d{}
+[Looks anxiously at him.] 
+@l{"name":"Rita"}
+And that you cannot do henceforth?
+
+
+@l{"name":"Allmers"}
+ No, I cannot. I must divide myself between Eyolf and you.
+
+
+@l{"name":"Rita"}
+ But if Eyolf had never been born? What then?
+
+
+@d{}
+[Evasively.] 
+@l{"name":"Allmers"}
+Oh, that would be another matter. Then I should
+have only you to care for.
+
+
+@d{}
+[Softly, her voice quivering.] 
+@l{"name":"Rita"}
+Then I wish he had never been born.
+
+
+@d{}
+[Flashing out.] 
+@l{"name":"Allmers"}
+Rita! You don't know what you are saying!
+
+
+@d{}
+[Trembling with emotion.] 
+@l{"name":"Rita"}
+It was in pain unspeakable that I
+brought him into the world. But I bore it all with joy and rapture for
+your sake.
+
+
+@d{}
+[Warmly.] 
+@l{"name":"Allmers"}
+Oh yes, I know, I know.
+
+
+@d{}
+[With decision.] 
+@l{"name":"Rita"}
+But there it must end. I will live my
+life--together with you--wholly with you. I cannot go on being only
+Eyolf's mother--only his mother and nothing more. I will not, I tell
+you! I cannot! I will be all in all to you! To you, Alfred!
+
+
+@l{"name":"Allmers"}
+ But that is just what you are, Rita. Through our child--
+
+
+@l{"name":"Rita"}
+ Oh--vapid, nauseous phrases--nothing else! No, Alfred, I am not to
+be put off like that. I was fitted to become the child's mother, but not
+to be a mother to him. You must take me as I am, Alfred.
+
+
+@l{"name":"Allmers"}
+ And yet you used to be so fond of Eyolf.
+
+
+@l{"name":"Rita"}
+ I was so sorry for him--because you troubled yourself so little
+about him. You kept him reading and grinding at books. You scarcely even
+saw him.
+
+
+@d{}
+[Nodding slowly.] 
+@l{"name":"Allmers"}
+No; I was blind. The time had not yet come
+for me--
+
+
+@d{}
+[Looking in his face.] 
+@l{"name":"Rita"}
+But now, I suppose, it has come?
+
+
+@l{"name":"Allmers"}
+ Yes, at, last. Now I see that the highest task I can have in
+the world is to be a true father to Eyolf.
+
+
+@l{"name":"Rita"}
+ And to me?--what will you be to me?
+
+
+@d{}
+[Gently.] 
+@l{"name":"Allmers"}
+I will always go on caring for you--with calm, deep
+tenderness. [ 
+@d{}
+He tries to take her hands.]
+
+
+@d{}
+[Evading him.] 
+@l{"name":"Rita"}
+I don't care a bit for your calm, deep tenderness.
+I want you utterly and entirely--and alone! Just as I had you in the
+first rich, beautiful days. 
+@d{}
+[Vehemently and harshly.] 
+@l{"name":"Rita"}
+Never, never will
+I consent to be put off with scraps and leavings, Alfred!
+
+
+@d{}
+[In a conciliatory tone.] 
+@l{"name":"Allmers"}
+I should have thought there was
+happiness in plenty for all three of us, Rita.
+
+
+@d{}
+[Scornfully.] 
+@l{"name":"Rita"}
+Then you are easy to please. 
+@d{}
+[Seats herself at the
+table on the left.] 
+@l{"name":"Rita"}
+Now listen to me.
+
+
+@d{}
+[Approaching.] 
+@l{"name":"Allmers"}
+Well, what is it?
+
+
+@d{}
+[Looking up at him with a veiled glow in her eyes.] 
+@l{"name":"Rita"}
+When I got
+your telegram yesterday evening--
+
+
+@l{"name":"Allmers"}
+ Yes? What then?
+
+
+@l{"name":"Rita"}
+--then I dressed myself in white--
+
+
+@l{"name":"Allmers"}
+ Yes, I noticed you were in white when I arrived.
+
+
+@l{"name":"Rita"}
+ I had let down my hair--
+
+
+@l{"name":"Allmers"}
+ Your sweet masses of hair--
+
+
+@l{"name":"Rita"}
+--so that it flowed down my neck and shoulders--
+
+
+@l{"name":"Allmers"}
+ I saw it, I saw it. Oh, how lovely you were, Rita!
+
+
+@l{"name":"Rita"}
+ There were rose-tinted shades over both the lamps. And we were
+alone, we two--the only waking beings in the whole house. And there was
+champagne on the table.
+
+
+@l{"name":"Allmers"}
+ I did not drink any of it.
+
+
+@d{}
+[Looking bitterly at him.] 
+@l{"name":"Rita"}
+No, that is true. 
+@d{}
+[Laughs harshly.]
+
+@l{"name":"Rita"}
+"There stood the champagne, but you tasted it not"--as the poet says.
+
+
+@d{}
+[She rises from the armchair, goes with an air of weariness over to the
+sofa, and seats herself, half reclining, upon it.]
+
+
+@d{}
+[Crosses the room and stands before her.] 
+@l{"name":"Allmers"}
+I was so taken up
+with serious thoughts. I had made up my mind to talk to you of our
+future, Rita--and first and foremost of Eyolf.
+
+
+@d{}
+[Smiling.] 
+@l{"name":"Rita"}
+And so you did--
+
+
+@l{"name":"Allmers"}
+ No, I had not time to--for you began to undress.
+
+
+@l{"name":"Rita"}
+ Yes, and meanwhile you talked about Eyolf. Don't you remember? You
+wanted to know all about little Eyolf's digestion.
+
+
+@d{}
+[Looking reproachfully at her.] 
+@l{"name":"Allmers"}
+Rita--!
+
+
+@l{"name":"Rita"}
+ And then you got into your bed, and slept the sleep of the just.
+
+
+@d{}
+[Shaking his head.] 
+@l{"name":"Allmers"}
+Rita--Rita!
+
+
+@d{}
+[Lying at full length and looking up at him.] 
+@l{"name":"Rita"}
+Alfred?
+
+
+@l{"name":"Allmers"}
+ Yes?
+
+
+@l{"name":"Rita"}
+ "There stood your champagne, but you tasted it not."
+
+
+@d{}
+[Almost harshly.] 
+@l{"name":"Allmers"}
+No. I did not taste it.
+
+
+@d{}
+[He goes away from her and stands in the garden doorway. RITA lies for
+some time motionless, with closed eyes.]
+
+
+@d{}
+[Suddenly springing up.] 
+@l{"name":"Rita"}
+But let me tell you one thing, Alfred.
+
+
+@d{}
+[Turning in the doorway.] 
+@l{"name":"Allmers"}
+Well?
+
+
+@l{"name":"Rita"}
+ You ought not to feel quite so secure as you do!
+
+
+@l{"name":"Allmers"}
+ Not secure?
+
+
+@l{"name":"Rita"}
+ No, you ought not to be so indifferent! Not certain of your
+property in me!
+
+
+@d{}
+[Drawing nearer.] 
+@l{"name":"Allmers"}
+What do you mean by that?
+
+
+@d{}
+[With trembling lips.] 
+@l{"name":"Rita"}
+Never in a single thought have I been
+untrue to you, Alfred! Never for an instant.
+
+
+@l{"name":"Allmers"}
+ No, Rita, I know that--I, who know you so well.
+
+
+@d{}
+[With sparkling eyes.] 
+@l{"name":"Rita"}
+But if you disdain me--!
+
+
+@l{"name":"Allmers"}
+ Disdain! I don't understand what you mean!
+
+
+@l{"name":"Rita"}
+ Oh, you don't know all that might rise up within me, if--
+
+
+@l{"name":"Allmers"}
+ If?
+
+
+@l{"name":"Rita"}
+ If I should ever see that you did not care for me--that you did
+not love me as you used to.
+
+
+@l{"name":"Allmers"}
+ But, my dearest Rita--years bring a certain change with
+them--and that must one day occur even in us--as in every one else.
+
+
+@l{"name":"Rita"}
+ Never in me! And I will not hear of any change in you either--I
+could not bear it, Alfred. I want to keep you to myself alone.
+
+
+@d{}
+[Looking at her with concern.] 
+@l{"name":"Allmers"}
+You have a terribly jealous
+nature--
+
+
+@l{"name":"Rita"}
+ I can't make myself different from what I am. 
+@d{}
+[Threateningly.] 
+@l{"name":"Rita"}
+If
+you go and divide yourself between me and any one else--
+
+
+@l{"name":"Allmers"}
+ What then--?
+
+
+@l{"name":"Rita"}
+ Then I will take my revenge on you, Alfred!
+
+
+@l{"name":"Allmers"}
+ How "take your revenge"?
+
+
+@l{"name":"Rita"}
+ I don't know how.--Oh yes, I do know, well enough!
+
+
+@l{"name":"Allmers"}
+ Well?
+
+
+@l{"name":"Rita"}
+ I will go and throw myself away--
+
+
+@l{"name":"Allmers"}
+ Throw yourself away, do you say?
+
+
+@l{"name":"Rita"}
+ Yes, that I will. I'll throw myself straight into the arms of of
+the first man that comes in my way--
+
+
+@d{}
+[Looking tenderly at her and shaking his head.] 
+@l{"name":"Allmers"}
+That you will
+never do--my loyal, proud, true-hearted Rita!
+
+
+@d{}
+[Putting her arms round his neck.] 
+@l{"name":"Rita"}
+Oh, you don't know what I might
+come to be if you--if you did not love me any more.
+
+
+@l{"name":"Allmers"}
+ Did not love you, Rita? How can you say such a thing!
+
+
+@d{}
+[Half laughing, lets him go.] 
+@l{"name":"Rita"}
+Why should I not spread my nets for
+that--that road-maker man that hangs about here?
+
+
+@d{}
+[Relieved.] 
+@l{"name":"Allmers"}
+Oh, thank goodness--you are only joking.
+
+
+@l{"name":"Rita"}
+ Not at all. He would do as well as any one else.
+
+
+@l{"name":"Allmers"}
+ Ah, but I suspect he is more or less taken up already.
+
+
+@l{"name":"Rita"}
+ So much the better! For then I should take him away from some one
+else; and that is just what Eyolf has done to me.
+
+
+@l{"name":"Allmers"}
+ Can you say that our little Eyolf has done that?
+
+
+@d{}
+[Pointing with her forefinger.] 
+@l{"name":"Rita"}
+There, you see! You see! The
+moment you mention Eyolf's name, you grow tender and your voice quivers!
+
+@d{}
+[Threateningly, clenching her hands.] 
+@l{"name":"Rita"}
+Oh, you almost tempt we to wish--
+
+
+@d{}
+[Looking at her anxiously.] 
+@l{"name":"Allmers"}
+What do I tempt you to wish,
+Rita?--
+
+
+@d{}
+[Vehemently, going away from him.] 
+@l{"name":"Rita"}
+No, no, no--I won't tell you
+that! Never!
+
+
+@d{}
+[Drawing nearer to her.] 
+@l{"name":"Allmers"}
+Rita! I implore you--for my sake and
+for your own--do not let yourself he tempted into evil.
+
+
+@d{}
+[BORGHEIM and ASTA come up from the garden. They both show signs of
+restrained emotion. They look serious and dejected. ASTA remains out on
+the verandah. BORGHEIM comes into the room.]
+
+
+@e{"names":["Asta","Borgheim"]}
+
+@l{"name":"Borgheim"}
+ So that is over--Miss Allmers and I have had our last walk
+together.
+
+
+@d{}
+[Looks at him with surprise.] 
+@l{"name":"Rita"}
+Ah! And there is no longer journey
+to follow the walk?
+
+
+@l{"name":"Borgheim"}
+ Yes, for me.
+
+
+@l{"name":"Rita"}
+ For you alone?
+
+
+@l{"name":"Borgheim"}
+ Yes, for me alone.
+
+
+@d{}
+[Glances darkly at Allmers] 
+@l{"name":"Rita"}
+Do you hear that? 
+@d{}
+[Turns to
+Borgheim] 
+@l{"name":"Rita"}
+I'll wager it is some one with the evil eye that has played
+you this trick.
+
+
+@d{}
+[Looks at her.] 
+@l{"name":"Borgheim"}
+The evil eye?
+
+
+@d{}
+[Nodding.] 
+@l{"name":"Rita"}
+Yes, the evil eye.
+
+
+@l{"name":"Borgheim"}
+ Do you believe in the evil eye, Mrs. Allmers?
+
+
+@l{"name":"Rita"}
+ Yes. I have begun to believe in the evil eye. Especially in a
+child's evil eye.
+
+
+@d{}
+[Shocked, whispers.] 
+@l{"name":"Allmers"}
+Rita--how can you--?
+
+
+@d{}
+[Speaking low.] 
+@l{"name":"Rita"}
+It is you that make me so wicked and hateful,
+Alfred.
+
+
+@d{}
+[Confused cries and shrieks are heard in the distance, from the
+direction of the fiord.]
+
+
+@d{}
+[Going to the glass door.] 
+@l{"name":"Borgheim"}
+What noise is that?
+
+
+@d{}
+[In the doorway.] 
+@l{"name":"Asta"}
+Look at all those people running down to the
+pier!
+
+
+@l{"name":"Allmers"}
+ What can it be? 
+@d{}
+[Looks out for a moment.] 
+@l{"name":"Allmers"}
+No doubt it's those
+street urchins at some mischief again.
+
+
+@d{}
+[Calls, leaning over the verandah railings.] 
+@l{"name":"Borgheim"}
+I say, you boys
+down there! What's the matter?
+
+
+@d{}
+[Several voices are heard answering indistinctly and confusedly.]
+
+
+@l{"name":"Rita"}
+ What do they say?
+
+
+@l{"name":"Borgheim"}
+ They say it's a child that's drowned.
+
+
+@l{"name":"Allmers"}
+ A child drowned?
+
+
+@d{}
+[Uneasily.] 
+@l{"name":"Asta"}
+A little boy, they say.
+
+
+@l{"name":"Allmers"}
+ Oh, they can all swim, every one of them.
+
+
+@d{}
+[Shrieks in terror.] 
+@l{"name":"Rita"}
+Where is Eyolf?
+
+
+@l{"name":"Allmers"}
+ Keep quiet--quiet. Eyolf is down in the garden, playing.
+
+
+@l{"name":"Asta"}
+ No, he wasn't in the garden.
+
+
+@d{}
+[With upstretched arms.] 
+@l{"name":"Rita"}
+Oh, if only it isn't he!
+
+
+@d{}
+[Listens, and calls down.] 
+@l{"name":"Borgheim"}
+Whose child is it, do you say?
+
+
+@d{}
+[Indistinct voices are heard. BORGHEIM and ASTA utter a suppressed cry,
+and rush out through the garden.]
+
+
+@x{"names":["Asta","Borgheim"]}
+
+@d{}
+[In an agony of dread.] 
+@l{"name":"Allmers"}
+It isn't Eyolf! It isn't Eyolf, Rita!
+
+
+@d{}
+[On the verandah, listening.] 
+@l{"name":"Rita"}
+Hush! Be quiet! Let me hear what
+they are saying!
+
+
+@d{}
+[RITA rushes back with a piercing shriek, into the room.]
+
+
+@d{}
+[Following her.] 
+@l{"name":"Allmers"}
+What did they say?
+
+
+@d{}
+[Sinking down beside the armchair on the left.] 
+@l{"name":"Rita"}
+They said: "The
+crutch is floating!"
+
+
+@d{}
+[Almost paralysed.] 
+@l{"name":"Allmers"}
+No! No! No!
+
+
+@d{}
+[Hoarsely.] 
+@l{"name":"Rita"}
+Eyolf! Eyolf! Oh, but they must save him!
+
+
+@d{}
+[Half distracted.] 
+@l{"name":"Allmers"}
+They must, they must! So precious a life!
+
+
+@d{}
+[He rushes down through the garden.]
+
+
+@x{"names":["Allmers","Rita"]}
+
+@a{"number":2}
+@s{"number":1}
+@d{}
+
+ACT SECOND
+
+[A little narrow glen by the side of the fiord, on ALLMERS'S property.
+On the left, lofty old trees overarch the spot. Down the slope in the
+background a brook comes leaping, and loses itself among the stones on
+the margin of the wood. A path winds along by the brook-side. To the
+right there are only a few single trees, between which the fiord is
+visible. In front is seen the corner of a boat-shed with a boat drawn
+up. Under the old trees on the left stands a table with a bench and one
+or two chairs, all made of thin birch-staves. It is a heavy, damp day,
+with driving mist wreaths.]
+
+[ALFRED ALLMERS, dressed as before, sits on the bench, leaning his arms
+on the table. His hat lies before him. He gazes absently and immovably
+out over the water.]
+
+[Presently ASTA ALLMERS comes down the woodpath. She is carrying an open
+umbrella.]
+
+
+@e{"names":["Allmers","Asta"]}
+
+@d{}
+[Goes quietly and cautiously up to him.] 
+@l{"name":"Asta"}
+You ought not to sit down
+here in this gloomy weather, Alfred.
+
+
+@d{}
+[Nods slowly without answering.]
+
+
+@d{}
+[Closing her umbrella.] 
+@l{"name":"Asta"}
+I have been searching for you such a long
+time.
+
+
+@d{}
+[Without expression.] 
+@l{"name":"Allmers"}
+Thank you.
+
+
+@d{}
+[Moves a chair and seats herself close to him.] 
+@l{"name":"Asta"}
+Have you been
+sitting here long? All the time?
+
+
+@d{}
+[Does not answer at first. Presently he says.] 
+@l{"name":"Allmers"}
+No, I cannot
+grasp it. It seems so utterly impossible.
+
+
+@d{}
+[Laying her hand compassionately on his arm.] 
+@l{"name":"Asta"}
+Poor Alfred!
+
+
+@d{}
+[Gazing at her.] 
+@l{"name":"Allmers"}
+Is it really true then, Asta? Or have I gone
+mad? Or am I only dreaming? Oh, if it were only a dream! Just think, if
+I were to waken now!
+
+
+@l{"name":"Asta"}
+ Oh, if I could only waken you!
+
+
+@d{}
+[Looking out over the water.] 
+@l{"name":"Allmers"}
+How pitiless the fiord looks
+to-day, lying so heavy and drowsy--leaden-grey--with splashes of
+yellow--and reflecting the rain-clouds.
+
+
+@d{}
+[Imploringly.] 
+@l{"name":"Asta"}
+Oh, Alfred, don't sit staring out over the fiord!
+
+
+@d{}
+[Not heeding her.] 
+@l{"name":"Allmers"}
+Over the surface, yes. But in the
+depths--there sweeps the rushing undertow--
+
+
+@d{}
+[In terror.] 
+@l{"name":"Asta"}
+Oh, for God's sake don't think of the depths!
+
+
+@d{}
+[Looking gently at her.] 
+@l{"name":"Allmers"}
+I suppose you think he is lying close
+outside here? But he is not, Asta. You must not think that. You must
+remember how fiercely the current sweeps gut here straight to the open
+sea.
+
+
+@d{}
+[Throws herself forward against the table, and, sobbing, buries
+her face in her hands.] 
+@l{"name":"Asta"}
+Oh, God! Oh, God!
+
+
+@d{}
+[Heavily.] 
+@l{"name":"Allmers"}
+So you see, little Eyolf has passed so far--far away
+from us now.
+
+
+@d{}
+[Looks imploringly up at him.] 
+@l{"name":"Asta"}
+Oh, Alfred, don't say such things!
+
+
+@l{"name":"Allmers"}
+ Why, you can reckon it out for yourself--you that are so
+clever. In eight-and-twenty hours--nine-and-twenty hours--Let me see--!
+Let me see--!
+
+
+@d{}
+[Shrieking and stopping her ears.] 
+@l{"name":"Asta"}
+Alfred!
+
+
+@d{}
+[Clenching his hand firmly upon the table.] 
+@l{"name":"Allmers"}
+Can you conceive
+the meaning of a thing like this?
+
+
+@d{}
+[Looks at him.] 
+@l{"name":"Asta"}
+Of what?
+
+
+@l{"name":"Allmers"}
+ Of this that has been done to Rita and me.
+
+
+@l{"name":"Asta"}
+ The meaning of it?
+
+
+@d{}
+[Impatiently.] 
+@l{"name":"Allmers"}
+Yes, the meaning, I say. For, after all, there
+must be a meaning in it. Life, existence--destiny, cannot be so utterly
+meaningless.
+
+
+@l{"name":"Asta"}
+ Oh, who can say anything with certainty about these things, my
+dear Alfred?
+
+
+@d{}
+[Laughs bitterly.] 
+@l{"name":"Allmers"}
+No, no; I believe you are right there.
+Perhaps the whole thing goes simply by hap-hazard--taking its own
+course, like a drifting wreck without a rudder. I daresay that is how it
+is. At least, it seems very like it.
+
+
+@d{}
+[Thoughtfully.] 
+@l{"name":"Asta"}
+What if it only seems--?
+
+
+@d{}
+[Vehemently.] 
+@l{"name":"Allmers"}
+Ah? Perhaps you can unravel the mystery for me?
+I certainly cannot. 
+@d{}
+[More gently.] 
+@l{"name":"Allmers"}
+Here is Eyolf, just entering
+upon conscious life: full of such infinite possibilities--splendid
+possibilities perhaps: he would have filled my life with pride and
+gladness. And then a crazy old woman has only to come this way--and show
+a cur in a bag--
+
+
+@l{"name":"Asta"}
+ But we don't in the least know how it really happened.
+
+
+@l{"name":"Allmers"}
+ Yes, we do. The boys saw her row out over the fiord. They saw
+Eyolf standing alone at the very end of the pier. They saw him gazing
+after her--and then he seemed to turn giddy. 
+@d{}
+[Quivering.] 
+@l{"name":"Allmers"}
+And that was
+how he fell over--and disappeared.
+
+
+@l{"name":"Asta"}
+ Yes, yes. But all the same--
+
+
+@l{"name":"Allmers"}
+ She has drawn him down into the depths--that you may be sure
+of, dear.
+
+
+@l{"name":"Asta"}
+ But, Alfred, why should she?
+
+
+@l{"name":"Allmers"}
+ Yes, that is just the question! Why should she? There is no
+retribution behind it all--no atonement, I mean. Eyolf never did her any
+harm. He never called names after her; he never threw stones at her dog.
+Why, he had never set eyes either on her or her dog till yesterday.
+So there is no retribution; the whole thing is utterly groundless and
+meaningless, Asta.--And yet the order of the world requires it.
+
+
+@l{"name":"Asta"}
+ Have you spoken to Rita of these things?
+
+
+@d{}
+[Shakes his head.] 
+@l{"name":"Allmers"}
+I feel as if I can talk better to you about
+them. 
+@d{}
+[Drawing a deep breath.] 
+@l{"name":"Allmers"}
+And about everything else as well.
+
+
+@d{}
+[ASTA takes serving-materials and a little paper parcel out of her
+pocket. ALLMERS sits looking on absently.]
+
+
+@l{"name":"Allmers"}
+ What leave you got there, Asta?
+
+
+@d{}
+[Taking his hat.] 
+@l{"name":"Asta"}
+Some black crap.
+
+
+@l{"name":"Allmers"}
+ Oh, whet is the use of that?
+
+
+@l{"name":"Asta"}
+ Rita asked me to put it on. May I?
+
+
+@l{"name":"Allmers"}
+ Oh, yes; as far as I'm concerned--
+@d{}
+[She sews the crape on his
+hat.]
+
+
+@d{}
+[Sitting and looking at her.] 
+@l{"name":"Allmers"}
+Where is Rita?
+
+
+@l{"name":"Asta"}
+ She is walking about the garden a little, I think. Borgheim is
+with her.
+
+
+@d{}
+[Slightly surprised.] 
+@l{"name":"Allmers"}
+Indeed! Is Borgheim out here to-day
+again?
+
+
+@l{"name":"Asta"}
+ Yes. He came out by the mid-day train.
+
+
+@l{"name":"Allmers"}
+ I didn't expect that.
+
+
+@d{}
+[Serving.] 
+@l{"name":"Asta"}
+He was so fond of Eyolf.
+
+
+@l{"name":"Allmers"}
+ Borgheim is a faithful soul, Asta.
+
+
+@d{}
+[With quiet warmth.] 
+@l{"name":"Asta"}
+Yes, faithful he is, indeed. That is certain.
+
+
+@d{}
+[Fixing his eyes upon her.] 
+@l{"name":"Allmers"}
+You are really fond of him?
+
+
+@l{"name":"Asta"}
+ Yes, I am.
+
+
+@l{"name":"Allmers"}
+ And yet you cannot make up your mind to--?
+
+
+@d{}
+[Interrupting.] 
+@l{"name":"Asta"}
+Oh, my dear Alfred, don't talk of that!
+
+
+@l{"name":"Allmers"}
+ Yes, yes; tell me why you cannot?
+
+
+@l{"name":"Asta"}
+ Oh, no! Please! You really must not ask me. You see, it's so
+painful for me.--There now! The hat is done.
+
+
+@l{"name":"Allmers"}
+ Thank you.
+
+
+@l{"name":"Asta"}
+ And now for the left arm.
+
+
+@l{"name":"Allmers"}
+ Am I to have crape on it too?
+
+
+@l{"name":"Asta"}
+ Yes, that is the custom.
+
+
+@l{"name":"Allmers"}
+ Well--as you please.
+
+
+@d{}
+[She moves close up to him and begins to sew.]
+
+
+@l{"name":"Asta"}
+ Keep your arm still--then I won't prick you.
+
+
+@d{}
+[With a half-smile.] 
+@l{"name":"Allmers"}
+This is like the old days.
+
+
+@l{"name":"Asta"}
+ Yes, don't you think so?
+
+
+@l{"name":"Allmers"}
+ When you were a little girl you used to sit just like this,
+mending my clothes. The first thing you ever sewed for me--that was
+black crape, too.
+
+
+@l{"name":"Asta"}
+ Was it?
+
+
+@l{"name":"Allmers"}
+ Round my student's cap--at the time of father's death.
+
+
+@l{"name":"Asta"}
+ Could I sew then? Fancy, I have forgotten it.
+
+
+@l{"name":"Allmers"}
+ Oh, you were such a little thing then.
+
+
+@l{"name":"Asta"}
+ Yes, I was little then.
+
+
+@l{"name":"Allmers"}
+ And then, two years afterwards--when we lost your mother--then
+again you sewed a big crape band on my sleeve.
+
+
+@l{"name":"Asta"}
+ I thought it was the right thing to do.
+
+
+@d{}
+[Patting her hand.] 
+@l{"name":"Allmers"}
+Yes, yes, it was the right thing to do,
+Asta. And then when we were left alone in the world, we two--. Are you
+done already?
+
+
+@l{"name":"Asta"}
+ Yes. 
+@d{}
+[Putting together her sewing-materials.] 
+@l{"name":"Asta"}
+It was really a
+beautiful time for us, Alfred. We two alone.
+
+
+@l{"name":"Allmers"}
+ Yes, it was--though we had to toil so hard.
+
+
+@l{"name":"Asta"}
+ You toiled.
+
+
+@d{}
+[With more life.] 
+@l{"name":"Allmers"}
+Oh, you toiled too, in your way, I can assure you--
+
+@d{}
+[smiling]
+@l{"name":"Allmers"}
+--my dear, faithful--Eyolf.
+
+
+@l{"name":"Asta"}
+ Oh--you mustn't remind me of that stupid nonsense about the name.
+
+
+@l{"name":"Allmers"}
+ Well, if you had been a boy, you would have been called Eyolf.
+
+
+@l{"name":"Asta"}
+ Yes, if! But when you began to go to college--. 
+@d{}
+[Smiling
+involuntarily.] 
+@l{"name":"Asta"}
+I wonder how you could be so childish.
+
+
+@l{"name":"Allmers"}
+ Was it I that was childish?
+
+
+@l{"name":"Asta"}
+ Yes, indeed, I think it was, as I look back upon it all. You were
+ashamed of having no brother--only a sister.
+
+
+@l{"name":"Allmers"}
+ No, no, it was you, dear--you were ashamed.
+
+
+@l{"name":"Asta"}
+ Oh yes, I too, perhaps--a little. And somehow or other I was sorry
+for you--
+
+
+@l{"name":"Allmers"}
+ Yes, I believe you were. And then you hunted up some of my old
+boy's clothes--
+
+
+@l{"name":"Asta"}
+ Your fine Sunday clothes--yes. Do you remember the blue blouse and
+knickerbockers?
+
+
+@d{}
+[His eyes dwelling upon her.] 
+@l{"name":"Allmers"}
+I remember so well how you looked
+when you used to wear them.
+
+
+@l{"name":"Asta"}
+ Only when we were at home, alone, though.
+
+
+@l{"name":"Allmers"}
+ And how serious we were, dear, and how mightily pleased with
+ourselves. I always called you Eyolf.
+
+
+@l{"name":"Asta"}
+ Oh, Alfred, I hope you have never told Rita this?
+
+
+@l{"name":"Allmers"}
+ Yes, I believe I did once tell her.
+
+
+@l{"name":"Asta"}
+ Oh, Alfred, how could you do that?
+
+
+@l{"name":"Allmers"}
+ Well, you see--one tells one's wife everything--very nearly.
+
+
+@l{"name":"Asta"}
+ Yes, I suppose one does.
+
+
+@d{}
+[As if awakening, clutches at his forehead and starts up.] 
+@l{"name":"Allmers"}
+Oh,
+how can I sit here and--
+
+
+@d{}
+[Rising, looks sorrowfully at him.] 
+@l{"name":"Asta"}
+What is the matter?
+
+
+@l{"name":"Allmers"}
+ He had almost passed away from me. He had passed quite away.
+
+
+@l{"name":"Asta"}
+ Eyolf!
+
+
+@l{"name":"Allmers"}
+ Here I sat, living in these recollections--and he had no part
+in them.
+
+
+@l{"name":"Asta"}
+ Yes, Alfred--little Eyolf was behind it all.
+
+
+@l{"name":"Allmers"}
+ No, he was not. He slipped out of my memory--out of my
+thoughts. I did not see him for a moment as we sat here talking. I
+utterly forgot him all that time.
+
+
+@l{"name":"Asta"}
+ But surely you must take some rest in your sorrow.
+
+
+@l{"name":"Allmers"}
+ No, no, no; that is just what I will not do! I must not--I
+have no right--and no heart for it, either. 
+@d{}
+[Going in great excitement
+towards the right.] 
+@l{"name":"Allmers"}
+All my thoughts must be out there, where he lies
+drifting in the depths!
+
+
+@d{}
+[Following him and holding him back.] 
+@l{"name":"Asta"}
+Alfred--Alfred! Don't go to
+the fiord.
+
+
+@l{"name":"Allmers"}
+ I must go out to him! Let me go, Asta! I will take the boat.
+
+
+@d{}
+[In terror.] 
+@l{"name":"Asta"}
+Don't go to the fiord, I say!
+
+
+@d{}
+[Yielding.] 
+@l{"name":"Allmers"}
+No, no--I will not. Only let me alone.
+
+
+@d{}
+[Leading him back to the table.] 
+@l{"name":"Asta"}
+You must rest from your thoughts,
+Alfred. Come here and sit down.
+
+
+@d{}
+[Making as if to seat himself on the bench.] 
+@l{"name":"Allmers"}
+Well, well--as you
+please.
+
+
+@l{"name":"Asta"}
+ No, I won't let you sit there.
+
+
+@l{"name":"Allmers"}
+ Yes, let me.
+
+
+@l{"name":"Asta"}
+ No, don't. For then you will only sit looking out--
+@d{}
+[Forces him
+down upon a chair, with his back to the right.] 
+@l{"name":"Asta"}
+There now. Now that's
+right. 
+@d{}
+[Seats herself upon the bench.] 
+@l{"name":"Asta"}
+And now we can talk a little
+again.
+
+
+@d{}
+[Drawing a deep breath audibly.] 
+@l{"name":"Allmers"}
+It was good to deaden the
+sorrow and heartache for a moment.
+
+
+@l{"name":"Asta"}
+ You insist do so, Alfred.
+
+
+@l{"name":"Allmers"}
+ But don't you think it is terribly weak and unfeeling of me--to
+be able to do so?
+
+
+@l{"name":"Asta"}
+ Oh, no--I am sure it is impossible to keep circling for ever round
+one fixed thought.
+
+
+@l{"name":"Allmers"}
+ Yes, for me it is impossible. Before you came to me, here I
+sat, torturing myself unspeakably with this crushing, gnawing sorrow--
+
+
+@l{"name":"Asta"}
+ Yes?
+
+
+@l{"name":"Allmers"}
+ And would you believe it, Asta--? H'm--
+
+
+@l{"name":"Asta"}
+ Well?
+
+
+@l{"name":"Allmers"}
+ In the midst of all the agony, I found myself speculating what
+we should have for dinner to-day.
+
+
+@d{}
+[Soothingly.] 
+@l{"name":"Asta"}
+Well, well, if only it rests you to--
+
+
+@l{"name":"Allmers"}
+ Yes, just fancy, dear--it seemed as if it did give me rest.
+
+@d{}
+[Holds out, his hand to her across the table.] 
+@l{"name":"Allmers"}
+How good it is, Asta,
+that I have you with me. I am so glad of that. Glad, glad--even in my
+sorrow.
+
+
+@d{}
+[Looking earnestly at him.] 
+@l{"name":"Asta"}
+You ought most of all to be glad that
+you have Rita.
+
+
+@l{"name":"Allmers"}
+ Yes, of course I should. But Rita is no kin to me--it isn't
+like having a sister.
+
+
+@d{}
+[Eagerly.] 
+@l{"name":"Asta"}
+Do you say that, Alfred?
+
+
+@l{"name":"Allmers"}
+ Yes, our family is a thing apart. 
+@d{}
+[Half jestingly.] 
+@l{"name":"Allmers"}
+We have
+always had vowels for our initials. Don't you remember how often we used
+to speak of that? And all our relations--all equally poor. And we have
+all the same colour of eyes.
+
+
+@l{"name":"Asta"}
+ Do you think I have--?
+
+
+@l{"name":"Allmers"}
+ No, you take entirely after your mother. You are not in the
+least like the rest of us--not even like father. But all the same--
+
+
+@l{"name":"Asta"}
+ All the same--?
+
+
+@l{"name":"Allmers"}
+ Well, I believe that living together has, as it were, stamped
+us in each other's image--mentally, I mean.
+
+
+@d{}
+[With warm emotion.] 
+@l{"name":"Asta"}
+Oh, you must never say that, Alfred. It is
+only I that have taken my stamp from you; and it is to you that I owe
+everything--every good thing in the world.
+
+
+@d{}
+[Shaking his head.] 
+@l{"name":"Allmers"}
+You owe me nothing, Asta. On the contrary--
+
+
+@l{"name":"Asta"}
+ I owe you everything! You must never doubt that. No sacrifice has
+been too great for you--
+
+
+@d{}
+[Interrupting.] 
+@l{"name":"Allmers"}
+Oh, nonsense--sacrifice! Don't talk of such a
+thing.--I have only loved you, Asta, ever since you were a little child.
+
+@d{}
+[After a short pause.] 
+@l{"name":"Allmers"}
+And then it always seemed to me that I had so
+much injustice to make up to you for.
+
+
+@d{}
+[Astonished.] 
+@l{"name":"Asta"}
+Injustice? You?
+
+
+@l{"name":"Allmers"}
+ Not precisely on my own account. But--
+
+
+@d{}
+[Eagerly.] 
+@l{"name":"Asta"}
+But--?
+
+
+@l{"name":"Allmers"}
+ On father's.
+
+
+@d{}
+[Half rising from the bench.] 
+@l{"name":"Asta"}
+On--father's! 
+@d{}
+[Sitting down again.]
+
+@l{"name":"Asta"}
+What do you mean by that, Alfred?
+
+
+@l{"name":"Allmers"}
+ Father was never really kind to you.
+
+
+@d{}
+[Vehemently.] 
+@l{"name":"Asta"}
+Oh, don't say that!
+
+
+@l{"name":"Allmers"}
+ Yes, it is true. He did not love you--not as he ought to have.
+
+
+@d{}
+[Evasively.] 
+@l{"name":"Asta"}
+No, perhaps not as he loved you. That was only
+natural.
+
+
+@d{}
+[Continuing.] 
+@l{"name":"Allmers"}
+And he was often hard to your mother, too--at
+least in the last years.
+
+
+@d{}
+[Softly.] 
+@l{"name":"Asta"}
+Mother was so much, much younger than he--remember that.
+
+
+@l{"name":"Allmers"}
+ Do you think they were not quite suited to each other?
+
+
+@l{"name":"Asta"}
+ Perhaps not.
+
+
+@l{"name":"Allmers"}
+ Yes, but still--. Father, who in other ways was so gentle and
+warm-hearted--so kindly towards every one--
+
+
+@d{}
+[Quietly.] 
+@l{"name":"Asta"}
+Mother, too, was not always as she ought to have been.
+
+
+@l{"name":"Allmers"}
+ Your mother was not!
+
+
+@l{"name":"Asta"}
+ Perhaps not always.
+
+
+@l{"name":"Allmers"}
+ Towards father, do you mean?
+
+
+@l{"name":"Asta"}
+ Yes.
+
+
+@l{"name":"Allmers"}
+ I never noticed that.
+
+
+@d{}
+[Struggling with her tears, rises.] 
+@l{"name":"Asta"}
+Oh, my dear Alfred--let them
+rest--those who are gone. 
+@d{}
+[She goes towards the right.]
+
+
+@d{}
+[Rising.] 
+@l{"name":"Allmers"}
+Yes, let them rest. 
+@d{}
+[Wringing his hands.] 
+@l{"name":"Allmers"}
+But those
+who are gone--it is they that won't let us rest, Asta. Neither day nor
+night.
+
+
+@d{}
+[Looks warmly at him.] 
+@l{"name":"Asta"}
+Time will make it all seem easier, Alfred.
+
+
+@d{}
+[Looking helplessly at her.] 
+@l{"name":"Allmers"}
+Yes, don't you think it will?--But
+how I am to get over these terrible first days 
+@d{}
+[Hoarsely.]
+@l{"name":"Allmers"}
+--that is what
+I cannot imagine.
+
+
+@d{}
+[Imploringly, laying her hands on his shoulders.] 
+@l{"name":"Asta"}
+Go up to Rita.
+Oh, please do--
+
+
+@d{}
+[Vehemently, withdrawing from her.] 
+@l{"name":"Allmers"}
+No, no, no--don't talk to
+me of that! I cannot, I tell you. 
+@d{}
+[More calmly.] 
+@l{"name":"Allmers"}
+Let me remain here,
+with you.
+
+
+@l{"name":"Asta"}
+ Well, I will not leave you.
+
+
+@d{}
+[Seizing her hand and holding it fast.] 
+@l{"name":"Allmers"}
+Thank you for that!
+
+@d{}
+[Looks out for a time over the fiord.] 
+@l{"name":"Allmers"}
+Where is my little Eyolf now?
+
+@d{}
+[Smiling sadly to her.] 
+@l{"name":"Allmers"}
+Can you tell me that my big, wise Eyolf?
+
+@d{}
+[Shaking his head.] 
+@l{"name":"Allmers"}
+No one in all the world can tell me that. I know
+only this one terrible thing--that he is gone from me.
+
+
+@d{}
+[Looking up to the left, and withdrawing her hand.] 
+@l{"name":"Asta"}
+Here they are
+coming.
+
+
+@d{}
+[MRS. ALLMERS and Engineer BORGHEIM come down by the wood-path, she
+leading the way. She wears a dark dress and a black veil over her head.
+He has an umbrella under his arm.]
+
+
+@e{"names":["Borgheim","Rita"]}
+
+@d{}
+[Going to meet her.] 
+@l{"name":"Allmers"}
+How is it with you, Rita?
+
+
+@d{}
+[Passing him.] 
+@l{"name":"Rita"}
+Oh, don't ask.
+
+
+@l{"name":"Allmers"}
+ Why do you come here?
+
+
+@l{"name":"Rita"}
+ Only to look for you. What are you doing?
+
+
+@l{"name":"Allmers"}
+ Nothing. Asta came down to me.
+
+
+@l{"name":"Rita"}
+ Yes, but before Asta came? You have been away from me all the
+morning.
+
+
+@l{"name":"Allmers"}
+ I have been sitting here looking out over the water.
+
+
+@l{"name":"Rita"}
+ Ugh,--how can you?
+
+
+@d{}
+[
+@l{"name":"Allmers"}
+Impatiently.] I like best to be alone now.
+
+
+@d{}
+[Moving restlessly about.] 
+@l{"name":"Rita"}
+And then to sit still! To stay in one
+place!
+
+
+@l{"name":"Allmers"}
+ I have nothing in the world to move for.
+
+
+@l{"name":"Rita"}
+ I cannot bear to be anywhere long. Least of all here--with the
+fiord at my very feet.
+
+
+@l{"name":"Allmers"}
+ It is just the nearness of the fiord--
+
+
+@d{}
+[To Borgheim] 
+@l{"name":"Rita"}
+Don't you think he should come back with the rest
+of us?
+
+
+@d{}
+[To Allmers] 
+@l{"name":"Borgheim"}
+I believe it would be better for you.
+
+
+@l{"name":"Allmers"}
+ No, no; let me stay where I am.
+
+
+@l{"name":"Rita"}
+ Then I will stay with you, Alfred.
+
+
+@l{"name":"Allmers"}
+ Very well; do so, then. You remain too, Asta.
+
+
+@d{}
+[Whispers to Borgheim] 
+@l{"name":"Asta"}
+Let us leave them alone!
+
+
+@d{}
+[With a glance of comprehension.] 
+@l{"name":"Borgheim"}
+Miss Allmers, shall we go a
+little further--along the shore? For the very last time?
+
+
+@d{}
+[Taking her umbrella.] 
+@l{"name":"Asta"}
+Yes, come. Let us go a little further.
+
+
+@d{}
+[ASTA and BORGHEIM go out together behind the boat-shed. ALLMERS wanders
+about for a little. Then he seats himself on a stone under the trees on
+the left.]
+
+
+@x{"names":["Asta","Borgheim"]}
+
+@d{}
+[Comes up and stands before him, her hands folded and hanging
+down.] 
+@l{"name":"Rita"}
+Can you think the thought, Alfred--that we have lost Eyolf?
+
+
+@d{}
+[Looking sadly at the ground.] 
+@l{"name":"Allmers"}
+We must accustom ourselves to
+think it.
+
+
+@l{"name":"Rita"}
+ I cannot. I cannot. And then that horrible sight that will haunt
+me all my life long.
+
+
+@d{}
+[Looking up.] 
+@l{"name":"Allmers"}
+What sight? What have you seen?
+
+
+@l{"name":"Rita"}
+ I have seen nothing myself. I have only heard it told. Oh--!
+
+
+@l{"name":"Allmers"}
+ You may as well tell me at once.
+
+
+@l{"name":"Rita"}
+ I got Borgheim to go down with me to the pier--
+
+
+@l{"name":"Allmers"}
+ What did you want there?
+
+
+@l{"name":"Rita"}
+ To question the boys as to how it happened.
+
+
+@l{"name":"Allmers"}
+ But we know that.
+
+
+@l{"name":"Rita"}
+ We got to know more.
+
+
+@l{"name":"Allmers"}
+ Well?
+
+
+@l{"name":"Rita"}
+ It is not true that he disappeared all at once.
+
+
+@l{"name":"Allmers"}
+ Do they say that now?
+
+
+@l{"name":"Rita"}
+ Yes. They say they saw him lying down on the bottom. Deep down in
+the clear water.
+
+
+@d{}
+[Grinding his teeth.] 
+@l{"name":"Allmers"}
+And they didn't save him!
+
+
+@l{"name":"Rita"}
+ I suppose they could not.
+
+
+@l{"name":"Allmers"}
+ They could swim--every one of them. Did they tell you how he
+was lying whilst they could see him?
+
+
+@l{"name":"Rita"}
+ Yes. They said he was lying on his back. And with great, open
+eyes.
+
+
+@l{"name":"Allmers"}
+ Open eyes. But quite still?
+
+
+@l{"name":"Rita"}
+ Yes, quite still. And then something came and swept him away. They
+called it the undertow.
+
+
+@d{}
+[Nodding slowly.] 
+@l{"name":"Allmers"}
+So that was the last they saw of him.
+
+
+@d{}
+[Suffocated with tears.] 
+@l{"name":"Rita"}
+Yes.
+
+
+@d{}
+[In a dull voice.] 
+@l{"name":"Allmers"}
+And never--never will any one see him again.
+
+
+@d{}
+[Wailing.] 
+@l{"name":"Rita"}
+I shall see him day and night, as he lay down there.
+
+
+@l{"name":"Allmers"}
+ With great, open eyes.
+
+
+@d{}
+[Shuddering.] 
+@l{"name":"Rita"}
+Yes, with great, open eyes. I see them! I see them
+now!
+
+
+@d{}
+[Rises slowly and looks with quiet menace at her.] 
+@l{"name":"Allmers"}
+Were they
+evil, those eyes, Rita?
+
+
+@d{}
+[Turning pale.] 
+@l{"name":"Rita"}
+Evil--!
+
+
+@d{}
+[Going close up to her.] 
+@l{"name":"Allmers"}
+Were they evil eyes that stared up? Up
+from the depths?
+
+
+@d{}
+[Shrinking from him.] 
+@l{"name":"Rita"}
+Alfred--!
+
+
+@d{}
+[Following her.] 
+@l{"name":"Allmers"}
+Answer me! Were they a child's evil eyes?
+
+
+@d{}
+[Shrieks.] 
+@l{"name":"Rita"}
+Alfred! Alfred!
+
+
+@l{"name":"Allmers"}
+ Now things have come about--just as you wished, Rita.
+
+
+@l{"name":"Rita"}
+ I! What did I wish?
+
+
+@l{"name":"Allmers"}
+ That Eyolf were not here.
+
+
+@l{"name":"Rita"}
+ Never for a moment have I wished that! That Eyolf should not stand
+between us--that was what I wished.
+
+
+@l{"name":"Allmers"}
+ Well, well--he does not stand between us any more.
+
+
+@d{}
+[Softly, gazing straight before her.] 
+@l{"name":"Rita"}
+Perhaps now more than ever.
+
+@d{}
+[With a sudden shudder.] 
+@l{"name":"Rita"}
+Oh, that horrible sight!
+
+
+@d{}
+[Nods.] 
+@l{"name":"Allmers"}
+The child's evil eyes.
+
+
+@d{}
+[In dread, recoiling from him.] 
+@l{"name":"Rita"}
+Let me be, Alfred! I am afraid of
+you. I have never seen you like this before.
+
+
+@d{}
+[Looks harshly and coldly at her.] 
+@l{"name":"Allmers"}
+Sorrow makes us wicked and
+hateful.
+
+
+@d{}
+[Terrified, and yet defiant.] 
+@l{"name":"Rita"}
+That is what I feel, too.
+
+
+@d{}
+[ALLMERS goes towards the right and looks out over the fiord. RITA seats
+herself at the table. A short pause.]
+
+
+@d{}
+[Turning his head towards her.] 
+@l{"name":"Allmers"}
+You never really and truly
+loved him--never!
+
+
+@d{}
+[With cold self-control.] 
+@l{"name":"Rita"}
+Eyolf would never let me take him really
+and truly to my heart.
+
+
+@l{"name":"Allmers"}
+ Because you did not want to.
+
+
+@l{"name":"Rita"}
+ Oh yes, I did. I did want to. But some one stood in the way--even
+from the first.
+
+
+@d{}
+[Turning right round.] 
+@l{"name":"Allmers"}
+Do you mean that _I_ stood in the way?
+
+
+@l{"name":"Rita"}
+ Oh, no--not at first.
+
+
+@d{}
+[Coming nearer her.] 
+@l{"name":"Allmers"}
+Who, then?
+
+
+@l{"name":"Rita"}
+ His aunt.
+
+
+@l{"name":"Allmers"}
+ Asta?
+
+
+@l{"name":"Rita"}
+ Yes. Asta stood and barred the way for me.
+
+
+@l{"name":"Allmers"}
+ Can you say that, Rita?
+
+
+@l{"name":"Rita"}
+ Yes. Asta--she took him to her heart--from the moment that
+happened--that miserable fall.
+
+
+@l{"name":"Allmers"}
+ If she did so, she did it in love.
+
+
+@d{}
+[Vehemently.] 
+@l{"name":"Rita"}
+That is just it! I cannot endure to share anything
+with any one! Not in love.
+
+
+@l{"name":"Allmers"}
+ We two should have shared him between us in love.
+
+
+@d{}
+[Looking scornfully at him.] 
+@l{"name":"Rita"}
+We? Oh, the truth is you have never
+had any real love for him either.
+
+
+@d{}
+[Looks at her in astonishment.] 
+@l{"name":"Allmers"}
+_I_ have not--!
+
+
+@l{"name":"Rita"}
+ No, you have not. At first you were so utterly taken up by that
+book of yours--about Responsibility.
+
+
+@d{}
+[Forcibly.] 
+@l{"name":"Allmers"}
+Yes, I was. But my very book--I sacrificed for
+Eyolf's sake.
+
+
+@l{"name":"Rita"}
+ Not out of love for him.
+
+
+@l{"name":"Allmers"}
+ Why then, do you suppose?
+
+
+@l{"name":"Rita"}
+ Because you were consumed with mistrust of yourself. Because you
+had begun to doubt whether you had any great vocation to live for in the
+world.
+
+
+@d{}
+[Observing her closely.] 
+@l{"name":"Allmers"}
+Could you see that in me?
+
+
+@l{"name":"Rita"}
+ Oh, yes--little by little. And then you needed something new to
+fill up your life.--It seems _I_ was not enough for you any longer.
+
+
+@l{"name":"Allmers"}
+ That is the law of change, Rita.
+
+
+@l{"name":"Rita"}
+ And that was why you wanted to make a prodigy of poor little
+Eyolf.
+
+
+@l{"name":"Allmers"}
+ That was not what I wanted. I wanted to make a happy human
+being of him.--That, and nothing more.
+
+
+@l{"name":"Rita"}
+ But not out of love for him. Look into yourself! 
+@d{}
+[With a certain
+shyness of expression.] 
+@l{"name":"Rita"}
+Search out all that lies under--and behind your
+action.
+
+
+@d{}
+[Avoiding her eyes.] 
+@l{"name":"Allmers"}
+There is something you shrink from saying.
+
+
+@l{"name":"Rita"}
+ And you too.
+
+
+@d{}
+[Looks thoughtfully at her.] 
+@l{"name":"Allmers"}
+If it is as you say, then we two
+have never really possessed our own child.
+
+
+@l{"name":"Rita"}
+ No. Not in perfect love.
+
+
+@l{"name":"Allmers"}
+ And yet we are sorrowing so bitterly for him.
+
+
+@d{}
+[With sarcasm.] 
+@l{"name":"Rita"}
+Yes, isn't it curious that we should grieve like
+this over a little stranger boy?
+
+
+@d{}
+[With an outburst.] 
+@l{"name":"Allmers"}
+Oh, don't call him a stranger!
+
+
+@d{}
+[Sadly shaking her head.] 
+@l{"name":"Rita"}
+We never won the boy, Alfred. Not I--nor
+you either.
+
+
+@d{}
+[Wringing his hands.] 
+@l{"name":"Allmers"}
+And now it is too late! Too late!
+
+
+@l{"name":"Rita"}
+ And no consolation anywhere--in anything.
+
+
+@d{}
+[With sudden passion.] 
+@l{"name":"Allmers"}
+You are the guilty one in this!
+
+
+@d{}
+[Rising.] 
+@l{"name":"Rita"}
+I!
+
+
+@l{"name":"Allmers"}
+ Yes, you! It was your fault that he became--what he was! It was
+your fault that he could not save himself when he fell into the water.
+
+
+@d{}
+[With a gesture of repulsion.] 
+@l{"name":"Rita"}
+Alfred--you shall not throw the
+blame upon me!
+
+
+@d{}
+[More and more beside himself.] 
+@l{"name":"Allmers"}
+Yes, yes, I do! It was you that
+left the helpless child unwatched upon the table.
+
+
+@l{"name":"Rita"}
+ He was lying so comfortably among the cushions, and sleeping so
+soundly. And you had promised to look after him.
+
+
+@l{"name":"Allmers"}
+ Yes, I had. 
+@d{}
+[Lowering his voice.] 
+@l{"name":"Allmers"}
+But then you came--you, you,
+you--and lured me to you.
+
+
+@d{}
+[Looking defiantly at him.] 
+@l{"name":"Rita"}
+Oh, better own at once that you forgot
+the child and everything else.
+
+
+@d{}
+[In suppressed desperation.] 
+@l{"name":"Allmers"}
+Yes, that is true. 
+@d{}
+[Lower.] 
+@l{"name":"Allmers"}
+I
+forgot the child--in your arms!
+
+
+@d{}
+[Exasperated.] 
+@l{"name":"Rita"}
+Alfred! Alfred--this is intolerable of you!
+
+
+@d{}
+[In a low voice, clenching his fists before her face.] 
+@l{"name":"Allmers"}
+In that
+hour you condemned little Eyolf to death.
+
+
+@d{}
+[Wildly.] 
+@l{"name":"Rita"}
+You, too! You, too--if it is as you say!
+
+
+@l{"name":"Allmers"}
+ Oh yes--call me to account, too--if you will. We have sinned,
+both of us. And so, after all, there was retribution in Eyolf's death.
+
+
+@l{"name":"Rita"}
+ Retribution?
+
+
+@d{}
+[With more self-control.] 
+@l{"name":"Allmers"}
+Yes. Judgment upon you and me. Now,
+as we stand here, we have our deserts. While he lived, we let ourselves
+shrink away from him in secret, abject remorse. We could not bear to see
+it--the thing he had to drag with him--
+
+
+@d{}
+[Whispers.] 
+@l{"name":"Rita"}
+The crutch.
+
+
+@l{"name":"Allmers"}
+ Yes, that. And now, what we now call sorrow and heartache--is
+really the gnawing of conscience, Rita. Nothing else.
+
+
+@d{}
+[Gazing helplessly at him.] 
+@l{"name":"Rita"}
+I feel as if all this must end in
+despair--in madness for both of us. For we can never--never make it good
+again.
+
+
+@d{}
+[Passing into a calmer mood.] 
+@l{"name":"Allmers"}
+I dreamed about Eyolf last night.
+I thought I saw him coming up from the pier. He could run like other
+boys. So nothing had happened to him--neither the one thing nor the
+other. And the torturing reality was nothing but a dream, I thought. Oh,
+how I thanked and blessed--
+@d{}
+[Checking himself.] 
+@l{"name":"Allmers"}
+H'm!
+
+
+@d{}
+[Looking at him.] 
+@l{"name":"Rita"}
+Whom?
+
+
+@d{}
+[Evasively.] 
+@l{"name":"Allmers"}
+Whom--?
+
+
+@l{"name":"Rita"}
+ Yes; whom did you thank and bless?
+
+
+@d{}
+[Putting aside the question.] 
+@l{"name":"Allmers"}
+I was only dreaming, you know--
+
+
+@l{"name":"Rita"}
+ One whom you yourself do not believe in?
+
+
+@l{"name":"Allmers"}
+ That was how I felt, all the same. Of course, I was sleeping--
+
+
+@d{}
+[Reproachfully.] 
+@l{"name":"Rita"}
+You should not have taught me to doubt, Alfred.
+
+
+@l{"name":"Allmers"}
+ Would it leave been right of me to let you go through life with
+your mind full of empty fictions?
+
+
+@l{"name":"Rita"}
+ It would have been better for me; for then I should have had
+something to take refuge in. Now I am utterly at sea.
+
+
+@d{}
+[Observing her closely.] 
+@l{"name":"Allmers"}
+If you had the choice now--. If you
+could follow Eyolf to where he is--?
+
+
+@l{"name":"Rita"}
+ Yes? What then?
+
+
+@l{"name":"Allmers"}
+ If you were fully assured that you would find him again--know
+him--understand him--?
+
+
+@l{"name":"Rita"}
+ Yes, yes; what then?
+
+
+@l{"name":"Allmers"}
+ Would you, of your own free will, take the leap over to him?
+Of your own free will leave everything behind you? Renounce your whole
+earthly life? Would you, Rita?
+
+
+@d{}
+[Softly.] 
+@l{"name":"Rita"}
+Now, at once?
+
+
+@l{"name":"Allmers"}
+ Yes; to-day. This very hour. Answer me--would you?
+
+
+@d{}
+[Hesitating.] 
+@l{"name":"Rita"}
+Oh, I don't know, Alfred. No! I think I should have
+to stay here with you, a little while.
+
+
+@l{"name":"Allmers"}
+ For my sake?
+
+
+@l{"name":"Rita"}
+ Yes. Only for your sake.
+
+
+@l{"name":"Allmers"}
+ And afterwards? Would you then--? Answer!
+
+
+@l{"name":"Rita"}
+ Oh, what can I answer? I could not go away from you. Never! Never!
+
+
+@l{"name":"Allmers"}
+ But suppose now _I_ went to Eyolf? And you had the fullest
+assurance that you would meet both him and me there. Then would you come
+over to us?
+
+
+@l{"name":"Rita"}
+ I should want to--so much! so much! But--
+
+
+@l{"name":"Allmers"}
+ Well? I I?
+
+
+@d{}
+[Moaning softly.] 
+@l{"name":"Rita"}
+I could not--I feel it. No, no, I never could!
+Not for all the glory of heaven!
+
+
+@l{"name":"Allmers"}
+ Nor I.
+
+
+@l{"name":"Rita"}
+ No, you feel it so, too, don't you, Alfred! You could not either,
+could you?
+
+
+@l{"name":"Allmers"}
+ No. For it is here, in the life of earth, that we living beings
+are at home.
+
+
+@l{"name":"Rita"}
+ Yes, here lies the kind of happiness that we can understand.
+
+
+@d{}
+[Darkly.] 
+@l{"name":"Allmers"}
+Oh, happiness--happiness--
+
+
+@l{"name":"Rita"}
+ You mean that happiness--that we can never find it again? 
+@d{}
+[Looks
+inquiringly at him.] 
+@l{"name":"Rita"}
+But if--? 
+@d{}
+[Vehemently.] 
+@l{"name":"Rita"}
+No, no; I dare not say it!
+Nor even think it!
+
+
+@l{"name":"Allmers"}
+ Yes, say it--say it, Rita.
+
+
+@d{}
+[Hesitatingly.] 
+@l{"name":"Rita"}
+Could we not try to--? Would it not be possible to
+forget him?
+
+
+@l{"name":"Allmers"}
+ Forget Eyolf?
+
+
+@l{"name":"Rita"}
+ Forget the anguish and remorse, I mean.
+
+
+@l{"name":"Allmers"}
+ Can you wish it?
+
+
+@l{"name":"Rita"}
+ Yes,--if it were possible. 
+@d{}
+[With an outburst.] 
+@l{"name":"Rita"}
+For this--I cannot
+bear this for ever! Oh, can we not think of something that will bring
+its forgetfulness!
+
+
+@d{}
+[Shakes his head.] 
+@l{"name":"Allmers"}
+What could that be?
+
+
+@l{"name":"Rita"}
+ Could we not see what travelling would do--far away from here?
+
+
+@l{"name":"Allmers"}
+ From home? When you know you are never really well anywhere but
+here.
+
+
+@l{"name":"Rita"}
+ Well, then, let us have crowds of people about us! Keep open
+house! Plunge into something that can deaden and dull our thoughts!
+
+
+@l{"name":"Allmers"}
+ Such it life would be impossible for me.--No,--rather than
+that, I would try to take up my work again.
+
+
+@d{}
+[Bitingly.] 
+@l{"name":"Rita"}
+Your work--the work that has always stood like a dead
+wall between us!
+
+
+@d{}
+[Slowly, looking fixedly at her.] 
+@l{"name":"Allmers"}
+There must always be a dead
+wall between us two, from this time forth.
+
+
+@l{"name":"Rita"}
+ Why must there--?
+
+
+@l{"name":"Allmers"}
+ Who knows but that a child's great, open eyes are watching us
+day and night.
+
+
+@d{}
+[Softly, shuddering.] 
+@l{"name":"Rita"}
+Alfred--how terrible to think of!
+
+
+@l{"name":"Allmers"}
+ Our love has been like a consuming fire. Now it must be
+quenched--
+
+
+@d{}
+[With a movement towards him.] 
+@l{"name":"Rita"}
+Quenched!
+
+
+@d{}
+[Hardly.] 
+@l{"name":"Allmers"}
+It is quenched--in one of us.
+
+
+@d{}
+[As if petrified.] 
+@l{"name":"Rita"}
+And you dare say that to me!
+
+
+@d{}
+[More gently.] 
+@l{"name":"Allmers"}
+It is dead, Rita. But in what I now feel for
+you--in our common guilt and need of atonement--I seem to foresee a sort
+of resurrection--
+
+
+@d{}
+[Vehemently.] 
+@l{"name":"Rita"}
+I don't care a bit about any resurrection!
+
+
+@l{"name":"Allmers"}
+ Rita!
+
+
+@l{"name":"Rita"}
+ I am a warm-blooded being! I don't go drowsing about--with fishes'
+blood in my veins. 
+@d{}
+[Wringing her hands.] 
+@l{"name":"Rita"}
+And now to be imprisoned for
+life--in anguish and remorse! Imprisoned with one who is no longer mine,
+mine, mine!
+
+
+@l{"name":"Allmers"}
+ It must have ended so, sometime, Rita.
+
+
+@l{"name":"Rita"}
+ Must have ended so! The love that in the beginning rushed forth so
+eagerly to meet with love!
+
+
+@l{"name":"Allmers"}
+ My love did not rush forth to you in the beginning.
+
+
+@l{"name":"Rita"}
+ What did you feel for me, first of all?
+
+
+@l{"name":"Allmers"}
+ Dread.
+
+
+@l{"name":"Rita"}
+ That I can understand. How was it, then, that I won you after all?
+
+
+@d{}
+[In a low voice.] 
+@l{"name":"Allmers"}
+You were so entrancingly beautiful, Rita.
+
+
+@d{}
+[Looks searchingly at him.] 
+@l{"name":"Rita"}
+Then that was the only reason? Say it,
+Alfred! The only reason?
+
+
+@d{}
+[Conquering himself.] 
+@l{"name":"Allmers"}
+No, there was another as well.
+
+
+@d{}
+[With an outburst.] 
+@l{"name":"Rita"}
+I can guess what that was! It was "my gold,
+and my green forests," as you call it. Was it not so, Alfred?
+
+
+@l{"name":"Allmers"}
+ Yes.
+
+
+@d{}
+[Looks at him with deep reproach.] 
+@l{"name":"Rita"}
+How could you--how could you!
+
+
+@l{"name":"Allmers"}
+ I had Asta to think of.
+
+
+@d{}
+[Angrily.] 
+@l{"name":"Rita"}
+Yes, Asta! 
+@d{}
+[Bitterly.] 
+@l{"name":"Rita"}
+Then it was really Asta that
+brought us two together?
+
+
+@l{"name":"Allmers"}
+ She knew nothing about it. She has no suspicion of it, even to
+this day.
+
+
+@d{}
+[Rejecting the plea.] 
+@l{"name":"Rita"}
+It was Asta, nevertheless! 
+@d{}
+[Smiling, with a
+sidelong glance of scorn. 
+@l{"name":"Rita"}
+] Or, no--it was little Eyolf. Little Eyolf,
+my dear!
+
+
+@l{"name":"Allmers"}
+ Eyolf--?
+
+
+@l{"name":"Rita"}
+ Yes, you used to call her Eyolf, did you not? I seem to remember
+your telling me so--once, in a moment of confidence. 
+@d{}
+[Coming up to him.]
+
+@l{"name":"Rita"}
+Do you remember it--that entrancingly beautiful hour, Alfred?
+
+
+@d{}
+[Recoiling, as if in horror.] 
+@l{"name":"Allmers"}
+I remember nothing! I will not
+remember!
+
+
+@d{}
+[Following him.] 
+@l{"name":"Rita"}
+It was in that hour--when your other little Eyolf
+was crippled for life!
+
+
+@d{}
+[In a hollow voice, supporting himself against the table.]
+
+@l{"name":"Allmers"}
+Retribution!
+
+
+@d{}
+[Menacingly.] 
+@l{"name":"Rita"}
+Yes, retribution!
+
+
+@d{}
+[ASTA and BORGHEIM return by way of the boat-shed. She is carrying some
+water-lilies in her hand.]
+
+
+@e{"names":["Asta","Borgheim"]}
+
+@d{}
+[With self-control.] 
+@l{"name":"Rita"}
+Well, Asta, have you and Mr. Borgheim talked
+things thoroughly over?
+
+
+@l{"name":"Asta"}
+ Oh, yes--pretty well.
+
+
+@d{}
+[She puts down her umbrella and lays the flowers upon a chair.]
+
+
+@l{"name":"Borgheim"}
+ Miss Allmers has been very silent during our walk.
+
+
+@l{"name":"Rita"}
+ Indeed, has she? Well, Alfred and I have talked things out
+thoroughly enough--
+
+
+@d{}
+[Looking eagerly at both of them.] 
+@l{"name":"Asta"}
+What is this--?
+
+
+@l{"name":"Rita"}
+ Enough to last all our lifetime, I say. 
+@d{}
+[Breaking off.] 
+@l{"name":"Rita"}
+Come now,
+let us go up to the house, all four of us. We must have company about us
+in future. It will never do for Alfred and me to be alone.
+
+
+@l{"name":"Allmers"}
+ Yes, do you go ahead, you two. 
+@d{}
+[Turning.] 
+@l{"name":"Allmers"}
+I must speak a word
+to you before we go, Asta.
+
+
+@d{}
+[Looking at him.] 
+@l{"name":"Rita"}
+Indeed? Well then, you come with me, Mr.
+Borgheim.
+
+
+@d{}
+[RITA and BORGHEIM go up the wood-path.]
+
+
+@x{"names":["Borgheim","Rita"]}
+
+@d{}
+[Anxiously.] 
+@l{"name":"Asta"}
+Alfred, what is the matter?
+
+
+@d{}
+[Darkly.] 
+@l{"name":"Allmers"}
+Only that I cannot endure to be here any more.
+
+
+@l{"name":"Asta"}
+ Here! With Rita, do you mean?
+
+
+@l{"name":"Allmers"}
+ Yes. Rita and I cannot go on living together.
+
+
+@d{}
+[Seizes his arm and shakes it.] 
+@l{"name":"Asta"}
+Oh, Alfred--don't say anything so
+terrible!
+
+
+@l{"name":"Allmers"}
+ It is the truth. I am telling you. We are making each other
+wicked and hateful.
+
+
+@d{}
+[With painful emotion.] 
+@l{"name":"Asta"}
+I had never--never dreamt of anything like
+this!
+
+
+@l{"name":"Allmers"}
+ I did not realise it either, till to-day.
+
+
+@l{"name":"Asta"}
+ And now you want to--! What is it you really want, Alfred?
+
+
+@l{"name":"Allmers"}
+ I want to get away from everything here--far, far away from it
+all.
+
+
+@l{"name":"Asta"}
+ And to stand quite alone in the world?
+
+
+@d{}
+[Nods.] 
+@l{"name":"Allmers"}
+As I used to, before, yes.
+
+
+@l{"name":"Asta"}
+ But you are not fitted for living alone!
+
+
+@l{"name":"Allmers"}
+ Oh, yes. I was so in the old days, at any rate.
+
+
+@l{"name":"Asta"}
+ In the old days, yes; for then you had me with you.
+
+
+@d{}
+[Trying to take her hand.] 
+@l{"name":"Allmers"}
+Yes. And it is to you, Asta, that I
+now want to come home again.
+
+
+@d{}
+[Eluding him.] 
+@l{"name":"Asta"}
+To me! No, no, Alfred! That is quite impossible.
+
+
+@d{}
+[Looks sadly at her.] 
+@l{"name":"Allmers"}
+Then Borgheim stands in the way after
+all?
+
+
+@d{}
+[Earnestly.] 
+@l{"name":"Asta"}
+No, no; he does not! That is quite a mistake!
+
+
+@l{"name":"Allmers"}
+ Good. Then I will come to you--my dear, dear sister. I must
+come to you again--home to you, to be purified and ennobled after my
+life with--
+
+
+@d{}
+[Shocked.] 
+@l{"name":"Asta"}
+Alfred,--you are doing Rita a great wrong!
+
+
+@l{"name":"Allmers"}
+ I have done her a great wrong. But not in this. Oh, think of
+it, Asta--think of our life together, yours and mine. Was it not like
+one long holy-day from first to last?
+
+
+@l{"name":"Asta"}
+ Yes, it was, Alfred. But we can never live it over again.
+
+
+@d{}
+[Bitterly.] 
+@l{"name":"Allmers"}
+Do you mean that marriage has so irreparably ruined
+me?
+
+
+@d{}
+[Quietly.] 
+@l{"name":"Asta"}
+No, that is not what I mean.
+
+
+@l{"name":"Allmers"}
+ Well, then we two will live our old life over again.
+
+
+@d{}
+[With decision.] 
+@l{"name":"Asta"}
+We cannot, Alfred.
+
+
+@l{"name":"Allmers"}
+ Yes, we can. For the love of a brother and sister--
+
+
+@d{}
+[Eagerly.] 
+@l{"name":"Asta"}
+What of it?
+
+
+@l{"name":"Allmers"}
+ That is the only relation in life that is not subject to the
+law of change.
+
+
+@d{}
+[Softly and tremblingly.] 
+@l{"name":"Asta"}
+But if that relation were not--
+
+
+@l{"name":"Allmers"}
+ Not--?
+
+
+@l{"name":"Asta"}
+--not our relation?
+
+
+@d{}
+[Stares at her in astonishment.] 
+@l{"name":"Allmers"}
+Not ours? Why, what can you
+mean by that?
+
+
+@l{"name":"Asta"}
+ It is best I should tell you at once, Alfred.
+
+
+@l{"name":"Allmers"}
+ Yes, yes; tell me!
+
+
+@l{"name":"Asta"}
+ The letters to mother--. Those in my portfolio--
+
+
+@l{"name":"Allmers"}
+ Well?
+
+
+@l{"name":"Asta"}
+ You must read them--when I am gone.
+
+
+@l{"name":"Allmers"}
+ Why must I?
+
+
+@d{}
+[Struggling with herself.] 
+@l{"name":"Asta"}
+For then you will see that--
+
+
+@l{"name":"Allmers"}
+ Well?
+
+
+@l{"name":"Asta"}
+--that I have no right to bear your father's name.
+
+
+@d{}
+[Staggering backwards.] 
+@l{"name":"Allmers"}
+Asta! What is this you say!
+
+
+@l{"name":"Asta"}
+ Read the letters. Then you will see--and understand. And perhaps
+have some forgiveness--for mother, too.
+
+
+@d{}
+[Clutching at his forehead.] 
+@l{"name":"Allmers"}
+I cannot grasp this--I cannot
+realise the thought. You, Asta--you are not--
+
+
+@l{"name":"Asta"}
+ You are not my brother, Alfred.
+
+
+@d{}
+[Quickly, half defiantly, looking at her.] 
+@l{"name":"Allmers"}
+Well, but what
+difference does that really make in our relation? Practically none at
+all.
+
+
+@d{}
+[Shaking her head.] 
+@l{"name":"Asta"}
+It makes all the difference, Alfred. Our
+relation is not that of brother and sister.
+
+
+@l{"name":"Allmers"}
+ No, no. But it is none the less sacred for that--it will always
+be equally sacred.
+
+
+@l{"name":"Asta"}
+ Do not forget--that it is subject to the law of change, as you
+said just now.
+
+
+@d{}
+[Looks inquiringly at her.] 
+@l{"name":"Allmers"}
+Do you mean that--
+
+
+@d{}
+[Quietly, but with rearm emotion.] 
+@l{"name":"Asta"}
+Not a word more--my dear,
+dear Alfred. 
+@d{}
+[Takes up the flowers from the chair.] 
+@l{"name":"Asta"}
+Do you see these
+water-lilies?
+
+
+@d{}
+[Nodding slowly.] 
+@l{"name":"Allmers"}
+They are the sort that shoot up--from the
+very depth.
+
+
+@l{"name":"Asta"}
+ I pulled them in the tarn--where it flows out into the fiord.
+
+@d{}
+[Holds them out to him.] 
+@l{"name":"Asta"}
+Will you take them, Alfred?
+
+
+@d{}
+[Taking them.] 
+@l{"name":"Allmers"}
+Thanks.
+
+
+@d{}
+[With tears in her eyes.] 
+@l{"name":"Asta"}
+They are a last greeting to you,
+from--from little Eyolf.
+
+
+@d{}
+[Looking at her.] 
+@l{"name":"Allmers"}
+From Eyolf out yonder? Or from you?
+
+
+@d{}
+[Softly.] 
+@l{"name":"Asta"}
+From both of us. 
+@d{}
+[Taking up her umbrella.] 
+@l{"name":"Asta"}
+Now come with
+me to Rita.
+
+
+@d{}
+[She goes up the wood-path.]
+
+
+@d{}
+[Takes up his hat from the table, and whispers sadly.] 
+@l{"name":"Allmers"}
+Asta.
+Eyolf. Little Eyolf--!
+
+
+@d{}
+[He follows her up the path.]
+
+
+
+@x{"names":["Allmers","Asta"]}
+
+@a{"number":3}
+@s{"number":1}
+@d{}
+
+ACT THIRD
+
+[An elevation, overgrown with shrubs, in ALLMERS'S garden. At the back
+a sheer cliff, with a railing along its edge, and with steps on the left
+leading downwards. An extensive view over the fiord, which lies deep
+below. A flagstaff with lines, but no flag, stands by the railing. In
+front, on the right, a summer-house, covered with creepers and wild
+vines. Outside it, a bench. It is a late summer evening, with clear sky.
+Deepening twilight.]
+
+[ASTA is sitting on the bench, with her hands in her lap. She is wearing
+her outdoor dress and a hat, has her parasol at her side, and a little
+travelling-bag on a strap over her shoulder.]
+
+[BORGHEIM comes up from the back on the left. He, too, has a
+travelling-bag over his shoulder. He is carrying a rolled-up flag.]
+
+
+@e{"names":["Asta","Borgheim"]}
+
+@d{}
+[Catching sight of Asta] 
+@l{"name":"Borgheim"}
+Oh, so you are up here!
+
+
+@l{"name":"Asta"}
+ Yes, I am taking my last look out over the fiord.
+
+
+@l{"name":"Borgheim"}
+ Then I am glad I happened to come up.
+
+
+@l{"name":"Asta"}
+ Have you been searching for me?
+
+
+@l{"name":"Borgheim"}
+ Yes, I have. I wanted to say good-bye to you for the present.
+Not for good and all, I hope.
+
+
+@d{}
+[With a faint smile.] 
+@l{"name":"Asta"}
+You are persevering.
+
+
+@l{"name":"Borgheim"}
+ A road-maker has got to be.
+
+
+@l{"name":"Asta"}
+ Have you seen anything of Alfred? Or of Rita?
+
+
+@l{"name":"Borgheim"}
+ Yes, I saw them both.
+
+
+@l{"name":"Asta"}
+ Together?
+
+
+@l{"name":"Borgheim"}
+ No--apart.
+
+
+@l{"name":"Asta"}
+ What are you going to do with that flag?
+
+
+@l{"name":"Borgheim"}
+ Mrs. Allmers asked me to come up and hoist it.
+
+
+@l{"name":"Asta"}
+ Hoist a flag just now?
+
+
+@l{"name":"Borgheim"}
+ Half-mast high. She wants it to fly both night and day, she
+says.
+
+
+@d{}
+[Sighing.] 
+@l{"name":"Asta"}
+Poor Rita! And poor Alfred!
+
+
+@d{}
+[Busied with the flag.] 
+@l{"name":"Borgheim"}
+Have you the heart to leave them? I
+ask, because I see you are in travelling-dress.
+
+
+@d{}
+[In a low voice.] 
+@l{"name":"Asta"}
+I must go.
+
+
+@l{"name":"Borgheim"}
+ Well, if you must, then--
+
+
+@l{"name":"Asta"}
+ And you are going, too, to-night?
+
+
+@l{"name":"Borgheim"}
+ I must, too. I am going by the train. Are you going that way?
+
+
+@l{"name":"Asta"}
+ No. I shall take the steamer.
+
+
+@d{}
+[Glancing at her.] 
+@l{"name":"Borgheim"}
+We each take our own way, then?
+
+
+@l{"name":"Asta"}
+ Yes.
+
+
+@d{}
+[She sits and looks on while he hoists the flag half-mast high. When he
+has done he goes up to her.]
+
+
+@l{"name":"Borgheim"}
+ Miss Asta--you can't think how grieved I am about little
+Eyolf.
+
+
+@d{}
+[Looks up at him.] 
+@l{"name":"Asta"}
+Yes, I am sure you feel it deeply.
+
+
+@l{"name":"Borgheim"}
+ And the feeling tortures me. For the fact is, grief is not
+much in my way.
+
+
+@d{}
+[Raising her eyes to the flag.] 
+@l{"name":"Asta"}
+It will pass over in time--all of
+it. All our sorrow.
+
+
+@l{"name":"Borgheim"}
+ All? Do you believe that?
+
+
+@l{"name":"Asta"}
+ Like a squall at sea. When once you have got far away from here,
+then--
+
+
+@l{"name":"Borgheim"}
+ It will have to be very far away indeed.
+
+
+@l{"name":"Asta"}
+ And then you have this great new road-work, too.
+
+
+@l{"name":"Borgheim"}
+ But no one to help me in it.
+
+
+@l{"name":"Asta"}
+ Oh yes, surely you have.
+
+
+@d{}
+[Shaking his head.] 
+@l{"name":"Borgheim"}
+No one. No one to share the gladness with.
+For it is gladness that most needs sharing.
+
+
+@l{"name":"Asta"}
+ Not the labour and trouble?
+
+
+@l{"name":"Borgheim"}
+ Pooh--that sort of thing one can always get through alone.
+
+
+@l{"name":"Asta"}
+ But the gladness--that must be shared with some one, you think?
+
+
+@l{"name":"Borgheim"}
+ Yes; for if not, where would be the pleasure in being glad?
+
+
+@l{"name":"Asta"}
+ Ah yes--perhaps there is something in that.
+
+
+@l{"name":"Borgheim"}
+ Oh, of course, for a certain time you can go on feeling glad
+in your own heart. But it won't do in the long run. No, it takes two to
+be glad.
+
+
+@l{"name":"Asta"}
+ Always two? Never more? Never many?
+
+
+@l{"name":"Borgheim"}
+ Well, you see--then it becomes a quite different matter. Miss
+Asta--are you sure you can never make up your mind to share gladness and
+success and--and labour and trouble, with one--with one alone in all the
+world?
+
+
+@l{"name":"Asta"}
+ I have tried it--once.
+
+
+@l{"name":"Borgheim"}
+ Have you?
+
+
+@l{"name":"Asta"}
+ Yes, all the time that my brother--that Alfred and I lived
+together.
+
+
+@l{"name":"Borgheim"}
+ Oh, with your brother, yes. But that is altogether different.
+That ought rather to be called peace than happiness, I should say.
+
+
+@l{"name":"Asta"}
+ It was delightful, all the same.
+
+
+@l{"name":"Borgheim"}
+ There now--you see even that seemed to you delightful. But
+just think now--if he had not been your brother!
+
+
+@d{}
+[Makes a movement to rise, but remains sitting.] 
+@l{"name":"Asta"}
+Then we should
+never have been together. For I was a child then--and he wasn't much
+more.
+
+
+@d{}
+[After a pause.] 
+@l{"name":"Borgheim"}
+Was it so delightful--that time?
+
+
+@l{"name":"Asta"}
+ Oh yes, indeed it was.
+
+
+@l{"name":"Borgheim"}
+ Was there much that was really bright and happy in your life
+then?
+
+
+@l{"name":"Asta"}
+ Oh yes, so much. You cannot think how much.
+
+
+@l{"name":"Borgheim"}
+ Tell me a little about it, Miss Asta.
+
+
+@l{"name":"Asta"}
+ Oh, there are only trifles to tell.
+
+
+@l{"name":"Borgheim"}
+ Such as--? Well?
+
+
+@l{"name":"Asta"}
+ Such as the time when Alfred had passed his examination--and had
+distinguished himself. And then, from time, to time, when he got a post
+in some school or other. Or when he would sit at home working at an
+article--and would read it aloud to me. And then when it would appear in
+some magazine.
+
+
+@l{"name":"Borgheim"}
+ Yes, I can quite see that it must have been a peaceful,
+delightful life--a brother and sister sharing all their joys. 
+@d{}
+[Shaking
+his head.] 
+@l{"name":"Borgheim"}
+What I cannot understand is that your brother could ever give
+you up, Asta.
+
+
+@d{}
+[With suppressed emotion.] 
+@l{"name":"Asta"}
+Alfred married, you know.
+
+
+@l{"name":"Borgheim"}
+ Was not that very hard for you?
+
+
+@l{"name":"Asta"}
+ Yes, at first. It seemed as though I had utterly lost him all at
+once.
+
+
+@l{"name":"Borgheim"}
+ Well, luckily it was not so bad as that.
+
+
+@l{"name":"Asta"}
+ No.
+
+
+@l{"name":"Borgheim"}
+ But, all the same--how could he! Go and marry, I mean--when he
+could have kept you with him, alone!
+
+
+@d{}
+[Looking straight in front of her.] 
+@l{"name":"Asta"}
+He was subject to the law of
+change, I suppose.
+
+
+@l{"name":"Borgheim"}
+ The law of change?
+
+
+@l{"name":"Asta"}
+ So Alfred calls it.
+
+
+@l{"name":"Borgheim"}
+ Pooh--what a stupid law that must be! I don't believe a bit in
+that law.
+
+
+@d{}
+[Rising.] 
+@l{"name":"Asta"}
+You may come to believe in it, in time.
+
+
+@l{"name":"Borgheim"}
+ Never in all my life! 
+@d{}
+[Insistently.] 
+@l{"name":"Borgheim"}
+But listen now, Miss
+Asta! Do be reasonable for once in a way--in this matter, I mean--
+
+
+@d{}
+[Interrupting him.] 
+@l{"name":"Asta"}
+Oh, no, no--don't let us begin upon that
+again!
+
+
+@d{}
+[Continuing as before.] 
+@l{"name":"Borgheim"}
+Yes, Asta--I can't possibly give you
+up so easily. Now your brother has everything as he wishes it. He can
+live his life quite contentedly without you. He doesn't require you at
+all. Then this--this--that at one blow has changed your whole position
+here--
+
+
+@d{}
+[With a start.] 
+@l{"name":"Asta"}
+What do you mean by that?
+
+
+@l{"name":"Borgheim"}
+ The loss of the child. What else should I mean?
+
+
+@d{}
+[Recovering her self-control.] 
+@l{"name":"Asta"}
+Little Eyolf is gone, yes.
+
+
+@l{"name":"Borgheim"}
+ And what more does that leave you to do here? You have not the
+poor little boy to take care of now. You have no duties--no claims upon
+you of any sort.
+
+
+@l{"name":"Asta"}
+ Oh, please, Mr. Borgheim--don't make it so hard for me.
+
+
+@l{"name":"Borgheim"}
+ I must; I should be mad if I did not try my uttermost. I
+shall be leaving town before very long, rind perhaps I shall have no
+opportunity of meeting you there. Perhaps I shall not see you again for
+a long, long time. And who knows what may happen in the meanwhile?
+
+
+@d{}
+[With a grave smile.] 
+@l{"name":"Asta"}
+So you are afraid of the law of change,
+after all?
+
+
+@l{"name":"Borgheim"}
+ No, not in the least. 
+@d{}
+[Laughing bitterly.] 
+@l{"name":"Borgheim"}
+And there is
+nothing to be changed, either--not in you. I mean. For I can see you
+don't care much about me.
+
+
+@l{"name":"Asta"}
+ You know very well that I do.
+
+
+@l{"name":"Borgheim"}
+ Perhaps, but not nearly enough. Not as I want you to. 
+@d{}
+[More
+forcibly.] 
+@l{"name":"Borgheim"}
+By Heaven, Asta--Miss Asta--I cannot tell you how strongly I
+feel that you are wrong in this! A little onward, perhaps, from to-day
+and to-morrow, all life's happiness may be awaiting us. And we must
+needs pass it by! Do you think we will not come to repent of it, Asta?
+
+
+@d{}
+[Quietly.] 
+@l{"name":"Asta"}
+I don't know. I only know that they are not for us--all
+these bright possibilities.
+
+
+@d{}
+[Looks at her with self-control.] 
+@l{"name":"Borgheim"}
+Then I must make my roads
+alone?
+
+
+@d{}
+[Warmly.] 
+@l{"name":"Asta"}
+Oh, how I wish I could stand by you in it all! Help you
+in the labour--share the gladness with you--
+
+
+@l{"name":"Borgheim"}
+ Would you--if you could?
+
+
+@l{"name":"Asta"}
+ Yes, that I would.
+
+
+@l{"name":"Borgheim"}
+ But you cannot?
+
+
+@d{}
+[Looking down.] 
+@l{"name":"Asta"}
+Would you be content to have only half of me?
+
+
+@l{"name":"Borgheim"}
+ No. You must be utterly and entirely mine.
+
+
+@d{}
+[Looks at him, and says quietly.] 
+@l{"name":"Asta"}
+Then I cannot.
+
+
+@l{"name":"Borgheim"}
+ Good-bye then, Miss Asta.
+
+
+@d{}
+[He is on the point of going. ALLMERS comes up from the left at the
+back. BORGHEIM stops.]
+
+
+@e{"names":["Allmers"]}
+
+@d{}
+[The moment he has reached the top of the steps, points, and
+says in a low voice.] 
+@l{"name":"Allmers"}
+Is Rita in there--in the summer-house?
+
+
+@l{"name":"Borgheim"}
+ No; there is no one here but Miss Asta.
+
+
+@d{}
+[ALLMERS comes forward.]
+
+
+@d{}
+[Going towards him.] 
+@l{"name":"Asta"}
+Shall I go down and look for her? Shall I get
+her to come up here?
+
+
+@d{}
+[With a negative gesture.] 
+@l{"name":"Allmers"}
+No, no, no--let it alone. 
+@d{}
+[To
+Borgheim] 
+@l{"name":"Allmers"}
+Is it you that have hoisted the flag?
+
+
+@l{"name":"Borgheim"}
+ Yes. Mrs. Allmers asked me to. That was what brought me up
+here.
+
+
+@l{"name":"Allmers"}
+ And you are going to start to-night?
+
+
+@l{"name":"Borgheim"}
+ Yes. To-night I go away in good earnest.
+
+
+@d{}
+[With a glance at Asta] 
+@l{"name":"Allmers"}
+And you have made sure of pleasant
+company, I daresay.
+
+
+@d{}
+[Shaking his head.] 
+@l{"name":"Borgheim"}
+I am going alone.
+
+
+@d{}
+[With surprise.] 
+@l{"name":"Allmers"}
+Alone!
+
+
+@l{"name":"Borgheim"}
+ Utterly alone.
+
+
+@d{}
+[Absently.] 
+@l{"name":"Allmers"}
+Indeed?
+
+
+@l{"name":"Borgheim"}
+ And I shall have to remain alone, too.
+
+
+@l{"name":"Allmers"}
+ There is something horrible in being alone. The thought of it
+runs like ice through my blood--
+
+
+@l{"name":"Asta"}
+ Oh, but, Alfred, you are not alone.
+
+
+@l{"name":"Allmers"}
+ There may be something horrible in that too, Asta.
+
+
+@d{}
+[Oppressed.] 
+@l{"name":"Asta"}
+Oh, don't talk like that! Don't think like that!
+
+
+@d{}
+[Not listening to her.] 
+@l{"name":"Allmers"}
+But since you are not going with him--?
+Since there is nothing to bind you--? Why will you not remain out here
+with me--and with Rita?
+
+
+@d{}
+[Uneasily.] 
+@l{"name":"Asta"}
+No, no, I cannot. I must go back to town now.
+
+
+@l{"name":"Allmers"}
+ But only in to town, Asta. Do you hear!
+
+
+@l{"name":"Asta"}
+ Yes.
+
+
+@l{"name":"Allmers"}
+ And you must promise me that you will soon come out again.
+
+
+@d{}
+[Quickly.] 
+@l{"name":"Asta"}
+No, no, I dare not promise you that, for the present.
+
+
+@l{"name":"Allmers"}
+ Well as you will. We shall soon meet in town, then.
+
+
+@d{}
+[Imploringly.] 
+@l{"name":"Asta"}
+But, Alfred, you must stay at home here with Rita
+now.
+
+
+@d{}
+[Without answering, turns to Borgheim] 
+@l{"name":"Allmers"}
+You may find it a good
+thing, after all, that you have to take your journey alone.
+
+
+@d{}
+[Annoyed.] 
+@l{"name":"Borgheim"}
+Oh, how can you say such a thing?
+
+
+@l{"name":"Allmers"}
+ You see, you can never tell whom you might happen to meet
+afterwards--on the way.
+
+
+@d{}
+[Involuntarily.] 
+@l{"name":"Asta"}
+Alfred!
+
+
+@l{"name":"Allmers"}
+ The right fellow-traveller--when it is too late--too late.
+
+
+@d{}
+[Softly, quivering.] 
+@l{"name":"Asta"}
+Alfred! Alfred!
+
+
+@d{}
+[Looking front one to the other.] 
+@l{"name":"Borgheim"}
+What is the meaning of this?
+I don't understand--
+
+
+@d{}
+[RITA comes up from the left at the back.]
+
+
+@e{"names":["Rita"]}
+
+@d{}
+[Plaintively.] 
+@l{"name":"Rita"}
+Oh, don't go away from me, all of you!
+
+
+@d{}
+[Going towards her.] 
+@l{"name":"Asta"}
+You said you preferred to be alone.
+
+
+@l{"name":"Rita"}
+ Yes, but I dare not. It is getting so horribly dark. I seem to see
+great, open eyes fixed upon me!
+
+
+@d{}
+[Tenderly and sympathetically.] 
+@l{"name":"Asta"}
+What if it were so, Rita? You
+ought not to be afraid of those eyes.
+
+
+@l{"name":"Rita"}
+ How can you say so! Not afraid!
+
+
+@d{}
+[Insistently.] 
+@l{"name":"Allmers"}
+Asta, I beg you--for Heaven's sake--remain here
+with Rita!
+
+
+@l{"name":"Rita"}
+ Yes! And with Alfred, too. Do! Do, Asta!
+
+
+@d{}
+[Struggling with herself.] 
+@l{"name":"Asta"}
+Oh, I want to so much--
+
+
+@l{"name":"Rita"}
+ Well, then, do it! For Alfred and I cannot go alone through the
+sorrow and heartache.
+
+
+@d{}
+[Darkly.] 
+@l{"name":"Allmers"}
+Say, rather--through the ranklings of remorse.
+
+
+@l{"name":"Rita"}
+ Oh, whatever you like to call it--we cannot bear it alone, we two.
+Oh, Asta, I beg and implore you! Stay here and help us! Take Eyolf's
+place for us--
+
+
+@d{}
+[Shrinking.] 
+@l{"name":"Asta"}
+Eyolf's--
+
+
+@l{"name":"Rita"}
+ Yes, would you not have it so, Alfred?
+
+
+@l{"name":"Allmers"}
+ If she can and will.
+
+
+@l{"name":"Rita"}
+ You used to call her your little Eyolf. 
+@d{}
+[Seizes her hand.]
+
+@l{"name":"Rita"}
+Henceforth you shall be our Eyolf, Asta! Eyolf, as you were before.
+
+
+@d{}
+[With concealed emotion.] 
+@l{"name":"Allmers"}
+Remain--and share our life with us,
+Asta. With Rita. With me. With me--your brother!
+
+
+@d{}
+[With decision, snatches her hand away.] 
+@l{"name":"Asta"}
+No. I cannot. 
+@d{}
+[Turning.]
+
+@l{"name":"Asta"}
+Mr. Borgheim--what time does the steamer start?
+
+
+@l{"name":"Borgheim"}
+ Now--at once.
+
+
+@l{"name":"Asta"}
+ Then I must go on board. Will you go with me?
+
+
+@d{}
+[With a suppressed outburst of joy.] 
+@l{"name":"Borgheim"}
+Will I? Yes, yes!
+
+
+@l{"name":"Asta"}
+ Then come!
+
+
+@d{}
+[Slowly.] 
+@l{"name":"Rita"}
+Ah! That is how it is. Well, then, you cannot stay with
+us.
+
+
+@d{}
+[Throwing her arms round her neck.] 
+@l{"name":"Asta"}
+Thanks for everything, Rita!
+
+@d{}
+(Goes up to ALLMERS and grasps his hand.) 
+@l{"name":"Asta"}
+Alfred-good-bye! A thousand
+times, good-bye!
+
+
+@d{}
+[Softly and eagerly.] 
+@l{"name":"Allmers"}
+What is this, Asta? It seems as though you
+were taking flight.
+
+
+@d{}
+[In subdued anguish.] 
+@l{"name":"Asta"}
+Yes, Alfred--I am taking flight.
+
+
+@l{"name":"Allmers"}
+ Flight--from me!
+
+
+@d{}
+[Whispering.] 
+@l{"name":"Asta"}
+From you--and from myself.
+
+
+@d{}
+[Shrinking back.] 
+@l{"name":"Allmers"}
+Ah--!
+
+
+@d{}
+[ASTA rushes down the steps at the back. BORGHEIM waves his hat and
+follows her. RITA leans against the entrance to the summer-house.
+ALLMERS goes, in strong inward emotion, up to the railing, and stands
+there gazing downwards. A pause.]
+
+
+@x{"names":["Asta","Borgheim"]}
+
+@d{}
+[Turns, and says with hard-won composure.] 
+@l{"name":"Allmers"}
+There comes the
+steamer. Look, Rita.
+
+
+@l{"name":"Rita"}
+ I dare not look at it.
+
+
+@l{"name":"Allmers"}
+ You dare not?
+
+
+@l{"name":"Rita"}
+ No. For it has a red eye--and a green one, too. Great, glowing
+eyes.
+
+
+@l{"name":"Allmers"}
+ Oh, those are only the lights, you know.
+
+
+@l{"name":"Rita"}
+ Henceforth they are eyes--for me. They stare and stare out of the
+darkness--and into the darkness.
+
+
+@l{"name":"Allmers"}
+ Now she is putting in to shore.
+
+
+@l{"name":"Rita"}
+ Where are they mooring her this evening, then?
+
+
+@d{}
+[Coming forward.] 
+@l{"name":"Allmers"}
+At the pier, as usual--
+
+
+@d{}
+[Drawing herself up.] 
+@l{"name":"Rita"}
+How can they moor her there!
+
+
+@l{"name":"Allmers"}
+ They must.
+
+
+@l{"name":"Rita"}
+ But it was there that Eyolf--! How can they moor her there!
+
+
+@l{"name":"Allmers"}
+ Yes, life is pitiless, Rita.
+
+
+@l{"name":"Rita"}
+ Men are heartless. They take no thought--whether for the living or
+for the dead.
+
+
+@l{"name":"Allmers"}
+ There you are right. Life goes its own way--just as if nothing
+in the world had happened.
+
+
+@d{}
+[Gazing straight before her.] 
+@l{"name":"Rita"}
+And nothing has happened, either.
+Not to others. Only to us two.
+
+
+@d{}
+[The pain re-awakening.] 
+@l{"name":"Allmers"}
+Yes, Rita--so it was to no purpose
+that you bore him in sorrow and anguish. For now he is gone again--and
+has left no trace behind him.
+
+
+@l{"name":"Rita"}
+ Only the crutch was saved.
+
+
+@d{}
+[Angrily.] 
+@l{"name":"Allmers"}
+Be silent! Do not let me hear that word!
+
+
+@d{}
+[Plaintively.] 
+@l{"name":"Rita"}
+Oh, I cannot bear the thought that he is gone from
+us.
+
+
+@d{}
+[Coldly and bitterly.] 
+@l{"name":"Allmers"}
+You could very well do without him while
+he was with us. Half the day would often pass without your setting eyes
+on him.
+
+
+@l{"name":"Rita"}
+ Yes, for I knew that I could see him whenever I wanted to.
+
+
+@l{"name":"Allmers"}
+ Yes, that is how we have gone and squandered the short time we
+had with Little Eyolf.
+
+
+@d{}
+[Listening, in dread.] 
+@l{"name":"Rita"}
+Do you hear, Alfred! Now it is ringing
+again!
+
+
+@d{}
+[Looking over the fiord.] 
+@l{"name":"Allmers"}
+It is the steamer's bell that is
+ringing. She is just starting.
+
+
+@l{"name":"Rita"}
+ Oh, it's not that bell I mean. All day I have heard it ringing in
+my ears.--Now it is ringing again!
+
+
+@d{}
+[Going up to her.] 
+@l{"name":"Allmers"}
+You are mistaken, Rita.
+
+
+@l{"name":"Rita"}
+ No, I hear it so plainly. It sounds like a knell. Slow. Slow. And
+always the same words.
+
+
+@l{"name":"Allmers"}
+ Words? What words?
+
+
+@d{}
+[Nodding her head in the rhythm.] 
+@l{"name":"Rita"}
+"The crútch is--flóating. The
+crútch is--flóating." Oh, surely you must hear it, too!
+
+
+@d{}
+[Shaking his head.] 
+@l{"name":"Allmers"}
+I hear nothing. And there is nothing to
+hear.
+
+
+@l{"name":"Rita"}
+ Oh, you may say what you will--I hear it so plainly.
+
+
+@d{}
+[Looking out over the railing.] 
+@l{"name":"Allmers"}
+Now they are on board, Rita.
+Now the steamer is on her way to the town.
+
+
+@l{"name":"Rita"}
+ Is it possible you do not hear it? "The crútch is--flóating. The
+crútch is ------"
+
+
+@d{}
+[Coming forward.] 
+@l{"name":"Allmers"}
+You shall not stand there listening to a
+sound that does not exist. I tell You, Asta and Borgheim are on board.
+They have started already. Asta is gone.
+
+
+@d{}
+[Looks timidly at him.] 
+@l{"name":"Rita"}
+Then I suppose you will soon be gone, too,
+Alfred?
+
+
+@d{}
+[Quickly.] 
+@l{"name":"Allmers"}
+What do you mean by that?
+
+
+@l{"name":"Rita"}
+ That you will follow your sister.
+
+
+@l{"name":"Allmers"}
+ Has Asta told you anything?
+
+
+@l{"name":"Rita"}
+ No. But you said yourself it was for Asta's sake that--that we
+came together.
+
+
+@l{"name":"Allmers"}
+ Yes, but you, you yourself, have bound me to you--by our life
+together.
+
+
+@l{"name":"Rita"}
+ Oh, in your eyes I am not--I am not--entrancingly beautiful any
+more.
+
+
+@l{"name":"Allmers"}
+ The law of change may perhaps keep us together, none the less.
+
+
+@d{}
+[Nodding slowly.] 
+@l{"name":"Rita"}
+There is a change in me now--I feel the anguish
+of it.
+
+
+@l{"name":"Allmers"}
+ Anguish?
+
+
+@l{"name":"Rita"}
+ Yes, for change, too, is a sort of birth.
+
+
+@l{"name":"Allmers"}
+ It is--or a resurrection. Transition to a higher life.
+
+
+@d{}
+[Gazing sadly before her.] 
+@l{"name":"Rita"}
+Yes--with the loss of all, all life's
+happiness.
+
+
+@l{"name":"Allmers"}
+ That loss is just the gain.
+
+
+@d{}
+[Vehemently.] 
+@l{"name":"Rita"}
+Oh, phrases! Good God, we are creatures of earth
+after all.
+
+
+@l{"name":"Allmers"}
+ But something akin to the sea and the heavens too, Rita.
+
+
+@l{"name":"Rita"}
+ You perhaps. Not I.
+
+
+@l{"name":"Allmers"}
+ Oh, yes--you too, more than you yourself suspect.
+
+
+@d{}
+[Advancing a pace towards him.] 
+@l{"name":"Rita"}
+Tell me, Alfred--could you think
+of taking up your work again?
+
+
+@l{"name":"Allmers"}
+ The work that you have hated so?
+
+
+@l{"name":"Rita"}
+ I am easier to please now. I am willing to share you with the
+book.
+
+
+@l{"name":"Allmers"}
+ Why?
+
+
+@l{"name":"Rita"}
+ Only to keep you here with me--to have you near me.
+
+
+@l{"name":"Allmers"}
+ Oh, it is so little I can do to help you, Rita.
+
+
+@l{"name":"Rita"}
+ But perhaps I could help you.
+
+
+@l{"name":"Allmers"}
+ With my book, do you mean?
+
+
+@l{"name":"Rita"}
+ No; but to live your life.
+
+
+@d{}
+[Shaking his head.] 
+@l{"name":"Allmers"}
+I seem to have no life to live.
+
+
+@l{"name":"Rita"}
+ Well then, to endure your life.
+
+
+@d{}
+[Darkly, looking away from her.] 
+@l{"name":"Allmers"}
+I think it would be best for
+both of us that we should part.
+
+
+@d{}
+[Looking curiously at him.] 
+@l{"name":"Rita"}
+Then where would you go? Perhaps to
+Asta, after all?
+
+
+@l{"name":"Allmers"}
+ No--never again to Asta.
+
+
+@l{"name":"Rita"}
+ Where then?
+
+
+@l{"name":"Allmers"}
+ Up into the solitudes.
+
+
+@l{"name":"Rita"}
+ Up among the mountains? Is that what you mean?
+
+
+@l{"name":"Allmers"}
+ Yes.
+
+
+@l{"name":"Rita"}
+ But all that is mere dreaming, Alfred! You could not live up
+there.
+
+
+@l{"name":"Allmers"}
+ And yet I feel myself drawn to them.
+
+
+@l{"name":"Rita"}
+ Why? Tell me!
+
+
+@l{"name":"Allmers"}
+ Sit down--and I will tell you something.
+
+
+@l{"name":"Rita"}
+ Something that happened to you up there?
+
+
+@l{"name":"Allmers"}
+ Yes.
+
+
+@l{"name":"Rita"}
+ And that you never told Asta and me?
+
+
+@l{"name":"Allmers"}
+ Yes.
+
+
+@l{"name":"Rita"}
+ Oh, you are so silent about everything. You ought not to be.
+
+
+@l{"name":"Allmers"}
+ Sit down there--and I will tell you about it.
+
+
+@l{"name":"Rita"}
+ Yes, yes--tell me!
+
+
+@d{}
+[She sits on the bench beside the summer-house.]
+
+
+@l{"name":"Allmers"}
+ I was alone up there, in the heart of the great mountains. I
+came to a wide, dreary mountain lake; and that lake I had to cross. But
+I could not--for there was neither a boat nor any one there.
+
+
+@l{"name":"Rita"}
+ Well? And then?
+
+
+@l{"name":"Allmers"}
+ Then I went without any guidance into a side valley. I thought
+that by that way I could push on over the heights and between the
+peaks--and then down again on the other side of the lake.
+
+
+@l{"name":"Rita"}
+ Oh, and you lost yourself, Alfred!
+
+
+@l{"name":"Allmers"}
+ Yes; I mistook the direction--for there was no path or track.
+And all day I went on--and all the next night. And at last I thought I
+should never see the face of man again.
+
+
+@l{"name":"Rita"}
+ Not come home to us? Oh, then, I am sure your thoughts were with
+us here.
+
+
+@l{"name":"Allmers"}
+ No--they were not.
+
+
+@l{"name":"Rita"}
+ Not?
+
+
+@l{"name":"Allmers"}
+ No. It was so strange. Both you and Eyolf seemed to have
+drifted far, far away from me--and Asta, too.
+
+
+@l{"name":"Rita"}
+ Then what did you think of?
+
+
+@l{"name":"Allmers"}
+ I did not think. I dragged myself along among the
+precipices--and revelled in the peace and luxury of death.
+
+
+@d{}
+[Springing up.] 
+@l{"name":"Rita"}
+Oh, don't speak in that way of that horror!
+
+
+@l{"name":"Allmers"}
+ I did not feel it so. I had no fear. Here went death and I,
+it seemed to me, like two good fellow-travellers. It all seemed so
+natural--so simple, I thought. In my family, we don't live to be old--
+
+
+@l{"name":"Rita"}
+ Oh, don't say such things, Alfred! You see you came safely out of
+it, after all.
+
+
+@l{"name":"Allmers"}
+ Yes; all of a sudden, I found myself where I wanted to be--on
+the other side of the lake.
+
+
+@l{"name":"Rita"}
+ It must have been a night of terror for you, Alfred. But now that
+it is over, you will not admit it to yourself.
+
+
+@l{"name":"Allmers"}
+ That night sealed my resolution. And it was then that I turned
+about and came straight homewards. To Eyolf.
+
+
+@d{}
+[Softly.] 
+@l{"name":"Rita"}
+Too late.
+
+
+@l{"name":"Allmers"}
+ Yes. And then when--my fellow-traveller came and took him--then
+I felt the horror of it; of it all; of all that, in spite of everything,
+we dare not tear ourselves away from. So earthbound are we, both of us,
+Rita.
+
+
+@d{}
+[With a gleam of joy.] 
+@l{"name":"Rita"}
+Yes, you are, too, are you not! 
+@d{}
+[Coming
+close to him.] 
+@l{"name":"Rita"}
+Oh, let us live our life together as long as we can!
+
+
+@d{}
+[Shrugging his shoulders.] 
+@l{"name":"Allmers"}
+Live our life, yes! And have nothing
+to fill life with. An empty void on all sides--wherever I look.
+
+
+@d{}
+[In fear.] 
+@l{"name":"Rita"}
+Oh, sooner or later you will go away from me, Alfred! I
+feel it! I can see it in your face! You will go away from me.
+
+
+@l{"name":"Allmers"}
+ With my fellow-traveller, do you mean?
+
+
+@l{"name":"Rita"}
+ No, I mean worse than that. Of your own free will--you will leave
+me--for you think it's only here, with me, that you have nothing to live
+for. Is not that what is in your thoughts?
+
+
+@d{}
+[Looking steadfastly at her.] 
+@l{"name":"Allmers"}
+What if it were--?
+
+
+@d{}
+[A disturbance, and the noise of angry, quarrelling voices is heard from
+down below, in the distance. ALLMERS goes to the railing.]
+
+
+@l{"name":"Rita"}
+ What is that? 
+@d{}
+[With an outburst.] 
+@l{"name":"Rita"}
+Oh, you'll see, they have found
+him!
+
+
+@l{"name":"Allmers"}
+ He will never be found.
+
+
+@l{"name":"Rita"}
+ But what is it then?
+
+
+@d{}
+[Coming forward.] 
+@l{"name":"Allmers"}
+Only fighting--as usual.
+
+
+@l{"name":"Rita"}
+ Down on the beach?
+
+
+@l{"name":"Allmers"}
+ Yes. The whole village down there ought to be swept away. Now
+the men have come home--drunk, as they always are. They are beating the
+children--do you hear the boys crying! The women are shrieking for help
+for them--
+
+
+@l{"name":"Rita"}
+ Should we not get some one to go down and help them?
+
+
+@d{}
+[Harshly and angrily.] 
+@l{"name":"Allmers"}
+Help them, who did not help Eyolf! Let
+them go--as they let Eyolf go.
+
+
+@l{"name":"Rita"}
+ Oh, you must not talk like that, Alfred! Nor think like that!
+
+
+@l{"name":"Allmers"}
+ I cannot think otherwise. All the old hovels ought to be torn
+down.
+
+
+@l{"name":"Rita"}
+ And then what is to become of all the poor people?
+
+
+@l{"name":"Allmers"}
+ They must go somewhere else.
+
+
+@l{"name":"Rita"}
+ And the children, too?
+
+
+@l{"name":"Allmers"}
+ Does it make much difference where they go to the dogs?
+
+
+@d{}
+[Quietly and reproachfully.] 
+@l{"name":"Rita"}
+You are forcing yourself into this
+harshness, Alfred.
+
+
+@d{}
+[Vehemently.] 
+@l{"name":"Allmers"}
+I have a right to be harsh now! It is my duty.
+
+
+@l{"name":"Rita"}
+ Your duty?
+
+
+@l{"name":"Allmers"}
+ My duty to Eyolf. He must not lie unavenged. Once for all,
+Rita--it is as I tell you! Think it over! Have the whole place down
+there razed to the ground--when I am gone.
+
+
+@d{}
+[Looks intently at him.] 
+@l{"name":"Rita"}
+When you are gone?
+
+
+@l{"name":"Allmers"}
+ Yes. For that will at least give you something to fill your
+life with--and something you must have.
+
+
+@d{}
+[Firmly and decidedly.] 
+@l{"name":"Rita"}
+There you are right---I must. But can you
+guess what I will set about--when you are gone?
+
+
+@l{"name":"Allmers"}
+ Well, what?
+
+
+@d{}
+[Slowly and with resolution.] 
+@l{"name":"Rita"}
+As soon as you are gone from me,
+I will go down to the beach, and bring all the poor neglected children
+home with me. All the mischievous boys--
+
+
+@l{"name":"Allmers"}
+ What will you do with them here?
+
+
+@l{"name":"Rita"}
+ I will take them to my heart.
+
+
+@l{"name":"Allmers"}
+ You!
+
+
+@l{"name":"Rita"}
+ Yes, I will. From the day you leave me, they shall all be here,
+all of them, as if they were mine.
+
+
+@d{}
+[Shocked.] 
+@l{"name":"Allmers"}
+In our little Eyolf's place!
+
+
+@l{"name":"Rita"}
+ Yes, in our little Eyolf's place. They shall live in Eyolf's
+rooms. They shall read his books. They shall play with his toys. They
+shall take it in turns to sit in his chair at table.
+
+
+@l{"name":"Allmers"}
+ But this is sheer madness in you! I do not know a creature in
+the world that is less fitted than you for anything of that sort.
+
+
+@l{"name":"Rita"}
+ Then I shall have to educate myself for it; to train myself; to
+discipline myself.
+
+
+@l{"name":"Allmers"}
+ If you are really in earnest about this--about all you
+say--then there must indeed be a change in you.
+
+
+@l{"name":"Rita"}
+ Yes, there is, Alfred--and for that I have you to thank. You
+have made an empty place within me; and I must try to fill it up with
+something--with something that is a little like love.
+
+
+@d{}
+[Stands for a moment lost in thought; then looks at her.] 
+@l{"name":"Allmers"}
+The
+truth is, we have not done much for the poor people down there.
+
+
+@l{"name":"Rita"}
+ We have done nothing for them.
+
+
+@l{"name":"Allmers"}
+ Scarcely even thought of them.
+
+
+@l{"name":"Rita"}
+ Never thought of them in sympathy.
+
+
+@l{"name":"Allmers"}
+ We, who had "the gold, and the green forests"--
+
+
+@l{"name":"Rita"}
+ Our hands were closed to them. And our hearts too.
+
+
+@d{}
+[Nods.] 
+@l{"name":"Allmers"}
+Then it was perhaps natural enough, after all, that
+they should not risk their lives to save little Eyolf.
+
+
+@d{}
+[Softly.] 
+@l{"name":"Rita"}
+Think, Alfred! Are you so certain that--that we would
+have risked ours?
+
+
+@d{}
+[With an uneasy gesture of repulsion.] 
+@l{"name":"Allmers"}
+You must never doubt
+that.
+
+
+@l{"name":"Rita"}
+ Oh, we are children of earth.
+
+
+@l{"name":"Allmers"}
+ What do you really think you can do with all these neglected
+children?
+
+
+@l{"name":"Rita"}
+ I suppose I must try if I cannot lighten and--and ennoble their
+lot in life.
+
+
+@l{"name":"Allmers"}
+ If you can do that--then Eyolf was not born in vain.
+
+
+@l{"name":"Rita"}
+ Nor taken from us in vain, either.
+
+
+@d{}
+[Looking steadfastly at her.] 
+@l{"name":"Allmers"}
+Be quite clear about one thing,
+Rita--it is not love that is driving you to this.
+
+
+@l{"name":"Rita"}
+ No, it is not--at any rate, not yet.
+
+
+@l{"name":"Allmers"}
+ Well, then what is it?
+
+
+@d{}
+[Half-evasively.] 
+@l{"name":"Rita"}
+You have so often talked to Asta of human
+responsibility--
+
+
+@l{"name":"Allmers"}
+ Of the book that you hated.
+
+
+@l{"name":"Rita"}
+ I hate that book still. But I used to sit and listen to what you
+told her. And now I will try to continue it--in my own way.
+
+
+@d{}
+[Shaking his head.] 
+@l{"name":"Allmers"}
+It is not for the sake of that unfinished
+book--
+
+
+@l{"name":"Rita"}
+ No, I have another reason as well.
+
+
+@l{"name":"Allmers"}
+ What is that?
+
+
+@d{}
+[Softly, with a melancholy smile.] 
+@l{"name":"Rita"}
+I want to make my peace with
+the great, open eyes, you see.
+
+
+@d{}
+[Struck, fixing his eyes upon her.] 
+@l{"name":"Allmers"}
+Perhaps, I could join you
+in that? And help you, Rita?
+
+
+@l{"name":"Rita"}
+ Would you?
+
+
+@l{"name":"Allmers"}
+ Yes--if I were only sure I could.
+
+
+@d{}
+[Hesitatingly.] 
+@l{"name":"Rita"}
+But then you would have to remain here.
+
+
+@d{}
+[Softly.] 
+@l{"name":"Allmers"}
+Let us try if it could not be so.
+
+
+@d{}
+[Almost inaudibly.] 
+@l{"name":"Rita"}
+Yes, let us, Alfred.
+
+
+@d{}
+[Both are silent. Then ALLMERS goes up to the flagstaff and hoists the
+flag to the top. RITA stands beside the summer-house and looks at him in
+silence.]
+
+
+@d{}
+[Coming forward again.] 
+@l{"name":"Allmers"}
+We have a heavy day of work before us,
+Rita.
+
+
+@l{"name":"Rita"}
+ You will see--that now and then a Sabbath peace will descend on
+us.
+
+
+@d{}
+[Quietly, with emotion.] 
+@l{"name":"Allmers"}
+Then, perhaps, we shall know that the
+spirits are with us.
+
+
+@d{}
+[Whispering.] 
+@l{"name":"Rita"}
+The spirits?
+
+
+@d{}
+[As before.] 
+@l{"name":"Allmers"}
+Yes, they will perhaps be around us--those whom we
+have lost.
+
+
+@d{}
+[Nods slowly.] 
+@l{"name":"Rita"}
+Our little Eyolf. And your big Eyolf, too.
+
+
+@d{}
+[Gazing straight before him.] 
+@l{"name":"Allmers"}
+Now and then, perhaps, we may
+still--on the way through life--have a little, passing glimpse of them.
+
+
+@l{"name":"Rita"}
+ When, shall we look for them, Alfred?
+
+
+@d{}
+[Fixing his eyes upon her.] 
+@l{"name":"Allmers"}
+Upwards.
+
+
+@d{}
+[Nods in approval.] 
+@l{"name":"Rita"}
+Yes, yes--upwards.
+
+
+@l{"name":"Allmers"}
+ Upwards--towards the peaks. Towards the stars. And towards the
+great silence.
+
+
+@d{}
+[Giving him her hand.] 
+
+@l{"name":"Rita"}
+
+Thanks!
+@x{"names":["Allmers","Rita"]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
