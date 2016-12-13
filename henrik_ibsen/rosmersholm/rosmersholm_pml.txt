@@ -1,0 +1,7927 @@
+﻿@v{"version": 0.1} 
+@play{"title":"Rosmersholm", "author": "Henrik Ibsen"}
+
+@a{"number":1}
+@s{"number":1}
+@d{}
+ROSMERSHOLM
+A play in four acts
+by
+HENRIK IBSEN
+Translated by R. FARQUHARSON SHARP
+
+ACT 1
+
+
+(SCENE--The sitting-room at Rosmersholm; a spacious room, comfortably
+furnished in old-fashioned style. In the foreground, against the
+right-hand wall, is a stove decorated with sprigs of fresh birch and
+wild flowers. Farther back, a door. In the back wall folding doors
+leading into the entrance hall. In the left-hand wall a window, in
+front of which is a stand filled with flowers and plants. Near the
+stove stand a table, a couch and an easy-chair. The walls are hung
+round with portraits, dating from various periods, of clergymen,
+military officers and other officials in uniform. The window is open,
+and so are the doors into the lobby and the outer door. Through the
+latter is seen an avenue of old trees leading to a courtyard. It is a
+summer evening, after sunset. REBECCA WEST is sitting by the window
+crocheting a large white woollen shawl, which is nearly completed. From
+time to time she peeps out of window through the flowers. MRS. HELSETH
+comes in from the right.)
+
+
+@e{"names":["Rebecca","Mrs. Helseth"]}
+
+@l{"name":"Mrs. Helseth"}
+ Hadn't I better begin and lay the table for supper, miss?
+
+
+@l{"name":"Rebecca"}
+ Yes, do. Mr. Rosmer ought to be in directly.
+
+
+@l{"name":"Mrs. Helseth"}
+ Isn't there a draught where you are sitting, miss?
+
+
+@l{"name":"Rebecca"}
+ There is a little. Will you shut up, please? 
+@d{}
+(MRS. HELSETH
+goes to the hall door and shuts it. Then she goes to the window, to
+shut it, and looks out.)
+
+
+@l{"name":"Mrs. Helseth"}
+ Isn't that Mr. Rosmer coming there?
+
+
+@l{"name":"Rebecca"}
+ Where? 
+@d{}
+(Gets up.) 
+@l{"name":"Rebecca"}
+Yes, it is he. 
+@d{}
+(Stands behind the
+window-curtain.) 
+@l{"name":"Rebecca"}
+Stand on one side. Don't let him catch sight of us.
+
+
+@d{}
+(stepping back). 
+@l{"name":"Mrs. Helseth"}
+Look, miss--he is beginning to use the
+mill path again.
+
+
+@l{"name":"Rebecca"}
+ He came by the mill path the day before yesterday too. 
+@d{}
+(Peeps
+out between the curtain and the window-frame). 
+@l{"name":"Rebecca"}
+Now we shall see
+whether--
+
+
+@l{"name":"Mrs. Helseth"}
+ Is he going over the wooden bridge?
+
+
+@l{"name":"Rebecca"}
+ That is just what I want to see. 
+@d{}
+(After a moment.) 
+@l{"name":"Rebecca"}
+No. He has
+turned aside. He is coming the other way round to-day too. 
+@d{}
+(Comes away
+from the window.) 
+@l{"name":"Rebecca"}
+It is a long way round.
+
+
+@l{"name":"Mrs. Helseth"}
+ Yes, of course. One can well understand his shrinking
+from going over that bridge. The spot where such a thing has happened
+is--
+
+
+@d{}
+(folding up her work). 
+@l{"name":"Rebecca"}
+They cling to their dead a long time at
+Rosmersholm.
+
+
+@l{"name":"Mrs. Helseth"}
+ If you ask me, miss, I should say it is the dead that
+cling to Rosmersholm a long time.
+
+
+@d{}
+(looking at her). 
+@l{"name":"Rebecca"}
+The dead?
+
+
+@l{"name":"Mrs. Helseth"}
+ Yes, one might almost say that they don't seem to be able
+to tear themselves away from those they have left behind.
+
+
+@l{"name":"Rebecca"}
+ What puts that idea into your head?
+
+
+@l{"name":"Mrs. Helseth"}
+ Well, otherwise I know the White Horses would not be seen
+here.
+
+
+@l{"name":"Rebecca"}
+ Tell me, Mrs. Helseth--what is this superstition about the
+White Horses?
+
+
+@l{"name":"Mrs. Helseth"}
+ Oh, it is not worth talking about. I am sure you don't
+believe in such things, either.
+
+
+@l{"name":"Rebecca"}
+ Do you believe in them?
+
+
+@d{}
+(goes to the window and shuts it). 
+@l{"name":"Mrs. Helseth"}
+Oh, I am not going to
+give you a chance of laughing at me, miss. 
+@d{}
+(Looks out.) 
+@l{"name":"Mrs. Helseth"}
+See--is that
+not Mr. Rosmer out on the mill path again?
+
+
+@d{}
+(looking out). 
+@l{"name":"Rebecca"}
+That man out there? 
+@d{}
+(Goes to the window.) 
+@l{"name":"Rebecca"}
+Why,
+that is Mr. Kroll, of course!
+
+
+@l{"name":"Mrs. Helseth"}
+ So it is, to be sure.
+
+
+@l{"name":"Rebecca"}
+ That is delightful, because he is certain to be coming here.
+
+
+@l{"name":"Mrs. Helseth"}
+ He actually comes straight over the wooden bridge, he
+does for all that she was his own sister. Well, I will go in and get
+the supper laid, miss. 
+@d{}
+(Goes out to the right. REBECCA stands still for
+a moment, then waves her hand out of the window, nodding and smiling.
+Darkness is beginning to fall.)
+
+
+@x{"names":["Mrs. Helseth"]}
+
+@d{}
+(going to the door on the right and calling through it). 
+@l{"name":"Rebecca"}
+Mrs.
+Helseth, I am sure you won't mind preparing something extra nice for
+supper? You know what dishes Mr. Kroll is especially fond of.
+
+
+@l{"name":"Mrs. Helseth"}
+ Certainly, miss. I will.
+
+
+@d{}
+(opening the door into the lobby). 
+@l{"name":"Rebecca"}
+At last, Mr. Kroll! I am so
+glad to see you!
+
+
+@d{}
+(coming into the lobby and putting down his stick). 
+@e{"names":["Kroll"]}
+
+@l{"name":"Kroll"}
+Thank you.
+Are you sure I am not disturbing you?
+
+
+@l{"name":"Rebecca"}
+ You? How can you say such a thing?
+
+
+@d{}
+(coming into the room). 
+@l{"name":"Kroll"}
+You are always so kind. 
+@d{}
+(Looks round the
+room.) 
+@l{"name":"Kroll"}
+Is John up in his room?
+
+
+@l{"name":"Rebecca"}
+ No, he has gone out for a walk. He is later than usual of
+coming in, but he is sure to be back directly. 
+@d{}
+(Points to the sofa.) 
+@l{"name":"Rebecca"}
+Do
+sit down and wait for him.
+
+
+@d{}
+(putting down his hat). 
+@l{"name":"Kroll"}
+Thank you. 
+@d{}
+(Sits down and looks about
+him.) 
+@l{"name":"Kroll"}
+How charmingly pretty you have made the old room look! Flowers
+everywhere!
+
+
+@l{"name":"Rebecca"}
+ Mr. Rosmer is so fond of having fresh flowers about him.
+
+
+@l{"name":"Kroll"}
+ And so are you, I should say.
+
+
+@l{"name":"Rebecca"}
+ Yes, I am. I think their scent has such a delicious effect on
+one--and till lately we had to deny ourselves that pleasure, you know.
+
+
+@d{}
+(nodding slowly). 
+@l{"name":"Kroll"}
+Poor Beata could not stand the scent of them.
+
+
+@l{"name":"Rebecca"}
+ Nor their colours either. They made her feel dazed.
+
+
+@l{"name":"Kroll"}
+ Yes, I remember. 
+@d{}
+(Continues in a more cheerful tone of voice).
+
+@l{"name":"Kroll"}
+Well, and how are things going here?
+
+
+@l{"name":"Rebecca"}
+ Oh, everything goes on in the same quiet, placid way. One day
+is exactly like another. And how are things with you? Is your wife--?
+
+
+@l{"name":"Kroll"}
+ Oh, my dear Miss West, don't let us talk about my affairs. In a
+family there is always something or other going awry--especially in
+such times as we live in now.
+
+
+@d{}
+(after a short pause, sitting down in an easy-chair near the
+sofa). 
+@l{"name":"Rebecca"}
+Why have you never once been near us during the whole of your
+holidays?
+
+
+@l{"name":"Kroll"}
+ Oh, it doesn't do to be importunate, you know.
+
+
+@l{"name":"Rebecca"}
+ If you only knew how we have missed you.
+
+
+@l{"name":"Kroll"}
+ And, besides, I have been away, you know.
+
+
+@l{"name":"Rebecca"}
+ Yes, for a fortnight or so. I suppose you have been going the
+round of the public meetings?
+
+
+@d{}
+(nods). 
+@l{"name":"Kroll"}
+Yes, what do you say to that? Would you ever have thought
+I would become a political agitator in my old age--eh?
+
+
+@d{}
+(smilingly). 
+@l{"name":"Rebecca"}
+You have always been a little bit of an agitator,
+Mr. Kroll
+
+
+@l{"name":"Kroll"}
+ Oh, yes; just for my own amusement. But for the future it is
+going to be in real earnest. Do you ever read the Radical newspapers?
+
+
+@l{"name":"Rebecca"}
+ Yes, I won't deny that!
+
+
+@l{"name":"Kroll"}
+ My dear Miss West, there is no objection to that--not as far as
+you are concerned.
+
+
+@l{"name":"Rebecca"}
+ No, that is just what I think. I must follow the course of
+events--keep up with what is happening.
+
+
+@l{"name":"Kroll"}
+ Well, under any circumstances, I should never expect you, as a
+woman, to side actively with either party in the civic dispute--indeed
+one might more properly call it the civil war--that is raging here. I
+dare say you have read, then, the abuse these "nature's gentlemen" are
+pleased to shower upon me, and the scandalous coarseness they consider
+they are entitled to make use of?
+
+
+@l{"name":"Rebecca"}
+ Yes, but I think you have held your own pretty forcibly.
+
+
+@l{"name":"Kroll"}
+ That I have--though I say it. I have tasted blood now, and I
+will make them realise that I am not the sort of man to take it lying
+down--. 
+@d{}
+(Checks himself.) 
+@l{"name":"Kroll"}
+No, no, do not let us get upon that sad and
+distressing topic this evening.
+
+
+@l{"name":"Rebecca"}
+ No, my dear Mr. Kroll, certainly not.
+
+
+@l{"name":"Kroll"}
+ Tell me, instead, how you find you get on at Rosmersholm, now
+that you are alone here--I mean, since our poor Beata--
+
+
+@l{"name":"Rebecca"}
+ Oh, thanks--I get on very well here. Her death has made a
+great gap in the house in many ways, of course--and one misses her and
+grieves for her, naturally. But in other respects--
+
+
+@l{"name":"Kroll"}
+ Do you think you will remain here?--permanently, I mean?
+
+
+@l{"name":"Rebecca"}
+ Dear Mr. Kroll, I really never think about it at all. The fact
+is that I have become so thoroughly domesticated here that I almost
+feel as if I belonged to the place too.
+
+
+@l{"name":"Kroll"}
+ You? I should think you did!
+
+
+@l{"name":"Rebecca"}
+ And as long as Mr. Rosmer finds I can be any comfort or any
+use to him, I will gladly remain here, undoubtedly.
+
+
+@d{}
+(looking at her, with some emotion). 
+@l{"name":"Kroll"}
+You know, there is something
+splendid about a woman's sacrificing the whole of her youth for others.
+
+
+@l{"name":"Rebecca"}
+ What else have I had to live for?
+
+
+@l{"name":"Kroll"}
+ At first when you came here there was your perpetual worry with
+that unreasonable cripple of a foster-father of yours--
+
+
+@l{"name":"Rebecca"}
+ You mustn't think that Dr. West was as unreasonable as that
+when we lived in Finmark. It was the trying journeys by sea that broke
+him up. But it is quite true that after we had moved here there were
+one or two hard years before his sufferings were over.
+
+
+@l{"name":"Kroll"}
+ Were not the years that followed even harder for you?
+
+
+@l{"name":"Rebecca"}
+ No; how can you say such a thing! I, who was so genuinely fond
+of Beata--! And she, poor soul was so sadly in need of care and
+sympathetic companionship.
+
+
+@l{"name":"Kroll"}
+ You deserve to be thanked and rewarded for the forbearance with
+which you speak of her.
+
+
+@d{}
+(moving a little nearer to him). 
+@l{"name":"Rebecca"}
+Dear Mr. Kroll, you say that
+so kindly and so sincerely that I feel sure you really bear me no
+ill-will.
+
+
+@l{"name":"Kroll"}
+ Ill-will? What do you mean?
+
+
+@l{"name":"Rebecca"}
+ Well, it would not be so very surprising if it were rather
+painful for you to see me, a stranger, doing just as I like here at
+Rosmersholm.
+
+
+@l{"name":"Kroll"}
+ How in the world could you think--!
+
+
+@l{"name":"Rebecca"}
+ Then it is not so? 
+@d{}
+(Holds out her hand to, him.) 
+@l{"name":"Rebecca"}
+Thank you,
+Mr. Kroll; thank you for that.
+
+
+@l{"name":"Kroll"}
+ But what on earth could make you take such an idea into your
+head?
+
+
+@l{"name":"Rebecca"}
+ I began to be afraid it might be so, as you have so seldom
+been out here to see us lately.
+
+
+@l{"name":"Kroll"}
+ I can assure you, you have been on the wrong scent entirely,
+Miss West. And, in any case, the situation of affairs is unchanged in
+any essential point; because during the last sad years of poor Beata's
+life it was you and you alone, even then, that looked after everything
+here.
+
+
+@l{"name":"Rebecca"}
+ But it was more like a kind of regency in the wife's name.
+
+
+@l{"name":"Kroll"}
+ Whatever it was, I--. I will tell you what, Miss West; as far as
+I am concerned I should have nothing whatever to say against it if you.
+But it doesn't do to say such things.
+
+
+@l{"name":"Rebecca"}
+ What things?
+
+
+@l{"name":"Kroll"}
+ Well, if it so happened that you were to step into the empty
+place--
+
+
+@l{"name":"Rebecca"}
+ I have the place I want, already, Mr. Kroll
+
+
+@l{"name":"Kroll"}
+ Yes, as far as material benefits go; but not--
+
+
+@d{}
+(interrupting him, in a serious voice). 
+@l{"name":"Rebecca"}
+For shame, Mr. Kroll!
+How can you sit there and jest about such things!
+
+
+@l{"name":"Kroll"}
+ Oh, well, I dare say our good John Rosmer thinks he has had more
+than enough of married life. But, all the same--
+
+
+@l{"name":"Rebecca"}
+ Really, you almost make me feel inclined to laugh at you.
+
+
+@l{"name":"Kroll"}
+ All the same--Tell me, Miss West, if I may be allowed the
+question, how old are you?
+
+
+@l{"name":"Rebecca"}
+ I am ashamed to say I was twenty-nine on my last birthday, Mr.
+Kroll I am nearly thirty.
+
+
+@l{"name":"Kroll"}
+ Quite so. And Rosmer--how old is he? Let me see. He is five
+years younger than me, so he must be just about forty-three. It seems
+to me it would be very suitable.
+
+
+@l{"name":"Rebecca"}
+ No doubt, no doubt. It would be remarkably suitable--Will you
+stop and have supper with us?
+
+
+@l{"name":"Kroll"}
+ Thank you. I had meant to pay you a good long visit, because
+there is a matter I want to talk over with our excellent friend--Well,
+then, Miss West, to prevent your taking foolish ideas into your head
+again, I will come out here again from time to time, as in the old days.
+
+
+@l{"name":"Rebecca"}
+ Yes, please do. 
+@d{}
+(Holds out her hand to, him.) 
+@l{"name":"Rebecca"}
+Thank you, thank
+you! You are really uncommonly good-natured.
+
+
+@d{}
+(with a little grumble). 
+@l{"name":"Kroll"}
+Am I? I can tell you that is more than
+they say at home. 
+@d{}
+(ROSMER comes in by the door on the right.)
+
+
+@e{"names":["Rosmer"]}
+
+@l{"name":"Rebecca"}
+ Mr. Rosmer, do you see who is sitting here?
+
+
+@l{"name":"Rosmer"}
+ Mrs. Helseth told me. 
+@d{}
+(KROLL gets up.) 
+@l{"name":"Rosmer"}
+I am so glad to see you
+here again, my dear fellow. 
+@d{}
+(Puts his hands on KROLL'S shoulders and
+looks him in the face.) 
+@l{"name":"Rosmer"}
+Dear old friend! I knew that one day we should
+be on our old footing again.
+
+
+@l{"name":"Kroll"}
+ My dear fellow, have you that insane idea in your head too, that
+any thing could come between us?
+
+
+@d{}
+(to ROSMER). 
+@l{"name":"Rebecca"}
+Isn't it delightful to think it was all our
+imagination!
+
+
+@l{"name":"Rosmer"}
+ Is that really true, Kroll? But why have you kept so
+obstinately away from us?
+
+
+@d{}
+(seriously, and in, a subdued voice). 
+@l{"name":"Kroll"}
+Because I did not want to
+come here like a living reminder of the unhappy time that is past--and
+of her who met her death in the mill-race.
+
+
+@l{"name":"Rosmer"}
+ It was a very kind thought on your part. You are always so
+considerate. But it was altogether unnecessary to keep away from us on
+that account. Come along, let us sit down on the sofa. 
+@d{}
+(They sit down.)
+
+@l{"name":"Rosmer"}
+I can assure you it is not in the least painful for me to think about
+Beata. We talk about her every day. She seems to us to have a part in
+the house still.
+
+
+@l{"name":"Kroll"}
+ Does she really?
+
+
+@d{}
+(lighting the lamp). 
+@l{"name":"Rebecca"}
+Yes, it is really quite true.
+
+
+@l{"name":"Rosmer"}
+ She really does. We both think so affectionately of her. And
+both Rebecca--both Miss West and I know in our hearts that we did all
+that lay in our power for the poor afflicted creature. We have nothing
+to reproach ourselves with. That is why I feel there is something sweet
+and peaceful in the way we can think of Beata now.
+
+
+@l{"name":"Kroll"}
+ You dear good people! In future I am coming out to see you every
+day.
+
+
+@d{}
+(sitting down in an arm-chair). 
+@l{"name":"Rebecca"}
+Yes, let us see that you keep
+your word.
+
+
+@d{}
+(with a slight hesitation). 
+@l{"name":"Rosmer"}
+I assure you, my dear fellow, my
+dearest wish would be that our intimacy should never suffer in any way.
+You know, you have seemed to be my natural adviser as long as we have
+known one another, even from my student days.
+
+
+@l{"name":"Kroll"}
+ I know, and I am very proud of the privilege. Is there by any
+chance anything in particular just now--?
+
+
+@l{"name":"Rosmer"}
+ There are a great many things that I want very much to talk
+over with you frankly--things that lie very near my heart.
+
+
+@l{"name":"Rebecca"}
+ I feel that is so, too, Mr. Rosmer It seems to me it would be
+such a good thing if you two old friends--
+
+
+@l{"name":"Kroll"}
+ Well, I can assure you I have even more to talk over with
+you--because I have become an active politician, as I dare say you know.
+
+
+@l{"name":"Rosmer"}
+ Yes, I know you have. How did that come about?
+
+
+@l{"name":"Kroll"}
+ I had to, you see, whether I liked it or not. It became
+impossible for me to remain an idle spectator any longer. Now that the
+Radicals have become so distressingly powerful, it was high time. And
+that is also why I have induced our little circle of friends in the
+town to bind themselves more definitely together. It was high time, I
+can tell you!
+
+
+@d{}
+(with a slight smile). 
+@l{"name":"Rebecca"}
+As a matter of fact, isn't it really
+rather late now?
+
+
+@l{"name":"Kroll"}
+ There is no denying it would have been more fortunate if we had
+succeeded in checking the stream at an earlier point. But who could
+really foresee what was coming? I am sure I could not. 
+@d{}
+(Gets up and
+walks up and down.) 
+@l{"name":"Kroll"}
+Anyway, my eyes are completely opened now; for the
+spirit of revolt has spread even into my school.
+
+
+@l{"name":"Rosmer"}
+ Into the school? Surely not into your school?
+
+
+@l{"name":"Kroll"}
+ Indeed it has. Into my own school. What do you think of this? I
+have got wind of the fact that the boys in the top class--or rather, a
+part of the boys in it--have formed themselves into a secret society
+and have been taking in Mortensgaard's paper!
+
+
+@l{"name":"Rebecca"}
+ Ah, the "Searchlight".
+
+
+@l{"name":"Kroll"}
+ Yes, don't you think that is a nice sort of intellectual pabulum
+for future public servants? But the saddest part of it is that it is
+all the most promising boys in the class that have conspired together
+and hatched this plot against me. It is only the duffers and dunces
+that have held aloof from it.
+
+
+@l{"name":"Rebecca"}
+ Do you take it so much to heart, Mr. Kroll?
+
+
+@l{"name":"Kroll"}
+ Do I take it to heart, to find myself so hampered and thwarted
+in my life's work? 
+@d{}
+(Speaking more gently.) 
+@l{"name":"Kroll"}
+I might find it in my heart
+to say that I could even take that for what it is worth; but I have not
+told you the worst of it yet. 
+@d{}
+(Looks round the room.) 
+@l{"name":"Kroll"}
+I suppose nobody
+is likely to be listening at the doors?
+
+
+@l{"name":"Rebecca"}
+ Oh, certainly not.
+
+
+@l{"name":"Kroll"}
+ Then let me tell you that the revolt and dissension has spread
+into my own home--into my own peaceful home--and has disturbed the
+peace of my family life.
+
+
+@d{}
+(getting up). 
+@l{"name":"Rosmer"}
+Do you mean it? In your own home?
+
+
+@d{}
+(going up to Kroll). 
+@l{"name":"Rebecca"}
+Dear Mr. Kroll, what has happened?
+
+
+@l{"name":"Kroll"}
+ Would you believe it that my own children--. To make a long
+story short, my boy Laurits is the moving spirit of the conspiracy at
+the school. And Hilda has embroidered a red portfolio to keep the
+numbers of the "Searchlight" in.
+
+
+@l{"name":"Rosmer"}
+ I should never have dreamed of such a thing; in your family--in
+your own house!
+
+
+@l{"name":"Kroll"}
+ No, who would ever have dreamed of such a thing? In my house,
+where obedience and order have always ruled--where hitherto there has
+never been anything but one unanimous will--
+
+
+@l{"name":"Rebecca"}
+ How does your wife take it?
+
+
+@l{"name":"Kroll"}
+ Ah, that is the most incredible part of the whole thing. She,
+who all her days--in great things and small--has concurred in my
+opinions and approved of all my views, has actually not refrained from
+throwing her weight on the children's side on many points. And now she
+considers I am to blame for what has happened. She says I try to coerce
+the young people too much. Just as if it were not necessary to--. Well,
+those are the sort of dissensions I have going on at home. But
+naturally I talk as little about it as possible; it is better to be
+silent about such things. 
+@d{}
+(Walks across the floor.) 
+@l{"name":"Kroll"}
+Oh, yes.--Oh, yes.
+
+@d{}
+(Stands by the window, with his hands behind his back, and looks out.)
+
+
+@d{}
+(goes up to ROSMER, and speaks in low, hurried tones, unheard
+by KROLL). 
+@l{"name":"Rebecca"}
+Do it!
+
+
+@d{}
+(in the same tone). 
+@l{"name":"Rosmer"}
+Not to-night.
+
+
+@d{}
+(as before). 
+@l{"name":"Rebecca"}
+Yes, this night of all others. 
+@d{}
+(Goes away from him
+and adjusts the lamp.)
+
+
+@d{}
+(coming back). 
+@l{"name":"Kroll"}
+Yes, my dear John, so now you know the sort of
+spirit of the age that has cast its shadow both over my home life and
+my official work. Ought I not to oppose this appalling, destructive,
+disorganising tendency with all the weapons I can lay my hands upon? Of
+course it is certainly my duty--and that both with my pen and my tongue.
+
+
+@l{"name":"Rosmer"}
+ But have you any hope that you can produce any effect in that
+way?
+
+
+@l{"name":"Kroll"}
+ At all events I mean to take my share in the fight as a citizen.
+And I consider that it is the duty of every patriotic man, every man
+who is concerned about what is right, to do the same. And, I may as
+well tell you, that is really the reason why I have come here to see
+you to-night.
+
+
+@l{"name":"Rosmer"}
+ My dear fellow, what do you mean? What can I--?
+
+
+@l{"name":"Kroll"}
+ You are going to help your old friends, and do as we are
+doing--take your share in it to the best of your ability.
+
+
+@l{"name":"Rebecca"}
+ But, Mr. Kroll, you know how little taste Mr. Rosmer has for
+that sort of thing.
+
+
+@l{"name":"Kroll"}
+ Then he has got to overcome that distaste now. You do not keep
+abreast of the times, John. You sit here and bury yourself in your
+historical researches. Goodness knows, I have the greatest respect for
+family pedigrees and all that they imply. But this is not the time for
+such occupations, unhappily. You have no conception of the state of
+affairs that is going on all over the country. Every single idea is
+turned upside down, or very nearly so. It will be a hard fight to get
+all the errors straightened out again.
+
+
+@l{"name":"Rosmer"}
+ I can quite believe it. But that sort of a fight is not in my
+line at all.
+
+
+@l{"name":"Rebecca"}
+ Besides, I rather fancy that Mr. Rosmer has come to look at
+the affairs of life with wider opened eyes than before.
+
+
+@d{}
+(with a start). 
+@l{"name":"Kroll"}
+Wider opened eyes?
+
+
+@l{"name":"Rebecca"}
+ Yes, or with an opener mind--with less prejudice.
+
+
+@l{"name":"Kroll"}
+ What do you mean by that? John--surely you could never be so
+weak as to allow yourself to be deluded by the accidental circumstance
+that the demagogues have scored a temporary success!
+
+
+@l{"name":"Rosmer"}
+ My dear fellow, you know very well that I am no judge of
+politics; but it certainly seems to me that of late years individual
+thought has become somewhat more independent.
+
+
+@l{"name":"Kroll"}
+ Quite so--but do you consider that as a matter of course to be a
+good thing? In any case you are vastly mistaken, my friend. Just
+inquire a little into the opinions that are current amongst the
+Radicals, both out here in the country and in town. You will find them
+to be nothing else than the words of wisdom that appear in the
+"Searchlight".
+
+
+@l{"name":"Rebecca"}
+ Yes, Mortensgaard has a great deal of influence over the
+people about here.
+
+
+@l{"name":"Kroll"}
+ Yes, just think of it--a man with as dirty a record as his! A
+fellow that was turned out of his place as a schoolmaster because of
+his immoral conduct! This is the sort of man that poses as a leader of
+the people! And successfully, too!--actually successfully! I hear that
+he means to enlarge his paper now. I know, on reliable authority, that
+he is looking for a competent assistant.
+
+
+@l{"name":"Rebecca"}
+ It seems to me surprising that you and your friends do not
+start an opposition paper.
+
+
+@l{"name":"Kroll"}
+ That is exactly what we intend to do. This very day we have
+bought the "County News." There was no difficulty about the financial
+side of the matter; but-- 
+@d{}
+(Turns towards ROSMER) 
+@l{"name":"Kroll"}
+Now we have come to
+the real purport of my visit. It is the Management of it--the editorial
+management--that is the difficulty, you see. Look here, Rosmer--don't
+you feel called upon to undertake it, for the sake of the good cause?
+
+
+@d{}
+(in a tone of consternation). 
+@l{"name":"Rosmer"}
+I!
+
+
+@l{"name":"Rebecca"}
+ How can you think of such a thing!
+
+
+@l{"name":"Kroll"}
+ I can quite understand your having a horror of public meetings
+and being unwilling to expose yourself to the mercies of the rabble
+that frequents them. But an editor's work, which is carried on in much
+greater privacy, or rather--
+
+
+@l{"name":"Rosmer"}
+ No, no, my dear fellow, you must not ask that of me.
+
+
+@l{"name":"Kroll"}
+ It would give me the greatest pleasure to have a try at work of
+that sort myself--only it would be quite out of the question for me; I
+am already saddled with such an endless number of duties. You, on the
+other hand, who are no longer hampered by any official duties, might--.
+Of course the rest of us would give you all the help in our power.
+
+
+@l{"name":"Rosmer"}
+ I cannot do it, Kroll I am not fitted for it.
+
+
+@l{"name":"Kroll"}
+ Not fitted for it? That was just what you said when your father
+got you your living.
+
+
+@l{"name":"Rosmer"}
+ I was quite right; and that was why I resigned it, too.
+
+
+@l{"name":"Kroll"}
+ Well, if you only make as good an editor as you did a parson, we
+shall be quite satisfied.
+
+
+@l{"name":"Rosmer"}
+ My dear Kroll--once for all--I cannot do it.
+
+
+@l{"name":"Kroll"}
+ Well, then, I suppose you will give us the use of your name, at
+all events?
+
+
+@l{"name":"Rosmer"}
+ My name?
+
+
+@l{"name":"Kroll"}
+ Yes, the mere fact of John Rosmer's name being connected with it
+will be a great advantage to the paper. We others are looked upon as
+pronounced partisans. I myself even have the reputation of being a
+wicked fanatic, I am told. Therefore we cannot count upon our own names
+to give us any particular help in making the paper known to the
+misguided masses. But you, on the contrary, have always held aloof from
+this kind of fighting. Your gentle and upright disposition, your
+polished mind, your unimpeachable honour, are known to and appreciated
+by every one about here. And then there is the deference and respect
+that your former position as a clergyman ensures for you--and, besides
+that, there is the veneration in which your family, name is held!
+
+
+@l{"name":"Rosmer"}
+ Oh, my family name.
+
+
+@d{}
+(pointing to the portraits). 
+@l{"name":"Kroll"}
+Rosmers of Rosmersholm--clergymen,
+soldiers, men who have filled high places in the state--men of
+scrupulous honour, every one of them--a family that has been rooted
+here, the most influential in the place, for nearly two centuries.
+
+@d{}
+(Lays his hand on ROSMER'S shoulder.) 
+@l{"name":"Kroll"}
+John, you owe it to yourself and
+to the traditions of your race to join us in defence of all that has
+hitherto been held sacred in our community. 
+@d{}
+(Turning to REBECCA.) 
+@l{"name":"Kroll"}
+What
+do you say, Miss West?
+
+
+@d{}
+(with a quiet little laugh). 
+@l{"name":"Rebecca"}
+my dear Mr. Kroll--it all sounds
+so absurdly ludicrous to me.
+
+
+@l{"name":"Kroll"}
+ What! Ludicrous?
+
+
+@l{"name":"Rebecca"}
+ Yes, because it is time you were told plainly--
+
+
+@d{}
+(hurriedly). 
+@l{"name":"Rosmer"}
+No, no--don't! Not now!
+
+
+@d{}
+(looking from one to the other). 
+@l{"name":"Kroll"}
+But, my dear friends, what on
+earth--? 
+@d{}
+(Breaks off, as MRS. HELSETH comes in, by the door on the
+right.) 
+@e{"names":["Mrs. Helseth"]}
+
+@l{"name":"Kroll"}
+Ahem!
+
+
+@l{"name":"Mrs. Helseth"}
+ There is a man at the kitchen door, sir. He says he wants
+to see you.
+
+
+@d{}
+(in a relieved voice). 
+@l{"name":"Rosmer"}
+Is there? Well, ask him to come in.
+
+
+@l{"name":"Mrs. Helseth"}
+ Shall I show him in here, sir?
+
+
+@l{"name":"Rosmer"}
+ Certainly.
+
+
+@l{"name":"Mrs. Helseth"}
+ But he doesn't look the sort of man one ought to allow in
+here.
+
+
+@l{"name":"Rebecca"}
+ What does he look like, Mrs. Helseth?
+
+
+@l{"name":"Mrs. Helseth"}
+ Oh, he is not much to look at, Miss.
+
+
+@l{"name":"Rosmer"}
+ Did he not give you his name?
+
+
+@l{"name":"Mrs. Helseth"}
+ Yes, I think he said it was Hekman, or something like
+that.
+
+
+@l{"name":"Rosmer"}
+ I do not know any one of that name.
+
+
+@l{"name":"Mrs. Helseth"}
+ And he said his Christian name was Ulrik.
+
+
+@d{}
+(with a start of surprise). 
+@l{"name":"Rosmer"}
+Ulrik Hetman! Was that it?
+
+
+@l{"name":"Mrs. Helseth"}
+ Yes, sir, it was Hetman.
+
+
+@l{"name":"Kroll"}
+ I am certain I have heard that name before.
+
+
+@l{"name":"Rebecca"}
+ Surely it was the name that strange creature used to write
+under--
+
+
+@d{}
+(to Kroll). 
+@l{"name":"Rosmer"}
+It is Ulrik Brendel's pseudonym, you know.
+
+
+@l{"name":"Kroll"}
+ That scamp Ulrik Brendel You are quite right.
+
+
+@l{"name":"Rebecca"}
+ So he is alive still.
+
+
+@l{"name":"Rosmer"}
+ I thought he was travelling with a theatrical company.
+
+
+@l{"name":"Kroll"}
+ The last I heard of him was that he was in the workhouse.
+
+
+@l{"name":"Rosmer"}
+ Ask him to come in, Mrs. Helseth
+
+
+@l{"name":"Mrs. Helseth"}
+ Yes, sir. 
+@d{}
+(Goes out.)
+
+
+@x{"names":["Mrs. Helseth"]}
+
+@l{"name":"Kroll"}
+ Do you really mean to allow this fellow into your house?
+
+
+@l{"name":"Rosmer"}
+ Oh, well, you know he was my tutor once.
+
+
+@l{"name":"Kroll"}
+ I know that what he did was to stuff your head with
+revolutionary ideas, and that in consequence your father turned him out
+of the house with a horsewhip.
+
+
+@d{}
+(a little bitterly). 
+@l{"name":"Rosmer"}
+Yes, my father was always the commanding
+officer--even at home.
+
+
+@l{"name":"Kroll"}
+ Be grateful to his memory for that, my dear John. Ah!
+
+
+@d{}
+(MRS. HELSETH shows ULRIK BRENDEL in at the door, then goes out and
+shuts the door after her. BRENDEL is a good-looking man with grey hair
+and beard; somewhat emaciated, but active and alert; he is dressed like
+a common tramp, in a threadbare frock coat, shoes with holes in them,
+and no visible linen at his neck or wrists. He wears a pair of old
+black gloves, carries a dirty soft hat under his arm, and has a
+walking-stick in his hand. He looks puzzled at first, then goes quickly
+up to KROLL and holds out his hand to him.)
+
+
+@e{"names":["Brendel"]}
+
+@l{"name":"Brendel"}
+ Good-evening, John!
+
+
+@l{"name":"Kroll"}
+ Excuse me
+
+
+@l{"name":"Brendel"}
+ Did you ever expect to see me again? And inside these hated
+walls, too?
+
+
+@l{"name":"Kroll"}
+ Excuse me. 
+@d{}
+(Points to ROSMER.) 
+@l{"name":"Kroll"}
+Over there.
+
+
+@d{}
+(turning round). 
+@l{"name":"Brendel"}
+Quite right. There he is. John--my boy--my
+favourite pupil!
+
+
+@d{}
+(shaking hands with him). 
+@l{"name":"Rosmer"}
+My old tutor!
+
+
+@l{"name":"Brendel"}
+ In spite of certain recollections, I could not pass by
+Rosmersholm without paying you a flying visit.
+
+
+@l{"name":"Rosmer"}
+ You are very welcome here now. Be sure of that.
+
+
+@l{"name":"Brendel"}
+ And this charming lady--? 
+@d{}
+(Bows to Rebecca) 
+@l{"name":"Brendel"}
+Your wife, of
+course.
+
+
+@l{"name":"Rosmer"}
+ Miss West.
+
+
+@l{"name":"Brendel"}
+ A near relation, I presume. And our stranger friend here? A
+colleague, I can see.
+
+
+@l{"name":"Rosmer"}
+ Mr. Kroll, master of the grammar school here.
+
+
+@l{"name":"Brendel"}
+ Kroll? Kroll? Wait a moment. Did you take the Philology course
+in your student days?
+
+
+@l{"name":"Kroll"}
+ Certainly I did.
+
+
+@l{"name":"Brendel"}
+ By Jove, I used to know you, then
+
+
+@l{"name":"Kroll"}
+ Excuse me--
+
+
+@l{"name":"Brendel"}
+ Were you not--
+
+
+@l{"name":"Kroll"}
+ Excuse me--
+
+
+@l{"name":"Brendel"}
+ --one of those champions of all the virtues that got me turned
+out of the Debating Society?
+
+
+@l{"name":"Kroll"}
+ Very possibly. But I disclaim any other acquaintance with you.
+
+
+@l{"name":"Brendel"}
+ All right, all right! Nach Belieben, Mr. Kroll I dare say I
+shall get over it. Ulrik Brendel will still be himself in spite of it.
+
+
+@l{"name":"Rebecca"}
+ Are you on your way to the town, Mr. Brendel?
+
+
+@l{"name":"Brendel"}
+ You have hit the nail on the head, ma'am. At certain intervals
+I am obliged to do something for my living. I do not do it
+willingly--but, enfin--when needs must--
+
+
+@l{"name":"Rosmer"}
+ My dear Mr. Brendel, will you not let me be of assistance to
+you? In some way or another, I mean--
+
+
+@l{"name":"Brendel"}
+ Ah, what a proposal to come from you! Could you wish to soil
+the tie that binds us together? Never, John--never!
+
+
+@l{"name":"Rosmer"}
+ But what do you propose to do in the town, then? I assure you,
+you won't find it so easy--
+
+
+@l{"name":"Brendel"}
+ Leave that to me, my boy. The die is cast. The unworthy
+individual who stands before you is started on an extensive
+campaign--more extensive than all his former excursions put together.
+
+@d{}
+(To KROLL.) 
+@l{"name":"Brendel"}
+May I venture to ask you, Professor--unter uns--are there
+in your esteemed town any fairly decent, respectable and spacious
+assembly-rooms?
+
+
+@l{"name":"Kroll"}
+ The most spacious is the hall belonging to the Working Men's
+Association.
+
+
+@l{"name":"Brendel"}
+ May I ask, sir, if you have any special influence with that no
+doubt most useful Association?
+
+
+@l{"name":"Kroll"}
+ I have nothing whatever to do with it.
+
+
+@d{}
+(to BRENDEL). 
+@l{"name":"Rebecca"}
+You ought to apply to Peter Mortensgaard
+
+
+@l{"name":"Brendel"}
+ Pardon, madame--what sort of an idiot is he?
+
+
+@l{"name":"Rosmer"}
+ Why do you make up your mind he is an idiot?
+
+
+@l{"name":"Brendel"}
+ Do you suppose I can't tell, from the sound of the name, that
+it belongs to a plebeian?
+
+
+@l{"name":"Kroll"}
+ I did not expect that answer.
+
+
+@l{"name":"Brendel"}
+ But I will conquer my prejudices. There is nothing else for
+it. When a man stands at a turning-point in his life--as I do--. That
+is settled. I shall, put myself into communication with this
+person--commence direct negotiations.
+
+
+@l{"name":"Rosmer"}
+ Are you in earnest when you say you are standing at a
+turning-point in your life?
+
+
+@l{"name":"Brendel"}
+ Does my own boy not know that wherever Ulrik Brendel stands he
+is always in earnest about it? Look here, I mean to become a new man
+now--to emerge from the cloak of reserve in which I have hitherto
+shrouded myself.
+
+
+@l{"name":"Rosmer"}
+ In what way?
+
+
+@l{"name":"Brendel"}
+ I mean to take an active part in life--to step forward--to
+look higher. The atmosphere we breathe is heavy with storms. I want now
+to offer my mite upon the altar of emancipation.
+
+
+@l{"name":"Kroll"}
+ You too?
+
+
+@d{}
+(to them all). 
+@l{"name":"Brendel"}
+Has your public here any intimate acquaintance
+with my scattered writings?
+
+
+@l{"name":"Kroll"}
+ No, I must candidly confess that--
+
+
+@l{"name":"Rebecca"}
+ I have read several of them. My foster-father had them.
+
+
+@l{"name":"Brendel"}
+ My dear lady, then you have wasted your time. They are simply
+trash, allow me to tell you.
+
+
+@l{"name":"Rebecca"}
+ Really?
+
+
+@l{"name":"Brendel"}
+ Those you have read, yes. My really important works no man or
+woman knows anything about. No one--except myself.
+
+
+@l{"name":"Rebecca"}
+ How is that?
+
+
+@l{"name":"Brendel"}
+ Because they are not yet written.
+
+
+@l{"name":"Rosmer"}
+ But, my dear Mr. Brendel--
+
+
+@l{"name":"Brendel"}
+ You know, my dear John, that I am a bit of a sybarite--a
+gourmet. I have always been so. I have a taste for solitary enjoyment,
+because in that way my enjoyment is twice--ten times--as keen. It is,
+like this. When I have been wrapped in a haze of golden dreams that
+have descended on me--when new, intoxicating, momentous thoughts have
+had their birth in my mind, and I have been fanned by the beat of their
+wings as they bore me aloft--at such moments I have transformed them
+into poetry, into visions, into pictures. In general outlines, that is
+to say.
+
+
+@l{"name":"Rosmer"}
+ Quite so.
+
+
+@l{"name":"Brendel"}
+ You cannot imagine the luxury of enjoyment I have experienced!
+The mysterious rapture of creation!--in, general outlines, as I said.
+Applause, gratitude, eulogies, crowns of laurel!--all these I have
+culled with full hands trembling with joy. In my secret ecstasies I
+have steeped myself in a happiness so, intoxicating--
+
+
+@l{"name":"Kroll"}
+ Ahem!
+
+
+@l{"name":"Rosmer"}
+ But you have never written anything of it down?
+
+
+@l{"name":"Brendel"}
+ Not a word. The thought of the dull clerk's work that it would
+mean has always moved me to a nauseating sense of disgust. Besides, why
+should I profane my own ideals when I could enjoy them, in all their
+purity, by myself? But now they shall be sacrificed. Honestly, I feel
+as a mother must do when she entrusts her young daughter to the arms of
+a husband. But I am going to, sacrifice them nevertheless--sacrifice
+them on the altar of emancipation. A series of carefully thought-out
+lectures, to be delivered all over the country!
+
+
+@d{}
+(impetuously). 
+@l{"name":"Rebecca"}
+That is splendid of you, Mr. Brendel! You are
+giving up the most precious thing you possess.
+
+
+@l{"name":"Rosmer"}
+ The only thing.
+
+
+@d{}
+(looking meaningly at ROSMER). 
+@l{"name":"Rebecca"}
+I wonder how many there are who
+would do as much--who dare do it?
+
+
+@d{}
+(returning her look). 
+@l{"name":"Rosmer"}
+Who knows?
+
+
+@l{"name":"Brendel"}
+ My audience is moved. That refreshes my heart and strengthens
+my will--and now I shall proceed upon my task forthwith. There is one
+other point, though. 
+@d{}
+(To KROLL.) 
+@l{"name":"Brendel"}
+Can you inform me, sir, whether there
+is an Abstainers' Society in the town? A Total Abstainers' Society? I
+feel sure there must be.
+
+
+@l{"name":"Kroll"}
+ There is one, at your service. I am the president.
+
+
+@l{"name":"Brendel"}
+ I could tell that as soon as I saw you! Well, it is not at all
+impossible that I may come to you and become a member for a week.
+
+
+@l{"name":"Kroll"}
+ Excuse me--we do not accept weekly members.
+
+
+@l{"name":"Brendel"}
+ A la bonne heure, my good sir. Ulrik Brendel has never been in
+the habit of forcing himself upon societies of that kind. 
+@d{}
+(Turns to go)
+
+@l{"name":"Brendel"}
+But I must not prolong my stay in this house, rich as it is in
+memories. I must go into the town and find some suitable lodging. I
+shall find a decent hotel of some kind there, I hope?
+
+
+@l{"name":"Rebecca"}
+ Will you not have something hot to drink before you go?
+
+
+@l{"name":"Brendel"}
+ Of what nature, dear lady?
+
+
+@l{"name":"Rebecca"}
+ A cup of tea, or--
+
+
+@l{"name":"Brendel"}
+ A thousand thanks to the most generous of hostesses!--but I do
+not like trespassing on private hospitality. 
+@d{}
+(Waves his hand.) 
+@l{"name":"Brendel"}
+Good-bye
+to you all! 
+@d{}
+(Goes to the door, but turns back.) 
+@l{"name":"Brendel"}
+Oh, by the
+way--John--Mr. Rosmer--will you do your former tutor a service for old
+friendship's sake?
+
+
+@l{"name":"Rosmer"}
+ With the greatest of pleasure.
+
+
+@l{"name":"Brendel"}
+ Good. Well, then, lend me--just for a day or two--a starched
+shirt.
+
+
+@l{"name":"Rosmer"}
+ Nothing more than that!
+
+
+@l{"name":"Brendel"}
+ Because, you see, I am travelling on foot--on this occasion.
+My trunk is being sent after me.
+
+
+@l{"name":"Rosmer"}
+ Quite so. But, in that case, isn't there anything else?
+
+
+@l{"name":"Brendel"}
+ Well, I will tell you what--perhaps you have an old, worn-out
+summer coat that you could spare?
+
+
+@l{"name":"Rosmer"}
+ Certainly I have.
+
+
+@l{"name":"Brendel"}
+ And if there happened to be a pair of presentable shoes that
+would go with the coat.
+
+
+@l{"name":"Rosmer"}
+ I am sure we can manage that, too. As soon as you let us know
+your address, we will send the things to you.
+
+
+@l{"name":"Brendel"}
+ Please don't think of it! No one must be put to any
+inconvenience on my account! I will take the trifles with me.
+
+
+@l{"name":"Rosmer"}
+ Very well. Will you come upstairs with me, then?
+
+
+@l{"name":"Rebecca"}
+ Let me go. Mrs. Helseth and I will see about it.
+
+
+@l{"name":"Brendel"}
+ I could never think of allowing this charming lady--
+
+
+@l{"name":"Rebecca"}
+ Nonsense! Come along, Mr. Brendel 
+@d{}
+(She goes out by the door
+on the right.)
+
+
+@x{"names":["Rebecca"]}
+
+@d{}
+(holding BRENDEL back). 
+@l{"name":"Rosmer"}
+Tell me--is there no other way I can be
+of service to you?
+
+
+@l{"name":"Brendel"}
+ I am sure I do not know of any. Yes, perdition seize it!--now
+that I come to think of it--John, do you happen to have seven or eight
+shillings on you?
+
+
+@l{"name":"Rosmer"}
+ I will see. 
+@d{}
+(Opens his purse.) 
+@l{"name":"Rosmer"}
+I have two half-sovereigns here.
+
+
+@l{"name":"Brendel"}
+ Oh, well, never mind. I may as well take them. I can always
+get change in town. Thanks, in the meantime. Remember that it was two
+half-sovereigns I had. Good-night, my own dear boy! Good-night to you,
+sir! 
+@d{}
+(Goes out by the door on the right, where ROSMER takes leave of
+him and shuts the door after him.)
+
+
+@x{"names":["Brendel"]}
+
+@l{"name":"Kroll"}
+ Good heavens--and that is the Ulrik Brendel of whom people once
+thought that he would do great things!
+
+
+@l{"name":"Rosmer"}
+ At all events he has had the courage to live his life in his
+own way. I do not think that is such a small thing, after all.
+
+
+@l{"name":"Kroll"}
+ What? A life like his? I almost believe he would have the power,
+even now, to disturb all your ideas.
+
+
+@l{"name":"Rosmer"}
+ No, indeed. I have come to a clear understanding with myself
+now, upon all points.
+
+
+@l{"name":"Kroll"}
+ I wish I could believe it, my dear Rosmer You are so dreadfully
+susceptible to impressions from without.
+
+
+@l{"name":"Rosmer"}
+ Let us sit down. I want to have a talk with you.
+
+
+@l{"name":"Kroll"}
+ By all means. 
+@d{}
+(They sit down on the couch.)
+
+
+@d{}
+(after a short pause). 
+@l{"name":"Rosmer"}
+Don't you think everything here looks
+very pleasant and comfortable?
+
+
+@l{"name":"Kroll"}
+ Yes, it looks very pleasant and comfortable now--and peaceful.
+You have made yourself a real home, Rosmer And I have lost mine.
+
+
+@l{"name":"Rosmer"}
+ My dear fellow, do not say that. There may seem to be a rift
+just now, but it will heal again.
+
+
+@l{"name":"Kroll"}
+ Never, never. The sting will always remain. Things can never be
+as they were before.
+
+
+@l{"name":"Rosmer"}
+ I want to ask you something, Kroll You and I have been the
+closest of friends now for so many years--does it seem to you
+conceivable that anything could destroy our friendship?
+
+
+@l{"name":"Kroll"}
+ I cannot imagine anything that could cause a breach between us.
+What has put that into your head?
+
+
+@l{"name":"Rosmer"}
+ Well--your attaching such tremendous importance to similarity
+of opinions and views.
+
+
+@l{"name":"Kroll"}
+ Certainly I do; but then we two hold pretty similar opinions at
+all events on the most essential points.
+
+
+@d{}
+(gently). 
+@l{"name":"Rosmer"}
+No. Not any longer.
+
+
+@d{}
+(trying to jump up from his seat). 
+@l{"name":"Kroll"}
+What is this?
+
+
+@d{}
+(restraining him). 
+@l{"name":"Rosmer"}
+No, you must sit still. Please, Kroll
+
+
+@l{"name":"Kroll"}
+ What does it all mean? I do not understand you. Tell me,
+straight out!
+
+
+@l{"name":"Rosmer"}
+ A new summer has blossomed in my heart--my eyes have regained
+the clearness of youth. And, accordingly, I am now standing where--
+
+
+@l{"name":"Kroll"}
+ Where? Where are you standing?
+
+
+@l{"name":"Rosmer"}
+ Where your children are standing.
+
+
+@l{"name":"Kroll"}
+ You? You! The thing is impossible! Where do you say you are
+standing?
+
+
+@l{"name":"Rosmer"}
+ On the same side as Laurits and Hilda.
+
+
+@d{}
+(letting his head drop). 
+@l{"name":"Kroll"}
+An apostate. John Rosmer an apostate.
+
+
+@l{"name":"Rosmer"}
+ What you are calling apostasy ought to have made me feel
+sincerely happy and fortunate; but for all that I have suffered keenly,
+because I knew quite well it would cause you bitter sorrow.
+
+
+@l{"name":"Kroll"}
+ Rosmer, Rosmer, I shall never get over this. 
+@d{}
+(Looks at him
+sadly.) 
+@l{"name":"Kroll"}
+To think that you, too, could bring yourself to sympathise with
+and join in the work of disorder and ruin that is playing havoc with
+our unhappy country.
+
+
+@l{"name":"Rosmer"}
+ It is the work of emancipation that I sympathise with.
+
+
+@l{"name":"Kroll"}
+ Oh yes, I know all about that. That is what it is called, by
+both those who are leading the people astray and by their misguided
+victims. But, be sure of this--you need expect no emancipation to be
+the result of the spirit that relies on the poisoning of the whole of
+our social life.
+
+
+@l{"name":"Rosmer"}
+ I do not give my allegiance to the spirit that is directing
+this, nor to any of those who are leading the fight. I want to try to
+bring men of all shades of opinion together--as many as I can
+reach--and bind them as closely together as I can. I want to live for
+and devote all the strength that is in me to one end only--to create a
+real public opinion in the country.
+
+
+@l{"name":"Kroll"}
+ So you do not consider that we have sufficient public opinion!
+I, for my part, consider that the whole lot of us are on the high road
+to be dragged down into the mire where otherwise only the common people
+would be wallowing.
+
+
+@l{"name":"Rosmer"}
+ It is just for that reason that I have made up my mind as to
+what should be the real task of public opinion.
+
+
+@l{"name":"Kroll"}
+ What task?
+
+
+@l{"name":"Rosmer"}
+ The task of making all our fellow-countrymen into men of
+nobility.
+
+
+@l{"name":"Kroll"}
+ All our fellow-countrymen--!
+
+
+@l{"name":"Rosmer"}
+ As many as possible, at all events.
+
+
+@l{"name":"Kroll"}
+ By what means?
+
+
+@l{"name":"Rosmer"}
+ By emancipating their ideas and purifying their aspirations, it
+seems to me.
+
+
+@l{"name":"Kroll"}
+ You are a dreamer, Rosmer Are you going to emancipate them? Are
+you going to purify them?
+
+
+@l{"name":"Rosmer"}
+ No, my dear fellow--I can only try to awake the desire for it
+in them. The doing of it rests with themselves.
+
+
+@l{"name":"Kroll"}
+ And do you think they are capable of it?
+
+
+@l{"name":"Rosmer"}
+ Yes.
+
+
+@l{"name":"Kroll"}
+ Of their own power?
+
+
+@l{"name":"Rosmer"}
+ Yes, of their own power. There is no other that can do it.
+
+
+@d{}
+(getting up). 
+@l{"name":"Kroll"}
+Is that speaking as befits a clergyman?
+
+
+@l{"name":"Rosmer"}
+ I am a clergyman no longer.
+
+
+@l{"name":"Kroll"}
+ Yes, but--what of the faith you were brought up in?
+
+
+@l{"name":"Rosmer"}
+ I have it no longer.
+
+
+@l{"name":"Kroll"}
+ You have it no longer?
+
+
+@d{}
+(getting up). 
+@l{"name":"Rosmer"}
+I have given it up. I had to give it up, Kroll
+
+
+@d{}
+(controlling his emotion). 
+@l{"name":"Kroll"}
+I see. Yes, yes. The one thing implies
+the other. Was that the reason, then, why you left the service of the
+Church?
+
+
+@l{"name":"Rosmer"}
+ Yes. When my mind was clearly made up--when I felt the
+certainty that it Was not merely a transitory temptation, but that it
+was something that I would neither have the power nor the desire to
+dismiss from my mind--then I took that step.
+
+
+@l{"name":"Kroll"}
+ So it has been fermenting in your mind as long as that. And
+we--your friends--have never been allowed to know anything of it.
+Rosmer, Rosmer--how could you hide the sorrowful truth from us!
+
+
+@l{"name":"Rosmer"}
+ Because I considered it was a matter that only concerned
+myself; and therefore I did not wish to cause you and my other friends
+any unnecessary pain. I thought I should be able to live my life here
+as I have done hitherto--peacefully and happily. I wanted to read, and
+absorb myself in all the works that so far had been sealed books to
+me--to familiarise myself thoroughly with the great world of truth and
+freedom that has been disclosed to me now.
+
+
+@l{"name":"Kroll"}
+ An apostate. Every word you say bears witness to that. But, for
+all that, why have you made this confession of your secret apostasy? Or
+why just at the present moment?
+
+
+@l{"name":"Rosmer"}
+ You yourself have compelled me to it, Kroll
+
+
+@l{"name":"Kroll"}
+ I? I have compelled you?
+
+
+@l{"name":"Rosmer"}
+ When I heard of your violent behaviour at public meetings--when
+I read the reports of all the vehement speeches you made there of all
+your bitter attacks upon those that were on the other side--your
+scornful censure of your opponents--oh, Kroll, to think that
+you--you--could be the man to do that!--then my eyes were opened to my
+imperative duty. Mankind is suffering from the strife that is going on
+now, and we ought to bring peace and happiness and a spirit of
+reconciliation into their souls. That is why I step forward now and
+confess myself openly for what I am--and, besides, I want to put my
+powers to the test, as well as others. Could not you--from your
+side--go with me in that, Kroll?
+
+
+@l{"name":"Kroll"}
+ Never, as long as I live, will I make any alliance with the
+forces of disorder in the community.
+
+
+@l{"name":"Rosmer"}
+ Well, let us at least fight with honourable weapons, since it
+seems we must fight.
+
+
+@l{"name":"Kroll"}
+ I can have nothing more to do with any one who does not think
+with me on matters of vital importance, and I owe such a man no
+consideration.
+
+
+@l{"name":"Rosmer"}
+ Does that apply even to me?
+
+
+@l{"name":"Kroll"}
+ You yourself have broken with me, Rosmer
+
+
+@l{"name":"Rosmer"}
+ But does this really mean a breach between us?
+
+
+@l{"name":"Kroll"}
+ Between us! It is a breach with all those who have hitherto
+stood shoulder to shoulder with you. And now you must take the
+consequences.
+
+
+@d{}
+(REBECCA comes in from the room on the right and opens the door wide.)
+
+
+@e{"names":["Rebecca"]}
+
+@l{"name":"Rebecca"}
+ Well, that is done! We have started him off on the road to his
+great sacrifice, and now we can go in to supper. Will you come in, Mr.
+Kroll?
+
+
+@d{}
+(taking his hat). 
+@l{"name":"Kroll"}
+Good-night, Miss West. This is no longer any
+place for me.
+
+
+@d{}
+(excitedly). 
+@l{"name":"Rebecca"}
+What do you mean? 
+@d{}
+(Shuts the door and comes nearer
+to the two men.) 
+@l{"name":"Rebecca"}
+Have you told him--?
+
+
+@l{"name":"Rosmer"}
+ He knows now.
+
+
+@l{"name":"Kroll"}
+ We shall not let you slip out of our hands, Rosmer We shall
+compel you to come back to us again.
+
+
+@l{"name":"Rosmer"}
+ I shall never find myself there any more.
+
+
+@l{"name":"Kroll"}
+ We shall see. You are not the man to endure standing alone.
+
+
+@l{"name":"Rosmer"}
+ I am not so entirely alone, even now. There are two of us to
+bear the solitude together here.
+
+
+@l{"name":"Kroll"}
+ Ah! 
+@d{}
+(A suspicion appears to cross his mind.) 
+@l{"name":"Kroll"}
+That too! Beata's
+words!
+
+
+@l{"name":"Rosmer"}
+ Beata's?
+
+
+@d{}
+(dismissing the thought from his mind). 
+@l{"name":"Kroll"}
+No, no--that was odious
+of me. Forgive me.
+
+
+@l{"name":"Rosmer"}
+ What? What do you mean?
+
+
+@l{"name":"Kroll"}
+ Think no more about it. I am ashamed of it. Forgive me--and
+good-bye. 
+@d{}
+(Goes out by the door to the hall.)
+
+
+@d{}
+(following him). 
+@l{"name":"Rosmer"}
+Kroll! We cannot end everything between us like
+this. I will come and see you to-morrow.
+
+
+@d{}
+(turning round in the hall). 
+@l{"name":"Kroll"}
+You shall not set your foot in my
+house. 
+@d{}
+(Takes his stick and goes.)
+
+(ROSMER stands for a while at the open door; then shuts it and comes
+back into the room.)
+
+
+@x{"names":["Kroll"]}
+
+@l{"name":"Rosmer"}
+ That does not matter, Rebecca We shall be able to go through
+with it, for all that--we two trusty friends--you and I.
+
+
+@l{"name":"Rebecca"}
+ What do you suppose he meant just now when he said he was
+ashamed of himself?
+
+
+@l{"name":"Rosmer"}
+ My dear girl, don't bother your head about that. He didn't even
+believe what he meant, himself. But I will go and see him tomorrow.
+Goodnight!
+
+
+@l{"name":"Rebecca"}
+ Are you going up so early to-night--after this?
+
+
+@l{"name":"Rosmer"}
+ As early to-night as I usually do. I feel such a sense of
+relief now that it is over. You see, my dear Rebecca, I am perfectly
+calm--so you take it calmly, too. Good-night.
+
+
+@l{"name":"Rebecca"}
+ Good-night, dear friend--and sleep well! 
+@d{}
+(ROSMER goes out by
+the door to the lobby; then his footsteps are heard as he goes
+upstairs. REBECCA goes to the wall and rings a bell, which is answered
+by MRS. HELSETH.) 
+@e{"names":["Mrs. Helseth"]}
+
+@x{"names":["Rosmer"]}
+
+@l{"name":"Rebecca"}
+You can clear the table again, Mrs. Helseth Mr.
+Rosmer does not want anything, and Mr. Kroll has gone home.
+
+
+@l{"name":"Mrs. Helseth"}
+ Gone home? What was wrong with him, miss?
+
+
+@d{}
+(taking up her crochet-work). 
+@l{"name":"Rebecca"}
+He prophesied that there was a
+heavy storm brewing--
+
+
+@l{"name":"Mrs. Helseth"}
+ That is very strange, miss, because there isn't a scrap
+of cloud in the sky.
+
+
+@l{"name":"Rebecca"}
+ Let us hope he doesn't meet the White Horse. Because I am
+afraid it will not be long before we hear something of the family ghost.
+
+
+@l{"name":"Mrs. Helseth"}
+ God forgive you, miss--don't talk of such a dreadful
+thing!
+
+
+@l{"name":"Rebecca"}
+ Oh, come, come!
+
+
+@d{}
+(lowering her voice). 
+@l{"name":"Mrs. Helseth"}
+Do you really think, miss, that some
+one here is to go soon?
+
+
+@l{"name":"Rebecca"}
+ Not a bit of it. But there are so many sorts of white horses
+in this world, Mrs. Helseth--Well, good-night. I shall go to my room
+now.
+
+
+@l{"name":"Mrs. Helseth"}
+ Good-night, miss. 
+@d{}
+(Rebecca takes her work and goes out to
+the right. MRS. HELSETH shakes her head, as she turns down the lamp,
+and mutters to herself): 
+@l{"name":"Mrs. Helseth"}
+Lord--Lord!--how queer Miss West does talk
+sometimes!
+
+@x{"names":["Mrs. Helseth","Rebecca"]}
+
+@a{"number":2}
+@s{"number":1}
+@d{}
+
+ACT II
+
+
+(SCENE. ROSMER'S study. The door into it is in the left-hand wall. At
+the back of the room is a doorway with a curtain drawn back from it,
+leading to his bedroom. On the right, a window, in front of which is a
+writing-table strewn with books and papers. Bookshelves and cupboards
+on the walls. Homely furniture. On the left, an old-fashioned sofa with
+a table in front of it. ROSMER, wearing a smoking-jacket, is sitting at
+the writing-table on a high-backed chair. He is cutting and turning
+over the leaves of a magazine, and dipping into it here and there. A
+knock is heard at the door on the left.)
+
+
+@e{"names":["Rosmer"]}
+
+@d{}
+(without turning round). 
+@l{"name":"Rosmer"}
+Come in.
+
+
+@d{}
+(REBECCA comes in, wearing a morning wrapper.)
+
+
+@e{"names":["Rebecca"]}
+
+@l{"name":"Rebecca"}
+ Good morning.
+
+
+@d{}
+(still turning over the leaves of his book). 
+@l{"name":"Rosmer"}
+Good morning, dear.
+Do you want anything?
+
+
+@l{"name":"Rebecca"}
+ Only to ask if you have slept well?
+
+
+@l{"name":"Rosmer"}
+ I went to sleep feeling so secure and happy. I did not even
+dream. 
+@d{}
+(Turns round.) 
+@l{"name":"Rosmer"}
+And you?
+
+
+@l{"name":"Rebecca"}
+ Thanks, I got to sleep in the early morning.
+
+
+@l{"name":"Rosmer"}
+ I do not think I have felt so light-hearted for a long time as
+I do to-day. I am so glad that I had the opportunity to say what I did.
+
+
+@l{"name":"Rebecca"}
+ Yes, you should not have been silent so long, John.
+
+
+@l{"name":"Rosmer"}
+ I cannot understand how I came to be such a coward.
+
+
+@l{"name":"Rebecca"}
+ I am sure it was not really from cowardice.
+
+
+@l{"name":"Rosmer"}
+ Yes, indeed. I can see that at bottom there was some cowardice
+about it.
+
+
+@l{"name":"Rebecca"}
+ So much the braver of you to face it as you did. 
+@d{}
+(Sits down
+beside him on a chair by the writing-table.) 
+@l{"name":"Rebecca"}
+But now I want to confess
+something that I have done--something that you must not be vexed with
+me about.
+
+
+@l{"name":"Rosmer"}
+ Vexed? My dear girl, how can you think--?
+
+
+@l{"name":"Rebecca"}
+ Yes, because I dare say it was a little presumptuous of me,
+but--
+
+
+@l{"name":"Rosmer"}
+ Well, let me hear what it was.
+
+
+@l{"name":"Rebecca"}
+ Last night, when that Ulrick Brendel was going, I wrote him a
+line or two to take to Mortensgaard
+
+
+@d{}
+(a little doubtfully). 
+@l{"name":"Rosmer"}
+But, my dear Rebecca--What did you write,
+then?
+
+
+@l{"name":"Rebecca"}
+ I wrote that he would be doing you a service if he would
+interest himself a little in that unfortunate man, and help him in any
+way he could.
+
+
+@l{"name":"Rosmer"}
+ My dear, you should not have done that. You have only done
+Brendel harm by doing so. And besides, Mortensgaard is a man I
+particularly wish to have nothing to do with. You know I have been at
+loggerheads once with him already.
+
+
+@l{"name":"Rebecca"}
+ But do you not think that now it might be a very good thing if
+you got on to good terms with him again?
+
+
+@l{"name":"Rosmer"}
+ I? With Mortensgaard? For what reason, do you mean?
+
+
+@l{"name":"Rebecca"}
+ Well, because you cannot feel altogether secure now--since
+this has come between you and your friends.
+
+
+@d{}
+(looking at her and shaking his head). 
+@l{"name":"Rosmer"}
+Is it possible that you
+think either Kroll or any of the others would take a revenge on
+me--that they could be capable of--
+
+
+@l{"name":"Rebecca"}
+ In their first heat of indignation dear. No one can be certain
+of that. I think, after the way Mr. Kroll took it--
+
+
+@l{"name":"Rosmer"}
+ Oh, you ought to know him better than that. Kroll is an
+honourable man, through and through. I will go into town this
+afternoon, and have a talk with him. I will have a talk with them all.
+Oh, you will see how smoothly everything will go. 
+@d{}
+(MRS. HELSETH comes
+in by the door on the left.)
+
+
+@e{"names":["Mrs. Helseth"]}
+
+@d{}
+(getting up). 
+@l{"name":"Rebecca"}
+What is it, Mrs. Helseth?
+
+
+@l{"name":"Mrs. Helseth"}
+ Mr. Kroll is downstairs in the hall, miss.
+
+
+@d{}
+(getting up quickly). 
+@l{"name":"Rosmer"}
+Kroll!
+
+
+@l{"name":"Rebecca"}
+ Mr. Kroll! What a surprise!
+
+
+@l{"name":"Mrs. Helseth"}
+ He asks if he may come up and speak to Mr. Rosmer
+
+
+@d{}
+(to REBECCA). 
+@l{"name":"Rosmer"}
+What did I say! 
+@d{}
+(To MRS. HELSETH). 
+@l{"name":"Rosmer"}
+Of course he
+may. 
+@d{}
+(Goes to the door and calls down the stairs.) 
+@l{"name":"Rosmer"}
+Come up, my dear
+fellow! I am delighted to see you! 
+@d{}
+(He stands holding the door open.
+MRS. HELSETH goes out. REBECCA draws the curtain over the doorway at
+the back, and then begins to tidy the room. KROLL comes in with his hat
+in his hand.)
+
+
+@e{"names":["Kroll"]}
+
+@x{"names":["Mrs. Helseth"]}
+
+@d{}
+(quietly, and with some emotion). 
+@l{"name":"Rosmer"}
+I knew quite well it would not
+be the last time--
+
+
+@l{"name":"Kroll"}
+ To-day I see the matter in quite a different light from
+yesterday.
+
+
+@l{"name":"Rosmer"}
+ Of course you do, Kroll! Of course you do! You have been
+thinking things over--
+
+
+@l{"name":"Kroll"}
+ You misunderstand me altogether. 
+@d{}
+(Puts his hat down on the
+table.) 
+@l{"name":"Kroll"}
+It is important that I should speak to you alone.
+
+
+@l{"name":"Rosmer"}
+ Why may not Miss West--?
+
+
+@l{"name":"Rebecca"}
+ No, no, Mr. Rosmer I will go.
+
+
+@d{}
+(looking meaningly at her). 
+@l{"name":"Kroll"}
+And I see I ought to apologise to
+you, Miss West, for coming here so early in the morning. I see I have
+taken you by surprise, before you have had time to--
+
+
+@d{}
+(with a start). 
+@l{"name":"Rebecca"}
+Why so? Do you find anything out of place in
+the fact of my wearing a morning wrapper at home here?
+
+
+@l{"name":"Kroll"}
+ By no means! Besides, I have no knowledge of what customs may
+have grown up at Rosmersholm.
+
+
+@l{"name":"Rosmer"}
+ Kroll, you are not the least like yourself to-day.
+
+
+@l{"name":"Rebecca"}
+ I will wish you good morning, Mr. Kroll 
+@d{}
+(Goes out to the
+left.)
+
+
+@x{"names":["Rebecca"]}
+
+@l{"name":"Kroll"}
+ If. you will allow me-- 
+@d{}
+(Sits down on the couch.)
+
+
+@l{"name":"Rosmer"}
+ Yes, my dear fellow, let us make ourselves comfortable and have
+a confidential talk. 
+@d{}
+(Sits down on a chair facing KROLL.)
+
+
+@l{"name":"Kroll"}
+ I have not been able to close an eye since yesterday. I lay all
+night, thinking and thinking.
+
+
+@l{"name":"Rosmer"}
+ And what have you got to say to-day?
+
+
+@l{"name":"Kroll"}
+ It will take me some time, Rosmer Let me begin with a sort of
+introduction. I can give you some news of Ulrick Brendel
+
+
+@l{"name":"Rosmer"}
+ Has he been to see you?
+
+
+@l{"name":"Kroll"}
+ No. He took up his quarters in a low-class tavern--in the lowest
+kind of company, of course; drank, and stood drinks to others, as long
+as he had any money left; and then began to abuse the whole lot of them
+as a contemptible rabble--and, indeed, as far as that goes he was quite
+right. But the result was, that he got a thrashing and was thrown out
+into the gutter.
+
+
+@l{"name":"Rosmer"}
+ I see he is altogether incorrigible.
+
+
+@l{"name":"Kroll"}
+ He had pawned the coat you gave him, too, but that is going to
+be redeemed for him. Can you guess by whom?
+
+
+@l{"name":"Rosmer"}
+ By yourself, perhaps?
+
+
+@l{"name":"Kroll"}
+ No. By our noble friend Mr. Mortensgaard
+
+
+@l{"name":"Rosmer"}
+ Is that so?
+
+
+@l{"name":"Kroll"}
+ I am informed that Mr. Brendel's first visit was paid to the
+"idiot" and  "plebeian".
+
+
+@l{"name":"Rosmer"}
+ Well, it was very lucky for him--
+
+
+@l{"name":"Kroll"}
+ Indeed it was. 
+@d{}
+(Leans over the table, towards ROSMER.) 
+@l{"name":"Kroll"}
+Now I am
+coming to a matter of which, for the sake of our old--our
+former--friendship, it is my duty to warn you.
+
+
+@l{"name":"Rosmer"}
+ My dear fellow, what is that?
+
+
+@l{"name":"Kroll"}
+ It is this; that certain games are going on behind your back in
+this house.
+
+
+@l{"name":"Rosmer"}
+ How can you think that? Is it Rebec--is it Miss West you are
+alluding to?
+
+
+@l{"name":"Kroll"}
+ Precisely. And I can quite understand it on her part; she has
+been accustomed, for such a long time now, to do as she likes here. But
+nevertheless--
+
+
+@l{"name":"Rosmer"}
+ My dear Kroll, you are absolutely mistaken. She and I have no
+secrets from one another about anything whatever.
+
+
+@l{"name":"Kroll"}
+ Then has she confessed to you that she has been corresponding
+with the editor of the "Searchlight"?
+
+
+@l{"name":"Rosmer"}
+ Oh, you mean the couple of lines she wrote to him on Ulrik
+Brendel's behalf?
+
+
+@l{"name":"Kroll"}
+ You have found that out, then? And do you approve of her being
+on terms of this sort with that scurrilous hack, who almost every week
+tries to pillory me for my attitude in my school and out of it?
+
+
+@l{"name":"Rosmer"}
+ My dear fellow, I don't suppose that side of the question has
+ever occurred to her. And in any case, of course she has entire freedom
+of action, just as I have myself.
+
+
+@l{"name":"Kroll"}
+ Indeed? Well, I suppose that is quite in accordance with the new
+turn your views have taken--because I suppose Miss West looks at things
+from the same standpoint as you?
+
+
+@l{"name":"Rosmer"}
+ She does. We two have worked our way forward in complete
+companionship.
+
+
+@d{}
+(looking at him and shaking his head slowly). 
+@l{"name":"Kroll"}
+Oh, you blind,
+deluded man!
+
+
+@l{"name":"Rosmer"}
+ I? What makes you say that?
+
+
+@l{"name":"Kroll"}
+ Because I dare not--I WILL not--think the worst. No, no, let me
+finish what I want to say. Am I to believe that you really prize my
+friendship, Rosmer? And my respect, too? Do you?
+
+
+@l{"name":"Rosmer"}
+ Surely I need not answer that question.
+
+
+@l{"name":"Kroll"}
+ Well, but there are other things that require answering--that
+require full explanation on your part. Will you submit to it if I hold
+a sort of inquiry--?
+
+
+@l{"name":"Rosmer"}
+ An inquiry?
+
+
+@l{"name":"Kroll"}
+ Yes, if I ask you questions about one or two things that it may
+be painful for you to recall to mind. For instance, the matter of your
+apostasy--well, your emancipation, if you choose to call it so--is
+bound up with so much else for which, for your own sake, you ought to
+account to me.
+
+
+@l{"name":"Rosmer"}
+ My dear fellow, ask me about anything you please. I have
+nothing to conceal.
+
+
+@l{"name":"Kroll"}
+ Well, then, tell me this--what do you yourself believe was the
+real reason of Beata's making away with herself?
+
+
+@l{"name":"Rosmer"}
+ Can you have any doubt? Or perhaps I should rather say, need
+one look for reasons for what an unhappy sick woman, who is
+unaccountable for her actions, may do?
+
+
+@l{"name":"Kroll"}
+ Are you certain that Beata was so entirely unaccountable for her
+actions? The doctors, at all events, did not consider that so
+absolutely certain.
+
+
+@l{"name":"Rosmer"}
+ If the doctors had ever seen her in the state in which I have
+so often seen her, both night and day, they would have had no doubt
+about it.
+
+
+@l{"name":"Kroll"}
+ I did not doubt it either, at the time.
+
+
+@l{"name":"Rosmer"}
+ Of course not. It was impossible to doubt it, unfortunately.
+You remember what I told you of her ungovernable, wild fits of
+passion--which she expected me to reciprocate. She terrified me! And
+think how she tortured herself with baseless self-reproaches in the
+last years of her life!
+
+
+@l{"name":"Kroll"}
+ Yes, when she knew that she would always be childless.
+
+
+@l{"name":"Rosmer"}
+ Well, think what it meant--to be perpetually in the clutches of
+such--agony of mind over a thing that she was not in the slightest
+degree responsible for--! Are you going to suggest that she was
+accountable for her actions?
+
+
+@l{"name":"Kroll"}
+ Hm!--Do you remember whether at that time you had, in the house
+any books dealing with the purport of marriage--according to the
+advanced views of to-day?
+
+
+@l{"name":"Rosmer"}
+ I remember Miss West's lending me a work of the kind. She
+inherited Dr. West's library, you know. But, my dear Kroll, you surely
+do not suppose that we were so imprudent as to let the poor sick
+creature get wind of any such ideas? I can solemnly swear that we were
+in no way to blame. It was the overwrought nerves of her own brain that
+were responsible for these frantic aberrations.
+
+
+@l{"name":"Kroll"}
+ There is one thing, at any rate, that I can tell you now, and
+that is that your poor tortured and overwrought Beata put an end to her
+own life in order that yours might be happy--and that you might be free
+to live as you pleased.
+
+
+@d{}
+(starting half up from his chair). 
+@l{"name":"Rosmer"}
+What do you mean by that?
+
+
+@l{"name":"Kroll"}
+ You must listen to me quietly, Rosmer--because now I can speak
+of it. During the last year of her life she came twice to see me, to
+tell me what she suffered from her fears and her despair.
+
+
+@l{"name":"Rosmer"}
+ On that point?
+
+
+@l{"name":"Kroll"}
+ No. The first time she came she declared that you were on the
+high road to apostasy--that you were going to desert the faith that
+your father had taught you.
+
+
+@d{}
+(eagerly). 
+@l{"name":"Rosmer"}
+What you say is impossible, Kroll!--absolutely
+impossible! You must be wrong about that.
+
+
+@l{"name":"Kroll"}
+ Why?
+
+
+@l{"name":"Rosmer"}
+ Because as long as Beata lived I was still doubting and
+fighting with myself. And I fought out that fight alone and in the
+completest secrecy. I do not imagine that even Rebecca--
+
+
+@l{"name":"Kroll"}
+ Rebecca?
+
+
+@l{"name":"Rosmer"}
+ Oh, well--Miss West. I call her Rebecca for the sake of
+convenience.
+
+
+@l{"name":"Kroll"}
+ So I have observed.
+
+
+@l{"name":"Rosmer"}
+ That is why it is so incomprehensible to me that Beata should
+have had any suspicion of it. Why did she never speak to me about
+it?--for she never did, by a single word.
+
+
+@l{"name":"Kroll"}
+ Poor soul--she begged and implored me to speak to you.
+
+
+@l{"name":"Rosmer"}
+ Then why did you never do so?
+
+
+@l{"name":"Kroll"}
+ Do you think I had a moment's doubt, at that time, that her mind
+was unhinged? Such an accusation as that, against a man like you! Well,
+she came to see me again, about a month later. She seemed calmer then;
+but, as she was going away, she said: "They may expect to see the White
+Horse soon at Rosmersholm."
+
+
+@l{"name":"Rosmer"}
+ Yes, I know--the White Horse. She often used to talk about that.
+
+
+@l{"name":"Kroll"}
+ And then, when I tried to distract her from such unhappy
+thoughts, she only answered: "I have not much time left; for John must
+marry Rebecca immediately now."
+
+
+@d{}
+(almost speechless). 
+@l{"name":"Rosmer"}
+What are you saying! I marry--!
+
+
+@l{"name":"Kroll"}
+ That was on a Thursday afternoon. On the Saturday evening she
+threw herself from the footbridge into the millrace.
+
+
+@l{"name":"Rosmer"}
+ And you never warned us!
+
+
+@l{"name":"Kroll"}
+ Well, you know yourself how constantly she used to say that she
+was sure she would die before long.
+
+
+@l{"name":"Rosmer"}
+ Yes, I know. But, all the same, you ought to have warned us!
+
+
+@l{"name":"Kroll"}
+ I did think of doing so. But then it was too late.
+
+
+@l{"name":"Rosmer"}
+ But since then, why have you not--? Why have you kept all this
+to yourself?
+
+
+@l{"name":"Kroll"}
+ What good would it have done for me to come here and add to your
+pain and distress? Of course I thought the whole thing was merely wild,
+empty fancy--until yesterday evening.
+
+
+@l{"name":"Rosmer"}
+ Then you do not think so any longer?
+
+
+@l{"name":"Kroll"}
+ Did not Beata see clearly enough, when she saw that you were
+going to fall away from your childhood's faith?
+
+
+@d{}
+(staring in front of him). 
+@l{"name":"Rosmer"}
+Yes, I cannot understand that. It is
+the most incomprehensible thing in the world to me.
+
+
+@l{"name":"Kroll"}
+ Incomprehensible or not, the thing is true. And now I ask you,
+Rosmer, how much truth is there in her other accusation?--the last one,
+I mean.
+
+
+@l{"name":"Rosmer"}
+ Accusation? Was that an accusation, then?
+
+
+@l{"name":"Kroll"}
+ Perhaps you did not notice how it was worded. She said she meant
+to stand out of the way. Why? Well?
+
+
+@l{"name":"Rosmer"}
+ In order that I might marry Rebecca, apparently.
+
+
+@l{"name":"Kroll"}
+ That was not quite how it was worded. Beata expressed herself
+differently. She said "I have not much time left; for John must marry
+Rebecca IMMEDIATELY now."
+
+
+@d{}
+(looks at him for a moment; then gets up). 
+@l{"name":"Rosmer"}
+Now I understand you,
+Kroll
+
+
+@l{"name":"Kroll"}
+ And if you do? What answer have you to make?
+
+
+@d{}
+(in an even voice, controlling himself). 
+@l{"name":"Rosmer"}
+To such an
+unheard-of--? The only fitting answer would be to point to the door.
+
+
+@d{}
+(getting up). 
+@l{"name":"Kroll"}
+Very good.
+
+
+@d{}
+(standing face to face with him). 
+@l{"name":"Rosmer"}
+Listen to me. For considerably
+more than a year to be precise, since Beata's death--Rebecca West and I
+have lived here alone at Rosmersholm. All that time you have known of
+the charge Beata made against us; but I have never for one moment seen
+you appear the least scandalised at our living together here.
+
+
+@l{"name":"Kroll"}
+ I never knew, till yesterday evening, that it was a case of an
+apostate man and an "emancipated" woman living together.
+
+
+@l{"name":"Rosmer"}
+ Ah! So then you do not believe in any purity of life among
+apostates or emancipated folk? You do not believe that they may have
+the instinct of morality ingrained in their natures?
+
+
+@l{"name":"Kroll"}
+ I have no particular confidence in the kind of morality that is
+not rooted in the Church's faith.
+
+
+@l{"name":"Rosmer"}
+ And you mean that to apply to Rebecca and myself?--to my
+relations with Rebecca?
+
+
+@l{"name":"Kroll"}
+ I cannot make any departure, in favour of you two, from my
+opinion that there is certainly no very wide gulf between free thinking
+and--ahem!
+
+
+@l{"name":"Rosmer"}
+ And what?
+
+
+@l{"name":"Kroll"}
+ And free love, since you force me to say it.
+
+
+@d{}
+(gently). 
+@l{"name":"Rosmer"}
+And you are not ashamed to say that to me!--you, who
+have known me ever since I was a boy.
+
+
+@l{"name":"Kroll"}
+ It is just for that reason. I know how easily you allow yourself
+to be influenced by those you associate with. And as for your
+Rebecca--well, your Miss West, then--to tell the truth, we know very
+little about her. To cut the matter short, Rosmer--I am not going to
+give you up. And you, on your part, ought to try and save yourself in
+time.
+
+
+@l{"name":"Rosmer"}
+ Save myself? How--? 
+@d{}
+(MRS. HELSETH looks in through the door on
+the left.) 
+@e{"names":["Mrs. Helseth"]}
+
+@l{"name":"Rosmer"}
+What do you want?
+
+
+@l{"name":"Mrs. Helseth"}
+ I wanted to ask Miss West to come down, sir.
+
+
+@l{"name":"Rosmer"}
+ Miss West is not up here.
+
+
+@l{"name":"Mrs. Helseth"}
+ Indeed, sir? 
+@d{}
+(Looks round the room.) 
+@l{"name":"Mrs. Helseth"}
+That is very
+strange. 
+@d{}
+(Goes out.)
+
+
+@x{"names":["Mrs. Helseth"]}
+
+@l{"name":"Rosmer"}
+ You were saying--?
+
+
+@l{"name":"Kroll"}
+ Listen to me. As to what may have gone on here in secret while
+Beata was alive, and as to what may be still going on here, I have no
+wish to inquire more closely. You were, of course, extremely unhappy in
+your marriage--and to some extent that may be urged in your excuse--
+
+
+@l{"name":"Rosmer"}
+ Oh, how little you really know me!
+
+
+@l{"name":"Kroll"}
+ Do not interrupt me. What I want to say is this. If you
+definitely must continue living with Miss West, it is absolutely
+necessary that you should conceal the revolution of opinion--I mean the
+distressing apostasy--that she has beguiled you into. Let me speak! Let
+me speak! I say that, if you are determined to go on with this folly,
+for heaven's sake hold any variety of ideas or opinions or beliefs you
+like--but keep your opinions to yourself. It is a purely personal
+matter, and there is not the slightest necessity to go proclaiming it
+all over the countryside.
+
+
+@l{"name":"Rosmer"}
+ It is a necessity for me to abandon a false and equivocal
+position.
+
+
+@l{"name":"Kroll"}
+ But you have a duty towards the traditions of your family,
+Rosmer! Remember that! From time immemorial Rosmersholm has been a
+stronghold of discipline and order, of respect and esteem for all that
+the best people in our community have upheld and sanctioned. The whole
+neighbourhood has taken its tone from Rosmersholm. If the report gets
+about that you yourself have broken with what I may call the Rosmer
+family tradition, it will evoke an irreparable state of unrest.
+
+
+@l{"name":"Rosmer"}
+ My dear Kroll, I cannot see the matter in that light. It seems
+to me that it is my imperative duty to bring a little light and
+happiness into the place where the race of Rosmers has spread darkness
+and oppression for all these long years.
+
+
+@d{}
+(looking severely at him). 
+@l{"name":"Kroll"}
+Yes, that would be a worthy action for
+the man with whom the race will disappear. Let such things alone, my
+friend. It is no suitable task for you. You were meant to lead the
+peaceful life of a student.
+
+
+@l{"name":"Rosmer"}
+ Yes, that may be so. But nevertheless I want to try and play my
+humble part in the struggles of life.
+
+
+@l{"name":"Kroll"}
+ The struggles of life! Do you know what that will mean for you?
+It will mean war to the death with all your friends.
+
+
+@d{}
+(quietly). 
+@l{"name":"Rosmer"}
+I do not imagine they are all such fanatics as you.
+
+
+@l{"name":"Kroll"}
+ You are a simple-minded creature, Rosmer--an inexperienced
+creature. You have no suspicion of the violence of the storm that will
+burst upon you. 
+@d{}
+(MRS. HELSETH slightly opens the door on the left.)
+
+
+@e{"names":["Mrs. Helseth"]}
+
+@l{"name":"Mrs. Helseth"}
+ Miss West wishes me to ask you, sir
+
+
+@l{"name":"Rosmer"}
+ What is it?
+
+
+@l{"name":"Mrs. Helseth"}
+ There is some one downstairs that wishes to speak to you
+for a minute, sir.
+
+
+@l{"name":"Rosmer"}
+ Is it the gentleman that was here yesterday afternoon, by any
+chance?
+
+
+@l{"name":"Mrs. Helseth"}
+ No, it is that Mr. Mortensgaard
+
+
+@l{"name":"Rosmer"}
+ Mortensgaard?
+
+
+@l{"name":"Kroll"}
+ Aha! So matters have got as far as that already, have they!
+
+
+@l{"name":"Rosmer"}
+ What does he want with me? Why did you not send him away?
+
+
+@l{"name":"Mrs. Helseth"}
+ Miss West told me to ask you if he might come up.
+
+
+@l{"name":"Rosmer"}
+ Tell him I am engaged, and--
+
+
+@d{}
+(to MRS. HELSETH). 
+@l{"name":"Kroll"}
+No; show him up, please. 
+@d{}
+(MRS. HELSETH goes
+out. KROLL takes up his hat.) 
+@x{"names":["Mrs. Helseth"]}
+
+@l{"name":"Kroll"}
+I quit the field--temporarily. But we
+have not fought the decisive action yet.
+
+
+@l{"name":"Rosmer"}
+ As truly as I stand here, Kroll, I have absolutely nothing to
+do with Mortensgaard
+
+
+@l{"name":"Kroll"}
+ I do not believe you any longer on any point. Under no
+circumstances shall I have any faith in you after this. It is war to
+the knife now. We shall try if we cannot make you powerless to do any
+harm.
+
+
+@l{"name":"Rosmer"}
+ Oh, Kroll--how you have sunk! How low you have sunk!
+
+
+@l{"name":"Kroll"}
+ I? And a man like you has the face to say so? Remember Beata!
+
+
+@l{"name":"Rosmer"}
+ Are you harking back to that again!
+
+
+@l{"name":"Kroll"}
+ No. You must solve the riddle of the millrace as your conscience
+will allow you--if you have any conscience still left. 
+@d{}
+(PETER
+MORTENSGAARD comes in softly and quietly, by the door on the left. He
+is a short, slightly built man with sparse reddish hair and beard.
+KROLL gives him a look of hatred.) 
+@e{"names":["Mortensgaard"]}
+
+@l{"name":"Kroll"}
+The "Searchlight" too, I see.
+Lighted at Rosmersholm! 
+@d{}
+(Buttons up his coat.) 
+@l{"name":"Kroll"}
+That leaves me no doubt
+as to the course I should steer.
+
+
+@d{}
+(quietly). 
+@l{"name":"Mortensgaard"}
+The "Searchlight" will always be ready burning
+to light Mr. Kroll home.
+
+
+@l{"name":"Kroll"}
+ Yes, you have shown me your goodwill for a long time. To be sure
+there is a Commandment that forbids us to bear false witness against
+our neighbour--
+
+
+@l{"name":"Mortensgaard"}
+ Mr. Kroll has no need to instruct me in the Commandments.
+
+
+@l{"name":"Kroll"}
+ Not even in the sixth?
+
+
+@l{"name":"Rosmer"}
+ Kroll--!
+
+
+@l{"name":"Mortensgaard"}
+ If I needed such instruction, Mr. Rosmer is the most
+suitable person to give it me.
+
+
+@d{}
+(with scarcely concealed scorn). 
+@l{"name":"Kroll"}
+Mr. Rosmer? Oh yes, the Reverend
+Mr. Rosmer is undoubtedly the most suitable man for that! I hope you
+will enjoy yourselves, gentlemen. 
+@d{}
+(Goes out and slams the door after
+him.)
+
+
+@x{"names":["Kroll"]}
+
+@d{}
+(stands looking at the door, and says to himself). 
+@l{"name":"Rosmer"}
+Yes, yes--it
+had to be so. 
+@d{}
+(Turns round.) 
+@l{"name":"Rosmer"}
+Will you tell me, Mr. Mortensgaard, what
+has brought you out here to see me?
+
+
+@l{"name":"Mortensgaard"}
+ It was really Miss West I wanted to see. I thought I
+ought to thank her for the kind letter I received from her yesterday.
+
+
+@l{"name":"Rosmer"}
+ I know she has written to you. Have you had a talk with her?
+
+
+@l{"name":"Mortensgaard"}
+ Yes, a little. 
+@d{}
+(Smiles slightly.) 
+@l{"name":"Mortensgaard"}
+I hear that there has
+been a change of views in certain respects at Rosmersholm.
+
+
+@l{"name":"Rosmer"}
+ My views have changed to a very considerable extent; I might
+almost say entirely.
+
+
+@l{"name":"Mortensgaard"}
+ That is what Miss West said. And that was why she thought
+I ought to come up and have a little chat with you about this.
+
+
+@l{"name":"Rosmer"}
+ About what, Mr. Mortensgaard?
+
+
+@l{"name":"Mortensgaard"}
+ May I have your permission to announce in the
+"Searchlight" that you have altered your opinions, and are going to
+devote yourself to the cause of free thought and progress?
+
+
+@l{"name":"Rosmer"}
+ By all means. I will go so far as to ask you to make the
+announcement.
+
+
+@l{"name":"Mortensgaard"}
+ Then it shall appear to-morrow. It will be a great and
+weighty piece of news that the Reverend Mr. Rosmer of Rosmersholm has
+made up his mind to join the forces of light in that direction too.
+
+
+@l{"name":"Rosmer"}
+ I do not quite understand you.
+
+
+@l{"name":"Mortensgaard"}
+ What I mean is that it implies the gain of strong moral
+support for our party every time we win over an earnest,
+Christian-minded adherent.
+
+
+@d{}
+(with some astonishment). 
+@l{"name":"Rosmer"}
+Then you don't know--? Did Miss West
+not tell you that as well?
+
+
+@l{"name":"Mortensgaard"}
+ What, Mr. Rosmer? Miss West was in a considerable hurry.
+She told me to come up, and that I would hear the rest of it from
+yourself.
+
+
+@l{"name":"Rosmer"}
+ Very well, then; let me tell you that I have cut myself free
+entirely--on every side. I have now, no connection of any kind with the
+tenets of the Church. For the future such matters have not the smallest
+signification for me.
+
+
+@d{}
+(looking at him in perplexity). 
+@l{"name":"Mortensgaard"}
+Well, if the moon had
+fallen down from the sky, I could not be more--! To think that I should
+ever hear you yourself renounce--!
+
+
+@l{"name":"Rosmer"}
+ Yes, I stand now where you have stood for a long time. You can
+announce that in the "Searchlight" to-morrow too.
+
+
+@l{"name":"Mortensgaard"}
+ That, too? No, my dear Mr. Rosmer--you must excuse
+me--but it is not worth touching on that side of the matter.
+
+
+@l{"name":"Rosmer"}
+ Not touch on it?
+
+
+@l{"name":"Mortensgaard"}
+ Not at first, I think.
+
+
+@l{"name":"Rosmer"}
+ But I do not understand--
+
+
+@l{"name":"Mortensgaard"}
+ Well, it is like this, Mr. Rosmer You are not as
+familiar with all the circumstances of the case as I am, I expect. But
+if you, too, have joined the forces of freedom--and if you, as Miss
+West says you do, mean to take part in the movement--I conclude you do
+so with the desire to be as useful to the movement as you possibly can,
+in practice as well as, in theory.
+
+
+@l{"name":"Rosmer"}
+ Yes, that is my most sincere wish.
+
+
+@l{"name":"Mortensgaard"}
+ Very well. But I must impress on you, Mr. Rosmer, that if
+you come forward openly with this news about your defection from the
+Church, you will tie your own hands immediately.
+
+
+@l{"name":"Rosmer"}
+ Do you think so?
+
+
+@l{"name":"Mortensgaard"}
+ Yes, you may be certain that there is not much that you
+would be able to do hereabouts. And besides, Mr. Rosmer, we have quite
+enough freethinkers already--indeed, I was going to say we have too
+many of those gentry. What the party needs is a Christian
+element--something that every one must respect. That is what we want
+badly. And for that reason it is most advisable that you should hold
+your tongue about any matters that do not concern the public. That is
+my opinion.
+
+
+@l{"name":"Rosmer"}
+ I see. Then you would not risk having anything to do with me if
+I were to confess my apostasy openly?
+
+
+@d{}
+(shaking his head). 
+@l{"name":"Mortensgaard"}
+I should not like to, Mr. Rosmer
+Lately I have made it a rule never to support anybody or anything that
+is opposed to the interests of the Church.
+
+
+@l{"name":"Rosmer"}
+ Have you, then, entered the fold of the Church again lately?
+
+
+@l{"name":"Mortensgaard"}
+ That is another matter altogether.
+
+
+@l{"name":"Rosmer"}
+ Oh, that is how it is. Yes, I understand you now.
+
+
+@l{"name":"Mortensgaard"}
+ Mr. Rosmer--you ought to remember that I, of all people,
+have not absolute freedom of action.
+
+
+@l{"name":"Rosmer"}
+ What hampers you?
+
+
+@l{"name":"Mortensgaard"}
+ What hampers me is that I am a marked man.
+
+
+@l{"name":"Rosmer"}
+ Ah--of course.
+
+
+@l{"name":"Mortensgaard"}
+ A marked man, Mr. Rosmer And you, of all people, ought
+to remember that--because you were responsible, more than any one else,
+for my being branded.
+
+
+@l{"name":"Rosmer"}
+ If I had stood then where I stand now, I should have handled
+the affair more judiciously.
+
+
+@l{"name":"Mortensgaard"}
+ I think so too. But it is too late now; you have branded
+me, once for all--branded me for life. I do not suppose you can fully
+realise what such a thing means. But it is possible that you may soon
+feel the smart of it yourself now, Mr. Rosmer
+
+
+@l{"name":"Rosmer"}
+ I?
+
+
+@l{"name":"Mortensgaard"}
+ Yes. You surely do not suppose that Mr. Kroll and his
+gang will be inclined to forgive a rupture such as yours? And the
+"County News" is going to be pretty bloodthirsty, I hear. It may very
+well come to pass that you will be a marked man, too.
+
+
+@l{"name":"Rosmer"}
+ On personal grounds, Mr. Mortensgaard, I feel myself to be
+invulnerable. My conduct does not offer any point of attack.
+
+
+@d{}
+(with a quiet smile). 
+@l{"name":"Mortensgaard"}
+That is saying a good deal, Mr.
+Rosmer
+
+
+@l{"name":"Rosmer"}
+ Perhaps it is. But I have the right to say as much.
+
+
+@l{"name":"Mortensgaard"}
+ Even if you were inclined to overhaul your conduct as
+thoroughly as you once overhauled mine?
+
+
+@l{"name":"Rosmer"}
+ You say that very strangely. What are you driving at?--is it
+anything definite?
+
+
+@l{"name":"Mortensgaard"}
+ Yes, there is one definite thing--no more than a single
+one. But it might be quite awkward enough if malicious opponents got a
+hint of it.
+
+
+@l{"name":"Rosmer"}
+ Will you have the kindness to tell me what on earth it is?
+
+
+@l{"name":"Mortensgaard"}
+ Can you not guess, Mr. Rosmer?
+
+
+@l{"name":"Rosmer"}
+ No, not for a moment.
+
+
+@l{"name":"Mortensgaard"}
+ All right. I must come out with it, then. I have in my
+possession a remarkable letter, that was written here at Rosmersholm.
+
+
+@l{"name":"Rosmer"}
+ Miss West's letter, you mean? Is it so remarkable?
+
+
+@l{"name":"Mortensgaard"}
+ No, that letter is not remarkable. But I received a
+letter from this house on another occasion.
+
+
+@l{"name":"Rosmer"}
+ From Miss West?
+
+
+@l{"name":"Mortensgaard"}
+ No, Mr. Rosmer
+
+
+@l{"name":"Rosmer"}
+ Well, from whom, then? From whom?
+
+
+@l{"name":"Mortensgaard"}
+ From your late wife.
+
+
+@l{"name":"Rosmer"}
+ From my wife? You had a letter from my wife?
+
+
+@l{"name":"Mortensgaard"}
+ Yes, I did.
+
+
+@l{"name":"Rosmer"}
+ When?
+
+
+@l{"name":"Mortensgaard"}
+ It was during the poor lady's last days. It must be about
+a year and a half ago now. And that is the letter that is so remarkable.
+
+
+@l{"name":"Rosmer"}
+ Surely you know that my wife's mind was affected at that time?
+
+
+@l{"name":"Mortensgaard"}
+ I know there were a great many people who thought so.
+But, in my opinion, no one would have imagined anything of the kind
+from the letter. When I say the letter is a remarkable one, I mean
+remarkable in quite another way.
+
+
+@l{"name":"Rosmer"}
+ And what in the world did my poor wife find to write to you
+about?
+
+
+@l{"name":"Mortensgaard"}
+ I have the letter at home. It begins more or less to the
+effect that she is living in perpetual terror and dread, because of the
+fact that there are so many evilly disposed people about her whose only
+desire is to do you harm and mischief.
+
+
+@l{"name":"Rosmer"}
+ Me?
+
+
+@l{"name":"Mortensgaard"}
+ Yes, so she says. And then follows the most remarkable
+part of it all. Shall I tell you, Mr. Rosmer?
+
+
+@l{"name":"Rosmer"}
+ Of course! Tell me everything, without any reserve.
+
+
+@l{"name":"Mortensgaard"}
+ The poor lady begs and entreats me to be magnanimous. She
+says that she knows it was you, who got me dismissed from my post as
+schoolmaster, and implores me most earnestly not to revenge myself upon
+you.
+
+
+@l{"name":"Rosmer"}
+ What way did she think you could revenge yourself, then?
+
+
+@l{"name":"Mortensgaard"}
+ The letter goes on to say that if I should hear that
+anything sinful was going on at Rosmersholm, I was not to believe a
+word of it; that it would be only the work of wicked folk who were
+spreading the rumours on purpose to do you harm.
+
+
+@l{"name":"Rosmer"}
+ Does the letter say that?
+
+
+@l{"name":"Mortensgaard"}
+ You may read it at your convenience, Mr. Rosmer
+
+
+@l{"name":"Rosmer"}
+ But I cannot understand--? What did she imagine there could be
+any wicked rumours about?
+
+
+@l{"name":"Mortensgaard"}
+ In the first place, that you had broken away from the
+faith of your childhood. Mrs. Rosmer denied that absolutely--at that
+time. And, in the next place--ahem!
+
+
+@l{"name":"Rosmer"}
+ In the next place?
+
+
+@l{"name":"Mortensgaard"}
+ Well, in the next place she writes--though rather
+confusedly--that she has no knowledge of any sinful relations existing
+at Rosmersholm; that she has never been wronged in any way; and that if
+any rumours of that sort should get about, she entreats me not to
+allude to them in the "Searchlight".
+
+
+@l{"name":"Rosmer"}
+ Does she mention any names?
+
+
+@l{"name":"Mortensgaard"}
+ No.
+
+
+@l{"name":"Rosmer"}
+ Who brought you the letter?
+
+
+@l{"name":"Mortensgaard"}
+ I promised not to tell that. It was brought to me one
+evening after dark.
+
+
+@l{"name":"Rosmer"}
+ If you had made inquiries at the time, you would have learnt
+that my poor unhappy wife was not fully accountable for her actions.
+
+
+@l{"name":"Mortensgaard"}
+ I did make inquiries, Mr. Rosmer; but I must say I did
+not get exactly that impression.
+
+
+@l{"name":"Rosmer"}
+ Not?--But why have you chosen this moment to enlighten me as to
+the existence of this old crazy letter?
+
+
+@l{"name":"Mortensgaard"}
+ With the object of advising you to be extremely cautious,
+Mr. Rosmer
+
+
+@l{"name":"Rosmer"}
+ As to my way of life, do you mean?
+
+
+@l{"name":"Mortensgaard"}
+ Yes. You must remember that for the future you will not
+be unassailable.
+
+
+@l{"name":"Rosmer"}
+ So you persist in thinking that I have something to conceal
+here?
+
+
+@l{"name":"Mortensgaard"}
+ I do not see any reason why a man of emancipated ideas
+should refrain from living his life as fully as possible. Only, as I
+have already said, you should be cautious in future. If rumours should
+get about of anything that offends people's prejudices, you may be
+quite certain that the whole cause of freedom of thought will suffer
+for it. Good-bye, Mr. Rosmer
+
+
+@l{"name":"Rosmer"}
+ Good-bye.
+
+
+@l{"name":"Mortensgaard"}
+ I shall go straight to the printing-office now and have
+the great piece of news inserted in the "Searchlight".
+
+
+@l{"name":"Rosmer"}
+ Put it all in.
+
+
+@l{"name":"Mortensgaard"}
+ I will put in as much as there is any need for the public
+to know. 
+@d{}
+(Bows, and goes out. ROSMER stands at the door, while
+MORTENSGAARD goes downstairs. The front door is heard shutting.)
+
+
+@x{"names":["Mortensgaard"]}
+
+@d{}
+(still standing in the doorway, calls softly). 
+@l{"name":"Rosmer"}
+Rebecca!
+Reb--ahem! 
+@d{}
+(Calls loudly.) 
+@l{"name":"Rosmer"}
+Mrs. Helseth--is Miss West downstairs?
+
+
+@d{}
+(from below). 
+@l{"name":"Mrs. Helseth"}
+No, sir, she is not here.
+
+
+@d{}
+(The curtain at the end of the room is drawn back, disclosing REBECCA
+standing in the doorway.)
+
+
+@e{"names":["Rebecca"]}
+
+@l{"name":"Rebecca"}
+ John!
+
+
+@d{}
+(turning round). 
+@l{"name":"Rosmer"}
+What! Were you in there, in my bedroom! My
+dear, what were you doing there?
+
+
+@d{}
+(going up to him). 
+@l{"name":"Rebecca"}
+I have been listening.
+
+
+@l{"name":"Rosmer"}
+ Rebecca! Could you do a thing like that?
+
+
+@l{"name":"Rebecca"}
+ Indeed I could. It was so horrid the way he said that--about
+my morning wrapper.
+
+
+@l{"name":"Rosmer"}
+ Ah, so you were in there too when Kroll--?
+
+
+@l{"name":"Rebecca"}
+ Yes. I wanted to know what was at the bottom of his mind.
+
+
+@l{"name":"Rosmer"}
+ You know I would have told you.
+
+
+@l{"name":"Rebecca"}
+ I scarcely think you would have told me everything--certainly
+not in his own words.
+
+
+@l{"name":"Rosmer"}
+ Did you hear everything, then?
+
+
+@l{"name":"Rebecca"}
+ Most of it, I think. I had to go down for a moment when
+Mortensgaard came.
+
+
+@l{"name":"Rosmer"}
+ And then came up again?
+
+
+@l{"name":"Rebecca"}
+ Do not take it ill of me, dear friend.
+
+
+@l{"name":"Rosmer"}
+ Do anything that you think right and proper. You have full
+freedom of action.--But what do you say to it all, Rebecca? Ah, I do
+not think I have ever stood so much in need of you as I do to-day.
+
+
+@l{"name":"Rebecca"}
+ Surely both you and I have been prepared for what would happen
+some day.
+
+
+@l{"name":"Rosmer"}
+ No, no--not for this.
+
+
+@l{"name":"Rebecca"}
+ Not for this?
+
+
+@l{"name":"Rosmer"}
+ It is true that I used to think that sooner or later our
+beautiful pure friendship would come to be attacked by calumny and
+suspicion--not on Kroll's part, for I never would have believed such a
+thing of him--but on the part of the coarse-minded and ignoble-eyed
+crowd. Yes, indeed; I had good reason enough for so jealously drawing a
+veil of concealment over our compact. It was a dangerous secret.
+
+
+@l{"name":"Rebecca"}
+ Why should we pay any heed to what all these other people
+think? You and I know that we have nothing to reproach ourselves with.
+
+
+@l{"name":"Rosmer"}
+ I? Nothing to reproach myself with? It is true enough that I
+thought so until to-day. But now, now, Rebecca--
+
+
+@l{"name":"Rebecca"}
+ Yes? Now?
+
+
+@l{"name":"Rosmer"}
+ How am I to account to myself for Beata's horrible accusation?
+
+
+@d{}
+(impetuously). 
+@l{"name":"Rebecca"}
+Oh, don't talk about Beata! Don't think about
+Beata any more! She is dead, and you seemed at last to have been able
+to get away from the thought of her.
+
+
+@l{"name":"Rosmer"}
+ Since I have learnt of this, it seems just as if she had come
+to life again in some uncanny fashion.
+
+
+@l{"name":"Rebecca"}
+ Oh no--you must not say that, John! You must not!
+
+
+@l{"name":"Rosmer"}
+ I tell you it is so. We must try and get to the bottom of it.
+How can she have strayed into such a woeful misunderstanding of me?
+
+
+@l{"name":"Rebecca"}
+ Surely you too are not beginning to doubt that she was very
+nearly insane?
+
+
+@l{"name":"Rosmer"}
+ Well, I cannot deny it is just of that fact that I feel I
+cannot be so altogether certain any longer. And besides if it were so--
+
+
+@l{"name":"Rebecca"}
+ If it were so? What then?
+
+
+@l{"name":"Rosmer"}
+ What I mean is--where are we to look for the actual cause of
+her sick woman's fancies turning into insanity?
+
+
+@l{"name":"Rebecca"}
+ What good can it possibly do for you to indulge in such
+speculations!
+
+
+@l{"name":"Rosmer"}
+ I cannot do otherwise, Rebecca I cannot let this doubt go on
+gnawing at my heart, however unwilling I may be to face it.
+
+
+@l{"name":"Rebecca"}
+ But it may become a real danger to you to be perpetually
+dwelling on this one lugubrious topic.
+
+
+@d{}
+(walking about restlessly and absorbed in the idea). 
+@l{"name":"Rosmer"}
+I must have
+betrayed myself in some way or other. She must have noticed how happy I
+began to feel from the day you came to us.
+
+
+@l{"name":"Rebecca"}
+ Yes; but dear, even if that were so--
+
+
+@l{"name":"Rosmer"}
+ You may be sure she did not fail to notice that we read the
+same books; that we sought one another's company, and discussed every
+new topic together. But I cannot understand it--because I was always so
+careful to spare her. When I look back, it seems to me that I did
+everything I could to keep her apart from our lives. Or did I not,
+Rebecca?
+
+
+@l{"name":"Rebecca"}
+ Yes, yes--undoubtedly you did.
+
+
+@l{"name":"Rosmer"}
+ And so did you, too. And notwithstanding that--! Oh, it is
+horrible to think of! To think that here she was--with her affection
+all distorted by illness--never saying a word--watching us--noticing
+everything and--and--misconstruing everything.
+
+
+@d{}
+(wringing her hands). 
+@l{"name":"Rebecca"}
+Oh, I never ought to have come to
+Rosmersholm.
+
+
+@l{"name":"Rosmer"}
+ Just think what she must have suffered in silence! Think of all
+the horrible things her poor diseased brain must have led her to
+believe about us and store up in her mind about us! Did she never speak
+to you of anything that could give you any kind of clue?
+
+
+@d{}
+(as if startled). 
+@l{"name":"Rebecca"}
+To me! Do you suppose I should have remained
+here a day longer, if she had?
+
+
+@l{"name":"Rosmer"}
+ No, no--that is obvious. What a fight she must have fought--and
+fought alone, Rebecca! In despair, and all alone. And then, in the end,
+the poignant misery of her victory--which was also her accusation of
+us--in the mill-race! 
+@d{}
+(Throws himself into a chair, rests his elbows on
+the table, and hides his face in his hands.)
+
+
+@d{}
+(coming quietly up behind him). 
+@l{"name":"Rebecca"}
+Listen to me, John. If it were
+in your power to call Beata back--to you--to Rosmersholm--would you do
+it?
+
+
+@l{"name":"Rosmer"}
+ How can I tell what I would do or what I would not do! I have
+no thoughts for anything but the one thing which is irrevocable.
+
+
+@l{"name":"Rebecca"}
+ You ought to be beginning to live now, John. You were
+beginning. You had freed yourself completely on all sides. You were
+feeling so happy and so light-hearted
+
+
+@l{"name":"Rosmer"}
+ I know--that is true enough. And then comes this overwhelming
+blow.
+
+
+@d{}
+(standing behind him, with her arms on the back of his chair).
+
+@l{"name":"Rebecca"}
+How beautiful it was when we used to sit there downstairs in the
+dusk--and helped each other to plan our lives out afresh. You wanted to
+catch hold of actual life--the actual life of the day, as you used to
+say. You wanted to pass from house to house like a guest who brought
+emancipation with him--to win over men's thoughts and wills to your
+own--to fashion noble men all around you, in a wider and wider
+circle--noble men!
+
+
+@l{"name":"Rosmer"}
+ Noble men and happy men.
+
+
+@l{"name":"Rebecca"}
+ Yes, happy men.
+
+
+@l{"name":"Rosmer"}
+ Because it is happiness that gives the soul nobility, Rebecca
+
+
+@l{"name":"Rebecca"}
+ Do you not think suffering too? The deepest suffering?
+
+
+@l{"name":"Rosmer"}
+ Yes, if one can win through it--conquer it--conquer it
+completely.
+
+
+@l{"name":"Rebecca"}
+ That is what you must do.
+
+
+@d{}
+(shaking his head sadly). 
+@l{"name":"Rosmer"}
+I shall never conquer this completely.
+There will always be a doubt confronting me--a question. I shall never
+again be able to lose myself in the enjoyment of what makes life so
+wonderfully beautiful.
+
+
+@d{}
+(speaking over the back of his chair, softly). 
+@l{"name":"Rebecca"}
+What do you
+mean, John?
+
+
+@d{}
+(looking up at her). 
+@l{"name":"Rosmer"}
+Calm and happy innocence.
+
+
+@d{}
+(taking a step backwards). 
+@l{"name":"Rebecca"}
+Of course. Innocence. 
+@d{}
+(A short
+silence.)
+
+
+@d{}
+(resting his head on his hands with his elbows on the table, and
+looking straight in front of him). 
+@l{"name":"Rosmer"}
+How ingeniously--how
+systematically--she must have put one thing together with another!
+First of all she begins to have a suspicion as to my orthodoxy. How on
+earth did she get that idea in her mind? Any way, she did; and the idea
+grew into a certainty. And then--then, of course, it was easy for her
+to think everything else possible. 
+@d{}
+(Sits up in his chair and, runs his
+hands through his hair.) 
+@l{"name":"Rosmer"}
+The wild fancies I am haunted with! I shall
+never get quit of them. I am certain of that--certain. They will always
+be starting up before me to remind me of the dead.
+
+
+@l{"name":"Rebecca"}
+ Like the White Horse of Rosmersholm.
+
+
+@l{"name":"Rosmer"}
+ Yes, like that. Rushing at me out of the dark--out of the
+silence.
+
+
+@l{"name":"Rebecca"}
+ And, because of this morbid fancy of yours, you are going to
+give up the hold you had just gained upon real life?
+
+
+@l{"name":"Rosmer"}
+ You are right, it seems hard--hard, Rebecca But I have no
+power of choice in the matter. How do you think I could ever get the
+mastery over it?
+
+
+@d{}
+(standing behind his chair). 
+@l{"name":"Rebecca"}
+By making new ties for yourself.
+
+
+@d{}
+(starts, and looks up). 
+@l{"name":"Rosmer"}
+New ties?
+
+
+@l{"name":"Rebecca"}
+ Yes, new ties with the outside world. Live, work, do
+something! Do not sit here musing and brooding over insoluble
+conundrums.
+
+
+@d{}
+(getting up). 
+@l{"name":"Rosmer"}
+New ties! 
+@d{}
+(Walks across the room, turns at the
+door and comes back again.) 
+@l{"name":"Rosmer"}
+A question occurs to my mind. Has it not
+occurred to you too, Rebecca?
+
+
+@d{}
+(catching her breath). 
+@l{"name":"Rebecca"}
+Let me hear what it is.
+
+
+@l{"name":"Rosmer"}
+ What do you suppose will become of the tie between us, after
+to-day?
+
+
+@l{"name":"Rebecca"}
+ I think surely our friendship can endure, come what may.
+
+
+@l{"name":"Rosmer"}
+ Yes, but that is not exactly what I meant. I was thinking of
+what brought us together from the first, what links us so closely to
+one another--our common belief in the possibility of a man and a woman
+living together in chastity.
+
+
+@l{"name":"Rebecca"}
+ Yes, yes--what of it?
+
+
+@l{"name":"Rosmer"}
+ What I mean is--does not such a tie as that--such a tie as
+ours--seem to belong properly to a life lived in quiet, happy
+peacefulness?
+
+
+@l{"name":"Rebecca"}
+ Well?
+
+
+@l{"name":"Rosmer"}
+ But now I see stretching before me a life of strife and unrest
+and violent emotions. For I mean to live my life, Rebecca! I am not
+going to let myself be beaten to the ground by the dread of what may
+happen. I am not going to have my course of life prescribed for me,
+either by any living soul or by another.
+
+
+@l{"name":"Rebecca"}
+ No, no--do not! Be a free man in everything, John!
+
+
+@l{"name":"Rosmer"}
+ Do you understand what is in my Mind, then? Do you not know? Do
+you not see how I could best win my freedom from all these harrowing
+memories from the whole sad past?
+
+
+@l{"name":"Rebecca"}
+ Tell me!
+
+
+@l{"name":"Rosmer"}
+ By setting up, in opposition to them, a new and living reality.
+
+
+@d{}
+(feeling for the back of the chair). 
+@l{"name":"Rebecca"}
+A living--? What do you
+mean?
+
+
+@d{}
+(coming closer to her). 
+@l{"name":"Rosmer"}
+Rebecca--suppose I asked you now--will
+you be my second wife?
+
+
+@d{}
+(is speechless for a moment, then gives a cry of joy). 
+@l{"name":"Rebecca"}
+Your
+wife! Yours--! I!
+
+
+@l{"name":"Rosmer"}
+ Yes--let us try what that will do. We two shall be one. There
+must no longer be any empty place left by the dead in this house.
+
+
+@l{"name":"Rebecca"}
+ I--in Beata's place--?
+
+
+@l{"name":"Rosmer"}
+ And then that chapter of my life will be closed--completely
+closed, never to be reopened.
+
+
+@d{}
+(in a low, trembling voice). 
+@l{"name":"Rebecca"}
+Do you think so, John?
+
+
+@l{"name":"Rosmer"}
+ It must be so! It must! I cannot--I will not--go through life
+with a dead body on my back. Help me to throw it off, Rebecca; and then
+let us stifle all memories in our sense of freedom, in joy, in passion.
+You shall be to me the only wife I have ever had.
+
+
+@d{}
+(controlling herself). 
+@l{"name":"Rebecca"}
+Never speak of this, again. I will never
+be your wife.
+
+
+@l{"name":"Rosmer"}
+ What! Never? Do you think, then, that you could not learn to
+love me? Is not our friendship already tinged with love?
+
+
+@d{}
+(stopping her ears, as if in fear). 
+@l{"name":"Rebecca"}
+Don't speak like that,
+John! Don't say such things!
+
+
+@d{}
+(catching her by the arm). 
+@l{"name":"Rosmer"}
+It is true! There is a growing
+possibility in the tie that is between us. I can see that you feel
+that, as well as I--do you not, Rebecca?
+
+
+@d{}
+(controlling herself completely). 
+@l{"name":"Rebecca"}
+Listen. Let me tell you
+this--if you persist in this, I shall leave Rosmersholm.
+
+
+@l{"name":"Rosmer"}
+ Leave Rosmersholm! You! You cannot do that. It is impossible.
+
+
+@l{"name":"Rebecca"}
+ It is still more impossible for me to become your wife. Never,
+as long as I live, can I be that.
+
+
+@d{}
+(looks at her in surprise). 
+@l{"name":"Rosmer"}
+You say "can"--and you say it so
+strangely. Why can you not?
+
+
+@d{}
+(taking both his hands in hers). 
+@l{"name":"Rebecca"}
+Dear friend--for your own
+sake, as well as for mine, do not ask me why. 
+@d{}
+(Lets go of his hands.)
+
+@l{"name":"Rebecca"}
+So, John. 
+@d{}
+(Goes towards the door on the left.)
+
+
+@l{"name":"Rosmer"}
+ For the future the world will hold only one question for
+me--why?
+
+
+@d{}
+(turns and looks at him). 
+@l{"name":"Rebecca"}
+In that case everything is at an end.
+
+
+@l{"name":"Rosmer"}
+ Between you and me?
+
+
+@l{"name":"Rebecca"}
+ Yes.
+
+
+@l{"name":"Rosmer"}
+ Things can never be at an end between us two. You shall never
+leave Rosmersholm.
+
+
+@d{}
+(with her hand on the door-handle). 
+@l{"name":"Rebecca"}
+No, I dare say I shall not.
+But, all the same, if you question me again, it will mean the end of
+everything.
+
+
+@l{"name":"Rosmer"}
+ The end of everything, all the same? How--?
+
+
+@l{"name":"Rebecca"}
+ Because then I shall go the way Beata went. Now you know, John.
+
+
+@l{"name":"Rosmer"}
+ Rebecca--!
+
+
+@d{}
+(stops at the door and nods: slowly). 
+@l{"name":"Rebecca"}
+Now you know. 
+@d{}
+(Goes out.)
+
+
+@x{"names":["Rebecca"]}
+
+@d{}
+(stares in bewilderment at the shut door, and says to himself):
+
+@l{"name":"Rosmer"}
+What can it mean?
+
+
+@x{"names":["Rosmer"]}
+
+@a{"number":3}
+@s{"number":1}
+@d{}
+
+ACT III
+
+
+(SCENE. The sitting-room at Rosmersholm. The window and the hall-door
+are open. The morning sun is seen shining outside. REBECCA, dressed as
+in ACT I., is standing by the window, watering and arranging the
+flowers. Her work is lying on the armchair. MRS. HELSETH is going round
+the room with a feather brush, dusting the furniture.)
+
+
+@e{"names":["Rebecca","Mrs. Helseth"]}
+
+@d{}
+(after a short pause). 
+@l{"name":"Rebecca"}
+I wonder why Mr. Rosmer is so late in
+coming down to-day?
+
+
+@l{"name":"Mrs. Helseth"}
+ Oh, he is often as late as this, miss. He is sure to be
+down directly.
+
+
+@l{"name":"Rebecca"}
+ Have you seen anything of him?
+
+
+@l{"name":"Mrs. Helseth"}
+ No, miss, except that as I took his coffee into his study
+he went into his bedroom to finish dressing.
+
+
+@l{"name":"Rebecca"}
+ The reason I ask is that he was not very well yesterday.
+
+
+@l{"name":"Mrs. Helseth"}
+ No, he did not look well. It made me wonder whether
+something had gone amiss between him and his brother-in-law.
+
+
+@l{"name":"Rebecca"}
+ What do you suppose could go amiss between them?
+
+
+@l{"name":"Mrs. Helseth"}
+ I can't say, miss. Perhaps it was that fellow
+Mortensgaard set them at loggerheads.
+
+
+@l{"name":"Rebecca"}
+ It is quite possible. Do you know anything of this Peter
+Mortensgaard?
+
+
+@l{"name":"Mrs. Helseth"}
+ Not I! How could you think so, miss--a man like that!
+
+
+@l{"name":"Rebecca"}
+ Because of that horrid paper he edits, you mean?
+
+
+@l{"name":"Mrs. Helseth"}
+ Not only because of that, miss. I suppose you have heard
+that a certain married woman, whose husband had deserted her, had a
+child by him?
+
+
+@l{"name":"Rebecca"}
+ I have heard it; but of course that was long before I came
+here.
+
+
+@l{"name":"Mrs. Helseth"}
+ Bless me, yes--he was quite a young man then. But she
+might have had more sense than he had. He wanted to marry her, too, but
+that could not be done; and so he had to pay heavily for it. But since
+then--my word!--Mortensgaard has risen in the world. There are lots of
+people who run after him now.
+
+
+@l{"name":"Rebecca"}
+ I believe most of the poor people turn to him first when they
+are in any trouble.
+
+
+@l{"name":"Mrs. Helseth"}
+ Oh, not only the poor people, miss--
+
+
+@d{}
+(glancing at her unobserved). 
+@l{"name":"Rebecca"}
+Indeed?
+
+
+@d{}
+(standing at the sofa, dusting vigorously). 
+@l{"name":"Mrs. Helseth"}
+People you
+would least expect, sometimes, miss.
+
+
+@d{}
+(arranging the flowers). 
+@l{"name":"Rebecca"}
+Yes, but that is only an idea of
+yours, Mrs. Helseth You cannot know that for certain.
+
+
+@l{"name":"Mrs. Helseth"}
+ You think I don't know anything about that for certain,
+do you, miss? Indeed I do. Because--if I must let out the secret at
+last--I carried a letter to Mortensgaard myself once.
+
+
+@d{}
+(turns round). 
+@l{"name":"Rebecca"}
+No--did you!
+
+
+@l{"name":"Mrs. Helseth"}
+ Yes, that I did. And that letter, let me tell you, was
+written here--at Rosmersholm.
+
+
+@l{"name":"Rebecca"}
+ Really, Mrs. Helseth?
+
+
+@l{"name":"Mrs. Helseth"}
+ I give you my word it was, miss. And it was written on
+good note-paper--and sealed with beautiful red sealing-wax.
+
+
+@l{"name":"Rebecca"}
+ And you were entrusted with the delivery of it? Dear Mrs.
+Helseth, it is not very difficult to guess whom it was from.
+
+
+@l{"name":"Mrs. Helseth"}
+ Who, then?
+
+
+@l{"name":"Rebecca"}
+ Naturally, it was something that poor Mrs. Rosmer in her
+invalid state--
+
+
+@l{"name":"Mrs. Helseth"}
+ Well, you have mentioned her name, miss--not I.
+
+
+@l{"name":"Rebecca"}
+ But what was in the letter?--No, of course, you cannot know
+that.
+
+
+@l{"name":"Mrs. Helseth"}
+ Hm!--it is just possible I may know, all the same.
+
+
+@l{"name":"Rebecca"}
+ Did she tell you what she was writing about, then?
+
+
+@l{"name":"Mrs. Helseth"}
+ No, she did not do that. But when Mortensgaard had read
+it, he set to work and cross-questioned me, so that I got a very good
+idea of what was in it.
+
+
+@l{"name":"Rebecca"}
+ What do you think was in it, then? Oh, dear, good Mrs.
+Helseth, do tell me!
+
+
+@l{"name":"Mrs. Helseth"}
+ Certainly not, miss. Not for worlds.
+
+
+@l{"name":"Rebecca"}
+ Oh, you can tell me. You and I are such friends, you know.
+
+
+@l{"name":"Mrs. Helseth"}
+ Heaven forbid I should tell you anything about that,
+miss. I shall not tell you anything, except that it was some dreadful
+idea that they had gone and put into my poor sick mistress's head.
+
+
+@l{"name":"Rebecca"}
+ Who had put it into her head?
+
+
+@l{"name":"Mrs. Helseth"}
+ Wicked people, miss. Wicked people.
+
+
+@l{"name":"Rebecca"}
+ Wicked--?
+
+
+@l{"name":"Mrs. Helseth"}
+ Yes, I say it again--very wicked people, they must have
+been.
+
+
+@l{"name":"Rebecca"}
+ And what do you think it could be?
+
+
+@l{"name":"Mrs. Helseth"}
+ Oh, I know what I think--but, please Heaven, I'll keep my
+mouth shut. At the same time, there is a certain lady in the town--hm!
+
+
+@l{"name":"Rebecca"}
+ I can see you mean Mrs. Kroll
+
+
+@l{"name":"Mrs. Helseth"}
+ Yes, she is a queer one, she is. She has always been very
+much on the high horse with me. And she has never looked with any
+friendly eye on you, either, miss.
+
+
+@l{"name":"Rebecca"}
+ Do you think Mrs. Rosmer was quite in her right mind when she
+wrote that letter to Mortensgaard?
+
+
+@l{"name":"Mrs. Helseth"}
+ It is so difficult to tell, miss. I certainly don't think
+she was quite out of her mind.
+
+
+@l{"name":"Rebecca"}
+ But you know she seemed to go quite distracted when she learnt
+that she would never be able to have a child. That was when her madness
+first showed itself.
+
+
+@l{"name":"Mrs. Helseth"}
+ Yes, that had a terrible effect on her, poor lady.
+
+
+@d{}
+(taking up her work, and sitting down on a chair by the
+window). 
+@l{"name":"Rebecca"}
+But, in other respects, do you not think that was really a
+good thing for Mr. Rosmer, Mrs. Helseth?
+
+
+@l{"name":"Mrs. Helseth"}
+ What, miss?
+
+
+@l{"name":"Rebecca"}
+ That there were no children?
+
+
+@l{"name":"Mrs. Helseth"}
+ Hm!--I really do not know what to say to that.
+
+
+@l{"name":"Rebecca"}
+ Believe me, it was best for him. Mr. Rosmer was never meant to
+be surrounded by crying children.
+
+
+@l{"name":"Mrs. Helseth"}
+ Little children do not cry at Rosmersholm, Miss West.
+
+
+@d{}
+(looking at her). 
+@l{"name":"Rebecca"}
+Not cry?
+
+
+@l{"name":"Mrs. Helseth"}
+ No. In this house, little children have never been known
+to cry, as long as any one can remember.
+
+
+@l{"name":"Rebecca"}
+ That is very strange.
+
+
+@l{"name":"Mrs. Helseth"}
+ Yes, isn't it, miss? But it runs in the family. And there
+is another thing that is just as strange; when they grow up they never
+laugh--never laugh, all their lives.
+
+
+@l{"name":"Rebecca"}
+ But that would be extraordinary
+
+
+@l{"name":"Mrs. Helseth"}
+ Have you ever once heard or seen Mr. Rosmer laugh, miss?
+
+
+@l{"name":"Rebecca"}
+ No--now that I think of it, I almost believe you are right.
+But I fancy most of the folk hereabouts laugh very little.
+
+
+@l{"name":"Mrs. Helseth"}
+ That is quite true. People say it began at Rosmersholm,
+and I expect it spread like a sort of infection.
+
+
+@l{"name":"Rebecca"}
+ You are a sagacious woman, Mrs. Helseth!
+
+
+@l{"name":"Mrs. Helseth"}
+ Oh, you mustn't sit there and make game of me, miss.
+
+@d{}
+(Listens.) 
+@l{"name":"Mrs. Helseth"}
+Hush, hush--Mr. Rosmer is coming down. He doesn't like to
+see brooms about. 
+@d{}
+(Goes out by the door on the right. ROSMER, with his
+stick and hat in his hand, comes in from the lobby.)
+
+
+@e{"names":["Rosmer"]}
+
+@x{"names":["Mrs. Helseth"]}
+
+@l{"name":"Rosmer"}
+ Good-morning, Rebecca
+
+
+@l{"name":"Rebecca"}
+ Good-morning, dear. 
+@d{}
+(She goes on working for a little while in
+silence.) 
+@l{"name":"Rebecca"}
+Are you going out?
+
+
+@l{"name":"Rosmer"}
+ Yes.
+
+
+@l{"name":"Rebecca"}
+ It is such a lovely day.
+
+
+@l{"name":"Rosmer"}
+ You did not come up to see me this morning.
+
+
+@l{"name":"Rebecca"}
+ No--I didn't. Not to-day.
+
+
+@l{"name":"Rosmer"}
+ Don't you mean to do so in future, either? Rebecca I cannot
+say yet, dear.
+
+
+@l{"name":"Rosmer"}
+ Has anything come for me?
+
+
+@l{"name":"Rebecca"}
+ The "County News" has come.
+
+
+@l{"name":"Rosmer"}
+ The "County News"!
+
+
+@l{"name":"Rebecca"}
+ There it is, on the table.
+
+
+@d{}
+(putting down his hat and stick). 
+@l{"name":"Rosmer"}
+Is there anything--?
+
+
+@l{"name":"Rebecca"}
+ Yes.
+
+
+@l{"name":"Rosmer"}
+ And you did not send it up to me
+
+
+@l{"name":"Rebecca"}
+ You will read it quite soon enough.
+
+
+@l{"name":"Rosmer"}
+ Well, let us see. 
+@d{}
+(Takes up the paper and stands by the table
+reading it.) 
+@l{"name":"Rosmer"}
+What!--"cannot pronounce too emphatic a warning against
+unprincipled deserters." 
+@d{}
+(Looks at her.) 
+@l{"name":"Rosmer"}
+They call me a deserter,
+Rebecca
+
+
+@l{"name":"Rebecca"}
+ They mention no names at all.
+
+
+@l{"name":"Rosmer"}
+ It comes to the same thing. 
+@d{}
+(Goes on reading.) 
+@l{"name":"Rosmer"}
+"Secret traitors
+to the good cause."--"Judas-like creatures, who shamelessly confess
+their apostasy as soon as they think the most opportune and most
+profitable moment has arrived."--"A reckless outrage on the fair fame
+of honoured ancestors"--"in the expectation that those who are enjoying
+a brief spell of authority will not disappoint them of a suitable
+reward." 
+@d{}
+(Lays the paper down on the table.) 
+@l{"name":"Rosmer"}
+And they write that of
+me--these men who have known me so long and so intimately--write a
+thing that they do not even believe themselves! They know there is not
+a single word of truth in it--and yet they write it.
+
+
+@l{"name":"Rebecca"}
+ There is more of it yet.
+
+
+@d{}
+(taking up the paper again). 
+@l{"name":"Rosmer"}
+"Make some allowance for
+inexperience and want of judgment"--"a pernicious influence which, very
+possibly, has extended even to matters which for the present we will
+refrain from publicly discussing or condemning." 
+@d{}
+(Looks at her.) 
+@l{"name":"Rosmer"}
+What
+does that mean?
+
+
+@l{"name":"Rebecca"}
+ That is a hit at me, obviously.
+
+
+@d{}
+(laying down the paper). 
+@l{"name":"Rosmer"}
+Rebecca, this is the conduct of
+dishonourable men.
+
+
+@l{"name":"Rebecca"}
+ Yes, it seems to me they have no right to talk about
+Mortensgaard
+
+
+@d{}
+(walking up and down the room). 
+@l{"name":"Rosmer"}
+They must be saved from this
+sort of thing. All the good that is in men is destroyed, if it is
+allowed to go on. But it shall not be so! How happy--how happy I should
+feel if I could succeed in bringing a little light into all this murky
+ugliness.
+
+
+@d{}
+(getting up). 
+@l{"name":"Rebecca"}
+I am sure of it. There is something great,
+something splendid, for you to live for!
+
+
+@l{"name":"Rosmer"}
+ Just think of it--if I could wake them to a real knowledge of
+themselves--bring them to be angry with and ashamed of
+themselves--induce them to be at one with each other in toleration, in
+love, Rebecca!
+
+
+@l{"name":"Rebecca"}
+ Yes! Give yourself up entirely to that task, and you will see
+that you will succeed.
+
+
+@l{"name":"Rosmer"}
+ I think it might be done. What happiness it would be to live
+one's life, then! No more hateful strife--only emulation; every eye
+fixed on the same goal; every man's will, every man's thoughts moving
+forward-upward--each in its own inevitable path Happiness for all--and
+through the efforts of all! 
+@d{}
+(Looks out of the window as he speaks, then
+gives a start and says gloomily:) 
+@l{"name":"Rosmer"}
+Ah! not through me.
+
+
+@l{"name":"Rebecca"}
+ Not--not through you?
+
+
+@l{"name":"Rosmer"}
+ Nor for me, either.
+
+
+@l{"name":"Rebecca"}
+ Oh, John, have no such doubts.
+
+
+@l{"name":"Rosmer"}
+ Happiness, dear Rebecca, means first and foremost the calm,
+joyous sense of innocence.
+
+
+@d{}
+(staring in front of her). 
+@l{"name":"Rebecca"}
+Ah, innocence--
+
+
+@l{"name":"Rosmer"}
+ You need fear nothing on that score. But I--
+
+
+@l{"name":"Rebecca"}
+ You least of all men!
+
+
+@d{}
+(pointing out of the window). 
+@l{"name":"Rosmer"}
+The mill-race.
+
+
+@l{"name":"Rebecca"}
+ Oh, John!--
+@d{}
+(MRS. HELSETH looks in in through the door on the
+left.)
+
+
+@e{"names":["Mrs. Helseth"]}
+
+@l{"name":"Mrs. Helseth"}
+ Miss West!
+
+
+@l{"name":"Rebecca"}
+ Presently, presently. Not now.
+
+
+@l{"name":"Mrs. Helseth"}
+ Just a word, miss! 
+@d{}
+(REBECCA goes to the door. MRS.
+HELSETH tells her something, and they whisper together for a moment;
+then MRS. HELSETH nods and goes away.)
+
+
+@x{"names":["Mrs. Helseth"]}
+
+@d{}
+(uneasily). 
+@l{"name":"Rosmer"}
+Was it anything for me?
+
+
+@l{"name":"Rebecca"}
+ No, only something about the housekeeping. You ought to go out
+into the open air now, John dear. You should go for a good long walk.
+
+
+@d{}
+(taking up his hat). 
+@l{"name":"Rosmer"}
+Yes, come along; we will go together.
+
+
+@l{"name":"Rebecca"}
+ No, dear, I can't just now. You must go by yourself. But shake
+off all these gloomy thoughts--promise me that!
+
+
+@l{"name":"Rosmer"}
+ I shall never be able to shake them quite off, I am afraid.
+
+
+@l{"name":"Rebecca"}
+ Oh, but how can you let such groundless fancies take such a
+hold on you!
+
+
+@l{"name":"Rosmer"}
+ Unfortunately they are not so groundless as you think, dear. I
+have lain, thinking them over, all night. Perhaps Beata saw things
+truly after all.
+
+
+@l{"name":"Rebecca"}
+ In what way do you mean?
+
+
+@l{"name":"Rosmer"}
+ Saw things truly when she believed I loved you, Rebecca
+
+
+@l{"name":"Rebecca"}
+ Truly in THAT respect?
+
+
+@d{}
+(laying his hat down on the table). 
+@l{"name":"Rosmer"}
+This is the question I have
+been wrestling with--whether we two have deluded ourselves the whole
+time, when we have been calling the tie between us merely friendship.
+
+
+@l{"name":"Rebecca"}
+ Do you mean, then, that the right name for it would have
+been--?
+
+
+@l{"name":"Rosmer"}
+ Love. Yes, dear, that is what I mean. Even while Beata was
+alive, it was you that I gave all my thoughts to. It was you alone I
+yearned for. It was with you that I experienced peaceful, joyful,
+passionless happiness. When we consider it rightly, Rebecca, our life
+together began like the sweet, mysterious love of two children for one
+another--free from desire or any thought of anything more. Did you not
+feel it in that way too? Tell me.
+
+
+@d{}
+(struggling with herself). 
+@l{"name":"Rebecca"}
+Oh, I do not know what to answer.
+
+
+@l{"name":"Rosmer"}
+ And it was this life of intimacy, with one another and for one
+another, that we took to be friendship. No, dear--the tie between us
+has been a spiritual marriage--perhaps from the very first day. That is
+why I am guilty. I had no right to it--no right to it for Beata's sake.
+
+
+@l{"name":"Rebecca"}
+ No right to a happy life? Do you believe that, John?
+
+
+@l{"name":"Rosmer"}
+ She looked at the relations between us through the eyes of HER
+love--judged them after the nature of HER love. And it was only
+natural. She could not have judged them otherwise than she did.
+
+
+@l{"name":"Rebecca"}
+ But how can you so accuse yourself for Beata's delusions?
+
+
+@l{"name":"Rosmer"}
+ It was for love of me--in her own way that--she threw herself
+into the mill-race. That fact is certain, Rebecca I can never get
+beyond that.
+
+
+@l{"name":"Rebecca"}
+ Oh, do not think of anything else but the great, splendid task
+that you are going to devote your life to!
+
+
+@d{}
+(shaking his head). 
+@l{"name":"Rosmer"}
+It can never be carried through. Not by me.
+Not after what I know now.
+
+
+@l{"name":"Rebecca"}
+ Why not by you?
+
+
+@l{"name":"Rosmer"}
+ Because no cause can ever triumph which has its beginnings in
+guilt.
+
+
+@d{}
+(impetuously). 
+@l{"name":"Rebecca"}
+Oh, these are nothing but prejudices you have
+inherited--these doubts, these fears, these scruples! You have a legend
+here that your dead return to haunt you in the form of white horses.
+This seems to me to be something of that sort.
+
+
+@l{"name":"Rosmer"}
+ Be that as it may, what difference does it make if I cannot
+shake it off? Believe me, Rebecca, it is as I say--any cause which is
+to win a lasting victory must be championed by a man who is joyous and
+innocent.
+
+
+@l{"name":"Rebecca"}
+ But is joy so absolutely indispensable to you, John?
+
+
+@l{"name":"Rosmer"}
+ Joy? Yes, indeed it is.
+
+
+@l{"name":"Rebecca"}
+ To you, who never laugh?
+
+
+@l{"name":"Rosmer"}
+ Yes, in spite of that. Believe me, I have a great capacity for
+joy.
+
+
+@l{"name":"Rebecca"}
+ Now you really must go out, dear--for a long walk--a really
+long one, do you hear? There is your hat, and there is your stick.
+
+
+@d{}
+(taking them from her). 
+@l{"name":"Rosmer"}
+Thank you. And you won't come too?
+
+
+@l{"name":"Rebecca"}
+ No, no, I can't come now.
+
+
+@l{"name":"Rosmer"}
+ Very well. You are none the less always with me now. 
+@d{}
+(Goes out
+by the entrance hall. After a moment REBECCA peeps out from behind the
+door which he has left open. Then she goes to the door on the right,
+which she opens.)
+
+
+@x{"names":["Rosmer"]}
+
+@d{}
+(in a whisper). 
+@l{"name":"Rebecca"}
+Now, Mrs. Helseth You can let him come in now.
+
+@d{}
+(Crosses to the window. A moment later, KROLL comes in from the right.
+He bows to her silently and formally and keeps his hat in his hand.)
+
+
+@e{"names":["Kroll"]}
+
+@l{"name":"Kroll"}
+ Has he gone, then?
+
+
+@l{"name":"Rebecca"}
+ Yes.
+
+
+@l{"name":"Kroll"}
+ Does he generally stay out long?
+
+
+@l{"name":"Rebecca"}
+ Yes. But to-day he is in a very uncertain mood--so, if you do
+not want to meet him--
+
+
+@l{"name":"Kroll"}
+ Certainly not. It is you I wish to speak to--and quite alone.
+
+
+@l{"name":"Rebecca"}
+ Then we had better make the best of our time. Please sit down.
+
+@d{}
+(She sits down in an easy-chair by the window. KROLL takes a chair
+beside her.)
+
+
+@l{"name":"Kroll"}
+ Miss West, you can scarcely have any idea how deeply pained and
+unhappy I am over this revolution that has taken place in John Rosmer's
+ideas.
+
+
+@l{"name":"Rebecca"}
+ We were prepared for that being so--at first.
+
+
+@l{"name":"Kroll"}
+ Only at first?
+
+
+@l{"name":"Rosmer"}
+ Mr. Rosmer hoped confidently that sooner or later you would
+take your place beside him.
+
+
+@l{"name":"Kroll"}
+ I?
+
+
+@l{"name":"Rebecca"}
+ You and all his other friends.
+
+
+@l{"name":"Kroll"}
+ That should convince you how feeble his judgment is on any
+matter concerning his fellow-creatures and the affairs of real life.
+
+
+@l{"name":"Rebecca"}
+ In any case, now that he feels the absolute necessity of
+cutting himself free on all sides--
+
+
+@l{"name":"Kroll"}
+ Yes; but, let me tell you, that is exactly what I do not believe.
+
+
+@l{"name":"Rebecca"}
+ What do you believe, then?
+
+
+@l{"name":"Kroll"}
+ I believe it is you that are at the bottom of the whole thing.
+
+
+@l{"name":"Rebecca"}
+ Your wife put that into your head, Mr. Kroll
+
+
+@l{"name":"Kroll"}
+ It does not matter who put it into my head. The point is this,
+that I feel grave doubts--exceedingly grave doubts--when I recall and
+think over the whole of your behaviour since you came here.
+
+
+@d{}
+(looking at him). 
+@l{"name":"Rebecca"}
+I have a notion that there was a time when
+you had an exceedingly strong BELIEF in me, dear Mr. Kroll--I might
+almost say, a warm belief.
+
+
+@d{}
+(in a subdued voice). 
+@l{"name":"Kroll"}
+I believe you could bewitch any one--if you
+set yourself to do it.
+
+
+@l{"name":"Rebecca"}
+ And you say I set myself to do it!
+
+
+@l{"name":"Kroll"}
+ Yes, you did. I am no longer such a simpleton as to suppose that
+sentiment entered into your little game at all. You simply wanted to
+secure yourself admission to Rosmersholm--to establish yourself here.
+That was what I was to help you to. I see it now.
+
+
+@l{"name":"Rebecca"}
+ Then you have completely forgotten that it was Beata that
+begged and entreated me to come and live here.
+
+
+@l{"name":"Kroll"}
+ Yes, because you had bewitched her too. Are you going to pretend
+that friendship is the name for what she came to feel towards you? It
+was idolatry--adoration. It degenerated into a--what shall I call,
+it?--a sort of desperate passion. Yes, that is just the word for it.
+
+
+@l{"name":"Rebecca"}
+ Have the goodness to remember the condition your sister was
+in. As far as I am concerned I do not think I can be said to be
+particularly emotional in any way.
+
+
+@l{"name":"Kroll"}
+ No, you certainly are not. But that makes you all the more
+dangerous to those whom you wish to get into your power. It comes easy
+to you to act with deliberation and careful calculation, just because
+you have a cold heart.
+
+
+@l{"name":"Rebecca"}
+ Cold? Are you so sure of that?
+
+
+@l{"name":"Kroll"}
+ I am certain of it now. Otherwise you could not have pursued
+your object here so unswervingly, year after year. Yes, yes--you have
+gained what you wanted. You have got him and everything else here into
+your power. But, to carry out your schemes, you have not scrupled to
+make him unhappy.
+
+
+@l{"name":"Rebecca"}
+ That is not true. It is not I; it is you yourself that have
+made him unhappy.
+
+
+@l{"name":"Kroll"}
+ I!
+
+
+@l{"name":"Rebecca"}
+ Yes, by leading him to imagine that he was responsible for the
+terrible end that overtook Beata.
+
+
+@l{"name":"Kroll"}
+ Did that affect him so deeply, then?
+
+
+@l{"name":"Rebecca"}
+ Of course. A man of such gentle disposition as he--
+
+
+@l{"name":"Kroll"}
+ I imagined that one of your so-called "emancipated" men would
+know how to overcome any scruples. But there it is! Oh, yes--as a
+matter of fact it turned out just as I expected. The descendant of the
+men who are looking at us from these walls need not think he can break
+loose from what has been handed down as an inviolable inheritance from
+generation to generation.
+
+
+@d{}
+(looking thoughtfully in front of her). 
+@l{"name":"Rebecca"}
+John Rosmer's nature is
+deeply rooted in his ancestors. That is certainly very true.
+
+
+@l{"name":"Kroll"}
+ Yes, and you ought to have taken that into consideration, if you
+had had any sympathy for him. But I dare say you were incapable of that
+sort of consideration. Your starting-point is so very widely-removed
+from his, you see.
+
+
+@l{"name":"Rebecca"}
+ What do you mean by my starting-point?
+
+
+@l{"name":"Kroll"}
+ I mean the starting-point of origin--of parentage, Miss West.
+
+
+@l{"name":"Rebecca"}
+ I see. Yes, it is quite true that my origin is very humble.
+But nevertheless--
+
+
+@l{"name":"Kroll"}
+ I am not alluding to rank or position. I am thinking of the
+moral aspect of your origin.
+
+
+@l{"name":"Rebecca"}
+ Of my origin? In what respect?
+
+
+@l{"name":"Kroll"}
+ In respect of your birth generally.
+
+
+@l{"name":"Rebecca"}
+ What are you saying!
+
+
+@l{"name":"Kroll"}
+ I am only saying it because it explains the whole of your
+conduct.
+
+
+@l{"name":"Rebecca"}
+ I do not understand. Be so good as to tell me exactly what you
+mean.
+
+
+@l{"name":"Kroll"}
+ I really thought you did not need telling. Otherwise it would
+seem a very strange thing that you let yourself be adopted by Dr. West.
+
+
+@d{}
+(getting up). 
+@l{"name":"Rebecca"}
+Oh, that is it! Now I understand.
+
+
+@l{"name":"Kroll"}
+ And took his name. Your mother's name was Gamvik.
+
+
+@d{}
+(crossing the room). 
+@l{"name":"Rebecca"}
+My father's name was Gamvik, Mr. Kroll
+
+
+@l{"name":"Kroll"}
+ Your mother's occupation must, of course, have brought her
+continually into contact with the district physician.
+
+
+@l{"name":"Rebecca"}
+ You are quite right.
+
+
+@l{"name":"Kroll"}
+ And then he takes you to live with him, immediately upon your
+mother's death. He treats you harshly, and yet you stay with him. You
+know that he will not leave you a single penny--as a matter of fact you
+only got a box of books--and yet you endure living with him, put up
+with his behaviour, and nurse him to the end.
+
+
+@d{}
+(comes to the table and looks at him scornfully). 
+@l{"name":"Rebecca"}
+And my doing
+all that makes it clear to you that there was something
+immoral--something criminal about my birth!
+
+
+@l{"name":"Kroll"}
+ What you did for him, I attributed to an unconscious filial
+instinct. And, as far as the rest of it goes, I consider that the whole
+of your conduct has been the outcome of your origin.
+
+
+@d{}
+(hotly). 
+@l{"name":"Rebecca"}
+But there is not a single word of truth in what you
+say! And I can prove it! Dr. West had not come to Finmark when I was
+born.
+
+
+@l{"name":"Kroll"}
+ Excuse me, Miss West. He went there a year before you were born.
+I have ascertained that.
+
+
+@l{"name":"Rebecca"}
+ You are mistaken, I tell you! You are absolutely mistaken!
+
+
+@l{"name":"Kroll"}
+ You said here, the day before yesterday, that you were
+twenty-nine--going on for thirty.
+
+
+@l{"name":"Rebecca"}
+ Really? Did I say that?
+
+
+@l{"name":"Kroll"}
+ Yes, you did. And from that I can calculate--
+
+
+@l{"name":"Rebecca"}
+ Stop! That will not help you to calculate. For, I may as well
+tell you at once, I am a year older than I give myself out to be.
+
+
+@d{}
+(smiling incredulously). 
+@l{"name":"Kroll"}
+Really? That is something new. How is
+that?
+
+
+@l{"name":"Rebecca"}
+ When I had passed my twenty-fifth birthday, I thought I was
+getting altogether too old for an unmarried girl, so I resolved to tell
+a lie and take a year off my age.
+
+
+@l{"name":"Kroll"}
+ You--an emancipated woman--cherishing prejudices as to the
+marriageable age!
+
+
+@l{"name":"Rebecca"}
+ I know it was a silly thing to do--and ridiculous, too. But
+every one has some prejudice or another that they cannot get quite rid
+of. We are like that.
+
+
+@l{"name":"Kroll"}
+ Maybe. But my calculation may be quite correct, all the same;
+because Dr. West was up in Finmark for a flying visit the year before
+he was appointed.
+
+
+@d{}
+(impetuously). 
+@l{"name":"Rebecca"}
+That is not true
+
+
+@l{"name":"Kroll"}
+ Isn't it?
+
+
+@l{"name":"Rebecca"}
+ No. My mother never mentioned it.
+
+
+@l{"name":"Kroll"}
+ Didn't she, really!
+
+
+@l{"name":"Rebecca"}
+ No, never. Nor Dr. West, either. Never a word of it.
+
+
+@l{"name":"Kroll"}
+ Might that not be because they both had good reason to jump over
+a year?--just as you have done yourself, Miss West? Perhaps it is a
+family failing.
+
+
+@d{}
+(walking about, wringing her hands). 
+@l{"name":"Rebecca"}
+It is impossible. It is
+only something you want to make me believe. Nothing in the world will
+make me believe it. It cannot be true! Nothing in the world--
+
+
+@d{}
+(getting up). 
+@l{"name":"Kroll"}
+But, my dear Miss West, why in Heaven's name do you
+take it in this way? You quite alarm me! What am I to believe and think?
+
+
+@l{"name":"Rebecca"}
+ Nothing. Neither believe nor think anything.
+
+
+@l{"name":"Kroll"}
+ Then you really must give me some explanation of your taking
+this matter--this possibility--so much to heart.
+
+
+@d{}
+(controlling herself). 
+@l{"name":"Rebecca"}
+It is quite obvious, I should think, Mr.
+Kroll I have no desire for people here to think me an illegitimate
+child.
+
+
+@l{"name":"Kroll"}
+ Quite so. Well, well, let us be content with your explanation,
+for the present. But you see that is another point on which you have
+cherished a certain prejudice.
+
+
+@l{"name":"Rebecca"}
+ Yes, that is quite true.
+
+
+@l{"name":"Kroll"}
+ And it seems to me that very much the same applies to most of
+this "emancipation" of yours, as you call it. Your reading has
+introduced you to a hotch-potch of new ideas and opinions; you have
+made a certain acquaintance with researches that are going on in
+various directions--researches that seem to you to upset a good many
+ideas that people have hitherto considered incontrovertible and
+unassailable. But all this has never gone any further than knowledge in
+your case, Miss West--a mere matter of the intellect. It has not got
+into your blood.
+
+
+@d{}
+(thoughtfully). 
+@l{"name":"Rebecca"}
+Perhaps you are right.
+
+
+@l{"name":"Kroll"}
+ Yes, only test yourself, and you will see! And if it is true in
+your case, it is easy to recognise how true it must be in John
+Rosmer's. Of course it is madness, pure and simple. He will be running
+headlong to his ruin if he persists in coming openly forward and
+proclaiming himself an apostate! Just think of it--he, with his shy
+disposition! Think of HIM disowned--hounded out of the circle to which
+he has always belonged--exposed to the uncompromising attacks of all
+the best people in the place. Nothing would ever make him the man to
+endure that.
+
+
+@l{"name":"Rebecca"}
+ He MUST endure it! It is too late now for him to draw back.
+
+
+@l{"name":"Kroll"}
+ Not a bit too late--not by any means too late. What has happened
+can be hushed up--or at any rate can be explained away as a purely
+temporary, though regrettable, aberration. But--there is one step that
+it is absolutely essential he should take.
+
+
+@l{"name":"Rebecca"}
+ And that is?
+
+
+@l{"name":"Kroll"}
+ You must get him to legalise his position, Miss West.
+
+
+@l{"name":"Rebecca"}
+ The position in which he stands to me?
+
+
+@l{"name":"Kroll"}
+ Yes. You must see that you get him to do that.
+
+
+@l{"name":"Rebecca"}
+ Then you can't rid yourself of the conviction that the
+relations between us need "legalising," as you say?
+
+
+@l{"name":"Kroll"}
+ I do not wish to go any more precisely into the question. But I
+certainly have observed that the conditions under which it always seems
+easiest for people to abandon all their so-called prejudices are
+when--ahem!
+
+
+@l{"name":"Rebecca"}
+ When it is a question of the relations between a man and a
+woman, I suppose you mean?
+
+
+@l{"name":"Kroll"}
+ Yes--to speak candidly--that is what I mean.
+
+
+@d{}
+(walks across the room and looks out of the window). 
+@l{"name":"Rebecca"}
+I was on
+the point of saying that I wish you had been right, Mr. Kroll
+
+
+@l{"name":"Kroll"}
+ What do you mean by that? You say it so strangely!
+
+
+@l{"name":"Rebecca"}
+ Oh, nothing! Do not let us talk any more about it. Ah, there
+he is!
+
+
+@l{"name":"Kroll"}
+ Already! I will go, then.
+
+
+@d{}
+(turning to him). 
+@l{"name":"Rebecca"}
+No--stay here, and you will hear something.
+
+
+@l{"name":"Kroll"}
+ Not now. I do not think I could bear to see him.
+
+
+@l{"name":"Rebecca"}
+ I beg you to stay. Please do, or you will regret it later. It
+is the last time I shall ever ask you to do anything.
+
+
+@d{}
+(looks at her in surprise, and lays his hat down). 
+@l{"name":"Kroll"}
+Very well,
+Miss West. It shall be as you wish. 
+@d{}
+(A short pause. Then ROSMER comes
+in from the hall.)
+
+
+@e{"names":["Rosmer"]}
+
+@d{}
+(stops at the door, as he sees KROLL). 
+@l{"name":"Rosmer"}
+What! you here?
+
+
+@l{"name":"Rebecca"}
+ He wanted to avoid meeting you, John.
+
+
+@d{}
+(involuntarily). 
+@l{"name":"Kroll"}
+"John?"
+
+
+@l{"name":"Rebecca"}
+ Yes, Mr. Kroll John and I call each other by our Christian
+names. That is a natural consequence of the relations between us.
+
+
+@l{"name":"Kroll"}
+ Was that what I was to hear if I stayed?
+
+
+@l{"name":"Rebecca"}
+ Yes, that and something else.
+
+
+@d{}
+(coming into the room). 
+@l{"name":"Rosmer"}
+What is the object of your visit here
+to-day?
+
+
+@l{"name":"Kroll"}
+ I wanted to make one more effort to stop you, and win you back.
+
+
+@d{}
+(pointing to the newspaper). 
+@l{"name":"Rosmer"}
+After that?
+
+
+@l{"name":"Kroll"}
+ I did not write it.
+
+
+@l{"name":"Rosmer"}
+ Did you take any steps to prevent its appearing?
+
+
+@l{"name":"Kroll"}
+ That would have been acting unjustifiably towards the cause I
+serve. And, besides that, I had no power to prevent it.
+
+
+@d{}
+(tears the newspaper into pieces, which she crumples up and
+throws into the back of the stove). 
+@l{"name":"Rebecca"}
+There! Now it is out of sight; let
+it be out of mind too. Because there will be no more of that sort of
+thing, John.
+
+
+@l{"name":"Kroll"}
+ Indeed, I wish you could ensure that.
+
+
+@l{"name":"Rebecca"}
+ Come, and let us sit down, dear--all three of us. Then I will
+tell you all about it.
+
+
+@d{}
+(sitting down involuntarily). 
+@l{"name":"Rosmer"}
+What has come over you, Rebecca?
+You are so unnaturally calm--What is it?
+
+
+@l{"name":"Rebecca"}
+ The calmness of determination. 
+@d{}
+(Sits down.) 
+@l{"name":"Rebecca"}
+Please sit down
+too, Mr. Kroll 
+@d{}
+(He takes a seat on the couch.)
+
+
+@l{"name":"Rosmer"}
+ Determination, you say. Determination to do what?
+
+
+@l{"name":"Rebecca"}
+ I want to give you back what you need in order to live your
+life. You shall have your happy innocence back, dear friend.
+
+
+@l{"name":"Rosmer"}
+ But what do you mean?
+
+
+@l{"name":"Rebecca"}
+ I will just tell you what happened. That is all that is
+necessary.
+
+
+@l{"name":"Rosmer"}
+ Well?
+
+
+@l{"name":"Rebecca"}
+ When I came down here from Finmark with Dr. West, it seemed to
+me that a new, great, wide world was opened to me. Dr. West had given
+me an erratic sort of education--had taught me all the odds and ends
+that I knew about life then. 
+@d{}
+(Has an evident struggle with herself, and
+speaks in barely audible tones.) 
+@l{"name":"Rebecca"}
+And then--
+
+
+@l{"name":"Kroll"}
+ And then?
+
+
+@l{"name":"Rosmer"}
+ But, Rebecca--I know all this.
+
+
+@d{}
+(collecting herself). 
+@l{"name":"Rebecca"}
+Yes--that is true enough. You know it
+only too well.
+
+
+@d{}
+(looking fixedly at her). 
+@l{"name":"Kroll"}
+Perhaps it would be better if I left
+you.
+
+
+@l{"name":"Rebecca"}
+ No, stay where you are, dear Mr. Kroll 
+@d{}
+(To ROSMER.) 
+@l{"name":"Rebecca"}
+Well,
+this was how it was. I wanted to play my part in the new day that was
+dawning--to have a share in all the new ideas. Mr. Kroll told me one
+day that Ulrik Brendel had had a great influence over you once, when
+you were a boy. I thought it might be possible for me to resume that
+influence here.
+
+
+@l{"name":"Rosmer"}
+ Did you come here with a covert design?
+
+
+@l{"name":"Rebecca"}
+ What I wanted was that we two should go forward together on
+the road towards freedom--always forward, and further forward! But
+there was that gloomy, insurmountable barrier between you and a full,
+complete emancipation.
+
+
+@l{"name":"Rosmer"}
+ What barrier do you mean?
+
+
+@l{"name":"Rebecca"}
+ I mean, John, that you could never have attained freedom
+except in the full glory of the sunshine. And, instead of that, here
+you were--ailing and languishing in the gloom of such a marriage as
+yours.
+
+
+@l{"name":"Rosmer"}
+ You have never spoken to me of my marriage in that way, before
+to-day.
+
+
+@l{"name":"Rebecca"}
+ No, I did not dare, for fear of frightening you.
+
+
+@d{}
+(nodding to ROSMER). 
+@l{"name":"Kroll"}
+You hear that!
+
+
+@d{}
+(resuming). 
+@l{"name":"Rebecca"}
+But I saw quite well where your salvation lay--your
+only salvation. And so I acted.
+
+
+@l{"name":"Rosmer"}
+ How do you mean--you acted?
+
+
+@l{"name":"Kroll"}
+ Do you mean that?
+
+
+@l{"name":"Rebecca"}
+ Yes, John. 
+@d{}
+(Gets up.) 
+@l{"name":"Rebecca"}
+No, do not get up. Nor you either, Mr.
+Kroll But we must let in the daylight now. It was not you, John. You
+are innocent. It was I that lured--that ended by luring--Beata into the
+tortuous path--
+
+
+@d{}
+(springing up). 
+@l{"name":"Rosmer"}
+Rebecca!
+
+
+@d{}
+(getting up). 
+@l{"name":"Kroll"}
+Into the tortuous path!
+
+
+@l{"name":"Rebecca"}
+ Into the path that--led to the mill-race. Now you know it,
+both of you.
+
+
+@d{}
+(as if stunned). 
+@l{"name":"Rosmer"}
+But I do not understand--What is she standing
+there saying? I do not understand a word--
+
+
+@l{"name":"Kroll"}
+ Yes, yes. I begin to understand.
+
+
+@l{"name":"Rosmer"}
+ But what did you do? What did you find to tell her? Because
+there was nothing--absolutely nothing!
+
+
+@l{"name":"Rebecca"}
+ She got to know that you were determined to emancipate
+yourself from all your old prejudices.
+
+
+@l{"name":"Rosmer"}
+ Yes, but at that time I had come to no decision.
+
+
+@l{"name":"Rebecca"}
+ I knew that you soon would come to one.
+
+
+@d{}
+(nodding to ROSMER). 
+@l{"name":"Kroll"}
+Aha!
+
+
+@l{"name":"Rosmer"}
+ Well--and what more? I want to know everything now.
+
+
+@l{"name":"Rebecca"}
+ Some time afterwards, I begged and implored her to let me
+leave Rosmersholm.
+
+
+@l{"name":"Rosmer"}
+ Why did you want to leave here--then?
+
+
+@l{"name":"Rebecca"}
+ I did not want to. I wanted to remain where I was. But I told
+her that it would be best for us all if I went away in time. I let her
+infer that if I remained here any longer I could not tell
+what-what-might happen.
+
+
+@l{"name":"Rosmer"}
+ That is what you said and did, then?
+
+
+@l{"name":"Rebecca"}
+ Yes, John.
+
+
+@l{"name":"Rosmer"}
+ That is what you referred to when you said that you "acted"?
+
+
+@d{}
+(in a broken voice). 
+@l{"name":"Rebecca"}
+Yes, that was it.
+
+
+@d{}
+(after a pause). 
+@l{"name":"Rosmer"}
+Have you confessed everything now, Rebecca?
+
+
+@l{"name":"Rebecca"}
+ Yes.
+
+
+@l{"name":"Kroll"}
+ Not everything.
+
+
+@d{}
+(looking at him in terror). 
+@l{"name":"Rebecca"}
+What else can there be?
+
+
+@l{"name":"Kroll"}
+ Did you not eventually lead Beata to believe that it was
+necessary--not merely that it should be best--but that it was
+necessary, both for your own sake and for John's, that you should go
+away somewhere else as soon as possible?--Well?
+
+
+@d{}
+(speaking low and indistinctly). 
+@l{"name":"Rebecca"}
+Perhaps I did say something of
+the sort.
+
+
+@d{}
+(sinking into a chair by the window). 
+@l{"name":"Rosmer"}
+And she, poor sick
+creature, believed in this tissue of lies and deceit! Believed in it so
+completely--so absolutely! 
+@d{}
+(Looks up at REBECCA.) 
+@l{"name":"Rosmer"}
+And she never came to
+me about it--never said a word! Ah, Rebecca--I see it in your face--YOU
+dissuaded her from doing so.
+
+
+@l{"name":"Rebecca"}
+ You know she had taken it into her head that she, a childless
+wife, had no right to be here. And so she persuaded herself that her
+duty to you was to give place to another.
+
+
+@l{"name":"Rosmer"}
+ And you--you did nothing to rid her mind of such an idea?
+
+
+@l{"name":"Rebecca"}
+ No.
+
+
+@l{"name":"Kroll"}
+ Perhaps you encouraged her in the idea? Answer! Did you not do
+so?
+
+
+@l{"name":"Rebecca"}
+ That was how she understood me, I believe.
+
+
+@l{"name":"Rosmer"}
+ Yes, yes--and she bowed to your will in everything. And so she
+gave place. 
+@d{}
+(Springs up.) 
+@l{"name":"Rosmer"}
+How could you--how could you go on with this
+terrible tragedy!
+
+
+@l{"name":"Rebecca"}
+ I thought there were two lives here to choose between, John.
+
+
+@d{}
+(severely and with authority). 
+@l{"name":"Kroll"}
+You had no right to make any such
+choice.
+
+
+@d{}
+(impetuously). 
+@l{"name":"Rebecca"}
+Surely you do not think I acted with cold and
+calculating composure! I am a different woman now, when I am telling
+you this, from what I was then. And I believe two different kinds of
+will can exist at the same time in one person. I wanted Beata away--in
+one way or the other; but I never thought it would happen, all the
+same. At every step I ventured and risked, I seemed to hear a voice in
+me crying: "No further! Not a step further!" And yet, at the same time,
+I COULD not stop. I HAD to venture a little bit further--just one step.
+And then another--and always another--and at last it happened. That is
+how such things go of themselves. 
+@d{}
+(A short silence.)
+
+
+@d{}
+(to REBECCA). 
+@l{"name":"Rosmer"}
+And how do you think it will go with YOU in the
+future?--after this?
+
+
+@l{"name":"Rebecca"}
+ Things must go with me as they can. It is of very little
+consequence.
+
+
+@l{"name":"Kroll"}
+ Not a word suggestive of remorse! Perhaps you feel none?
+
+
+@d{}
+(dismissing his remark coldly). 
+@l{"name":"Rebecca"}
+Excuse me, Mr. Kroll, that is a
+matter that is no concern of any one else's. That is an account I must
+settle with myself.
+
+
+@d{}
+(to ROSMER). 
+@l{"name":"Kroll"}
+And this is the woman you have been living under the
+same roof with--in relations of the completest confidence. 
+@d{}
+(Looks up at
+the portraits on the walls.) 
+@l{"name":"Kroll"}
+If only those that are gone could look
+down now!
+
+
+@l{"name":"Rosmer"}
+ Are you going into the town?
+
+
+@d{}
+(taking up his hat). 
+@l{"name":"Kroll"}
+Yes. The sooner the better.
+
+
+@d{}
+(taking his hat also). 
+@l{"name":"Rosmer"}
+Then I will go with you.
+
+
+@l{"name":"Kroll"}
+ You will! Ah, I thought we had not quite lost you.
+
+
+@l{"name":"Rosmer"}
+ Come, then, Kroll Come! 
+@d{}
+(They both go out into the hall
+without looking at REBECCA. After a minute REBECCA goes cautiously to
+the window and peeps out between the flowers.)
+
+
+@x{"names":["Kroll","Rosmer"]}
+
+@d{}
+(speaking to herself, half aloud). 
+@l{"name":"Rebecca"}
+Not over the bridge to-day
+either. He is going round. Never over the millrace--never. 
+@d{}
+(Comes away
+from the window.) 
+@l{"name":"Rebecca"}
+As I thought! 
+@d{}
+(She goes over to the bell, and rings
+it. Soon afterwards MRS. HELSETH comes in from the right.)
+
+
+@e{"names":["Mrs. Helseth"]}
+
+@l{"name":"Mrs. Helseth"}
+ What is it, miss?
+
+
+@l{"name":"Rebecca"}
+ Mrs. Helseth, will you be so good as to fetch my travelling
+trunk down from the loft?
+
+
+@l{"name":"Mrs. Helseth"}
+ Your trunk?
+
+
+@l{"name":"Rebecca"}
+ Yes, the brown hair-trunk, you know.
+
+
+@l{"name":"Mrs. Helseth"}
+ Certainly, miss. But, bless my soul, are you going away
+on a journey, miss?
+
+
+@l{"name":"Rebecca"}
+ Yes--I am going away on a journey, Mrs. Helseth
+
+
+@l{"name":"Mrs. Helseth"}
+ And immediately!
+
+
+@l{"name":"Rebecca"}
+ As soon as I have packed.
+
+
+@l{"name":"Mrs. Helseth"}
+ I never heard of such a thing! But you are coming back
+again soon, I suppose, miss?
+
+
+@l{"name":"Rebecca"}
+ I am never coming back again.
+
+
+@l{"name":"Mrs. Helseth"}
+ Never! But, my goodness, what is to become of us at
+Rosmersholm if Miss West is not here any longer? Just as everything was
+making poor Mr. Rosmer so happy and comfortable!
+
+
+@l{"name":"Rebecca"}
+ Yes, but to-day I have had a fright, Mrs. Helseth
+
+
+@l{"name":"Mrs. Helseth"}
+ A fright! Good heavens-how?
+
+
+@l{"name":"Rebecca"}
+ I fancy I have had a glimpse of the White Horse.
+
+
+@l{"name":"Mrs. Helseth"}
+ Of the White Horse! In broad daylight!
+
+
+@l{"name":"Rebecca"}
+ Ah! they are out both early and late, the White Horses of
+Rosmersholm. 
+@d{}
+(Crosses the room.) 
+@l{"name":"Rebecca"}
+Well--we were speaking of my trunk,
+Mrs. Helseth
+
+
+@l{"name":"Mrs. Helseth"}
+ Yes, miss. Your trunk.
+
+
+@d{}
+(They both go out to the right.)
+
+
+@x{"names":["Mrs. Helseth","Rebecca"]}
+
+@a{"number":4}
+@s{"number":1}
+@d{}
+
+ACT IV
+
+
+(SCENE.--The same room in the late evening. The lamp, with a shade on
+it, is burning on the table. REBECCA is standing by the table, packing
+some small articles in a travelling-bag. Her cloak, hat, and the white
+crochetted shawl are hanging on the back of the couch. MRS. HELSETH
+comes in from the right.)
+
+
+@e{"names":["Rebecca","Mrs. Helseth"]}
+
+@d{}
+(speaking in low tones and with a reserved manner). 
+@l{"name":"Mrs. Helseth"}
+Yes,
+all your things have been taken down, miss. They are in the kitchen
+passage.
+
+
+@l{"name":"Rebecca"}
+ Thank you. You have ordered the carriage?
+
+
+@l{"name":"Mrs. Helseth"}
+ Yes, miss. The coachman wants to know what time he shall
+bring it round.
+
+
+@l{"name":"Rebecca"}
+ I think at about eleven o'clock. The boat goes at midnight.
+
+
+@d{}
+(with a little hesitation). 
+@l{"name":"Mrs. Helseth"}
+But what about Mr. Rosmer?
+Suppose he is not back by that time?
+
+
+@l{"name":"Rebecca"}
+ I shall start, all the same. If I should not see him, you can
+tell him I will write to him--a long letter, say that.
+
+
+@l{"name":"Mrs. Helseth"}
+ Yes, I dare say it will be all right to write. But, poor
+dear, I really think that you ought to try and have a talk with him
+once more.
+
+
+@l{"name":"Rebecca"}
+ Perhaps I ought--Or perhaps not, after all.
+
+
+@l{"name":"Mrs. Helseth"}
+ Dear, dear! I never thought I should, live to see such a
+thing as this!
+
+
+@l{"name":"Rebecca"}
+ What did you think, then, Mrs. Helseth?
+
+
+@l{"name":"Mrs. Helseth"}
+ To tell the truth, miss, I thought Mr. Rosmer was an
+honester man than that.
+
+
+@l{"name":"Rebecca"}
+ Honester?
+
+
+@l{"name":"Mrs. Helseth"}
+ Yes, miss, that is the truth.
+
+
+@l{"name":"Rebecca"}
+ But, my dear Mrs. Helseth, what do you mean by that?
+
+
+@l{"name":"Mrs. Helseth"}
+ I mean what is true and right, miss. He should not get
+out of it in this way--that he shouldn't.
+
+
+@d{}
+(looking at her). 
+@l{"name":"Rebecca"}
+Now look here, Mrs. Helseth Tell me,
+honestly and frankly, why you think I am going away.
+
+
+@l{"name":"Mrs. Helseth"}
+ Good Lord, miss--because it is necessary, I suppose.
+Well, well!--Still, I certainly do not think Mr. Rosmer has behaved
+well. There was some excuse in Mortensgaard's case, because the woman's
+husband was still alive; so that it was impossible for them to marry,
+however much they wished it. But Mr. Rosmer, he could--ahem!
+
+
+@d{}
+(with a faint smile). 
+@l{"name":"Rebecca"}
+Is it possible that you could think such
+things about me and Mr. Rosmer?
+
+
+@l{"name":"Mrs. Helseth"}
+ Not for a moment--until to-day, I mean.
+
+
+@l{"name":"Rebecca"}
+ But why to-day?
+
+
+@l{"name":"Mrs. Helseth"}
+ Well, after all the horrible things they tell me one may
+see in the papers about Mr. Rosmer--
+
+
+@l{"name":"Rebecca"}
+ Ah!
+
+
+@l{"name":"Mrs. Helseth"}
+ What I mean is this--if a man can go over to
+Mortensgaard's religion, you may believe him capable of anything. And
+that's the truth.
+
+
+@l{"name":"Rebecca"}
+ Yes, very likely. But about me? What have you got to say about
+me?
+
+
+@l{"name":"Mrs. Helseth"}
+ Well, I am sure, miss--I do not think you are so greatly
+to be blamed. It is not always so easy for a lone woman to resist, I
+dare say. We are all human after all, Miss West.
+
+
+@l{"name":"Rebecca"}
+ That is very true, Mrs. Helseth We are all human, after
+all.--What are you listening to?
+
+
+@d{}
+(in a low voice). 
+@l{"name":"Mrs. Helseth"}
+Good Lord!--I believe that is him coming
+now.
+
+
+@d{}
+(with a start). 
+@l{"name":"Rebecca"}
+In spite of everything, then--! 
+@d{}
+(Speaks with
+determination.) 
+@l{"name":"Rebecca"}
+Very well. So be it. 
+@d{}
+(ROSMER comes in from the hall. He
+sees the luggage, and turns to REBECCA.)
+
+
+@e{"names":["Rosmer"]}
+
+@l{"name":"Rosmer"}
+ What does this mean?
+
+
+@l{"name":"Rebecca"}
+ I am going away.
+
+
+@l{"name":"Rosmer"}
+ At once?
+
+
+@l{"name":"Rebecca"}
+ Yes. 
+@d{}
+(To MRS. HELSETH.) 
+@l{"name":"Rebecca"}
+Eleven o'clock, then.
+
+
+@l{"name":"Mrs. Helseth"}
+ Very well, miss. 
+@d{}
+(Goes out to the right.)
+
+
+@x{"names":["Mrs. Helseth"]}
+
+@d{}
+(after a short pause). 
+@l{"name":"Rosmer"}
+Where are you going, Rebecca?
+
+
+@l{"name":"Rebecca"}
+ I am taking the boat for the north.
+
+
+@l{"name":"Rosmer"}
+ North? What are you going there for?
+
+
+@l{"name":"Rebecca"}
+ It is where I came from.
+
+
+@l{"name":"Rosmer"}
+ But you have no more ties there now.
+
+
+@l{"name":"Rebecca"}
+ I have none here, either.
+
+
+@l{"name":"Rosmer"}
+ What do you propose to do?
+
+
+@l{"name":"Rebecca"}
+ I do not know. I only want to make an end of it.
+
+
+@l{"name":"Rosmer"}
+ Make an end of what?
+
+
+@l{"name":"Rebecca"}
+ Rosmersholm has broken me.
+
+
+@d{}
+(more attentively). 
+@l{"name":"Rosmer"}
+What is that?
+
+
+@l{"name":"Rebecca"}
+ Broken me utterly. I had a will of my own, and some courage,
+when I came here. Now I am crushed under the law of strangers. I do not
+think I shall have the courage to begin anything else in the world
+after this.
+
+
+@l{"name":"Rosmer"}
+ Why not? What do you mean by being crushed under a law--?
+
+
+@l{"name":"Rebecca"}
+ Dear friend, do not let us talk about that now--Tell me what
+passed between you and Mr. Kroll
+
+
+@l{"name":"Rosmer"}
+ We have made our peace.
+
+
+@l{"name":"Rebecca"}
+ Quite so. So it came to that.
+
+
+@l{"name":"Rosmer"}
+ He got together all our old circle of friends at his house.
+They convinced me that the work of ennobling men's souls was not in my
+line at all. Besides, it is such a hopeless task, any way. I shall let
+it alone.
+
+
+@l{"name":"Rebecca"}
+ Well, perhaps it is better so.
+
+
+@l{"name":"Rosmer"}
+ Do you say THAT now? Is that what your opinion is now?
+
+
+@l{"name":"Rebecca"}
+ I have come to that opinion--in the last day or two.
+
+
+@l{"name":"Rosmer"}
+ You are lying, Rebecca
+
+
+@l{"name":"Rebecca"}
+ Lying--?
+
+
+@l{"name":"Rosmer"}
+ Yes, lying. You have never believed in me. You have never
+believed me to be the man to lead the cause to victory.
+
+
+@l{"name":"Rebecca"}
+ I have believed that we two together would be equal to it.
+
+
+@l{"name":"Rosmer"}
+ That is not true. You have believed that you could accomplish
+something big in life yourself--that you could use me to further your
+plans--that I might be useful to you in the pursuit of your object.
+That is what you have believed.
+
+
+@l{"name":"Rebecca"}
+ Listen to me, John
+
+
+@d{}
+(sitting down wearily on the couch). 
+@l{"name":"Rosmer"}
+Oh, let me be! I see the
+whole thing clearly now. I have been like a glove in your hands.
+
+
+@l{"name":"Rebecca"}
+ Listen to me, John. Let us talk this thing over. It will be
+for the last time. 
+@d{}
+(Sits down in a chair by the couch.) 
+@l{"name":"Rebecca"}
+I had intended
+to write to you about it all--when I had gone back north. But it is
+much better that you should hear it at once.
+
+
+@l{"name":"Rosmer"}
+ Have you something more to tell, then?
+
+
+@l{"name":"Rebecca"}
+ The most important part of it all.
+
+
+@l{"name":"Rosmer"}
+ What do you mean?
+
+
+@l{"name":"Rebecca"}
+ Something that you have never suspected. Something that puts
+all the rest in its true light.
+
+
+@d{}
+(shaking his head). 
+@l{"name":"Rosmer"}
+I do not understand, at all.
+
+
+@l{"name":"Rebecca"}
+ It is quite true that at one time I did play my cards so as to
+secure admission to Rosmersholm. My idea was that I should succeed in
+doing well for myself here--either in one way or in another, you
+understand.
+
+
+@l{"name":"Rosmer"}
+ Well, you succeeded in carrying your scheme through, too.
+
+
+@l{"name":"Rebecca"}
+ I believe I could have carried anything through--at that time.
+For then I still had the courage of a free will. I had no one else to
+consider, nothing to turn me from my path. But then began what has
+broken down my will and filled the whole of my life with dread and
+wretchedness.
+
+
+@l{"name":"Rosmer"}
+ What--began? Speak so that I can understand you.
+
+
+@l{"name":"Rebecca"}
+ There came over me--a wild, uncontrollable passion--Oh, John--!
+
+
+@l{"name":"Rosmer"}
+ Passion? You--! For what?
+
+
+@l{"name":"Rebecca"}
+ For you.
+
+
+@d{}
+(getting up). 
+@l{"name":"Rosmer"}
+What does this mean!
+
+
+@d{}
+(preventing him). 
+@l{"name":"Rebecca"}
+Sit still, dear. I will tell you more about
+it.
+
+
+@l{"name":"Rosmer"}
+ And you mean to say--that you have loved me--in that way!
+
+
+@l{"name":"Rebecca"}
+ I thought I might call it loving you--then. I thought it was
+love. But it was not. It was what I have said--a wild, uncontrollable
+passion.
+
+
+@d{}
+(speaking with difficulty). 
+@l{"name":"Rosmer"}
+Rebecca--is it really you--you--who
+are sitting here telling me this?
+
+
+@l{"name":"Rebecca"}
+ Yes, indeed it is, John.
+
+
+@l{"name":"Rosmer"}
+ Then it was as the outcome of this--and under the influence of
+this--that you "acted," as you called it.
+
+
+@l{"name":"Rebecca"}
+ It swept over me like a storm over the sea--like one of the
+storms we have in winter in the north. They catch you up and rush you
+along with them, you know, until their fury is expended. There is no
+withstanding them.
+
+
+@l{"name":"Rosmer"}
+ So it swept poor unhappy Beata into the mill-race.
+
+
+@l{"name":"Rebecca"}
+ Yes--it was like a fight for life between Beata and me at that
+time.
+
+
+@l{"name":"Rosmer"}
+ You proved the strongest of us all at Rosmersholm--stronger
+than both Beata and me put together.
+
+
+@l{"name":"Rebecca"}
+ I knew you well enough to know that I could not get at you in
+any way until you were set free--both in actual circumstances and in
+your soul.
+
+
+@l{"name":"Rosmer"}
+ But I do not understand you, Rebecca You--you yourself and
+your whole conduct--are an insoluble riddle to me. I am free now--both
+in my soul and my circumstances. You are absolutely in touch with the
+goal you set before yourself from the beginning. And nevertheless--
+
+
+@l{"name":"Rebecca"}
+ I have never stood farther from my goal than I do now.
+
+
+@l{"name":"Rosmer"}
+ And nevertheless, I say, when yesterday I asked you--urged
+you--to become my wife, you cried out that it never could be.
+
+
+@l{"name":"Rebecca"}
+ I cried out in despair, John.
+
+
+@l{"name":"Rosmer"}
+ Why?
+
+
+@l{"name":"Rebecca"}
+ Because Rosmersholm has unnerved me. All the courage has been
+sapped out of my will here--crushed out! The time has gone for me to
+dare risk anything whatever. I have lost all power of action, John.
+
+
+@l{"name":"Rosmer"}
+ Tell me how that has come about.
+
+
+@l{"name":"Rebecca"}
+ It has come about through my living with you.
+
+
+@l{"name":"Rosmer"}
+ But how? How?
+
+
+@l{"name":"Rebecca"}
+ When I was alone with you here--and you had really found
+yourself--
+
+
+@l{"name":"Rosmer"}
+ Yes, yes?
+
+
+@l{"name":"Rebecca"}
+ For you never really found yourself as long as Beata was
+Alive--
+
+
+@l{"name":"Rosmer"}
+ Alas, you are right in that.
+
+
+@l{"name":"Rebecca"}
+ When it came about that I was living together with you here,
+in peace and solitude--when you exchanged all your thoughts with me
+unreservedly--your every mood, however tender or intimate--then the
+great change happened in me. Little by little, you understand. Almost
+imperceptibly--but overwhelmingly in the end, till it reached the
+uttermost depths of my soul.
+
+
+@l{"name":"Rosmer"}
+ What does this mean, Rebecca?
+
+
+@l{"name":"Rebecca"}
+ All the other feeling--all that horrible passion that had
+drowned my better self--left me entirely. All the violent emotions that
+had been roused in me were quelled and silenced. A peace stole over my
+soul--a quiet like that of one of our mountain peaks up under the
+midnight sun.
+
+
+@l{"name":"Rosmer"}
+ Tell me more of it--all that you can.
+
+
+@l{"name":"Rebecca"}
+ There is not much more to tell. Only that this was how love
+grew up in my heart--a great, self-denying love--content with such a
+union of hearts as there has been between us two.
+
+
+@l{"name":"Rosmer"}
+ Oh, if only I had had the slightest suspicion of all this!
+
+
+@l{"name":"Rebecca"}
+ It is best as it is. Yesterday, when you asked me if I would
+be your wife, I gave a cry of joy--
+
+
+@l{"name":"Rosmer"}
+ Yes, it was that, Rebecca, was it not! I thought that was what
+it meant.
+
+
+@l{"name":"Rebecca"}
+ For a moment, yes-I forgot myself for a moment. It was my
+dauntless will of the old days that was struggling to be free again.
+But now it has no more strength--it has lost it for ever.
+
+
+@l{"name":"Rosmer"}
+ How do you explain what has taken place in you?
+
+
+@l{"name":"Rebecca"}
+ It is the Rosmer attitude towards life-or your attitude
+towards life, at any rate--that has infected my will.
+
+
+@l{"name":"Rosmer"}
+ Infected?
+
+
+@l{"name":"Rebecca"}
+ Yes, and made it sickly--bound it captive under laws that
+formerly had no meaning for me. You--my life together with you--have
+ennobled my soul--
+
+
+@l{"name":"Rosmer"}
+ Ah, if I dared believe that to be true!
+
+
+@l{"name":"Rebecca"}
+ You may believe it confidently. The Rosmer attitude towards
+life ennobles. But-
+@d{}
+(shakes her head)
+
+@l{"name":"Rebecca"}
+-but-but--
+
+@l{"name":"Rosmer"}
+ But? Well?
+
+
+@l{"name":"Rebecca"}
+ But it kills joy, you know.
+
+
+@l{"name":"Rosmer"}
+ Do you say that, Rebecca?
+
+
+@l{"name":"Rebecca"}
+ For me, at all events.
+
+
+@l{"name":"Rosmer"}
+ Yes, but are you so sure of that? If I asked you again now--?
+Implored you--?
+
+
+@l{"name":"Rebecca"}
+ Oh, my dear--never go back to that again! It is impossible.
+Yes, impossible--because I must tell you this, John. I have a--past
+behind me.
+
+
+@l{"name":"Rosmer"}
+ Something more than you have told me?
+
+
+@l{"name":"Rebecca"}
+ Yes, something more and something different.
+
+
+@d{}
+(with a faint smile). 
+@l{"name":"Rosmer"}
+It is very strange, Rebecca, but--do you
+know--the idea of such a thing has occurred to me more than once.
+
+
+@l{"name":"Rebecca"}
+ It has? And yet--notwithstanding that, you--?
+
+
+@l{"name":"Rosmer"}
+ I never believed in it. I only played with the idea-nothing
+more.
+
+
+@l{"name":"Rebecca"}
+ If you wish, I will tell you all about it at once.
+
+
+@d{}
+(stopping her). 
+@l{"name":"Rosmer"}
+No, no! I do not want to hear a word about it.
+Whatever it is, it shall be forgotten, as far as I am concerned.
+
+
+@l{"name":"Rebecca"}
+ But I cannot forget it.
+
+
+@l{"name":"Rosmer"}
+ Oh, Rebecca--!
+
+
+@l{"name":"Rebecca"}
+ Yes, dear--that is just the dreadful part of it-that now, when
+all the happiness of life is freely and fully offered to me, all I can
+feel is that I am barred out from it by my past.
+
+
+@l{"name":"Rosmer"}
+ Your past is dead, Rebecca It has no longer any hold on
+you--has nothing to do with you--as you are now.
+
+
+@l{"name":"Rebecca"}
+ Ah, my dear, those are mere words, you know. What about
+innocence, then? Where am I to get that from?
+
+
+@d{}
+(gloomily). 
+@l{"name":"Rosmer"}
+Ah, yes--innocence.
+
+
+@l{"name":"Rebecca"}
+ Yes, innocence--which is at the root of all joy and happiness.
+That was the teaching, you know, that you wanted to see realised by all
+the men you were going to raise up to nobility and happiness.
+
+
+@l{"name":"Rosmer"}
+ Ah, do not remind me of that. It was nothing but a half-dreamt
+dream, Rebecca--a rash suggestion that I have no longer any faith in.
+Human nature cannot be ennobled by outside influences, believe me.
+
+
+@d{}
+(gently). 
+@l{"name":"Rebecca"}
+Not by a tranquil love, do you think?
+
+
+@d{}
+(thoughtfully). 
+@l{"name":"Rosmer"}
+Yes, that would be a splendid thing--almost the
+most glorious thing in life, I think if it were so. 
+@d{}
+(Moves restlessly.)
+
+@l{"name":"Rosmer"}
+But how am I ever to clear up the question?--how am I to get to the
+bottom of it?
+
+
+@l{"name":"Rebecca"}
+ Do you not believe in me, John?
+
+
+@l{"name":"Rosmer"}
+ Ah, Rebecca, how can I believe you entirely--you whose life
+here has been nothing but continual concealment and secrecy!--And now
+you have this new tale to tell. If it is cloaking some design of yours,
+tell me so--openly. Perhaps there is something or other that you hope
+to gain by that means? I will gladly do anything that I can for you.
+
+
+@d{}
+(wringing her hands). 
+@l{"name":"Rebecca"}
+Oh, this killing doubt! John, John--!
+
+
+@l{"name":"Rosmer"}
+ Yes, I know, dear--it is horrible--but I cannot help it. I
+shall never be able to free myself from it--never be able to feel
+certain that your love for me is genuine and pure.
+
+
+@l{"name":"Rebecca"}
+ But is there nothing in your own heart that bears witness to
+the transformation that has taken place in me--and taken place through
+your influence, and yours alone!
+
+
+@l{"name":"Rosmer"}
+ Ah, my dear, I do not believe any longer in my power to
+transform people. I have no belief in myself left at all. I do not
+believe either in myself or in you.
+
+
+@d{}
+(looking darkly at him). 
+@l{"name":"Rebecca"}
+How are you going to live out your
+life, then?
+
+
+@l{"name":"Rosmer"}
+ That is just what I do not know--and cannot imagine. I do not
+believe I can live it out. And, moreover, I do not know anything in the
+world that would be worth living for.
+
+
+@l{"name":"Rebecca"}
+ Life carries a perpetual rebirth with it. Let us hold fast to
+it, dear. We shall be finished with it quite soon enough.
+
+
+@d{}
+(getting up restlessly). 
+@l{"name":"Rosmer"}
+Then give me my faith back again!--my
+faith in you, Rebecca--my faith in your love! Give me a proof of it! I
+must have some proof!
+
+
+@l{"name":"Rebecca"}
+ Proof? How can I give you a proof--!
+
+
+@l{"name":"Rosmer"}
+ You must! 
+@d{}
+(Crosses the room.) 
+@l{"name":"Rosmer"}
+I cannot bear this desolate,
+horrible loneliness--this-this--. 
+@d{}
+(A knock is heard at the hall door.)
+
+
+@d{}
+(getting up from her chair). 
+@l{"name":"Rebecca"}
+Did you hear that?
+
+
+@d{}
+(The door opens, and ULRIK BRENDEL comes in. Except that he wears a
+white shirt, a black coat and, a good pair of high boots, he is dressed
+as in the first act. He looks troubled.)
+
+
+@e{"names":["Brendel"]}
+
+@l{"name":"Rosmer"}
+ Ah, it is you, Mr. Brendel!
+
+
+@l{"name":"Brendel"}
+ John, my boy, I have come to say good-bye to you!
+
+
+@l{"name":"Rosmer"}
+ Where are you going, so late as this?
+
+
+@l{"name":"Brendel"}
+ Downhill.
+
+
+@l{"name":"Rosmer"}
+ How--?
+
+
+@l{"name":"Brendel"}
+ I am on my way home, my beloved pupil. I am homesick for the
+great Nothingness.
+
+
+@l{"name":"Rosmer"}
+ Something has happened to you, Mr. Brendel! What is it?
+
+
+@l{"name":"Brendel"}
+ Ah, you notice the transformation, then? Well, it is evident
+enough. The last time I entered your doors I stood before you a man of
+substance, slapping a well-filled pocket.
+
+
+@l{"name":"Rosmer"}
+ Really? I don't quite understand--
+
+
+@l{"name":"Brendel"}
+ And now, as you see me to-night, I am a deposed monarch
+standing over the ashes of my burnt-out palace.
+
+
+@l{"name":"Rosmer"}
+ If there is any way I can help you
+
+
+@l{"name":"Brendel"}
+ You have preserved your childlike heart, John--can you let me
+have a loan?
+
+
+@l{"name":"Rosmer"}
+ Yes, most willingly!
+
+
+@l{"name":"Brendel"}
+ Can you spare me an ideal or two?
+
+
+@l{"name":"Rosmer"}
+ What do you say?
+
+
+@l{"name":"Brendel"}
+ One or two cast-off ideals? You will be doing a good deed. I
+am cleaned out, my dear boy, absolutely and entirely.
+
+
+@l{"name":"Rebecca"}
+ Did you not succeed in giving your lecture?
+
+
+@l{"name":"Brendel"}
+ No, fair lady. What do you think?--just as I was standing
+ready to pour out the contents of my horn in plenty, I made the painful
+discovery that I was bankrupt.
+
+
+@l{"name":"Rebecca"}
+ But what of all your unwritten works, then?
+
+
+@l{"name":"Brendel"}
+ For five and twenty years I have been like a miser sitting on
+his locked money-chest. And then to-day, when I opened it to take out
+my treasure--there was nothing there! The mills of time had ground it
+into dust. There was not a blessed thing left of the whole lot.
+
+
+@l{"name":"Rosmer"}
+ But are you certain of that?
+
+
+@l{"name":"Brendel"}
+ There is no room for doubt, my dear boy. The President has
+convinced me of that.
+
+
+@l{"name":"Rosmer"}
+ The President?
+
+
+@l{"name":"Brendel"}
+ Oh, well--His Excellency, then. Ganz nach Belieben.
+
+
+@l{"name":"Rosmer"}
+ But whom do you mean?
+
+
+@l{"name":"Brendel"}
+ Peter Mortensgaard, of course.
+
+
+@l{"name":"Rosmer"}
+ What!
+
+
+@d{}
+(mysteriously). 
+@l{"name":"Brendel"}
+Hush, hush, hush! Peter Mortensgaard is Lord
+and Chieftain of the Future. I have never stood in a more august
+presence. Peter Mortensgaard has the power of omnipotence in him. He
+can do whatever he wants.
+
+
+@l{"name":"Rosmer"}
+ Oh, come--don't you believe that!
+
+
+@l{"name":"Brendel"}
+ It is true, my boy--because Peter Mortensgaard never wants to
+do more than he can. Peter Mortensgaard is capable of living his life
+without ideals. And that, believe me, is precisely the great secret of
+success in life. It sums up all the wisdom of the world. Basta!
+
+
+@d{}
+(in a low voice). 
+@l{"name":"Rosmer"}
+Now I see that you are going away from here
+poorer than you came.
+
+
+@l{"name":"Brendel"}
+ Bien! Then take an example from your old tutor. Erase from
+your mind everything that he imprinted there. Do not build your castle
+upon the shifting sand. And look well ahead, and be sure of your
+ground, before you build upon the charming creature who is sweetening
+your life here.
+
+
+@l{"name":"Rebecca"}
+ Do you mean me?
+
+
+@l{"name":"Brendel"}
+ Yes, most attractive mermaid!
+
+
+@l{"name":"Rebecca"}
+ Why am I not fit to build upon?
+
+
+@d{}
+(taking a step nearer to her). 
+@l{"name":"Brendel"}
+I understood that my former
+pupil had a cause which it was his life's work to lead to victory.
+
+
+@l{"name":"Rebecca"}
+ And if he has--?
+
+
+@l{"name":"Brendel"}
+ He is certain of victory--but, be it distinctly understood, on
+one unalterable condition.
+
+
+@l{"name":"Rebecca"}
+ What is that?
+
+
+@d{}
+(taking her gently by the wrist). 
+@l{"name":"Brendel"}
+That the woman who loves him
+shall gladly go out into the kitchen and chop off her dainty, pink and
+white little finger--here, just at the middle joint. Furthermore, that
+the aforesaid loving woman shall--also gladly--clip off her
+incomparably moulded left ear. 
+@d{}
+(Lets her go, and turns to ROSMER.)
+
+@l{"name":"Brendel"}
+Good-bye, John the Victorious!
+
+
+@l{"name":"Rosmer"}
+ Must you go now--in this dark night?
+
+
+@l{"name":"Brendel"}
+ The dark night is best. Peace be with you! 
+@d{}
+(He goes out.
+Silence in the room for a short time.)
+
+
+@x{"names":["Brendel"]}
+
+@d{}
+(breathing heavily). 
+@l{"name":"Rebecca"}
+How close and sultry it is in here! 
+@d{}
+(Goes
+to the window, opens it and stands by it.)
+
+
+@d{}
+(sitting down on a chair by the stove). 
+@l{"name":"Rosmer"}
+There is nothing else
+for it after all, Rebecca--I can see that. You must go away.
+
+
+@l{"name":"Rebecca"}
+ Yes, I do not see that I have any choice.
+
+
+@l{"name":"Rosmer"}
+ Let us make use of our last hour together. Come over here and
+sit beside me.
+
+
+@d{}
+(goes and sits down on the couch). 
+@l{"name":"Rebecca"}
+What do you want, John?
+
+
+@l{"name":"Rosmer"}
+ In the first place I want to tell you that you need have no
+anxiety about your future.
+
+
+@d{}
+(with a smile). 
+@l{"name":"Rebecca"}
+Hm! My future!
+
+
+@l{"name":"Rosmer"}
+ I have foreseen all contingencies--long ago. Whatever may
+happen, you are provided for.
+
+
+@l{"name":"Rebecca"}
+ Have you even done that for me, dear?
+
+
+@l{"name":"Rosmer"}
+ You might have known that I should.
+
+
+@l{"name":"Rebecca"}
+ It is many a long day since I thought about anything of the
+kind.
+
+
+@l{"name":"Rosmer"}
+ Yes, of course. Naturally, you thought things could never be
+otherwise between us than as they were.
+
+
+@l{"name":"Rebecca"}
+ Yes, that was what I thought.
+
+
+@l{"name":"Rosmer"}
+ So did I. But if anything were to happen to me now--
+
+
+@l{"name":"Rebecca"}
+ Oh, John, you will live longer than I shall.
+
+
+@l{"name":"Rosmer"}
+ I can dispose of my miserable existence as I please, you know.
+
+
+@l{"name":"Rebecca"}
+ What do you mean? You surely are never thinking of--!
+
+
+@l{"name":"Rosmer"}
+ Do you think it would be so surprising? After the pitiful,
+lamentable defeat I have suffered? I, who was to have made it my life's
+work to lead my cause to victory--! And here I am, a deserter before
+the fight has even really begun!
+
+
+@l{"name":"Rebecca"}
+ Take up the fight again, John! Only try--and you will see that
+you will conquer. You will ennoble hundreds--thousands--of souls. Only
+try!
+
+
+@l{"name":"Rosmer"}
+ I, Rebecca, who no longer believe even in my having a mission
+in life?
+
+
+@l{"name":"Rebecca"}
+ But your mission has stood the test. You have at all events
+ennobled one of your fellow-creatures for the rest of her life--I mean
+myself.
+
+
+@l{"name":"Rosmer"}
+ Yes--if I dared believe you about that.
+
+
+@d{}
+(wringing her hands). 
+@l{"name":"Rebecca"}
+But, John, do you know of
+nothing--nothing--that would make you believe that?
+
+
+@d{}
+(starts, as if with fear). 
+@l{"name":"Rosmer"}
+Don't venture on that subject! No
+further, Rebecca! Not a single word more!
+
+
+@l{"name":"Rebecca"}
+ Indeed, that is just the subject we must venture upon. Do you
+know of anything that would stifle your doubts? For I know of nothing
+in the world.
+
+
+@l{"name":"Rosmer"}
+ It is best for you not to know. Best for us both.
+
+
+@l{"name":"Rebecca"}
+ No, no, no--I have no patience with that sort of thing! If you
+know of anything that would acquit me in your eyes, I claim it as my
+right that you should name it.
+
+
+@d{}
+(as if impelled against his will). 
+@l{"name":"Rosmer"}
+Well, let us see. You say
+that you have great love in your heart; that your soul has been
+ennobled through me. Is that so? Have you counted the cost? Shall we
+try and balance our accounts? Tell me.
+
+
+@l{"name":"Rebecca"}
+ I am quite ready.
+
+
+@l{"name":"Rosmer"}
+ Then when shall it be?
+
+
+@l{"name":"Rebecca"}
+ Whenever you like. The sooner the better.
+
+
+@l{"name":"Rosmer"}
+ Then let me see, Rebecca, whether you--for my sake-this very
+night--. 
+@d{}
+(Breaks off.) 
+@l{"name":"Rosmer"}
+Oh, no, no!
+
+
+@l{"name":"Rebecca"}
+ Yes, John! Yes, yes! Say it, and you shall see.
+
+
+@l{"name":"Rosmer"}
+ Have you the courage--are you willing--gladly, as Ulrik Brendel
+said--for my sake, to-night--gladly--to go the same way--that Beata
+went!
+
+
+@d{}
+(gets up slowly from the couch, and says almost inaudibly):
+
+@l{"name":"Rebecca"}
+John--!
+
+
+@l{"name":"Rosmer"}
+ Yes, dear--that is the question I shall never be able to rid my
+thoughts of, when you have gone away. Every hour of the day I shall
+come back to it. Ah, I seem to see you bodily before me--standing out
+on the foot-bridge-right out in the middle. Now you lean out over the
+railing! You grow dizzy as you feel drawn down towards the mill-race!
+No--you recoil. You dare not do--what she dared.
+
+
+@l{"name":"Rebecca"}
+ But if I had the courage?--and willingly and gladly? What then?
+
+
+@l{"name":"Rosmer"}
+ Then I would believe in you. Then I should get back my faith in
+my mission in life--my faith in my power to ennoble my fellow men--my
+faith in mankind's power to be ennobled.
+
+
+@d{}
+(takes up her shawl slowly, throws it over her head, and says,
+controlling herself): 
+@l{"name":"Rebecca"}
+You shall have your faith back.
+
+
+@l{"name":"Rosmer"}
+ Have you the courage and the strength of will for that, Rebecca?
+
+
+@l{"name":"Rebecca"}
+ Of that you must judge in the morning--or later--when they
+take up my body.
+
+
+@d{}
+(burying his head in his hands). 
+@l{"name":"Rosmer"}
+There is a horrible temptation
+in this--!
+
+
+@l{"name":"Rebecca"}
+ Because I should not like to be left lying there--any longer
+than need be. You must take care that they find me.
+
+
+@d{}
+(springing up). 
+@l{"name":"Rosmer"}
+But all this is madness, you know. Go away, or
+stay! I will believe you on your bare word this time too.
+
+
+@l{"name":"Rebecca"}
+ Those are mere words, John. No more cowardice or evasion! How
+can you believe me on my bare word after today?
+
+
+@l{"name":"Rosmer"}
+ But I do not want to see your defeat, Rebecca
+
+
+@l{"name":"Rebecca"}
+ There will be no defeat.
+
+
+@l{"name":"Rosmer"}
+ There will. You will never have the heart to go Beata's way.
+
+
+@l{"name":"Rebecca"}
+ Do you believe that?
+
+
+@l{"name":"Rosmer"}
+ Never. You are not like Beata. You are not under the influence
+of a distorted view of life.
+
+
+@l{"name":"Rebecca"}
+ But I am under the influence of the Rosmersholm view of
+Life--now. Whatever my offences are--it is right that I should expiate
+them.
+
+
+@d{}
+(looking at her fixedly). 
+@l{"name":"Rosmer"}
+Have you come to that decision?
+
+
+@l{"name":"Rebecca"}
+ Yes.
+
+
+@l{"name":"Rosmer"}
+ Very well. Then I too am under the influence of our unfettered
+view of life, Rebecca There is no one that can judge us. And therefore
+we must be our own judges.
+
+
+@d{}
+(misunderstanding his meaning). 
+@l{"name":"Rebecca"}
+That too. That too. My leaving
+you will save the best that is in you.
+
+
+@l{"name":"Rosmer"}
+ Ah, there is nothing left to save in me.
+
+
+@l{"name":"Rebecca"}
+ There is. But I--after this I should only be like some
+sea-sprite hanging on to the barque you are striving to sail forward
+in, and, hampering its progress. I must go overboard. Do you think I
+could go through the world bearing the burden of a spoiled
+life--brooding for ever over the happiness which I have forfeited by my
+past? I must throw up the game, John.
+
+
+@l{"name":"Rosmer"}
+ If you go--then I go with you.
+
+
+@d{}
+(looks at him with an almost imperceptible smile, and says more
+gently): 
+@l{"name":"Rebecca"}
+Yes, come with me, dear--and be witness--
+
+
+@l{"name":"Rosmer"}
+ I go with you, I said.
+
+
+@l{"name":"Rebecca"}
+ As far as the bridge--yes. You never dare go out on to it, you
+know.
+
+
+@l{"name":"Rosmer"}
+ Have you noticed that?
+
+
+@d{}
+(in sad and broken tones). 
+@l{"name":"Rebecca"}
+Yes. That was what made my love
+hopeless.
+
+
+@l{"name":"Rosmer"}
+ Rebecca--now I lay my hand on your head. 
+@d{}
+(Does as he says.) 
+@l{"name":"Rosmer"}
+And
+I take you for my true and lawful wife.
+
+
+@d{}
+(taking both his hands in hers, and bowing her head on to his
+breast). 
+@l{"name":"Rebecca"}
+Thank you, John. 
+@d{}
+(Lets him go.) 
+@l{"name":"Rebecca"}
+And now I am going--gladly.
+
+
+@l{"name":"Rosmer"}
+ Man and wife should go together.
+
+
+@l{"name":"Rebecca"}
+ Only as far as the bridge, John.
+
+
+@l{"name":"Rosmer"}
+ And out on to it, too. As far as you go--so far I go with you.
+I dare do it now.
+
+
+@l{"name":"Rebecca"}
+ Are you absolutely certain that way is the best for you?
+
+
+@l{"name":"Rosmer"}
+ I know it is the only way.
+
+
+@l{"name":"Rebecca"}
+ But suppose you are only deceiving yourself? Suppose it were
+only a delusion--one of these White Horses of Rosmersholm?
+
+
+@l{"name":"Rosmer"}
+ It may be so. We can never escape from them--we of my race.
+
+
+@l{"name":"Rebecca"}
+ Then stay, John!
+
+
+@l{"name":"Rosmer"}
+ The man shall cleave to his wife, as the wife to her husband.
+
+
+@l{"name":"Rebecca"}
+ Yes, but first tell me this--is it you that go with me, or I
+that go with you?
+
+
+@l{"name":"Rosmer"}
+ We shall never get to the bottom of that.
+
+
+@l{"name":"Rebecca"}
+ Yet I should dearly like to know.
+
+
+@l{"name":"Rosmer"}
+ We two go with each other, Rebecca I with you, and you with me.
+
+
+@l{"name":"Rebecca"}
+ I almost believe that is true.
+
+
+@l{"name":"Rosmer"}
+ For now we two are one.
+
+
+@l{"name":"Rebecca"}
+ Yes. We are one now. Come! We can go gladly now. 
+@d{}
+(They go out,
+hand in hand, through the hall, and are seen to turn to the left. The
+door stands open after them. The room is empty for a little while. Then
+MRS. HELSETH opens the door on the right.)
+
+
+@e{"names":["Mrs. Helseth"]}
+
+@x{"names":["Rebecca","Rosmer"]}
+
+@l{"name":"Mrs. Helseth"}
+ The carriage, miss, is--. 
+@d{}
+(Looks round the room.) 
+@l{"name":"Mrs. Helseth"}
+Not
+here? Out together at this time of night? Well, well--I must say--! Hm!
+
+@d{}
+(Goes out into the hall, looks round and comes in again.) 
+@l{"name":"Mrs. Helseth"}
+Not sitting
+on the bench--ah, well! 
+@d{}
+(Goes to the window and looks out.) 
+@l{"name":"Mrs. Helseth"}
+Good
+heavens! What is that white thing--! As I am a living soul, they are
+both out on the foot-bridge! God forgive the sinful creatures--if they
+are not in each other's arms! 
+@d{}
+(Gives a wild scream.) 
+@l{"name":"Mrs. Helseth"}
+Ah!--they are
+over--both of them! Over into the mill-race! Help! help! 
+@d{}
+(Her knees
+tremble, she holds on shakily to the back of a chair and can scarcely
+get her words out.) 
+@l{"name":"Mrs. Helseth"}
+No. No help here. The dead woman has taken them.
+
+@x{"names":["Mrs. Helseth"]}
