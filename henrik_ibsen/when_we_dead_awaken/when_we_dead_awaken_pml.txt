@@ -1,0 +1,8117 @@
+﻿@v{"version": 0.1} 
+@play{"title":"When We Dead Awaken", "author": "Henrik Ibsen"}
+
+@a{"number":1}
+@s{"number":1}
+@d{}
+WHEN WE DEAD AWAKEN
+By Henrik Ibsen.
+Introduction and translation by William Archer.
+
+
+The First Act passes at a bathing establishment on the coast; the Second
+and Third Acts in the neighbourhood of a health resort, high in the
+mountains.
+
+ACT FIRST.
+
+
+   [Outside the Bath Hotel. A portion of the main building can be seen
+   to the right.
+
+   An open, park-like place with a fountain, groups
+   of fine old trees, and shrubbery.  To the left, a little pavilion
+   almost covered with ivy and Virginia creeper.  A table and chair
+   outside it.  At the back a view over the fjord, right out to sea,
+   with headlands and small islands in the distance.  It is a calm,
+   warm and sunny summer morning.
+
+   [PROFESSOR RUBEK and MRS. MAIA RUBEK are sitting in basket chairs
+   beside a covered table on the lawn outside the hotel, having just
+   breakfasted.  They have champagne and seltzer water on the table,
+   and each has a newspaper.  PROFESSOR RUBEK is an elderly man of
+   distinguished appearance, wearing a black velvet jacket, and
+   otherwise in light summer attire.  MAIA is quite young, with
+   a vivacious expression and lively, mocking eyes, yet with a
+   suggestion of fatigue.  She wears an elegant travelling dress.
+
+
+
+@e{"names":["Professor Rubek","Maia"]}
+
+@d{}
+[Sits for some time as though waiting for the PROFESSOR to say
+something, then lets her paper drop with a deep sigh.] 
+@l{"name":"Maia"}
+Oh dear, dear,
+dear--!
+
+
+
+@d{}
+[Looks up from his paper.] 
+@l{"name":"Professor Rubek"}
+Well, Maia? What is the matter with you?
+
+
+
+@l{"name":"Maia"}
+
+
+Just listen how silent it is here.
+
+
+
+@d{}
+[Smiles indulgently.] 
+@l{"name":"Professor Rubek"}
+And you can hear that?
+
+
+
+@l{"name":"Maia"}
+
+
+What?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+The silence?
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, indeed I can.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Well, perhaps you are right, _mein Kind_. One can really hear the
+silence.
+
+
+
+@l{"name":"Maia"}
+
+
+Heaven knows you can--when it's so absolutely overpowering as it is
+here--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Here at the Baths, you mean?
+
+
+
+@l{"name":"Maia"}
+
+
+Wherever you go at home here, it seems to me. Of course there was noise
+and bustle enough in the town. But I don't know how it is--even the
+noise and bustle seemed to have something dead about it.
+
+
+
+@d{}
+[With a searching glance.] 
+@l{"name":"Professor Rubek"}
+You don't seem particularly glad to be at
+home again, Maia?
+
+
+
+@d{}
+[Looks at him.] 
+@l{"name":"Maia"}
+Are you glad?
+
+
+
+@d{}
+[Evasively.] 
+@l{"name":"Professor Rubek"}
+I--?
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, you, who have been so much, much further away than I. Are you
+entirely happy, now that you are at home again?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+No--to be quite candid--perhaps not entirely happy--
+
+
+
+@d{}
+[With animation.] 
+@l{"name":"Maia"}
+There, you see! Didn't I know it!
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+I have been too long abroad. I have drifted quite away from all
+this--this home life.
+
+
+
+@d{}
+[Eagerly, drawing her chair nearer him.] 
+@l{"name":"Maia"}
+There, you see, Rubek! We had
+much better get away again! As quickly as ever we can.
+
+
+
+@d{}
+[Somewhat impatiently.] 
+@l{"name":"Professor Rubek"}
+Well, well, that is what we intend to do, my
+dear Maia. You know that.
+
+
+
+@l{"name":"Maia"}
+
+
+But why not now--at once? Only think how cozy and comfortable we could
+be down there, in our lovely new house--
+
+
+
+@d{}
+[Smiles indulgently.] 
+@l{"name":"Professor Rubek"}
+We ought by rights to say: our lovely new home.
+
+
+
+@d{}
+[Shortly.] 
+@l{"name":"Maia"}
+I prefer to say house--let us keep to that.
+
+
+
+@d{}
+[His eyes dwelling on her.] 
+@l{"name":"Professor Rubek"}
+You are really a strange little person.
+
+
+
+@l{"name":"Maia"}
+
+
+Am I so strange?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Yes, I think so.
+
+
+
+@l{"name":"Maia"}
+
+
+But why, pray? Perhaps because I'm not desperately in love with mooning
+about up here--?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Which of us was it that was absolutely bent on our coming north this
+summer?
+
+
+
+@l{"name":"Maia"}
+
+
+I admit, it was I.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+It was certainly not I, at any rate.
+
+
+
+@l{"name":"Maia"}
+
+
+But good heavens, who could have dreamt that everything would have
+altered so terribly at home here? And in so short a time, too! Why, it
+is only just four years since I went away--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Since you were married, yes.
+
+
+
+@l{"name":"Maia"}
+
+
+Married? What has that to do with the matter?
+
+
+
+@d{}
+[Continuing.] 
+@l{"name":"Professor Rubek"}
+--since you became the Frau Professor, and found yourself
+mistress of a charming home--I beg your pardon--a very handsome house, I
+ought to say. And a villa on the Lake of Taunitz, just at the point that
+has become most fashionable, too--. In fact it is all very handsome and
+distinguished, Maia, there's no denying that. And spacious too. We need
+not always be getting in each other's way--
+
+
+
+@d{}
+[Lightly.] 
+@l{"name":"Maia"}
+No, no, no--there's certainly no lack of house-room, and that
+sort of thing--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Remember, too, that you have been living in altogether more spacious
+and distinguished surroundings--in more polished society than you were
+accustomed to at home.
+
+
+
+@d{}
+[Looking at him.] 
+@l{"name":"Maia"}
+Ah, so you think it is _I_ that have changed?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Indeed I do, Maia.
+
+
+
+@l{"name":"Maia"}
+
+
+I alone? Not the people here?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Oh yes, they too--a little, perhaps. And not at all in the direction of
+amiability. That I readily admit.
+
+
+
+@l{"name":"Maia"}
+
+
+I should think you must admit it, indeed.
+
+
+
+@d{}
+[Changing the subject.] 
+@l{"name":"Professor Rubek"}
+Do you know how it affects me when I look at the
+life of the people around us here?
+
+
+
+@l{"name":"Maia"}
+
+
+No. Tell me.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+It makes me think of that night we spent in the train, when we were
+coming up here--
+
+
+
+@l{"name":"Maia"}
+
+
+Why, you were sound asleep all the time.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Not quite. I noticed how silent it became at all the little roadside
+stations. I heard the silence--like you, Maia--
+
+
+
+@l{"name":"Maia"}
+
+
+H'm,--like me, yes.
+
+
+
+@l{"name":"Professor Rubek"}
+ --and that assured me that we had crossed the
+frontier--that we were really at home. For the train stopped at all the
+little stations--although there was nothing doing at all.
+
+
+
+@l{"name":"Maia"}
+
+
+Then why did it stop--though there was nothing to be done?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Can't say. No one got out or in; but all the same the train stopped a
+long, endless time. And at every station I could make out that there
+were two railway men walking up and down the platform--one with a
+lantern in his hand--and they said things to each other in the night,
+low, and toneless, and meaningless.
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, that is quite true. There are always two men walking up and down,
+and talking--
+
+
+
+@l{"name":"Professor Rubek"}
+ --of nothing. 
+@d{}
+[Changing to a livelier tone.] 
+@l{"name":"Professor Rubek"}
+But just
+wait till to-morrow. Then we shall have the great luxurious steamer
+lying in the harbour. We'll go on board her, and sail all round the
+coast--northward ho!--right to the polar sea.
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, but then you will see nothing of the country--and of the people.
+And that was what you particularly wanted.
+
+
+
+@d{}
+[Shortly and snappishly.] 
+@l{"name":"Professor Rubek"}
+I have seen more than enough.
+
+
+
+@l{"name":"Maia"}
+
+
+Do you think a sea voyage will be better for you?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+It is always a change.
+
+
+
+@l{"name":"Maia"}
+
+
+Well, well, if only it is the right thing for you--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+For me? The right thing? There is nothing in the world the matter with
+me.
+
+
+
+@d{}
+[Rises and goes to him.] 
+@l{"name":"Maia"}
+Yes, there is, Rubek. I am sure you must feel
+it yourself.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Why my dearest Maia--what should be amiss with me?
+
+
+
+@d{}
+[Behind him, bending over the back of his chair.] 
+@l{"name":"Maia"}
+That you must tell me.
+You have begun to wander about without a moment's peace. You cannot rest
+anywhere--neither at home nor abroad. You have become quite misanthropic
+of late.
+
+
+
+@d{}
+[With a touch of sarcasm.] 
+@l{"name":"Professor Rubek"}
+Dear me--have you noticed that?
+
+
+
+@l{"name":"Maia"}
+
+
+No one that knows you can help noticing it. And then it seems to me so
+sad that you have lost all pleasure in your work.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+That too, eh?
+
+
+
+@l{"name":"Maia"}
+
+
+You that used to be so indefatigable--working from morning to night!
+
+
+
+@d{}
+[Gloomily.] 
+@l{"name":"Professor Rubek"}
+Used to be, yes--
+
+
+
+@l{"name":"Maia"}
+
+
+But ever since you got your great masterpiece out of hand--
+
+
+
+@d{}
+[Nods thoughtfully.] 
+@l{"name":"Professor Rubek"}
+"The Resurrection Day"--
+
+
+
+@l{"name":"Maia"}
+ --the masterpiece that has gone round the whole world, and made
+you so famous--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Perhaps that is just the misfortune, Maia.
+
+
+
+@l{"name":"Maia"}
+
+
+How so?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+When I had finished this masterpiece of mine--
+@d{}
+[Makes a passionate
+movement with his hand]
+@l{"name":"Professor Rubek"}
+--for "The Resurrection Day" is a masterpiece! Or
+was one in the beginning. No, it is one still. It must, must, must be a
+masterpiece!
+
+
+
+@d{}
+[Looks at him in astonishment.] 
+@l{"name":"Maia"}
+Why, Rubek--all the world knows that.
+
+
+
+@d{}
+[Short, repellently.] 
+@l{"name":"Professor Rubek"}
+All the world knows nothing! Understands nothing!
+
+
+
+@l{"name":"Maia"}
+
+
+Well, at any rate it can divine something--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Something that isn't there at all, yes. Something that never was in my
+mind. Ah yes, that they can all go into ecstasies over! 
+@d{}
+[Growling to
+himself.] 
+@l{"name":"Professor Rubek"}
+What is the good of working oneself to death for the mob and
+the masses--for "all the world"!
+
+
+
+@l{"name":"Maia"}
+
+
+Do you think it is better, then--do you think it is worthy of you, to do
+nothing at all but portrait-bust now and then?
+
+
+
+@d{}
+[With a sly smile.] 
+@l{"name":"Professor Rubek"}
+They are not exactly portrait-busts that I turn out,
+Maia.
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, indeed they are--for the last two or three years--ever since you
+finished your great group and got it out of the house--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+All the same, they are no mere portrait-busts, I assure you.
+
+
+
+@l{"name":"Maia"}
+
+
+What are they, then?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+There is something equivocal, something cryptic, lurking in and behind
+these busts--a secret something, that the people themselves cannot see--
+
+
+
+@l{"name":"Maia"}
+
+
+Indeed?
+
+
+
+@d{}
+[Decisively.] 
+@l{"name":"Professor Rubek"}
+I alone can see it. And it amuses me unspeakably.--On the
+surface I give them the "striking likeness," as they call it, that they
+all stand and gape at in astonishment--
+@d{}
+[Lowers his voice]
+@l{"name":"Professor Rubek"}
+--but at bottom
+they are all respectable, pompous horse-faces, and self-opinionated
+donkey-muzzles, and lop-eared, low-browed dog-skulls, and fatted
+swine-snouts--and sometimes dull, brutal bull-fronts as well--
+
+
+
+@d{}
+[Indifferently.] 
+@l{"name":"Maia"}
+All the dear domestic animals, in fact.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Simply the dear domestic animals, Maia. All the animals which men have
+bedevilled in their own image--and which have bedevilled men in return.
+
+@d{}
+[Empties his champagne-glass and laughs.] 
+@l{"name":"Professor Rubek"}
+And it is these double-faced
+works of art that our excellent plutocrats come and order of me. And
+pay for in all good faith--and in good round figures too--almost their
+weight in gold, as the saying goes.
+
+
+
+@d{}
+[Fills his glass.] 
+@l{"name":"Maia"}
+Come, Rubek! Drink and be happy.
+
+
+
+@d{}
+[Passes his hand several times across his forehead and leans back in his
+chair.] 
+@l{"name":"Professor Rubek"}
+I am happy, Maia. Really happy--in a way. 
+@d{}
+[Short silence.]
+
+@l{"name":"Professor Rubek"}
+For after all there is a certain happiness in feeling oneself free and
+independent on every hand--in having at ones command everything one can
+possibly wish for--all outward things, that is to say. Do you not agree
+with me, Maia?
+
+
+
+@l{"name":"Maia"}
+
+
+Oh yes, I agree. All that is well enough in its way. 
+@d{}
+[Looking at
+him.] 
+@l{"name":"Maia"}
+But do you remember what you promised me the day we came to an
+understanding on--on that troublesome point--
+
+
+
+@d{}
+[Nods.] 
+@l{"name":"Professor Rubek"}
+--on the subject of our marriage, yes. It was no easy matter for
+you, Maia.
+
+
+
+@d{}
+[Continuing unruffled.] 
+@l{"name":"Maia"}
+--and agreed that I was to go abroad with you,
+and live there for good and all--and enjoy myself.--Do you remember what
+you promised me that day?
+
+
+
+@d{}
+[Shaking his head.] 
+@l{"name":"Professor Rubek"}
+No, I can't say that I do. Well, what did I promise?
+
+
+
+@l{"name":"Maia"}
+
+
+You said you would take me up to a high mountain and show me all the
+glory of the world.
+
+
+
+@d{}
+[With a slight start.] 
+@l{"name":"Professor Rubek"}
+Did I promise you that, too?
+
+
+
+@l{"name":"Maia"}
+
+
+Me too? Who else, pray?
+
+
+
+@d{}
+[Indifferently.] 
+@l{"name":"Professor Rubek"}
+No, no, I only meant did I promise to show you--?
+
+
+
+@l{"name":"Maia"}
+ --all the glory of the world? Yes, you did. And all that glory
+should be mine, you said.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+That is sort of figure of speech that I was in the habit of using once
+upon a time.
+
+
+
+@l{"name":"Maia"}
+
+
+Only a figure of speech?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Yes, a schoolboy phrase--the sort of thing I used to say when I wanted
+to lure the neighbours' children out to play with me, in the woods and
+on the mountains.
+
+
+
+@d{}
+[Looking hard at him.] 
+@l{"name":"Maia"}
+Perhaps you only wanted to lure me out to play,
+as well?
+
+
+
+@d{}
+[Passing it off as a jest.] 
+@l{"name":"Professor Rubek"}
+Well, has it not been a tolerable amusing
+game, Maia?
+
+
+
+@d{}
+[Coldly.] 
+@l{"name":"Maia"}
+I did not go with you only to play.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+No, no, I daresay not.
+
+
+
+@l{"name":"Maia"}
+
+
+And you never took me up with you to any high mountain, or showed me--
+
+
+
+@d{}
+[With irritation.] 
+@l{"name":"Professor Rubek"}
+--all the glory of the world? No, I did not. For, let
+me tell you something: you are not really born to be a mountain-climber,
+little Maia.
+
+
+
+@d{}
+[Trying to control herself.] 
+@l{"name":"Maia"}
+Yet at one time you seemed to think I was.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Four or five years ago, yes. 
+@d{}
+[Stretching himself in his chair.] 
+@l{"name":"Professor Rubek"}
+Four or
+five years--it's a long, long time, Maia.
+
+
+
+@d{}
+[Looking at him with a bitter expression.] 
+@l{"name":"Maia"}
+Has the time seemed so very
+long to you, Rubek?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+I am beginning now to find it a trifle long. 
+@d{}
+[Yawning.] 
+@l{"name":"Professor Rubek"}
+Now and then,
+you know.
+
+
+
+@d{}
+[Returning to her place.] 
+@l{"name":"Maia"}
+I shall not bore you any longer.
+
+      
+@d{}
+[She resumes her seat, takes up the newspaper, and begins turning
+       over the leaves.  Silence on both sides.
+
+
+
+@d{}
+[Leaning on his elbows across the table, and looking at her teasingly.]
+
+@l{"name":"Professor Rubek"}
+Is the Frau Professor offended?
+
+
+
+@d{}
+[Coldly, without looking up.] 
+@l{"name":"Maia"}
+No, not at all.
+
+    
+@d{}
+[Visitors to the baths, most of them ladies, begin to pass,
+       singly and in groups, through the park from the right, and
+       out to the left.
+
+    [Waiters bring refreshments from the hotel, and go off behind
+       the pavilion.
+
+    [The INSPECTOR, wearing gloves and carrying a stick, comes from
+       his rounds in the park, meets visitors, bows politely, and
+       exchanges a few words with some of them.
+
+
+
+@e{"names":["The Inspector"]}
+
+@d{}
+[Advancing to PROFESSOR RUBEK's table and politely taking off his hat.]
+
+@l{"name":"The Inspector"}
+I have the honour to wish you good morning, Mrs. Rubek.--Good morning,
+Professor Rubek.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Good morning, good morning Inspector.
+
+
+
+@d{}
+[Addressing himself to MRS. RUBEK.] 
+@l{"name":"The Inspector"}
+May I venture to ask if you have
+slept well?
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, thank you; excellently--for my part. I always sleep like a stone.
+
+
+
+@l{"name":"The Inspector"}
+
+
+I am delighted to hear it. The first night in a strange place is often
+rather trying.--And the Professor--?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Oh, my night's rest is never much to boast of--especially of late.
+
+
+
+@d{}
+[With a show of sympathy.] 
+@l{"name":"The Inspector"}
+Oh--that is a pity. But after a few weeks'
+stay at the Baths--you will quite get over that.
+
+
+
+@d{}
+[Looking up at him.] 
+@l{"name":"Professor Rubek"}
+Tell me, Inspector--are any of your patients in the
+habit of taking baths during the night?
+
+
+
+@d{}
+[Astonished.] 
+@l{"name":"The Inspector"}
+During the night? No, I have never heard of such a thing.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Have you not?
+
+
+
+@l{"name":"The Inspector"}
+
+
+No, I don't know of any one so ill as to require such treatment.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Well, at any rate there is some one who is in the habit of walking about
+the park by night?
+
+
+
+@d{}
+[Smiling and shaking his head.] 
+@l{"name":"The Inspector"}
+No, Professor--that would be against the
+rules.
+
+
+
+@d{}
+[Impatiently.] 
+@l{"name":"Maia"}
+Good Heavens, Rubek, I told you so this morning--you must
+have dreamt it.
+
+
+
+@d{}
+[Drily.] 
+@l{"name":"Professor Rubek"}
+Indeed? Must I? Thank you! 
+@d{}
+[Turning to the INSPECTOR.] 
+@l{"name":"Professor Rubek"}
+The fact
+is, I got up last night--I couldn't sleep--and I wanted to see what sort
+of night it was--
+
+
+
+@d{}
+[Attentively.] 
+@l{"name":"The Inspector"}
+To be sure--and then--?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+I looked out at the window--and caught sight of a white figure in there
+among the trees.
+
+
+
+@d{}
+[Smiling to the INSPECTOR.] 
+@l{"name":"Maia"}
+And the Professor declares that the figure
+was dressed in a bathing costume--
+
+
+
+@l{"name":"Professor Rubek"}
+ --or something like it, I said. Couldn't distinguish
+very clearly. But I am sure it was something white.
+
+
+
+@l{"name":"The Inspector"}
+
+
+Most remarkable. Was it a gentleman or a lady?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+I could almost have sworn it was a lady. But then after it came another
+figure. And that one was quite dark--like a shadow--.
+
+
+
+@d{}
+[Starting.] 
+@l{"name":"The Inspector"}
+A dark one? Quite black, perhaps?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Yes, I should almost have said so.
+
+
+
+@d{}
+[A light breaking in upon him.] 
+@l{"name":"The Inspector"}
+And behind the white figure? Following
+close upon her--?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Yes--at a little distance--
+
+
+
+@l{"name":"The Inspector"}
+
+
+Aha! Then I think I can explain the mystery, Professor.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Well, what was it then?
+
+
+
+@d{}
+[Simultaneously.] 
+@l{"name":"Maia"}
+Was the professor really not dreaming?
+
+
+
+@d{}
+[Suddenly whispering, as he directs their attention towards the
+background on the right.] 
+@l{"name":"The Inspector"}
+Hush, if you please! Look there--don't speak
+loud for a moment.
+
+    
+@d{}
+[A slender lady, dressed in fine, cream-white cashmere, and
+       followed by a SISTER OF MERCY in black, with a silver cross
+       hanging by a chain on her breast, comes forward from behind
+       the hotel and crosses the park towards the pavilion in front
+       on the left.  Her face is pale, and its lines seem to have
+       stiffened; the eyelids are drooped and the eyes appear as
+       though they saw nothing.  Her dress comes down to her feet
+       and clings to the body in perpendicular folds.  Over her head,
+       neck, breast, shoulders and arms she wears a large shawl of
+       white crape.  She keeps her arms crossed upon her breast.
+       She carries her body immovably, and her steps are stiff and
+       measured.  The SISTER's bearing is also measured, and she has
+       the air of a servant.  She keeps her brown piercing eyes
+       incessantly fixed upon the lady.  WAITERS, with napkins on
+       their arms, come forward in the hotel doorway, and cast
+       curious glances at the strangers, who take no notice of
+       anything, and, without looking round, enter the pavilion.
+
+
+
+@d{}
+[Has risen slowly and involuntarily, and stands staring at the closed
+door of the pavilion.] 
+@l{"name":"Professor Rubek"}
+Who was that lady?
+
+
+
+@l{"name":"The Inspector"}
+
+
+She is a stranger who has rented the little pavilion there.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+A foreigner?
+
+
+
+@l{"name":"The Inspector"}
+
+
+Presumably. At any rate they both came from abroad--about a week ago.
+They have never been here before.
+
+
+
+@d{}
+[Decidedly; looking at him.] 
+@l{"name":"Professor Rubek"}
+It was she I saw in the park last night.
+
+
+
+@l{"name":"The Inspector"}
+
+
+No doubt it must have been. I thought so from the first.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+What is this lady's name, Inspector?
+
+
+
+@l{"name":"The Inspector"}
+
+
+She has registered herself as "Madame de Satow, with companion." We know
+nothing more.
+
+
+
+@d{}
+[Reflecting.] 
+@l{"name":"Professor Rubek"}
+Satow? Satow--?
+
+
+
+@d{}
+[Laughing mockingly.] 
+@l{"name":"Maia"}
+Do you know any one of that name, Rubek? Eh?
+
+
+
+@d{}
+[Shaking his head.] 
+@l{"name":"Professor Rubek"}
+No, no one.--Satow? It sounds Russian--or in all
+events Slavonic. 
+@d{}
+[To the INSPECTOR.] 
+@l{"name":"Professor Rubek"}
+What language does she speak?
+
+
+
+@l{"name":"The Inspector"}
+
+
+When the two ladies talk to each other, it is in a language I cannot
+make out at all. But at other times she speaks Norwegian like a native.
+
+
+
+@d{}
+[Exclaims with a start.] 
+@l{"name":"Professor Rubek"}
+Norwegian? You are sure you are not mistaken?
+
+
+
+@l{"name":"The Inspector"}
+
+
+No, how could I be mistaken in that?
+
+
+
+@d{}
+[Looks at him with eager interest.] 
+@l{"name":"Professor Rubek"}
+You have heard her yourself?
+
+
+
+@l{"name":"The Inspector"}
+
+
+Yes. I myself have spoken to her--several times.--Only a few words,
+however; she is far from communicative. But--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+But Norwegian it was?
+
+
+
+@l{"name":"The Inspector"}
+
+
+Thoroughly good Norwegian--perhaps with a little north-country accent.
+
+
+
+@d{}
+[Gazing straight before him in amazement, whispers.] 
+@l{"name":"Professor Rubek"}
+That too?
+
+
+
+@d{}
+[A little hurt and jarred.] 
+@l{"name":"Maia"}
+Perhaps this lady has been one of your
+models, Rubek? Search your memory.
+
+
+
+@d{}
+[Looks cuttingly at her.] 
+@l{"name":"Professor Rubek"}
+My models?
+
+
+
+@d{}
+[With a provoking smile.] 
+@l{"name":"Maia"}
+In your younger days, I mean. You are said to
+have had innumerable models--long ago, of course.
+
+
+
+@d{}
+[In the same tone.] 
+@l{"name":"Professor Rubek"}
+Oh no, little Frau Maia. I have in reality had only
+one single model. One and only one--for everything I have done.
+
+
+
+@d{}
+[Who has turned away and stands looking out to the left.] 
+@l{"name":"The Inspector"}
+If you'll
+excuse me, I think I will take my leave. I see some one coming whom it
+is not particularly agreeable to meet. Especially in the presence of
+ladies.
+
+
+
+@d{}
+[Looking in the same direction.] 
+@l{"name":"Professor Rubek"}
+That sportsman there? Who is it?
+
+
+
+@l{"name":"The Inspector"}
+
+
+It is a certain Mr. Ulfheim, from--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Oh, Mr. Ulfheim--
+
+
+
+@l{"name":"The Inspector"}
+ --the bear-killer, as they call him--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+I know him.
+
+
+
+@l{"name":"The Inspector"}
+
+
+Who does not know him?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Very slightly, however. Is he on your list of patients--at last?
+
+
+
+@l{"name":"The Inspector"}
+
+
+No, strangely enough--not as yet. He comes here only once a year--on his
+way up to his hunting-grounds.--Excuse me for the moment--
+
+    
+@d{}
+[Makes a movement to go into the hotel.
+
+
+
+@l{"name":"ULFHEIM"}
+
+@d{}
+[Heard outside.] 
+@l{"name":"ULFHEIM"}
+Stop a moment, man! Devil take it all, can't you stop?
+Why do you always scuttle away from me?
+
+
+
+@d{}
+[Stops.] 
+@l{"name":"The Inspector"}
+I am not scuttling at all, Mr. Ulfheim.
+
+    
+@d{}
+[ULFHEIM enters from the left followed by a servant with a
+       couple of sporting dogs in leash.  ULFHEIM is in shooting
+       costume, with high boots and a felt hat with a feather in
+       it.  He is a long, lank, sinewy personage, with matted hair
+       and beard, and a loud voice.  His appearance gives no precise
+       clue to his age, but he is no longer young.]
+
+
+
+@e{"names":["Ulfheim"]}
+
+@d{}
+[Pounces upon the INSPECTOR.] 
+@l{"name":"Ulfheim"}
+Is this a way to receive strangers, hey?
+You scamper away with your tail between your legs--as if you had the
+devil at your heels.
+
+
+
+@d{}
+[Calmly, without answering him.] 
+@l{"name":"The Inspector"}
+Has Mr. Ulfheim arrived by the steamer?
+
+
+
+@d{}
+[Growls.] 
+@l{"name":"Ulfheim"}
+Haven't had the honour of seeing any steamer. 
+@d{}
+[With his arms
+akimbo.] 
+@l{"name":"Ulfheim"}
+Don't you know that I sail my own cutter? 
+@d{}
+[To the SERVANT.]
+
+@l{"name":"Ulfheim"}
+Look well after your fellow-creatures, Lars. But take care you keep them
+ravenous, all the same. Fresh meat-bones--but not too much meat on them,
+do you hear? And be sure it's reeking raw, and bloody. And get something
+in your own belly while you're about it. 
+@d{}
+[Aiming a kick at him.] 
+@l{"name":"Ulfheim"}
+Now
+then, go to hell with you!
+
+    
+@d{}
+[The SERVANT goes out with the dogs, behind the corner of the
+       hotel.]
+
+
+
+@l{"name":"The Inspector"}
+
+
+Would not Mr. Ulfheim like to go into the dining-room in the meantime?
+
+
+
+@l{"name":"Ulfheim"}
+
+
+In among all the half-dead flies and people? No, thank you a thousand
+times, Mr. Inspector.
+
+
+
+@l{"name":"The Inspector"}
+
+
+Well, well, as you please.
+
+
+
+@l{"name":"Ulfheim"}
+
+
+But get the housekeeper to prepare a hamper for me as usual. There must
+be plenty of provender in it--and lots of brandy--! You can tell her
+that I or Lars will come and play Old Harry with her if she doesn't--
+
+
+
+@d{}
+[Interrupting.] 
+@l{"name":"The Inspector"}
+We know your ways of old. 
+@d{}
+[Turning.] 
+@l{"name":"The Inspector"}
+Can I give the
+waiter any orders, Professor? Can I send Mrs. Rubek anything?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+No thank you; nothing for me.
+
+
+
+@l{"name":"Maia"}
+
+
+Nor for me.
+
+    
+@d{}
+[The INSPECTOR goes into the hotel.
+
+
+
+@x{"names":["The Inspector"]}
+
+@d{}
+[Stares at them for a moment; then lifts his hat.] 
+@l{"name":"Ulfheim"}
+Why, blast me if here
+isn't a country tyke that has strayed into regular tip-top society.
+
+
+
+@d{}
+[Looking up.] 
+@l{"name":"Professor Rubek"}
+What do you mean by that, Mr. Ulfheim?
+
+
+
+@d{}
+[More quietly and politely.] 
+@l{"name":"Ulfheim"}
+I believe I have the honour of addressing
+no less a person than the great Sculptor Rubek.
+
+
+
+@d{}
+[Nods.] 
+@l{"name":"Professor Rubek"}
+I remember meeting you once or twice--the autumn when I was last
+at home.
+
+
+
+@l{"name":"Ulfheim"}
+
+
+That's many years ago, now. And then you weren't so illustrious as I
+hear you've since become. At that time even a dirty bear-hunter might
+venture to come near you.
+
+
+
+@d{}
+[Smiling.] 
+@l{"name":"Professor Rubek"}
+I don't bite even now.
+
+
+
+@d{}
+[Looks with interest at Ulfheim] 
+@l{"name":"Maia"}
+Are you really and truly a
+bear-hunter?
+
+
+
+@d{}
+[Seating himself at the next table, nearer the hotel.] 
+@l{"name":"Ulfheim"}
+A bear-hunter
+when I have the chance, madam. But I make the best of any sort of game
+that comes in my way--eagles, and wolves, and women, and elks, and
+reindeer--if only it's fresh and juicy and has plenty of blood in it.
+
+    
+@d{}
+[Drinks from his pocket-flask.
+
+
+
+@d{}
+[Regarding him fixedly.] 
+@l{"name":"Maia"}
+But you like bear-hunting best?
+
+
+
+@l{"name":"Ulfheim"}
+
+
+I like it best, yes. For then one can have the knife handy at a pinch.
+
+@d{}
+[With a slight smile.] 
+@l{"name":"Ulfheim"}
+We both work in a hard material, madam--both your
+husband and I. He struggles with his marble blocks, I daresay; and I
+struggle with tense and quivering bear-sinews. And we both of us win
+the fight in the end--subdue and master our material. We never rest till
+we've got the upper hand of it, though it fight never so hard.
+
+
+
+@d{}
+[Deep in thought.] 
+@l{"name":"Professor Rubek"}
+There's a great deal of truth in what you say.
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Yes, for I take it the stone has something to fight for too. It is dead,
+and determined by no manner of means to let itself be hammered into
+life. Just like the bear when you come and prod him up in his lair.
+
+
+
+@l{"name":"Maia"}
+
+
+Are you going up into the forests now to hunt?
+
+
+
+@l{"name":"Ulfheim"}
+
+
+I am going right up into the high mountain.--I suppose you have never
+been in the high mountain, madam?
+
+
+
+@l{"name":"Maia"}
+
+
+No, never.
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Confound it all then, you must be sure and come up there this very
+summer! I'll take you with me--both you and the Professor, with
+pleasure.
+
+
+
+@l{"name":"Maia"}
+
+
+Thanks. But Rubek is thinking of taking a sea trip this summer.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Round the coast--through the island channels.
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Ugh--what the devil would you do in those damnable sickly
+gutters--floundering about in the brackish ditchwater? Dishwater I
+should rather call it.
+
+
+
+@l{"name":"Maia"}
+
+
+There, you hear, Rubek!
+
+
+
+@l{"name":"Ulfheim"}
+
+
+No, much better come up with me to the mountain--away, clean away, from
+the trail and taint of men. You cant' think what that means for me. But
+such a little lady--
+
+    
+@d{}
+[He stops.
+
+    [The SISTER OF MERCY comes out of the pavilion and goes into
+       the hotel.
+
+
+
+@d{}
+[Following her with his eyes.] 
+@l{"name":"Ulfheim"}
+Just look at her, do! That night-crow
+there!--Who is it that's to be buried?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+I have not heard of any one--
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Well, there's some one on the point of giving up the ghost, then--in on
+corner or another.--People that are sickly and rickety should have the
+goodness to see about getting themselves buried--the sooner the better.
+
+
+
+@l{"name":"Maia"}
+
+
+Have you ever been ill yourself, Mr. Ulfheim.
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Never. If I had, I shouldn't be here.--But my nearest friends--they have
+been ill, poor things.
+
+
+
+@l{"name":"Maia"}
+
+
+And what did you do for your nearest friends?
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Shot them, of course.
+
+
+
+@d{}
+[Looking at him.] 
+@l{"name":"Professor Rubek"}
+Shot them?
+
+
+
+@d{}
+[Moving her chair back.] 
+@l{"name":"Maia"}
+Shot them dead?
+
+
+
+@d{}
+[Nods.] 
+@l{"name":"Ulfheim"}
+I never miss, madam.
+
+
+
+@l{"name":"Maia"}
+
+
+But how can you possibly shoot people!
+
+
+
+@l{"name":"Ulfheim"}
+
+
+I am not speaking of people--
+
+
+
+@l{"name":"Maia"}
+
+
+You said your nearest friends--
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Well, who should they be but my dogs?
+
+
+
+@l{"name":"Maia"}
+
+
+Are your dogs your nearest friends?
+
+
+
+@l{"name":"Ulfheim"}
+
+
+I have none nearer. My honest, trusty, absolutely loyal comrades--. When
+one of them turns sick and miserable--bang!--and there's my friend sent
+packing--to the other world.
+
+    
+@d{}
+[The SISTER OF MERCY comes out of the hotel with a tray on which
+       is bread and milk.  She places it on the table outside the
+       pavilion, which she enters.
+
+
+
+@d{}
+[Laughs scornfully.] 
+@l{"name":"Ulfheim"}
+That stuff there--is that what you call food for
+human beings! Milk and water and soft, clammy bread. Ah, you should see
+my comrades feeding. Should you like to see it?
+
+
+
+@d{}
+[Smiling across to the PROFESSOR and rising.] 
+@l{"name":"Maia"}
+Yes, very much.
+
+
+
+@d{}
+[Also rising.] 
+@l{"name":"Ulfheim"}
+Spoken like a woman of spirit, madam! Come with me, then!
+They swallow whole great thumping meat-bones--gulp them up and then gulp
+them down again. Oh, it's a regular treat to see them. Come along and
+I'll show you--and while we're about it, we can talk over this trip to
+the mountains--
+
+    
+@d{}
+[He goes out by the corner of the hotel, MAIA following him.
+
+    [Almost at the same moment the STRANGE LADY comes out of the
+       pavilion and seats herself at the table.
+
+    [The LADY raises her glass of milk and is about to drink, but
+       stops and looks across at RUBEK with vacant, expressionless
+       eyes.
+
+
+
+@e{"names":["Irene"]}
+
+@x{"names":["Maia","Ulfheim"]}
+
+@d{}
+[Remains sitting at his table and gazes fixedly and earnestly at her.
+At last he rises, goes some steps towards her, stops, and says in a low
+voice.] 
+@l{"name":"Professor Rubek"}
+I know you quite well, Irene.
+
+
+
+@d{}
+[In a toneless voice, setting down her glass.] 
+@l{"name":"Irene"}
+You can guess who I am,
+Arnold?
+
+
+
+@d{}
+[Without answering.] 
+@l{"name":"Professor Rubek"}
+And you recognise me, too, I see.
+
+
+
+@l{"name":"Irene"}
+
+
+With you it is quite another matter.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+With me?--How so?
+
+
+
+@l{"name":"Irene"}
+
+
+Oh, you are still alive.
+
+
+
+@d{}
+[Not understanding.] 
+@l{"name":"Professor Rubek"}
+Alive--?
+
+
+
+@d{}
+[After a short pause.] 
+@l{"name":"Irene"}
+Who was the other? The woman you had with
+you--there at the table?
+
+
+
+@d{}
+[A little reluctantly.] 
+@l{"name":"Professor Rubek"}
+She? That was my--my wife.
+
+
+
+@d{}
+[Nods slowly.] 
+@l{"name":"Irene"}
+Indeed. That is well, Arnold. Some one, then, who does
+not concern me--
+
+
+
+@d{}
+[Nods.] 
+@l{"name":"Professor Rubek"}
+No, of course not--
+
+
+
+@l{"name":"Irene"}
+ --one whom you have taken to you after my lifetime.
+
+
+
+@d{}
+[Suddenly looking hard at her.] 
+@l{"name":"Professor Rubek"}
+After your--? What do you mean by that,
+Irene?
+
+
+
+@d{}
+[Without answering.] 
+@l{"name":"Irene"}
+And the child? I hear the child is prospering too.
+Our child survives me--and has come to honour and glory.
+
+
+
+@d{}
+[Smiles as at a far-off recollection.] 
+@l{"name":"Professor Rubek"}
+Our child? Yes, we called it
+so--then.
+
+
+
+@l{"name":"Irene"}
+
+
+In my lifetime, yes.
+
+
+
+@d{}
+[Trying to take a lighter tone.] 
+@l{"name":"Professor Rubek"}
+Yes, Irene.--I can assure you "our
+child" has become famous all the wide world over. I suppose you have
+read about it.
+
+
+
+@d{}
+[Nods.] 
+@l{"name":"Irene"}
+And has made its father famous too.--That was your dream.
+
+
+
+@d{}
+[More softly, with emotion.] 
+@l{"name":"Professor Rubek"}
+It is to you I owe everything, everything,
+Irene--and I thank you.
+
+
+
+@d{}
+[Lost in thought for a moment.] 
+@l{"name":"Irene"}
+If I had then done what I had a right to
+do, Arnold--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Well? What then?
+
+
+
+@l{"name":"Irene"}
+
+
+I should have killed that child.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Killed it, you say?
+
+
+
+@d{}
+[Whispering.] 
+@l{"name":"Irene"}
+Killed it--before I went away from you. Crushed
+it--crushed it to dust.
+
+
+
+@d{}
+[Shakes his head reproachfully.] 
+@l{"name":"Professor Rubek"}
+You would never have been able to,
+Irene. You had not the heart to do it.
+
+
+
+@l{"name":"Irene"}
+
+
+No, in those days I had not that sort of heart.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+But since then? Afterwards?
+
+
+
+@l{"name":"Irene"}
+
+
+Since then I have killed it innumerable times. By daylight and in the
+dark. Killed it in hatred--and in revenge--and in anguish.
+
+
+
+@d{}
+[Goes close up to the table and asks softly.] 
+@l{"name":"Professor Rubek"}
+Irene--tell me now
+at last--after all these years--why did you go away from me? You
+disappeared so utterly--left not a trace behind--
+
+
+
+@d{}
+[Shaking her head slowly.] 
+@l{"name":"Irene"}
+Oh Arnold--why should I tell you that
+now--from the world beyond the grave.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Was there some one else whom you had come to love?
+
+
+
+@l{"name":"Irene"}
+
+
+There was one who had no longer any use for my love--any use for my
+life.
+
+
+
+@d{}
+[Changing the subject.] 
+@l{"name":"Professor Rubek"}
+H'm--don't let us talk any more of the past--
+
+
+
+@l{"name":"Irene"}
+
+
+No, no--by all means let us not talk of what is beyond the grave--what
+is now beyond the grave for me.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Where have you been, Irene? All my inquiries were fruitless--you seemed
+to have vanished away.
+
+
+
+@l{"name":"Irene"}
+
+
+I went into the darkness--when the child stood transfigured in the
+light.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Have you travelled much about the world?
+
+
+
+@l{"name":"Irene"}
+
+
+Yes. Travelled in many lands.
+
+
+
+@d{}
+[Looks compassionately at her.] 
+@l{"name":"Professor Rubek"}
+And what have you found to do, Irene?
+
+
+
+@d{}
+[Turning her eyes upon him.] 
+@l{"name":"Irene"}
+Wait a moment; let me see--. Yes, now I
+have it. I have posed on the turntable in variety-shows. Posed as a
+naked statue in living pictures. Raked in heaps of money. That was more
+than I could do with you; for you had none.--And then I turned the
+heads of all sorts of men. That too, was more than I could do with you,
+Arnold. You kept yourself better in hand.
+
+
+
+@d{}
+[Hastening to pass the subject by.] 
+@l{"name":"Professor Rubek"}
+And then you have married, too?
+
+
+
+@l{"name":"Irene"}
+
+
+Yes; I married one of them.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Who is your husband?
+
+
+
+@l{"name":"Irene"}
+
+
+He was a South American. A distinguished diplomatist. 
+@d{}
+[Looks straight
+in front of her with a stony smile.] 
+@l{"name":"Irene"}
+Him I managed to drive quite out of
+his mind; mad--incurably mad; inexorably mad.--It was great sport, I can
+tell you--while it was in the doing. I could have laughed within me all
+the time--if I had anything within me.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+And where is he now?
+
+
+
+@l{"name":"Irene"}
+
+
+Oh, in a churchyard somewhere or other. With a fine handsome monument
+over him. And with a bullet rattling in his skull.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Did he kill himself?
+
+
+
+@l{"name":"Irene"}
+
+
+Yes, he was good enough to take that off my hands.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Do you not lament his loss, Irene?
+
+
+
+@d{}
+[Not understanding.] 
+@l{"name":"Irene"}
+Lament? What loss?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Why, the loss of Herr von Satow, of course.
+
+
+
+@l{"name":"Irene"}
+
+
+His name was not Satow.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Was it not?
+
+
+
+@l{"name":"Irene"}
+
+
+My second husband is called Satow. He is a Russian--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+And where is he?
+
+
+
+@l{"name":"Irene"}
+
+
+Far away in the Ural Mountains. Among all his gold-mines.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+So he lives there?
+
+
+
+@d{}
+[Shrugs her shoulders.] 
+@l{"name":"Irene"}
+Lives? Lives? In reality I have killed him--
+
+
+
+@d{}
+[Start.] 
+@l{"name":"Professor Rubek"}
+Killed--!
+
+
+
+@l{"name":"Irene"}
+
+
+Killed him with a fine sharp dagger which I always have with me in bed--
+
+
+
+@d{}
+[Vehemently.] 
+@l{"name":"Professor Rubek"}
+I don't believe you, Irene!
+
+
+
+@d{}
+[With a gentle smile.] 
+@l{"name":"Irene"}
+Indeed you may believe it, Arnold.
+
+
+
+@d{}
+[Looks compassionately at her.] 
+@l{"name":"Professor Rubek"}
+Have you never had a child?
+
+
+
+@l{"name":"Irene"}
+
+
+Yes, I have had many children.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+And where are your children now?
+
+
+
+@l{"name":"Irene"}
+
+
+I killed them.
+
+
+
+@d{}
+[Severely.] 
+@l{"name":"Professor Rubek"}
+Now you are telling me lies again!
+
+
+
+@l{"name":"Irene"}
+
+
+I have killed them, I tell you--murdered them pitilessly. As soon as
+ever they came into the world. Oh, long, long before. One after the
+other.
+
+
+
+@d{}
+[Sadly and earnestly.] 
+@l{"name":"Professor Rubek"}
+There is something hidden behind everything you
+say.
+
+
+
+@l{"name":"Irene"}
+
+
+How can I help that? Every word I say is whispered into my ear.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+I believe I am the only one that can divine your meaning.
+
+
+
+@l{"name":"Irene"}
+
+
+Surely you ought to be the only one.
+
+
+
+@d{}
+[Rests his hands on the table and looks intently at her.] 
+@l{"name":"Professor Rubek"}
+Some of the
+strings of your nature have broken.
+
+
+
+@d{}
+[Gently.] 
+@l{"name":"Irene"}
+Does not that always happen when a young warm-blooded woman
+dies?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Oh Irene, have done with these wild imaginings--! You are living!
+Living--living!
+
+
+
+@d{}
+[Rises slowly from her chair and says, quivering.] 
+@l{"name":"Irene"}
+I was dead for many
+years. They came and bound me--laced my arms together behind my back--.
+Then they lowered me into a grave-vault, with iron bars before the
+loop-hole. And with padded walls--so that no one on the earth above
+could hear the grave-shrieks--. But now I am beginning, in a way, to
+rise from the dead.
+
+    
+@d{}
+[She seats herself again.]
+
+
+
+@d{}
+[After a pause.] 
+@l{"name":"Professor Rubek"}
+In all this, do you hold me guilty?
+
+
+
+@l{"name":"Irene"}
+
+
+Yes.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Guilty of that--your death, as you call it.
+
+
+
+@l{"name":"Irene"}
+
+
+Guilty of the fact that I had to die. 
+@d{}
+[Changing her tone to one of
+indifference.] 
+@l{"name":"Irene"}
+Why don't you sit down, Arnold?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+May I?
+
+
+
+@l{"name":"Irene"}
+
+
+Yes.--You need not be afraid of being frozen. I don't think I am quite
+turned to ice yet.
+
+
+
+@d{}
+[Moves a chair and seats himself at her table.] 
+@l{"name":"Professor Rubek"}
+There, Irene. Now we two
+are sitting together as in the old days.
+
+
+
+@l{"name":"Irene"}
+
+
+A little way apart from each other--also as in the old days.
+
+
+
+@d{}
+[Moving nearer.] 
+@l{"name":"Professor Rubek"}
+It had to be so, then.
+
+
+
+@l{"name":"Irene"}
+
+
+Had it?
+
+
+
+@d{}
+[Decisively.] 
+@l{"name":"Professor Rubek"}
+There had to be a distance between us--
+
+
+
+@l{"name":"Irene"}
+
+
+Was it absolutely necessary, Arnold?
+
+
+
+@d{}
+[Continuing.] 
+@l{"name":"Professor Rubek"}
+Do you remember what you answered when I asked if you
+would go with me out into the wide world?
+
+
+
+@l{"name":"Irene"}
+
+
+I held up three fingers in the air and swore that I would go with you
+to the world's end and to the end of life. And that I would serve you in
+all things--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+As the model for my art--
+
+
+
+@l{"name":"Irene"}
+ --in frank, utter nakedness--
+
+
+
+@d{}
+[With emotion.] 
+@l{"name":"Professor Rubek"}
+And you did serve me, Irene--so bravely--so gladly and
+ungrudgingly.
+
+
+
+@l{"name":"Irene"}
+
+
+Yes, with all the pulsing blood of my youth, I served you!
+
+
+
+@d{}
+[Nodding, with a look of gratitude.] 
+@l{"name":"Professor Rubek"}
+That you have every right to say.
+
+
+
+@l{"name":"Irene"}
+
+
+I fell down at your feet and served you, Arnold! 
+@d{}
+[Holding her clenched
+hand towards him.] 
+@l{"name":"Irene"}
+But you, you,--you--!
+
+
+
+@d{}
+[Defensively.] 
+@l{"name":"Professor Rubek"}
+I never did you any wrong! Never, Irene!
+
+
+
+@l{"name":"Irene"}
+
+
+Yes, you did! You did wrong to my innermost, inborn nature--
+
+
+
+@d{}
+[Starting back.] 
+@l{"name":"Professor Rubek"}
+I--!
+
+
+
+@l{"name":"Irene"}
+
+
+Yes, you! I exposed myself wholly and unreservedly to your gaze--
+@d{}
+[More
+softly.] 
+@l{"name":"Irene"}
+And never once did you touch me.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Irene, did you not understand that many a time I was almost beside
+myself under the spell of all your loveliness?
+
+
+
+@d{}
+[Continuing undisturbed.] 
+@l{"name":"Irene"}
+And yet--if you had touched me, I think I
+should have killed you on the spot. For I had a sharp needle always upon
+me--hidden in my hair-- 
+@d{}
+[Strokes her forehead meditatively.] 
+@l{"name":"Irene"}
+But after
+all--after all--that you could--
+
+
+
+@d{}
+[Looks impressively at her.] 
+@l{"name":"Professor Rubek"}
+I was an artist, Irene.
+
+
+
+@d{}
+[Darkly.] 
+@l{"name":"Irene"}
+That is just it. That is just it.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+An artist first of all. And I was sick with the desire to achieve the
+great work of my life. 
+@d{}
+[Losing himself in recollection.] 
+@l{"name":"Professor Rubek"}
+It was to be
+called "The Resurrection Day"--figured in the likeness of a young woman,
+awakening from the sleep of death--
+
+
+
+@l{"name":"Irene"}
+
+
+Our child, yes--
+
+
+
+@d{}
+[Continuing.] 
+@l{"name":"Professor Rubek"}
+It was to be the awakening of the noblest, purest, most
+ideal woman the world ever saw. Then I found you. You were what I
+required in every respect. And you consented so willingly--so gladly.
+You renounced home and kindred--and went with me.
+
+
+
+@l{"name":"Irene"}
+
+
+To go with you meant for me the resurrection of my childhood.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+That was just why I found in you all that I required--in you and in no
+one else. I came to look on you as a thing hallowed, not to be touched
+save in adoring thoughts. In those days I was still young, Irene. And
+the superstition took hold of me that if I touched you, if I desired you
+with my senses, my soul would be profaned, so that I should be unable
+to accomplish what I was striving for.--And I still think there was some
+truth in that.
+
+
+
+@d{}
+[Nods with a touch of scorn.] 
+@l{"name":"Irene"}
+The work of art first--then the human
+being.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+You must judge me as you will; but at that time I was utterly dominated
+by my great task--and exultantly happy in it.
+
+
+
+@l{"name":"Irene"}
+
+
+And you achieved your great task, Arnold.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Thanks and praise be to you, I achieved my great task. I wanted to
+embody the pure woman as I saw her awakening on the Resurrection Day.
+Not marvelling at anything new and unknown and undivined; but filled
+with a sacred joy at finding herself unchanged--she, the woman of
+earth--in the higher, freer, happier region--after the long, dreamless
+sleep of death. 
+@d{}
+[More softly.] 
+@l{"name":"Professor Rubek"}
+Thus did I fashion her.--I fashioned her
+in your image, Irene.
+
+
+
+@d{}
+[Laying her hands flat upon the table and leaning against the back of
+her chair.] 
+@l{"name":"Irene"}
+And then you were done with me--
+
+
+
+@d{}
+[Reproachfully.] 
+@l{"name":"Professor Rubek"}
+Irene!
+
+
+
+@l{"name":"Irene"}
+
+
+You had no longer any use for me--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+How can you say that!
+
+
+
+@l{"name":"Irene"}
+ --and began to look about you for other ideals--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+I found none, none after you.
+
+
+
+@l{"name":"Irene"}
+
+
+And no other models, Arnold?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+You were no model to me. You were the fountainhead of my achievement.
+
+
+
+@d{}
+[Is silent for a short time.] 
+@l{"name":"Irene"}
+What poems have you made since? In marble
+I mean. Since the day I left you.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+I have made no poems since that day--only frittered away my life in
+modelling.
+
+
+
+@l{"name":"Irene"}
+
+
+And that woman, whom you are now living with--?
+
+
+
+@d{}
+[Interrupting vehemently.] 
+@l{"name":"Professor Rubek"}
+Do not speak of her now! It makes me tingle
+with shame.
+
+
+
+@l{"name":"Irene"}
+
+
+Where are you thinking of going with her?
+
+
+
+@d{}
+[Slack and weary.] 
+@l{"name":"Professor Rubek"}
+Oh, on a tedious coasting-voyage to the North, I
+suppose.
+
+
+
+@d{}
+[Looks at him, smiles almost imperceptibly, and whispers.] 
+@l{"name":"Irene"}
+You should
+rather go high up into the mountains. As high as ever you can. Higher,
+higher,--always higher, Arnold.
+
+
+
+@d{}
+[With eager expectation.] 
+@l{"name":"Professor Rubek"}
+Are you going up there?
+
+
+
+@l{"name":"Irene"}
+
+
+Have you the courage to meet me once again?
+
+
+
+@d{}
+[Struggling with himself, uncertainly.] 
+@l{"name":"Professor Rubek"}
+If we could--oh, if only we
+could--!
+
+
+
+@l{"name":"Irene"}
+
+
+Why can we not do what we will? 
+@d{}
+[Looks at him and whispers beseechingly
+with folded hands.] 
+@l{"name":"Irene"}
+Come, come, Arnold! Oh, come up to me--!
+
+    
+@d{}
+[MAIA enters, glowing with pleasure, from behind the hotel,
+       and goes quickly up to the table where they were previously
+       sitting.]
+
+
+
+@e{"names":["Maia"]}
+
+@d{}
+[Still at the corner of the hotel, without looking around.] 
+@l{"name":"Maia"}
+Oh, you
+may say what you please, Rubek, but--
+@d{}
+[Stops, as she catches sight of IRENE]
+
+@l{"name":"Maia"}
+--Oh, I beg your pardon--I see you have made an acquaintance.
+
+@d{}
+[Curtly.] 
+@l{"name":"Professor Rubek"}
+Renewed an acquaintance. 
+@d{}
+[Rises.] 
+@l{"name":"Professor Rubek"}
+What was it you wanted with
+me?
+
+
+
+@l{"name":"Maia"}
+
+
+I only wanted to say this: you may do whatever you please, but _I_ am
+not going with you on that disgusting steamboat.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Why not?
+
+
+
+@l{"name":"Maia"}
+
+
+Because I want to go up on the mountains and into the forests--that's
+what I want. 
+@d{}
+[Coaxingly.] 
+@l{"name":"Maia"}
+Oh, you must let me do it, Rubek.--I shall be
+so good, so good afterwards!
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Who is it that has put these ideas into your head?
+
+
+
+@l{"name":"Maia"}
+
+
+Why he--that horrid bear-killer. Oh you cannot conceive all the
+marvelous things he has to tell about the mountains. And about life up
+there! They're ugly, horrid, repulsive, most of the yarns he spins--for
+I almost believe he's lying--but wonderfully alluring all the same. Oh,
+won't you let me go with him? Only to see if what he says is true, you
+understand. May I, Rubek?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Yes, I have not the slightest objection. Off you go to the mountains--as
+far and as long as you please. I shall perhaps be going the same way
+myself.
+
+
+
+@d{}
+[Quickly.] 
+@l{"name":"Maia"}
+No, no, no, you needn't do that! Not on my account!
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+I want to go to the mountains. I have made up my mind to go.
+
+
+
+@l{"name":"Maia"}
+
+
+Oh thanks, thanks! May I tell the bear-killer at once?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Tell the bear-killer whatever you please.
+
+
+
+@l{"name":"Maia"}
+
+
+Oh thanks, thanks, thanks! 
+@d{}
+[Is about to take his hand; he repels the
+movement.] 
+@l{"name":"Maia"}
+Oh, how dear and good you are to-day, Rubek!
+
+    
+@d{}
+[She runs into the hotel.
+
+    [At the same time the door of the pavilion is softly and
+       noiselessly set ajar.  The SISTER OF MERCY stands in the
+       opening, intently on the watch.  No one sees her.
+
+
+
+@x{"names":["Maia"]}
+
+@d{}
+[Decidedly, turning to Irene] 
+@l{"name":"Professor Rubek"}
+Shall we meet up there then?
+
+
+
+@d{}
+[Rising slowly.] 
+@l{"name":"Irene"}
+Yes, we shall certainly meet.--I have sought for you so
+long.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+When did you begin to seek for me, Irene?
+
+
+
+@d{}
+[With a touch of jesting bitterness.] 
+@l{"name":"Irene"}
+From the moment I realised that I
+had given away to you something rather indispensable, Arnold. Something
+one ought never to part with.
+
+
+
+@d{}
+[Bowing his head.] 
+@l{"name":"Professor Rubek"}
+Yes, that is bitterly true. You gave me three or four
+years of your youth.
+
+
+
+@l{"name":"Irene"}
+
+
+More, more than that I gave you--spend-thrift as I then was.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Yes, you were prodigal, Irene. You gave me all your naked loveliness--
+
+
+
+@l{"name":"Irene"}
+ --to gaze upon--
+
+
+
+@l{"name":"Professor Rubek"}
+ --and to glorify--
+
+
+
+@l{"name":"Irene"}
+
+
+Yes, for your own glorification.--And the child's.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+And yours too, Irene.
+
+
+
+@l{"name":"Irene"}
+
+
+But you have forgotten the most precious gift.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+The most precious--? What gift was that?
+
+
+
+@l{"name":"Irene"}
+
+
+I gave you my young, living soul. And that gift left me empty
+within--soulless. 
+@d{}
+[Looking at him with a fixed stare.] 
+@l{"name":"Irene"}
+It was that I
+died of, Arnold.
+
+    
+@d{}
+[The SISTER OF MERCY opens the door wide and makes room for her.
+       She goes into the pavilion.
+
+
+
+@d{}
+[Stands and looks after her; then whispers.] 
+@l{"name":"Professor Rubek"}
+Irene!
+
+@x{"names":["Professor Rubek","Irene"]}
+
+
+@a{"number":2}
+@s{"number":1}
+@d{}
+
+
+ACT SECOND.
+
+
+[Near a mountain resort. The landscape stretches, in the form of
+   an immense treeless upland, towards a long mountain lake.  Beyond
+   the lake rises a range of peaks with blue-white snow in the clefts.
+   In the foreground on the left a purling brook falls in severed
+   streamlets down a steep wall of rock, and thence flows smoothly
+   over the upland until it disappears to the right.  Dwarf trees,
+   plants, and stones along the course of the brook.  In the
+   foreground on the right a hillock, with a stone bench on the
+   top of it.  It is a summer afternoon, towards sunset.
+
+[At some distance over the upland, on the other side of the brook,
+   a troop of children is singing, dancing, and playing.  Some are
+   dressed in peasant costume, others in town-made clothes.  Their
+   happy laughter is heard, softened by distance, during the
+   following.
+
+[PROFESSOR RUBEK is sitting on the bench, with a plaid over his
+   shoulders, and looking down at the children's play.
+
+[Presently, MAIA comes forward from among some bushes on the upland
+   to the left, well back, and scans the prospect with her hand
+   shading her eyes.  She wears a flat tourist cap, a short skirt,
+   kilted up, reaching only midway between ankle and knee, and high,
+   stout lace-boots.  She has in her hand a long alpenstock.
+
+
+
+@e{"names":["Professor Rubek","Maia"]}
+
+@d{}
+[At last catches sight of RUBEK and calls.] 
+@l{"name":"Maia"}
+Hallo!
+
+    
+@d{}
+[She advances over the upland, jumps over the brook, with the
+       aid of her alpenstock, and climbs up the hillock.
+
+
+
+@d{}
+[Panting.] 
+@l{"name":"Maia"}
+Oh, how I have been rushing around looking for you, Rubek.
+
+
+
+@d{}
+[Nods indifferently and asks.] 
+@l{"name":"Professor Rubek"}
+Have you just come from the hotel?
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, that was the last place I tried--that fly-trap.
+
+
+
+@d{}
+[Looking at her for moment.] 
+@l{"name":"Professor Rubek"}
+I noticed that you were not at the
+dinner-table.
+
+
+
+@l{"name":"Maia"}
+
+
+No, we had our dinner in the open air, we two.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+"We two"? What two?
+
+
+
+@l{"name":"Maia"}
+
+
+Why, I and that horrid bear-killer, of course.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Oh, he.
+
+
+
+@l{"name":"Maia"}
+
+
+Yes. And first thing to-morrow morning we are going off again.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+After bears?
+
+
+
+@l{"name":"Maia"}
+
+
+Yes. Off to kill a brown-boy.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Have you found the tracks of any?
+
+
+
+@d{}
+[With superiority.] 
+@l{"name":"Maia"}
+You don't suppose that bears are to be found in the
+naked mountains, do you?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Where, then?
+
+
+
+@l{"name":"Maia"}
+
+
+Far beneath. On the lower slopes; in the thickest parts of the forest.
+Places your ordinary town-folk could never get through--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+And you two are going down there to-morrow?
+
+
+
+@d{}
+[Throwing herself down among the heather.] 
+@l{"name":"Maia"}
+Yes, so we have arranged.--Or
+perhaps we may start this evening.--If you have no objection, that's to
+say?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+I? Far be it from me to--
+
+
+
+@d{}
+[Quickly.] 
+@l{"name":"Maia"}
+Of course Lars goes with us--with the dogs.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+I feel no curiosity as to the movements of Mr. Lars and his dogs.
+
+@d{}
+[Changing the subject.] 
+@l{"name":"Professor Rubek"}
+Would you not rather sit properly on the seat?
+
+
+
+@d{}
+[Drowsily.] 
+@l{"name":"Maia"}
+No, thank you. I'm lying so delightfully in the soft
+heather.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+I can see that you are tired.
+
+
+
+@d{}
+[Yawning.] 
+@l{"name":"Maia"}
+I almost think I'm beginning to feel tired.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+You don't notice it till afterwards--when the excitement is over--
+
+
+
+@d{}
+[In a drowsy tone.] 
+@l{"name":"Maia"}
+Just so. I will lie and close my eyes.
+
+    
+@d{}
+[A short pause.
+
+
+@d{}
+[With sudden impatience.] 
+@l{"name":"Maia"}
+Ugh, Rubek--how can you endure to sit there
+listening to these children's screams! And to watch all the capers they
+are cutting, too!
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+There is something harmonious--almost like music--in their movements,
+now and then; amid all the clumsiness. And it amuses me to sit and watch
+for these isolated moments--when they come.
+
+
+
+@d{}
+[With a somewhat scornful laugh.] 
+@l{"name":"Maia"}
+Yes, you are always, always an artist.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+And I propose to remain one.
+
+
+
+@d{}
+[Lying on her side, so that her back is turned to him.] 
+@l{"name":"Maia"}
+There's not a
+bit of the artist about him.
+
+
+
+@d{}
+[With attention.] 
+@l{"name":"Professor Rubek"}
+Who is it that's not an artist?
+
+
+
+@d{}
+[Again in a sleepy tone.] 
+@l{"name":"Maia"}
+Why, he--the other one, of course.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+The bear-hunter, you mean?
+
+
+
+@l{"name":"Maia"}
+
+
+Yes. There's not a bit of the artist about him--not the least little
+bit.
+
+
+
+@d{}
+[Smiling.] 
+@l{"name":"Professor Rubek"}
+No, I believe there's no doubt about that.
+
+
+
+@d{}
+[Vehemently, without moving.] 
+@l{"name":"Maia"}
+And so ugly as he is! 
+@d{}
+[Plucks up a tuft of
+heather and throws it away.] 
+@l{"name":"Maia"}
+So ugly, so ugly! Isch!
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Is that why you are so ready to set off with him--out into the wilds?
+
+
+
+@d{}
+[Curtly.] 
+@l{"name":"Maia"}
+I don't know. 
+@d{}
+[Turning towards him.] 
+@l{"name":"Maia"}
+You are ugly, too, Rubek.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Have you only just discovered it?
+
+
+
+@l{"name":"Maia"}
+
+
+No, I have seen it for long.
+
+
+
+@d{}
+[Shrugging his shoulders.] 
+@l{"name":"Professor Rubek"}
+One doesn't grow younger. One doesn't grow
+younger, Frau Maia.
+
+
+
+@l{"name":"Maia"}
+
+
+It's not that sort of ugliness that I mean at all. But there has come to
+be such an expression of fatigue, of utter weariness, in your eyes--when
+you deign, once in a while, to cast a glance at me.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Have you noticed that?
+
+
+
+@d{}
+[Nods.] 
+@l{"name":"Maia"}
+Little by little this evil look has come into your eyes. It
+seems almost as though you were nursing some dark plot against me.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Indeed? 
+@d{}
+[In a friendly but earnest tone.] 
+@l{"name":"Professor Rubek"}
+Come here and sit beside me,
+Maia; and let us talk a little.
+
+
+
+@d{}
+[Half rising.] 
+@l{"name":"Maia"}
+Then will you let me sit upon your knee? As I used to in
+the early days?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+No, you mustn't--people can see us from the hotel. 
+@d{}
+[Moves a little.] 
+@l{"name":"Professor Rubek"}
+But
+you can sit here on the bench--at my side.
+
+
+
+@l{"name":"Maia"}
+
+
+No, thank you; in that case I'd rather lie here, where I am. I can hear
+you quite well here. 
+@d{}
+[Looks inquiringly at him.] 
+@l{"name":"Maia"}
+Well, what is it you
+want to say to me?
+
+
+
+@d{}
+[Begins slowly.] 
+@l{"name":"Professor Rubek"}
+What do you think was my real reason for agreeing to
+make this tour?
+
+
+
+@l{"name":"Maia"}
+
+
+Well--I remember you declared, among other things, that it was going to
+do me such a tremendous lot of good. But--but--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+But--?
+
+
+
+@l{"name":"Maia"}
+
+
+But now I don't believe the least little bit that that was the reason--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Then what is your theory about it now?
+
+
+
+@l{"name":"Maia"}
+
+
+I think now that it was on account of that pale lady.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Madame von Satow--!
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, she who is always hanging at our heels. Yesterday evening she made
+her appearance up here too.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+But what in all the world--!
+
+
+
+@l{"name":"Maia"}
+
+
+Oh, I know you knew her very well indeed--long before you knew me.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+And had forgotten her, too--long before I knew you.
+
+
+
+@d{}
+[Sitting upright.] 
+@l{"name":"Maia"}
+Can you forget so easily, Rubek?
+
+
+
+@d{}
+[Curtly.] 
+@l{"name":"Professor Rubek"}
+Yes, very easily indeed. 
+@d{}
+[Adds harshly.] 
+@l{"name":"Professor Rubek"}
+When I want to
+forget.
+
+
+
+@l{"name":"Maia"}
+
+
+Even a woman who has been a model to you?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+When I have no more use for her--
+
+
+
+@l{"name":"Maia"}
+
+
+One who has stood to you undressed?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+That means nothing--nothing for us artists. 
+@d{}
+[With a change of tone.]
+
+@l{"name":"Professor Rubek"}
+And then--may I venture to ask--how was I to guess that she was in this
+country?
+
+
+
+@l{"name":"Maia"}
+
+
+Oh, you might have seen her name in a Visitor's List--in one of the
+newspapers.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+But I had no idea of the name she now goes by. I had never heard of any
+Herr von Satow.
+
+
+
+@d{}
+[Affecting weariness.] 
+@l{"name":"Maia"}
+Oh well then, I suppose it must have been for
+some other reason that you were so set upon this journey.
+
+
+
+@d{}
+[Seriously.] 
+@l{"name":"Professor Rubek"}
+Yes, Maia--it was for another reason. A quite different
+reason. And that is what we must sooner or later have a clear
+explanation about.
+
+
+
+@d{}
+[In a fit of suppressed laughter.] 
+@l{"name":"Maia"}
+Heavens, how solemn you look!
+
+
+
+@d{}
+[Suspiciously scrutinising her.] 
+@l{"name":"Professor Rubek"}
+Yes, perhaps a little more solemn than
+necessary.
+
+
+
+@l{"name":"Maia"}
+
+
+How so--?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+And that is a very good thing for us both.
+
+
+
+@l{"name":"Maia"}
+
+
+You begin to make me feel curious, Rubek.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Only curious? Not a little bit uneasy.
+
+
+
+@d{}
+[Shaking her head.] 
+@l{"name":"Maia"}
+Not in the least.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Good. Then listen.--You said that day down at the Baths that it seemed
+to you I had become very nervous of late--
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, and you really have.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+And what do you think can be the reason of that?
+
+
+
+@l{"name":"Maia"}
+
+
+How can I tell--? 
+@d{}
+[Quickly.] 
+@l{"name":"Maia"}
+Perhaps you have grown weary of this
+constant companionship with me.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Constant--? Why not say "everlasting"?
+
+
+
+@l{"name":"Maia"}
+
+
+Daily companionship, then. Here have we two solitary people lived down
+there for four or five mortal years, and scarcely have an hour away from
+each other.--We two all by ourselves.
+
+
+
+@d{}
+[With interest.] 
+@l{"name":"Professor Rubek"}
+Well? And then--?
+
+
+
+@d{}
+[A little oppressed.] 
+@l{"name":"Maia"}
+You are not a particularly sociable man, Rubek.
+You like to keep to yourself and think your own thoughts. And of course
+I can't talk properly to you about your affairs. I know nothing about
+art and that sort of thing-- 
+@d{}
+[With an impatient gesture.] 
+@l{"name":"Maia"}
+And care very
+little either, for that matter!
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Well, well; and that's why we generally sit by the fireside, and chat
+about your affairs.
+
+
+
+@l{"name":"Maia"}
+
+
+Oh, good gracious--I have no affairs to chat about.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Well, they are trifles, perhaps; but at any rate the time passes for us
+in that way as well as another, Maia.
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, you are right. Time passes. It is passing away from you,
+Rubek.--And I suppose it is really that that makes you so uneasy--
+
+
+
+@d{}
+[Nods vehemently.] 
+@l{"name":"Professor Rubek"}
+And so restless! 
+@d{}
+[Writhing in his seat.] 
+@l{"name":"Professor Rubek"}
+No, I shall
+soon not be able to endure this pitiful life any longer.
+
+
+
+@d{}
+[Rises and stands for a moment looking at him.] 
+@l{"name":"Maia"}
+If you want to get rid
+of me, you have only to say so.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Why will you use such phrases? Get rid of you?
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, if you want to have done with me, please say so right out. And I
+will go that instant.
+
+
+
+@d{}
+[With an almost imperceptible smile.] 
+@l{"name":"Professor Rubek"}
+Do you intend that as a threat,
+Maia?
+
+
+
+@l{"name":"Maia"}
+
+
+There can be no threat for you in what I said.
+
+
+
+@d{}
+[Rising.] 
+@l{"name":"Professor Rubek"}
+No, I confess you are right there. 
+@d{}
+[Adds after a pause.] 
+@l{"name":"Professor Rubek"}
+You
+and I cannot possibly go on living together like this--
+
+
+
+@l{"name":"Maia"}
+
+
+Well? And then--?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+There is no "then" about it. 
+@d{}
+[With emphasis on his words.] 
+@l{"name":"Professor Rubek"}
+Because we
+two cannot go on living together alone--it does not necessarily follow
+that we must part.
+
+
+
+@d{}
+[Smiles scornfully.] 
+@l{"name":"Maia"}
+Only draw away from each other a little, you mean?
+
+
+@d{}
+[Shakes his head.] 
+@l{"name":"Professor Rubek"}
+Even that is not necessary.
+
+
+
+@l{"name":"Maia"}
+
+
+Well then? Come out with what you want to do with me.
+
+
+
+@d{}
+[With some hesitation.] 
+@l{"name":"Professor Rubek"}
+What I now feel so keenly--and so
+painfully--that I require, is to have some one about me who really and
+truly stands close to me--
+
+
+
+@d{}
+[Interrupts him anxiously.] 
+@l{"name":"Maia"}
+Don't I do that, Rubek?
+
+
+
+@d{}
+[Waving her aside.] 
+@l{"name":"Professor Rubek"}
+Not in that sense. What I need is the companionship
+of another person who can, as it were, complete me--supply what is
+wanting in me--be one with me in all my striving.
+
+
+
+@d{}
+[Slowly.] 
+@l{"name":"Maia"}
+It's true that things like that are a great deal too hard for
+me.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Oh no, they are not at all in your line, Maia.
+
+
+
+@d{}
+[With an outburst.] 
+@l{"name":"Maia"}
+And heaven knows I don't want them to be, either!
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+I know that very well.--And it was with no idea of finding any such help
+in my life-work that I married you.
+
+
+
+@d{}
+[Observing him closely.] 
+@l{"name":"Maia"}
+I can see in your face that you are thinking of
+some one else.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Indeed? I have never noticed before that you were a thought-reader. But
+you can see that, can you?
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, I can. Oh, I know you so well, so well, Rubek.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Then perhaps you can also see who it is I am thinking of?
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, indeed I can.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Well? Have the goodness to--?
+
+
+
+@l{"name":"Maia"}
+
+
+You are thinking of that--that model you once used for-- 
+@d{}
+[Suddenly
+letting slip the train of thought.] 
+@l{"name":"Maia"}
+Do you know, the people down at the
+hotel think she's mad.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Indeed? And pray what do the people down at the hotel think of you and
+the bear-killer?
+
+
+
+@l{"name":"Maia"}
+
+
+That has nothing to do with the matter. 
+@d{}
+[Continuing the former train of
+thought.] 
+@l{"name":"Maia"}
+But it was this pale lady you were thinking of.
+
+
+
+@d{}
+[Calmly.] 
+@l{"name":"Professor Rubek"}
+Precisely, of her.--When I had no more use for her--and when,
+besides, she went away from me--vanished without a word--
+
+
+
+@l{"name":"Maia"}
+
+
+Then you accepted me as a sort of makeshift, I suppose?
+
+
+
+@d{}
+[More unfeelingly.] 
+@l{"name":"Professor Rubek"}
+Something of the sort, to tell the truth, little
+Maia. For a year or a year and a half I had lived there lonely and
+brooding, and had put the last touch--the very last touch, to my work.
+"The Resurrection Day" went out over the world and brought me fame--and
+everything else that heart could desire. 
+@d{}
+[With greater warmth.] 
+@l{"name":"Professor Rubek"}
+But I no
+longer loved my own work. Men's laurels and incense nauseated me, till I
+could have rushed away in despair and hidden myself in the depths of the
+woods. 
+@d{}
+[Looking at her.] 
+@l{"name":"Professor Rubek"}
+You, who are a thought-reader--can you guess
+what then occurred to me?
+
+
+
+@d{}
+[Lightly.] 
+@l{"name":"Maia"}
+Yes, it occurred to you to make portrait-busts of gentlemen
+and ladies.
+
+
+
+@d{}
+[Nods.] 
+@l{"name":"Professor Rubek"}
+To order, yes. With animals' faces behind the masks. Those I
+threw in gratis--into the bargain, you understand. 
+@d{}
+[Smiling.] 
+@l{"name":"Professor Rubek"}
+But that
+was not precisely what I had in my mind.
+
+
+
+@l{"name":"Maia"}
+
+
+What, then?
+
+
+
+@d{}
+[Again serious.] 
+@l{"name":"Professor Rubek"}
+It was this, that all the talk about the artist's
+vocation and the artist's mission, and so forth, began to strike me as
+being very empty, and hollow, and meaningless at bottom.
+
+
+
+@l{"name":"Maia"}
+
+
+Then what would you put in its place?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Life, Maia.
+
+
+
+@l{"name":"Maia"}
+
+
+Life?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Yes, is not life in sunshine and in beauty a hundred times better worth
+while than to hang about to the end of your days in a raw, damp hole,
+and wear yourself out in a perpetual struggle with lumps of clay and
+blocks of stone?
+
+
+
+@d{}
+[With a little sigh.] 
+@l{"name":"Maia"}
+Yes, I have always thought so, certainly.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+And then I had become rich enough to live in luxury and in indolent,
+quivering sunshine. I was able to build myself the villa on the Lake of
+Taunitz, and the palazzo in the capital,--and all the rest of it.
+
+
+
+@d{}
+[Taking up his tone.] 
+@l{"name":"Maia"}
+And last but not least, you could afford to
+treat yourself to me, too. And you gave me leave to share in all your
+treasures.
+
+
+
+@d{}
+[Jesting, so as to turn the conversation.] 
+@l{"name":"Professor Rubek"}
+Did I not promise to take you
+up to a high enough mountain and show you all the glory of the world?
+
+
+
+@d{}
+[With a gentle expression.] 
+@l{"name":"Maia"}
+You have perhaps taken me up with you to a
+high enough mountain, Rubek--but you have not shown me all the glory of
+the world.
+
+
+
+@d{}
+[With a laugh of irritation.] 
+@l{"name":"Professor Rubek"}
+How insatiable you are, Maia.! Absolutely
+insatiable! 
+@d{}
+[With a vehement outburst.] 
+@l{"name":"Professor Rubek"}
+But do you know what is the most
+hopeless thing of all, Maia? Can you guess that?
+
+
+
+@d{}
+[With quiet defiance.] 
+@l{"name":"Maia"}
+Yes, I suppose it is that you have gone and tied
+yourself to me--for life.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+I would not have expressed myself so heartlessly.
+
+
+
+@l{"name":"Maia"}
+
+
+But you would have meant it just as heartlessly.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+You have no clear idea of the inner workings of an artist's nature.
+
+
+
+@d{}
+[Smiling and shaking her head.] 
+@l{"name":"Maia"}
+Good heavens, I haven't even a clear
+idea of the inner workings of my own nature.
+
+
+
+@d{}
+[Continuing undisturbed.] 
+@l{"name":"Professor Rubek"}
+I live at such high speed, Maia. We live so,
+we artists. I, for my part, have lived through a whole lifetime in the
+few years we two have known each other. I have come to realise that I
+am not at all adapted for seeking happiness in indolent enjoyment. Life
+does not shape itself that way for me and those like me. I must go on
+working--producing one work after another--right up to my dying day.
+
+@d{}
+[Forcing himself to continue.] 
+@l{"name":"Professor Rubek"}
+That is why I cannot get on with you any
+longer, Maia--not with you alone.
+
+
+
+@d{}
+[Quietly.] 
+@l{"name":"Maia"}
+Does that mean, in plain language, that you have grown tired
+of me?
+
+
+
+@d{}
+[Bursts forth.] 
+@l{"name":"Professor Rubek"}
+Yes, that is what it means! I have grown
+tired--intolerably tired and fretted and unstrung--in this life with
+you! Now you know it. 
+@d{}
+[Controlling himself.] 
+@l{"name":"Professor Rubek"}
+These are hard, ugly words
+I am using. I know that very well. And you are not at all to blame in
+this matter;--that I willingly admit. It is simply and solely I myself,
+who have once more undergone a revolution--
+@d{}
+[Half to himself]
+
+@l{"name":"Professor Rubek"}
+--and awakening to my real life.
+
+
+
+@d{}
+[Involuntarily folding her hands.] 
+@l{"name":"Maia"}
+Why in all the world should we not
+part then?
+
+
+
+@d{}
+[Looks at her in astonishment.] 
+@l{"name":"Professor Rubek"}
+Should you be willing to?
+
+
+
+@d{}
+[Shrugging her shoulders.] 
+@l{"name":"Maia"}
+Oh yes--if there's nothing else for it,
+then--
+
+
+
+@d{}
+[Eagerly.] 
+@l{"name":"Professor Rubek"}
+But there is something else for it. There is an alternative--
+
+
+
+@d{}
+[Holding up her forefinger.] 
+@l{"name":"Maia"}
+Now you are thinking of the pale lady
+again!
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Yes, to tell the truth, I cannot help constantly thinking of her. Ever
+since I met her again. 
+@d{}
+[A step nearer her.] 
+@l{"name":"Professor Rubek"}
+For now I will tell you a
+secret, Maia.
+
+
+
+@l{"name":"Maia"}
+
+
+Well?
+
+
+
+@d{}
+[Touching his own breast.] 
+@l{"name":"Professor Rubek"}
+In here, you see--in here I have a little
+bramah-locked casket. And in that casket all my sculptor's visions are
+stored up. But when she disappeared and left no trace, the lock of
+the casket snapped to. And she had the key--and she took it away with
+her.--You, little Maia, you had no key; so all that the casket contains
+must lie unused. And the years pass! And I have no means of getting at
+the treasure.
+
+
+
+@d{}
+[Trying to repress a subtle smile.] 
+@l{"name":"Maia"}
+Then get her to open the casket for
+you again--
+
+
+
+@d{}
+[Not understanding.] 
+@l{"name":"Professor Rubek"}
+Maia--?
+
+
+
+@l{"name":"Maia"}
+ --for here she is, you see. And no doubt it's on account of this
+casket that she has come.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+I have not said a single word to her on this subject!
+
+
+
+@d{}
+[Looks innocently at him.] 
+@l{"name":"Maia"}
+My dear Rubek--is it worth while to make all
+this fuss and commotion about so simple a matter?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Do you think this matter is so absolutely simple?
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, certainly I think so. Do you attach yourself to whoever you most
+require. 
+@d{}
+[Nods to him.] 
+@l{"name":"Maia"}
+I shall always manage to find a place for
+myself.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Where do you mean?
+
+
+
+@d{}
+[Unconcerned, evasively.] 
+@l{"name":"Maia"}
+Well--I need only take myself off to the
+villa, if it should be necessary. But it won't be; for in town--in all
+that great house of ours--there must surely, with a little good will, be
+room enough for three.
+
+
+
+@d{}
+[Uncertainly.] 
+@l{"name":"Professor Rubek"}
+And do you think that would work in the long run?
+
+
+
+@d{}
+[In a light tone.] 
+@l{"name":"Maia"}
+Very well, then--if it won't work, it won't. It is no
+good talking about it.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+And what shall we do then, Maia--if it does not work?
+
+
+
+@d{}
+[Untroubled.] 
+@l{"name":"Maia"}
+Then we two will simply get out of each other's way--part
+entirely. I shall always find something new for myself, somewhere in the
+world. Something free! Free! Free!--No need to be anxious about that,
+Professor Rubek! 
+@d{}
+[Suddenly points off to the right.] 
+@l{"name":"Maia"}
+Look there! There
+we have her.
+
+
+
+@d{}
+[Turning.] 
+@l{"name":"Professor Rubek"}
+Where?
+
+
+
+@l{"name":"Maia"}
+
+
+Out on the plain. Striding--like a marble stature. She is coming this
+way.
+
+
+
+@d{}
+[Stands gazing with his hand over his eyes.] 
+@l{"name":"Professor Rubek"}
+Does not she look like the
+Resurrection incarnate? 
+@d{}
+[To himself.] 
+@l{"name":"Professor Rubek"}
+And her I could displace--and move
+into the shade! Remodel her--. Fool that I was!
+
+
+
+@l{"name":"Maia"}
+
+
+What do you mean by that?
+
+
+
+@d{}
+[Putting the question aside.] 
+@l{"name":"Professor Rubek"}
+Nothing. Nothing that you would
+understand.
+
+    
+@d{}
+[IRENE advances from the right over the upland.  The children
+       at their play have already caught sight of her and run to
+       meet her.  She is now surrounded by them; some appear confident
+       and at ease, others uneasy and timid.  She talks low to them
+       and indicates that they are to go down to the hotel; she
+       herself will rest a  little beside the brook.  The children
+       run down over the slope to the left, half way to the back.
+       IRENE goes up to the wall of rock, and lets the rillets of
+       the cascade flow over her hands, cooling them.
+
+
+
+@e{"names":["Irene"]}
+
+@d{}
+[In a low voice.] 
+@l{"name":"Maia"}
+Go down and speak to her alone, Rubek.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+And where will you go in the meantime?
+
+
+
+@d{}
+[Looking significantly at him.] 
+@l{"name":"Maia"}
+Henceforth I shall go my own ways.
+
+    
+@d{}
+[She descends form the hillock and leaps over the brook, by aid
+       of her alpenstock.  She stops beside Irene
+
+
+
+@l{"name":"Maia"}
+
+
+Professor Rubek is up there, waiting for you, madam.
+
+
+
+@l{"name":"Irene"}
+
+
+What does he want?
+
+
+
+@l{"name":"Maia"}
+
+
+He wants you to help him to open a casket that has snapped to.
+
+
+
+@l{"name":"Irene"}
+
+
+Can I help him in that?
+
+
+
+@l{"name":"Maia"}
+
+
+He says you are the only person that can.
+
+
+
+@l{"name":"Irene"}
+
+
+Then I must try.
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, you really must, madam.
+
+    
+@d{}
+[She goes down by the path to the hotel.
+
+    [In a little while PROFESSOR RUBEK comes down to IRENE, but stops
+       with the brook between them.
+
+
+
+@x{"names":["Maia"]}
+
+@d{}
+[After a short pause.] 
+@l{"name":"Irene"}
+She--the other one--said that you had been
+waiting for me.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+I have waited for you year after year--without myself knowing it.
+
+
+
+@l{"name":"Irene"}
+
+
+I could not come to you, Arnold. I was lying down there, sleeping the
+long, deep, dreamful sleep.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+But now you have awakened, Irene!
+
+
+
+@d{}
+[Shakes her head.] 
+@l{"name":"Irene"}
+I have the heavy, deep sleep still in my eyes.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+You shall see that day will dawn and lighten for us both.
+
+
+
+@l{"name":"Irene"}
+
+
+Do not believe that.
+
+
+
+@d{}
+[Urgently.] 
+@l{"name":"Professor Rubek"}
+I do believe it! And I know it! Now that I have found you
+again--
+
+
+
+@l{"name":"Irene"}
+
+
+Risen from the grave.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Transfigured!
+
+
+
+@l{"name":"Irene"}
+
+
+Only risen, Arnold. Not transfigured.
+
+    
+@d{}
+[He crosses over to her by means of stepping-stones below the
+       cascade.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Where have you been all day, Irene?
+
+
+
+@d{}
+[Pointing.] 
+@l{"name":"Irene"}
+Far, far over there, on the great dead waste--
+
+
+
+@d{}
+[Turning the conversation.] 
+@l{"name":"Professor Rubek"}
+You have not your--your friend with you
+to-day, I see.
+
+
+
+@d{}
+[Smiling.] 
+@l{"name":"Irene"}
+My friend is keeping a close watch on me, none the less.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Can she?
+
+
+
+@d{}
+[Glancing furtively around.] 
+@l{"name":"Irene"}
+You may be sure she can--wherever I may
+go. She never loses sight of me-- 
+@d{}
+[Whispering.] 
+@l{"name":"Irene"}
+Until, one fine sunny
+morning, I shall kill her.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Would you do that?
+
+
+
+@l{"name":"Irene"}
+
+
+With the utmost delight--if only I could manage it.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Why do you want to?
+
+
+
+@l{"name":"Irene"}
+
+
+Because she deals in witchcraft. 
+@d{}
+[Mysteriously.] 
+@l{"name":"Irene"}
+Only think, Arnold--she
+has changed herself into my shadow.
+
+
+
+@d{}
+[Trying to calm her.] 
+@l{"name":"Professor Rubek"}
+Well, well, well--a shadow we must all have.
+
+
+
+@l{"name":"Irene"}
+
+
+I am my own shadow. 
+@d{}
+[With an outburst.] 
+@l{"name":"Irene"}
+Do you not understand that!
+
+
+
+@d{}
+[Sadly.] 
+@l{"name":"Professor Rubek"}
+Yes, yes, Irene, I understand.
+
+    
+@d{}
+[He seats himself on a stone beside the brook.  She stands behind
+       him, leaning against the wall of rock.
+
+
+
+@d{}
+[After a pause.] 
+@l{"name":"Irene"}
+Why do you sit there turning your eyes away from me?
+
+
+
+@d{}
+[Softly, shaking his head.] 
+@l{"name":"Professor Rubek"}
+I dare not--I dare not look at you.
+
+
+
+@l{"name":"Irene"}
+
+
+Why dare you not look at me any more?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+You have a shadow that tortures me. And I have the crushing weight of my
+conscience.
+
+
+
+@d{}
+[With a glad cry of deliverance.] 
+@l{"name":"Irene"}
+At last!
+
+
+
+@d{}
+[Springs up.] 
+@l{"name":"Professor Rubek"}
+Irene--what is it!
+
+
+
+@d{}
+[Motioning him off.] 
+@l{"name":"Irene"}
+Keep still, still, still! 
+@d{}
+[Draws a deep breath and
+says, as though relieved of a burden.] 
+@l{"name":"Irene"}
+There! Now they let me go. For
+this time.--Now we can sit down and talk as we used to--when I was
+alive.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Oh, if only we could talk as we used to.
+
+
+
+@l{"name":"Irene"}
+
+
+Sit there, where you were sitting. I will sit here beside you.
+
+    
+@d{}
+[He sits down again.  She seats herself on another stone, close
+       to him.
+
+
+
+@d{}
+[After a short interval of silence.] 
+@l{"name":"Irene"}
+Now I have come back to you from
+the uttermost regions, Arnold.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Aye, truly, from an endless journey.
+
+
+
+@l{"name":"Irene"}
+
+
+Come home to my lord and master--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+To our home;--to our own home, Irene.
+
+
+
+@l{"name":"Irene"}
+
+
+Have you looked for my coming every single day?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+How dared I look for you?
+
+
+
+@d{}
+[With a sidelong glance.] 
+@l{"name":"Irene"}
+No, I suppose you dared not. For you
+understood nothing.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Was it really not for the sake of some one else that you all of a sudden
+disappeared from me in that way?
+
+
+
+@l{"name":"Irene"}
+
+
+Might it not quite well be for your sake, Arnold?
+
+
+
+@d{}
+[Looks doubtfully at her.] 
+@l{"name":"Professor Rubek"}
+I don't understand you--?
+
+
+
+@l{"name":"Irene"}
+
+
+When I had served you with my soul and with my body--when the statue
+stood there finished--our child as you called it--then I laid at your
+feet the most precious sacrifice of all--by effacing myself for all
+time.
+
+
+
+@d{}
+[Bows his head.] 
+@l{"name":"Professor Rubek"}
+And laying my life waste.
+
+
+
+@d{}
+[Suddenly firing up.] 
+@l{"name":"Irene"}
+It was just that I wanted! Never, never should you
+create anything again--after you had created that only child of ours.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Was it jealously that moved you, then?
+
+
+
+@d{}
+[Coldly.] 
+@l{"name":"Irene"}
+I think it was rather hatred.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Hatred? Hatred for me?
+
+
+
+@d{}
+[Again vehemently.] 
+@l{"name":"Irene"}
+Yes, for you--for the artist who had so lightly and
+carelessly taken a warm-blooded body, a young human life, and worn the
+soul out of it--because you needed it for a work of art.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+And you can say that--you who threw yourself into my work with such
+saint-like passion and such ardent joy?--that work for which we two met
+together every morning, as for an act of worship.
+
+
+
+@d{}
+[Coldly, as before.] 
+@l{"name":"Irene"}
+I will tell you one thing, Arnold.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Well?
+
+
+
+@l{"name":"Irene"}
+
+
+I never loved your art, before I met you.--Nor after either.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+But the artist, Irene?
+
+
+
+@l{"name":"Irene"}
+
+
+The artist I hate.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+The artist in me too?
+
+
+
+@l{"name":"Irene"}
+
+
+In you most of all. When I unclothed myself and stood for you, then I
+hated you, Arnold--
+
+
+
+@d{}
+[Warmly.] 
+@l{"name":"Professor Rubek"}
+That you did not, Irene! That is not true!
+
+
+
+@l{"name":"Irene"}
+
+
+I hated you, because you could stand there so unmoved--
+
+
+
+@d{}
+[Laughs.] 
+@l{"name":"Professor Rubek"}
+Unmoved? Do you think so?
+
+
+
+@l{"name":"Irene"}
+ --at any rate so intolerably self-controlled. And because you
+were an artist and an artist only--not a man! 
+@d{}
+[Changing to a tone full
+of warmth and feeling.] 
+@l{"name":"Irene"}
+But that statue in the wet, living clay, that
+I loved--as it rose up, a vital human creature, out of those raw,
+shapeless masses--for that was our creation, our child. Mine and yours.
+
+
+
+@d{}
+[Sadly.] 
+@l{"name":"Professor Rubek"}
+It was so in spirit and in truth.
+
+
+
+@l{"name":"Irene"}
+
+
+Let me tell you, Arnold--it is for the sake of this child of ours that I
+have undertaken this long pilgrimage.
+
+
+
+@d{}
+[Suddenly alert.] 
+@l{"name":"Professor Rubek"}
+For the statue's--?
+
+
+
+@l{"name":"Irene"}
+
+
+Call it what you will. I call it our child.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+And now you want to see it? Finished? In marble, which you always
+thought so cold? 
+@d{}
+[Eagerly.] 
+@l{"name":"Professor Rubek"}
+You do not know, perhaps, that it is
+installed in a great museum somewhere--far out in the world?
+
+
+
+@l{"name":"Irene"}
+
+
+I have heard a sort of legend about it.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+And museums were always a horror to you. You called them grave-vaults--
+
+
+
+@l{"name":"Irene"}
+
+
+I will make a pilgrimage to the place where my soul and my child's soul
+lie buried.
+
+
+
+@d{}
+[Uneasy and alarmed.] 
+@l{"name":"Professor Rubek"}
+You must never see that statue again! Do you hear,
+Irene! I implore you--! Never, never see it again!
+
+
+
+@l{"name":"Irene"}
+
+
+Perhaps you think it would mean death to me a second time?
+
+
+
+@d{}
+[Clenching his hands together.] 
+@l{"name":"Professor Rubek"}
+Oh, I don't know what I think.--But how
+could I ever imagine that you would fix your mind so immovably on that
+statue? You, who went away from me--before it was completed.
+
+
+
+@l{"name":"Irene"}
+
+
+It was completed. That was why I could go away from you--and leave you
+alone.
+
+
+
+@d{}
+[Sits with his elbows upon his knees, rocking his head from side to
+side, with his hands before his eyes.] 
+@l{"name":"Professor Rubek"}
+It was not what it afterwards
+became.
+
+
+
+@d{}
+[Quietly but quick as lightning, half-unsheathes a narrow-bladed sharp
+knife which she carried in her breast, and asks in a hoarse whisper.]
+
+@l{"name":"Irene"}
+Arnold--have you done any evil to our child?
+
+
+
+@d{}
+[Evasively.] 
+@l{"name":"Professor Rubek"}
+Any evil?--How can I be sure what you would call it?
+
+
+
+@d{}
+[Breathless.] 
+@l{"name":"Irene"}
+Tell me at once: what have you done to the child?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+I will tell you, if you will sit and listen quietly to what I say.
+
+
+
+@d{}
+[Hides the knife.] 
+@l{"name":"Irene"}
+I will listen as quietly as a mother can when she--
+
+
+
+@d{}
+[Interrupting.] 
+@l{"name":"Professor Rubek"}
+And you must not look at me while I am telling you.
+
+
+
+@d{}
+[Moves to a stone behind his back.] 
+@l{"name":"Irene"}
+I will sit here, behind you.--Now
+tell me.
+
+
+
+@d{}
+[Takes his hands from before his eyes and gazes straight in front of
+him. 
+@l{"name":"Professor Rubek"}
+When I had found you, I knew at once how I should make use of you
+for my life-work.
+
+
+
+@l{"name":"Irene"}
+
+
+"The Resurrection Day" you called your life-work.--I call it "our
+child."
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+I was young then--with no knowledge of life. The Resurrection, I
+thought, would be most beautifully and exquisitely figured as a young
+unsullied woman--with none of our earth-life's experiences--awakening
+to light and glory without having to put away from her anything ugly and
+impure.
+
+
+
+@d{}
+[Quickly.] 
+@l{"name":"Irene"}
+Yes--and so I stand there now, in our work?
+
+
+
+@d{}
+[Hesitating.] 
+@l{"name":"Professor Rubek"}
+Not absolutely and entirely so, Irene.
+
+
+
+@d{}
+[In rising excitement.] 
+@l{"name":"Irene"}
+Not absolutely--? Do I not stand as I always
+stood for you?
+
+
+
+@d{}
+[Without answering.] 
+@l{"name":"Professor Rubek"}
+I learned worldly wisdom in the years that
+followed, Irene. "The Resurrection Day" became in my mind's eye
+something more and something--something more complex. The little round
+plinth on which your figure stood erect and solitary--it no longer
+afforded room for all the imagery I now wanted to add--
+
+
+
+@d{}
+[Groped for her knife, but desists.] 
+@l{"name":"Irene"}
+What imagery did you add then? Tell
+me!
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+I imagined that which I saw with my eyes around me in the world. I had
+to include it--I could not help it, Irene. I expanded the plinth--made
+it wide and spacious. And on it I placed a segment of the curving,
+bursting earth. And up from the fissures of the soil there now swarm men
+and women with dimly-suggested animal-faces. Women and men--as I knew
+them in real life.
+
+
+
+@d{}
+[In breathless suspense.] 
+@l{"name":"Irene"}
+But in the middle of the rout there stands the
+young woman radiant with the joy of light?--Do I not stand so, Arnold?
+
+
+
+@d{}
+[Evasively.] 
+@l{"name":"Professor Rubek"}
+Not quite in the middle. I had unfortunately to move
+that figure a little back. For the sake of the general effect, you
+understand. Otherwise it would have dominated the whole too much.
+
+
+
+@l{"name":"Irene"}
+
+
+But the joy in the light still transfigures my face?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Yes, it does, Irene--in a way. A little subdued perhaps--as my altered
+idea required.
+
+
+
+@d{}
+[Rising noiselessly.] 
+@l{"name":"Irene"}
+That design expresses the life you now see,
+Arnold.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Yes, I suppose it does.
+
+
+
+@l{"name":"Irene"}
+
+
+And in that design you have shifted me back, a little toned down--to
+serve as a background-figure--in a group.
+
+    
+@d{}
+[She draws the knife.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Not a background-figure. Let us say, at most, a figure not quite in the
+foreground--or something of that sort.
+
+
+
+@d{}
+[Whispers hoarsely.] 
+@l{"name":"Irene"}
+There you uttered your own doom.
+
+    
+@d{}
+[On the point of striking.
+
+
+
+@d{}
+[Turns and looks up at her.] 
+@l{"name":"Professor Rubek"}
+Doom?
+
+
+
+@d{}
+[Hastily hides the knife, and says as though choked with agony.] 
+@l{"name":"Irene"}
+My
+whole soul--you and I--we, we, we and our child were in that solitary
+figure.
+
+
+
+@d{}
+[Eagerly, taking off his hat and drying the drops of sweat upon his
+brow.] 
+@l{"name":"Professor Rubek"}
+Yes, but let me tell you, too, how I have placed myself in the
+group. In front, beside a fountain--as it were here--sits a man weighed
+down with guilt, who cannot quite free himself from the earth-crust.
+I call him remorse for a forfeited life. He sits there and dips his
+fingers in the purling stream--to wash them clean--and he is gnawed and
+tortured by the thought that never, never will he succeed. Never in all
+eternity will he attain to freedom and the new life. He will remain for
+ever prisoned in his hell.
+
+
+
+@d{}
+[Hardly and coldly.] 
+@l{"name":"Irene"}
+Poet!
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Why poet?
+
+
+
+@l{"name":"Irene"}
+
+
+Because you are nerveless and sluggish and full of forgiveness for
+all the sins of your life, in thought and in act. You have killed
+my soul--so you model yourself in remorse, and self-accusation, and penance--
+
+@d{}
+[Smiling.] 
+@l{"name":"Irene"}
+--and with that you think your account is cleared.
+
+
+
+@d{}
+[Defiantly.] 
+@l{"name":"Professor Rubek"}
+I am an artist, Irene. And I take no shame to myself for
+the frailties that perhaps cling to me. For I was born to be an artist,
+you see. And, do what I may, I shall never be anything else.
+
+
+
+@d{}
+[Looks at him with a lurking evil smile, and says gently and softly.]
+
+@l{"name":"Irene"}
+You are a poet, Arnold. 
+@d{}
+[Softly strokes his hair.] 
+@l{"name":"Irene"}
+You dear, great,
+middle-aged child,--is it possible that you cannot see that!
+
+
+
+@d{}
+[Annoyed.] 
+@l{"name":"Professor Rubek"}
+Why do you keep on calling me a poet?
+
+
+
+@d{}
+[With malign eyes.] 
+@l{"name":"Irene"}
+Because there is something apologetic in the word,
+my friend. Something that suggests forgiveness of sins--and spreads
+a cloak over all frailty. 
+@d{}
+[With a sudden change of tone.] 
+@l{"name":"Irene"}
+But I was a
+human being--then! And I, too, had a life to live,--and a human destiny
+to fulfil. And all that, look you, I let slip--gave it all up in order
+to make myself your bondwoman.--Oh, it was self-murder--a deadly sin
+against myself! 
+@d{}
+[Half whispering.] 
+@l{"name":"Irene"}
+And that sin I can never expiate!
+
+    
+@d{}
+[She seats herself near him beside the brook, keeps close, though
+       unnoticed, watch upon him, and, as though in absence of mind,
+       plucks some flowers form the shrubs around them.
+
+
+
+@d{}
+[With apparent self-control.] 
+@l{"name":"Irene"}
+I should have borne children in the
+world--many children--real children--not such children as are hidden
+away in grave-vaults. That was my vocation. I ought never to have served
+you--poet.
+
+
+
+@d{}
+[Lost in recollection.] 
+@l{"name":"Professor Rubek"}
+Yet those were beautiful days, Irene.
+Marvellously beautiful days--as I now look back upon them--
+
+
+
+@d{}
+[Looking at him with a soft expression.] 
+@l{"name":"Irene"}
+Can you remember a little word
+that you said--when you had finished--finished with me and with our
+child? 
+@d{}
+[Nods to him.] 
+@l{"name":"Irene"}
+Can you remember that little word, Arnold?
+
+
+
+@d{}
+[Looks inquiringly at her.] 
+@l{"name":"Professor Rubek"}
+Did I say a little word then, which you
+still remember?
+
+
+
+@l{"name":"Irene"}
+
+
+Yes, you did. Can you not recall it?
+
+
+
+@d{}
+[Shaking his head.] 
+@l{"name":"Professor Rubek"}
+No, I can't say that I do. Not at the present
+moment, at any rate.
+
+
+
+@l{"name":"Irene"}
+
+
+You took both my hands and pressed them warmly. And I stood there in
+breathless expectation. And then you said: "So now, Irene, I thank you
+from my heart. This," you said, "has been a priceless episode for me."
+
+
+
+@d{}
+[Looks doubtfully at her.] 
+@l{"name":"Professor Rubek"}
+Did I say "episode"? It is not a word I am in
+the habit of using.
+
+
+
+@l{"name":"Irene"}
+
+
+You said "episode."
+
+
+
+@d{}
+[With assumed cheerfulness.] 
+@l{"name":"Professor Rubek"}
+Well, well--after all, it was in reality an
+episode.
+
+
+
+@d{}
+[Curtly.] 
+@l{"name":"Irene"}
+At that word I left you.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+You take everything so painfully to heart, Irene.
+
+
+
+@d{}
+[Drawing her hand over her forehead.] 
+@l{"name":"Irene"}
+Perhaps you are right. Let us
+shake off all the hard things that go to the heart. 
+@d{}
+[Plucks off the
+leaves of a mountain rose and strews them on the brook.] 
+@l{"name":"Irene"}
+Look there,
+Arnold. There are our birds swimming.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+What birds are they?
+
+
+
+@l{"name":"Irene"}
+
+
+Can you not see? Of course they are flamingoes. Are they not rose-red?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Flamingoes do not swim. They only wade.
+
+
+
+@l{"name":"Irene"}
+
+
+Then they are not flamingoes. They are sea-gulls.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+They may be sea-gulls with red bills, yes. 
+@d{}
+[Plucks broad green leaves
+and throws them into the brook.] 
+@l{"name":"Professor Rubek"}
+Now I send out my ships after them.
+
+
+
+@l{"name":"Irene"}
+
+
+But there must be no harpoon-men on board.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+No, there shall be no harpoon-men. 
+@d{}
+[Smiles to her.] 
+@l{"name":"Professor Rubek"}
+Can you remember the
+summer when we used to sit like this outside the little peasant hut on
+the Lake of Taunitz?
+
+
+
+@d{}
+[Nods.] 
+@l{"name":"Irene"}
+On Saturday evenings, yes,--when we had finished our week's
+work--
+
+
+
+@l{"name":"Professor Rubek"}
+ --And taken the train out to the lake--to stay there
+over Sunday--
+
+
+
+@d{}
+[With an evil gleam of hatred in her eyes.] 
+@l{"name":"Irene"}
+It was an episode, Arnold.
+
+
+
+@d{}
+[As if not hearing.] 
+@l{"name":"Professor Rubek"}
+Then, too, you used to set birds swimming in the
+brook. They were water-lilies which you--
+
+
+
+@l{"name":"Irene"}
+
+
+They were white swans.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+I meant swans, yes. And I remember that I fastened a great furry leaf to
+one of the swans. It looked like a burdock-leaf--
+
+
+
+@l{"name":"Irene"}
+
+
+And then it turned into Lohengrin's boat--with the swan yoked to it.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+How fond you were of that game, Irene.
+
+
+
+@l{"name":"Irene"}
+
+
+We played it over and over again.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Every single Saturday, I believe,--all the summer through.
+
+
+
+@l{"name":"Irene"}
+
+
+You said I was the swan that drew your boat.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Did I say so? Yes, I daresay I did. 
+@d{}
+[Absorbed in the game.] 
+@l{"name":"Professor Rubek"}
+Just see how
+the sea-gulls are swimming down the stream!
+
+
+
+@d{}
+[Laughing.] 
+@l{"name":"Irene"}
+And all your ships have run ashore.
+
+
+
+@d{}
+[Throwing more leaves into the brook.] 
+@l{"name":"Professor Rubek"}
+I have ships enough in reserve.
+
+@d{}
+[Follows the leaves with his eyes, throws more into the brook, and says
+after a pause.] 
+@l{"name":"Professor Rubek"}
+Irene,--I have bought the little peasant hut beside the
+Lake of Taunitz.
+
+
+
+@l{"name":"Irene"}
+
+
+Have you bought it? You often said you would, if you could afford it.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+The day came when I could afford it easily enough; and so I bought it.
+
+
+
+@d{}
+[With a sidelong look at him.] 
+@l{"name":"Irene"}
+Then do you live out there now--in our
+old house?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+No, I have had it pulled down long ago. And I have built myself a great,
+handsome, comfortable villa on the site--with a park around it. It is
+there that we-- 
+@d{}
+[Stops and corrects himself.] 
+@l{"name":"Professor Rubek"}
+--there that I usually
+live during the summer.
+
+
+
+@d{}
+[Mastering herself.] 
+@l{"name":"Irene"}
+So you and--and the other one live out there now?
+
+
+
+@d{}
+[With a touch of defiance.] 
+@l{"name":"Professor Rubek"}
+Yes. When my wife and I are not
+travelling--as we are this year.
+
+
+
+@d{}
+[Looking far before her.] 
+@l{"name":"Irene"}
+Life was beautiful, beautiful by the Lake of
+Taunitz.
+
+
+
+@d{}
+[As though looking back into himself.] 
+@l{"name":"Professor Rubek"}
+And yet, Irene--
+
+
+
+@d{}
+[Completing his thought.] 
+@l{"name":"Irene"}
+--yet we two let slip all that life and its
+beauty.
+
+
+
+@d{}
+[Softly, urgently.] 
+@l{"name":"Professor Rubek"}
+Does repentance come too late, now?
+
+
+
+@d{}
+[Does not answer, but sits silent for a moment; then she points over
+the upland.] 
+@l{"name":"Irene"}
+Look there, Arnold,--now the sun is going down behind the
+peaks. See what a red glow the level rays cast over all the heathery
+knolls out yonder.
+
+
+
+@d{}
+[Looks where she is pointing.] 
+@l{"name":"Professor Rubek"}
+It is long since I have seen a sunset in
+the mountains.
+
+
+
+@l{"name":"Irene"}
+
+
+Or a sunrise?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+A sunrise I don't think I have ever seen.
+
+
+
+@d{}
+[Smiles as though lost in recollection.] 
+@l{"name":"Irene"}
+I once saw a marvellously
+lovely sunrise.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Did you? Where was that?
+
+
+
+@l{"name":"Irene"}
+
+
+High, high up on a dizzy mountain-top.--You beguiled me up there by
+promising that I should see all the glory of the world if only I--
+
+    
+@d{}
+[She stops suddenly.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+If only you--? Well?
+
+
+
+@l{"name":"Irene"}
+
+
+I did as you told me--went with you up to the heights. And there I
+fell upon my knees and worshipped you, and served you. 
+@d{}
+[Is silent for a
+moment; then says softly.] 
+@l{"name":"Irene"}
+Then I saw the sunrise.
+
+
+
+@d{}
+[Turning at him with a scornful smile.] 
+@l{"name":"Professor Rubek"}
+With you--and the other woman?
+
+
+
+@d{}
+[Urgently.] 
+@l{"name":"Professor Rubek"}
+With me--as in our days of creation. You could open all that
+is locked up in me. Can you not find it in your heart, Irene?
+
+
+
+@d{}
+[Shaking her head.] 
+@l{"name":"Irene"}
+I have no longer the key to you, Arnold.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+You have the key! You and you alone possess it! 
+@d{}
+[Beseechingly.] 
+@l{"name":"Professor Rubek"}
+Help
+me--that I may be able to live my life over again!
+
+
+
+@d{}
+[Immovable as before.] 
+@l{"name":"Irene"}
+Empty dreams! Idle--dead dreams. For the life you
+and I led there is no resurrection.
+
+
+
+@d{}
+[Curtly, breaking off.] 
+@l{"name":"Professor Rubek"}
+Then let us go on playing.
+
+
+
+@l{"name":"Irene"}
+
+
+Yes, playing, playing--only playing!
+
+    
+@d{}
+[They sit and strew leaves and petals over the brook, where they
+       float and sail away.
+
+    [Up the slope to the left at the back come ULFHEIM and MAIA in
+       hunting costume.  After them comes the SERVANT with the leash
+       of dogs, with which he goes out to the right.
+
+
+
+@e{"names":["Maia","Ulfheim"]}
+
+@d{}
+[Catching sight of them.] 
+@l{"name":"Professor Rubek"}
+Ah! There is little Maia, going out with the
+bear-hunter.
+
+
+
+@l{"name":"Irene"}
+
+
+Your lady, yes.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Or the other's.
+
+
+
+@d{}
+[Looks around as she is crossing the upland, sees the two sitting by
+the brook, and calls out.] 
+@l{"name":"Maia"}
+Good-night, Professor! Dream of me. Now I am
+going off on my adventures!
+
+
+
+@d{}
+[Calls back to her.] 
+@l{"name":"Professor Rubek"}
+What sort of an adventure is this to be?
+
+
+
+@d{}
+[Approaching.] 
+@l{"name":"Maia"}
+I am going to let life take the place of all the rest.
+
+
+
+@d{}
+[Mockingly.] 
+@l{"name":"Professor Rubek"}
+Aha! So you too are going to do that, little Maia?
+
+
+
+@l{"name":"Maia"}
+
+
+Yes. And I've made a verse about it, and this is how it goes:
+
+    
+@d{}
+[Sings triumphantly.]
+
+              
+@l{"name":"Maia"}
+I am free!  I am free!  I am free!
+              No more life in the prison for me!
+              I am free as a bird!  I am free!
+              For I believe I have awakened now--at last.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+It almost seems so.
+
+
+
+@d{}
+[Drawing a deep breath.] 
+@l{"name":"Maia"}
+Oh--how divinely light one feels on waking!
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Good-night, Frau Maia--and good luck to--
+
+
+
+@d{}
+[Calls out, interposing.] 
+@l{"name":"Ulfheim"}
+Hush, hush!--for the devil's sake let's have
+none of your wizard wishes. Don't you see that we are going out to
+shoot--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+What will you bring me home from the hunting, Maia?
+
+
+
+@l{"name":"Maia"}
+
+
+You shall have a bird of prey to model. I shall wing one for you.
+
+
+
+@d{}
+[Laughs mockingly and bitterly.] 
+@l{"name":"Professor Rubek"}
+Yes, to wing things--without knowing
+what you are doing--that has long been quite in your way.
+
+
+
+@d{}
+[Tossing her head.] 
+@l{"name":"Maia"}
+Oh, just let me take care of myself for the future,
+and I wish you then--! 
+@d{}
+[Nods and laughs roguishly.] 
+@l{"name":"Maia"}
+Good-bye--and a
+good, peaceful summer night on the upland!
+
+
+
+@d{}
+[Jestingly.] 
+@l{"name":"Professor Rubek"}
+Thanks! And all the ill-luck in the world over you and your
+hunting!
+
+
+
+@d{}
+[Roaring with laughter.] 
+@l{"name":"Ulfheim"}
+There now, that is a wish worth having!
+
+
+
+@d{}
+[Laughing.] 
+@l{"name":"Maia"}
+Thanks, thanks, thanks, Professor!
+
+    
+@d{}
+[They have both crossed the visible portion of the upland, and go
+       out through the bushes to the right.
+
+
+
+@x{"names":["Maia","Ulfheim"]}
+
+@d{}
+[After a short pause.] 
+@l{"name":"Professor Rubek"}
+A summer night on the upland! Yes, that would
+have been life!
+
+
+
+@d{}
+[Suddenly, with a wild expression in her eyes.] 
+@l{"name":"Irene"}
+Will you spend a summer
+night on the upland--with me?
+
+
+
+@d{}
+[Stretching his arms wide.] 
+@l{"name":"Professor Rubek"}
+Yes, yes,--come!
+
+
+
+@l{"name":"Irene"}
+
+
+My adored lord and master!
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Oh, Irene!
+
+
+
+@d{}
+[Hoarsely, smiling and groping in her breast.] 
+@l{"name":"Irene"}
+It will be only an
+episode-- 
+@d{}
+[Quickly, whispering.] 
+@l{"name":"Irene"}
+Hush!--do not look round, Arnold!
+
+
+
+@d{}
+[Also in a low voice.] 
+@l{"name":"Professor Rubek"}
+What is it?
+
+
+
+@l{"name":"Irene"}
+
+
+A face that is staring at me.
+
+
+
+@d{}
+[Turns involuntarily.] 
+@l{"name":"Professor Rubek"}
+Where! 
+@d{}
+[With a start.] 
+@l{"name":"Professor Rubek"}
+Ah--!
+
+    
+@d{}
+[The SISTER OF MERCY's head is partly visible among the bushes
+       beside the descent to the left.  Her eyes are immovably fixed
+       on Irene
+
+
+
+@e{"names":["The Sister of Mercy"]}
+
+@d{}
+[Rises and says softly.] 
+@l{"name":"Irene"}
+We must part then. No, you must remain sitting.
+Do you hear? You must not go with me. 
+@d{}
+[Bends over him and whispers.]
+
+@l{"name":"Irene"}
+Till we meet again--to-night--on the upland.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+And you will come, Irene?
+
+
+
+@l{"name":"Irene"}
+
+
+Yes, surely I will come. Wait for me here.
+
+
+
+@d{}
+[Repeats dreamily.] 
+@l{"name":"Professor Rubek"}
+Summer night on the upland. With you. With you. 
+@d{}
+[His
+eyes meet hers.] 
+@l{"name":"Professor Rubek"}
+Oh, Irene--that might have been our life.--And that we
+have forfeited--we two.
+
+
+
+@l{"name":"Irene"}
+
+
+We see the irretrievable only when--
+
+    
+@d{}
+[Breaks off.
+
+
+
+@d{}
+[Looks inquiringly at her.] 
+@l{"name":"Professor Rubek"}
+When--?
+
+
+
+@l{"name":"Irene"}
+
+
+When we dead awaken.
+
+
+
+@d{}
+[Shakes his head mournfully.] 
+@l{"name":"Professor Rubek"}
+What do we really see then?
+
+
+
+@l{"name":"Irene"}
+
+
+We see that we have never lived.
+
+    
+@d{}
+[She goes towards the slope and descends.
+
+    [The SISTER OF MERCY makes way for her and follows her.
+       PROFESSOR RUBEK remains sitting motionless beside the brook.
+
+
+
+@x{"names":["Irene","The Sister of Mercy"]}
+
+@d{}
+[Is heard singing triumphantly among the hills.]
+
+               
+@l{"name":"Maia"}
+I am free!  I am free!  I am free!
+               No more life in the prison for me!
+               I am free as a bird!  I am free!
+
+
+
+@x{"names":["Professor Rubek"]}
+
+@a{"number":3}
+@s{"number":1}
+@d{}
+
+ACT THIRD.
+
+
+[A wild riven mountain-side, with sheer precipices at the back.
+   Snow-clad peaks rise to the right, and lose themselves in drifting
+   mists.  To the left, on a stone-scree, stands an old, half-ruined
+   hut.  It is early morning.  Dawn is breaking.  The sun has not
+   yet risen.
+
+[MAIA comes, flushed and irritated, down over the stone-scree on the
+   left. ULFHEIM follows, half angry, half laughing, holding her
+   fast by the sleeve.
+
+
+
+@e{"names":["Maia","Ulfheim"]}
+
+@d{}
+[Trying to tear herself loose.] 
+@l{"name":"Maia"}
+Let me go! Let me go, I say!
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Come, Come! are you going to bite now? You're as snappish as a wolf.
+
+
+
+@d{}
+[Striking him over the hand.] 
+@l{"name":"Maia"}
+Let me, I tell you? And be quiet!
+
+
+
+@l{"name":"Ulfheim"}
+
+
+No, confound me if I will!
+
+
+
+@l{"name":"Maia"}
+
+
+Then I will not go another step with you. Do you hear?--not a single
+step!
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Ho, ho! How can you get away from me, here, on the wild mountain-side?
+
+
+
+@l{"name":"Maia"}
+
+
+I will jump over the precipice yonder, if need be--
+
+
+
+@l{"name":"Ulfheim"}
+
+
+And mangle and mash yourself up into dogs'-meat! A juicy morsel! 
+@d{}
+[Lets
+go his hold.] 
+@l{"name":"Ulfheim"}
+As you please. Jump over the precipice if you want to.
+It's a dizzy drop. There's only one narrow footpath down it, and that's
+almost impassable.
+
+
+
+@d{}
+[Dusts her skirt with her hand, and looks at him with angry eyes.] 
+@l{"name":"Maia"}
+Well,
+you are a nice one to go hunting with!
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Say rather, sporting.
+
+
+
+@l{"name":"Maia"}
+
+
+Oh! So you call this sport, do you?
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Yes, I venture to take that liberty. It is the sort of sport I like best
+of all.
+
+
+
+@d{}
+[Tossing her head.] 
+@l{"name":"Maia"}
+Well--I must say! 
+@d{}
+[After a pause; looks searchingly
+at him.] 
+@l{"name":"Maia"}
+Why did you let the dogs loose up there?
+
+
+
+@d{}
+[Blinking his eyes and smiling.] 
+@l{"name":"Ulfheim"}
+So that they too might do a little
+hunting on their own account, don't you see?
+
+
+
+@l{"name":"Maia"}
+
+
+There's not a word of truth in that! It wasn't for the dogs' sake that
+you let them go.
+
+
+
+@d{}
+[Still smiling.] 
+@l{"name":"Ulfheim"}
+Well, why did I let them go then? Let us hear.
+
+
+
+@l{"name":"Maia"}
+
+
+You let them go because you wanted to get rid of Lars. He was to run
+after them and bring them in again, you said. And in the meant-time--.
+Oh, it was a pretty way to behave!
+
+
+
+@l{"name":"Ulfheim"}
+
+
+In the meantime?
+
+
+
+@d{}
+[Curtly breaking off.] 
+@l{"name":"Maia"}
+No matter!
+
+
+
+@d{}
+[In a confidential tone.] 
+@l{"name":"Ulfheim"}
+Lars won't find them. You may safely swear to
+that. He won't come with them before the time's up.
+
+
+
+@d{}
+[Looking angrily at him.] 
+@l{"name":"Maia"}
+No, I daresay not.
+
+
+
+@d{}
+[Catching at her arm.] 
+@l{"name":"Ulfheim"}
+For Lars--he knows my--my methods of sport, you
+see.
+
+
+
+@d{}
+[Eludes him, and measures him with a glance.] 
+@l{"name":"Maia"}
+Do you know what you look
+like, Mr. Ulfheim?
+
+
+
+@l{"name":"Ulfheim"}
+
+
+I should think I'm probably most like myself.
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, there you're exactly right. For you're the living image of a faun.
+
+
+
+@l{"name":"Ulfheim"}
+
+
+A faun?
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, precisely; a faun.
+
+
+
+@l{"name":"Ulfheim"}
+
+
+A faun! Isn't that a sort of monster? Or a kind of a wood demon, as you
+might call it?
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, just the sort of creature you are. A thing with a goat's beard and
+goat-legs. Yes, and the faun has horns too!
+
+
+
+@l{"name":"Ulfheim"}
+
+
+So, so!--has he horns too?
+
+
+
+@l{"name":"Maia"}
+
+
+A pair of ugly horns, just like yours, yes.
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Can you see the poor little horns _I_ have?
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, I seem to see them quite plainly.
+
+
+
+@d{}
+[Taking the dogs' leash out of his pocket.] 
+@l{"name":"Ulfheim"}
+Then I had better see about
+tying you.
+
+
+
+@l{"name":"Maia"}
+
+
+Have you gone quite mad? Would you tie me?
+
+
+
+@l{"name":"Ulfheim"}
+
+
+If I am a demon, let me be a demon! So that's the way of it! You can see
+the horns, can you?
+
+
+
+@d{}
+[Soothingly.] 
+@l{"name":"Maia"}
+There, there, there! Now try to behave nicely, Mr.
+Ulfheim. 
+@d{}
+[Breaking off.] 
+@l{"name":"Maia"}
+But what has become of that hunting-castle
+of yours, that you boasted so much of? You said it lay somewhere
+hereabouts.
+
+
+
+@d{}
+[Points with a flourish to the hut.] 
+@l{"name":"Ulfheim"}
+There you have it, before your very
+eyes.
+
+
+
+@d{}
+[Looks at him.] 
+@l{"name":"Maia"}
+That old pig-stye!
+
+
+
+@d{}
+[Laughing in his beard.] 
+@l{"name":"Ulfheim"}
+It has harboured more than one king's daughter,
+I can tell you.
+
+
+
+@l{"name":"Maia"}
+
+
+Was it there that that horrid man you told me about came to the king's
+daughter in the form of a bear?
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Yes, my fair companion of the chase--this is the scene. 
+@d{}
+[With a gesture
+of invitation.] 
+@l{"name":"Ulfheim"}
+If you would deign to enter--
+
+
+
+@l{"name":"Maia"}
+
+
+Isch! If ever I set foot in it--! Isch!
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Oh, two people can doze away a summer night in there comfortably enough.
+Or a whole summer, if it comes to that!
+
+
+
+@l{"name":"Maia"}
+
+
+Thanks! One would need to have a pretty strong taste for that kind of
+thing. 
+@d{}
+[Impatiently.] 
+@l{"name":"Maia"}
+But now I am tired both of you and the hunting
+expedition. Now I am going down to the hotel--before people awaken down
+there.
+
+
+
+@l{"name":"Ulfheim"}
+
+
+How do you propose to get down from here?
+
+
+
+@l{"name":"Maia"}
+
+
+That's your affair. There must be a way down somewhere or other, I
+suppose.
+
+
+
+@d{}
+[Pointing towards the back.] 
+@l{"name":"Ulfheim"}
+Oh, certainly! There is a sort of
+way--right down the face of the precipice yonder--
+
+
+
+@l{"name":"Maia"}
+
+
+There, you see. With a little goodwill--
+
+
+
+@l{"name":"Ulfheim"}
+ --but just you try if you dare go that way.
+
+
+
+@d{}
+[
+@l{"name":"Maia"}
+Doubtfully.] Do you think I can't?
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Never in this world--if you don't let me help you.
+
+
+
+@d{}
+[Uneasily.] 
+@l{"name":"Maia"}
+Why, then come and help me! What else are you here for?
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Would you rather I should take you on my back--?
+
+
+
+@l{"name":"Maia"}
+
+
+Nonsense!
+
+
+
+@l{"name":"Ulfheim"}
+ --or carry you in my arms?
+
+
+
+@l{"name":"Maia"}
+
+
+Now do stop talking that rubbish!
+
+
+
+@d{}
+[With suppressed exasperation.] 
+@l{"name":"Ulfheim"}
+I once took a young girl--lifted her up
+from the mire of the streets and carried her in my arms. Next my heart I
+carried her. So I would have borne her all through life--lest haply she
+should dash her foot against a stone. For her shoes were worn very thin
+when I found her--
+
+
+
+@l{"name":"Maia"}
+
+
+And yet you took her up and carried her next your heart?
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Took her up out of the gutter and carried her as high and as carefully
+as I could. 
+@d{}
+[With a growling laugh.] 
+@l{"name":"Ulfheim"}
+And do you know what I got for my
+reward?
+
+
+
+@l{"name":"Maia"}
+
+
+No. What did you get?
+
+
+
+@d{}
+[Looks at her, smiles and nods.] 
+@l{"name":"Ulfheim"}
+I got the horns! The horns that you can
+see so plainly. Is not that a comical story, madam bear-murderess?
+
+
+
+@l{"name":"Maia"}
+
+
+Oh yes, comical enough! But I know another story that is still more
+comical.
+
+
+
+@l{"name":"Ulfheim"}
+
+
+How does that story go?
+
+
+
+@l{"name":"Maia"}
+
+
+This is how it goes. There was once a stupid girl, who had both a father
+and a mother--but a rather poverty-stricken home. Then there came a high
+and mighty seigneur into the midst of all this poverty. And he took the
+girl in his arms--as you did--and travelled far, far away with her--
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Was she so anxious to be with him?
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, for she was stupid, you see.
+
+
+
+@l{"name":"Ulfheim"}
+
+
+And he, no doubt, was a brilliant and beautiful personage?
+
+
+
+@l{"name":"Maia"}
+
+
+Oh, no, he wasn't so superlatively beautiful either. But he pretended
+that he would take her with him to the top of the highest of mountains,
+where there were light and sunshine without end.
+
+
+
+@l{"name":"Ulfheim"}
+
+
+So he was a mountaineer, was he, that man?
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, he was--in his way.
+
+
+
+@l{"name":"Ulfheim"}
+
+
+And then he took the girl up with him--?
+
+
+
+@d{}
+[With a toss of the head.] 
+@l{"name":"Maia"}
+Took her up with him finely, you may be sure!
+Oh no! he beguiled her into a cold, clammy cage, where--as it seemed
+to her--there was neither sunlight nor fresh air, but only gilding and
+great petrified ghosts of people all around the walls.
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Devil take me, but it served her right!
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, but don't you think it's quite a comical story, all the same?
+
+
+
+@d{}
+[Looks at her moment.] 
+@l{"name":"Ulfheim"}
+Now listen to me, my good companion of the
+chase--
+
+
+
+@l{"name":"Maia"}
+
+
+Well, what it is now?
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Should not we two tack our poor shreds of life together?
+
+
+
+@l{"name":"Maia"}
+
+
+Is his worship inclined to set up as a patching-tailor?
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Yes, indeed he is. Might not we two try to draw the rags together here
+and there--so as to make some sort of a human life out of them?
+
+
+
+@l{"name":"Maia"}
+
+
+And when the poor tatters were quite worn out--what then?
+
+
+
+@d{}
+[With a large gesture.] 
+@l{"name":"Ulfheim"}
+Then there we shall stand, free and serene--as
+the man and woman we really are!
+
+
+
+@d{}
+[Laughing.] 
+@l{"name":"Maia"}
+You with your goat-legs yes!
+
+
+
+@l{"name":"Ulfheim"}
+
+
+And you with your--. Well, let that pass.
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, come--let us pass--on.
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Stop! Whither away, comrade?
+
+
+
+@l{"name":"Maia"}
+
+
+Down to the hotel, of course.
+
+
+
+@l{"name":"Ulfheim"}
+
+
+And afterward?
+
+
+
+@l{"name":"Maia"}
+
+
+Then we'll take a polite leave of each other, with thanks for pleasant
+company.
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Can we part, we two? Do you think we can?
+
+
+
+@l{"name":"Maia"}
+
+
+Yes, you didn't manage to tie me up, you know.
+
+
+
+@l{"name":"Ulfheim"}
+
+
+I have a castle to offer you--
+
+
+
+@d{}
+[Pointing to the hut.] 
+@l{"name":"Maia"}
+A fellow to that one?
+
+
+
+@l{"name":"Ulfheim"}
+
+
+It has not fallen to ruin yet.
+
+
+
+@l{"name":"Maia"}
+
+
+And all the glory of the world, perhaps?
+
+
+
+@l{"name":"Ulfheim"}
+
+
+A castle, I tell you--
+
+
+
+@l{"name":"Maia"}
+
+
+Thanks! I have had enough of castles.
+
+
+
+@l{"name":"Ulfheim"}
+ --with splendid hunting-grounds stretching for miles around it.
+
+
+
+@l{"name":"Maia"}
+
+
+Are there works of art too in this castle?
+
+
+
+@d{}
+[Slowly.] 
+@l{"name":"Ulfheim"}
+Well, no--it's true there are no works of art; but--
+
+
+
+@d{}
+[Relieved.] 
+@l{"name":"Maia"}
+Ah! that's one good thing, at any rate!
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Will you go with me, then--as far and as long as I want you?
+
+
+
+@l{"name":"Maia"}
+
+
+There is a tame bird of prey keeping watch upon me.
+
+
+
+@d{}
+[Wildly.] 
+@l{"name":"Ulfheim"}
+We'll put a bullet in his wing, Maia!
+
+
+
+@d{}
+[Looks at him a moment, and says resolutely.] 
+@l{"name":"Maia"}
+Come then, and carry me
+down into the depths.
+
+
+
+@d{}
+[Puts his arm round her waist.] 
+@l{"name":"Ulfheim"}
+It is high time! The mist is upon us!
+
+
+
+@l{"name":"Maia"}
+
+
+Is the way down terribly dangerous?
+
+
+
+@l{"name":"Ulfheim"}
+
+
+The mountain is more dangerous still.
+
+    
+@d{}
+[She shakes him off, goes to the edge of the precipice and looks
+       over, but starts quickly back.
+
+
+
+@d{}
+[Goes towards her, laughing.] 
+@l{"name":"Ulfheim"}
+What? Does it make you a little giddy?
+
+
+
+@d{}
+[Faintly.] 
+@l{"name":"Maia"}
+Yes, that too. But go and look over. Those two, coming up--
+
+
+
+@d{}
+[Goes and bends over the edge of the precipice.] 
+@l{"name":"Ulfheim"}
+It's only your bird of
+prey--and his strange lady.
+
+
+
+@l{"name":"Maia"}
+
+
+Can't we get past them--without their seeing us?
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Impossible! The path is far too narrow. And there's no other way down.
+
+
+
+@d{}
+[Nerving herself.] 
+@l{"name":"Maia"}
+Well, well--let us face them here, then!
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Spoken like a true bear-killer, comrade!
+
+    
+@d{}
+[PROFESSOR RUBEK and IRENE appear over the edge of the precipice
+       at the back. He has his plaid over his shoulders; she has a
+       fur cloak thrown loosely over her white dress, and a swansdown
+       hood over her head.
+
+
+
+@e{"names":["Professor Rubek","Irene"]}
+
+@d{}
+[Still only half visible above the edge.] 
+@l{"name":"Professor Rubek"}
+What, Maia! So we two meet
+once again?
+
+
+
+@d{}
+[With assumed coolness.] 
+@l{"name":"Maia"}
+At your service. Won't you come up?
+
+    
+@d{}
+[PROFESSOR RUBEK climbs right up and holds out his hand to IRENE,
+       who also comes right to the top.
+
+
+
+@d{}
+[Coldly to Maia] 
+@l{"name":"Professor Rubek"}
+So you, too, have been all night on the mountain,--as
+we have?
+
+
+
+@l{"name":"Maia"}
+
+
+I have been hunting--yes. You gave me permission, you know.
+
+
+
+@d{}
+[Pointing downward.] 
+@l{"name":"Ulfheim"}
+Have you come up that path there?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+As you saw.
+
+
+
+@l{"name":"Ulfheim"}
+
+
+And the strange lady too?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Yes, of course. 
+@d{}
+[With a glance at Maia] 
+@l{"name":"Professor Rubek"}
+Henceforth the strange lady and
+I do not intend our ways to part.
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Don't you know, then, that it is a deadly dangerous way you have come?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+We thought we would try it, nevertheless. For it did not seem
+particularly hard at first.
+
+
+
+@l{"name":"Ulfheim"}
+
+
+No, at first nothing seems hard. But presently you may come to a tight
+place where you can neither get forward nor back. And then you stick
+fast, Professor! Mountain-fast, as we hunters call it.
+
+
+
+@d{}
+[Smiles and looks at him.] 
+@l{"name":"Professor Rubek"}
+Am I to take these as oracular utterances,
+Mr. Ulfheim?
+
+
+
+@l{"name":"Ulfheim"}
+
+
+Lord preserve me from playing the oracle! 
+@d{}
+[Urgently, pointing up towards
+the heights.] 
+@l{"name":"Ulfheim"}
+But don't you see that the storm is upon us? Don't you
+hear the blasts of wind?
+
+
+
+@d{}
+[Listening.] 
+@l{"name":"Professor Rubek"}
+They sound like the prelude to the Resurrection Day.
+
+
+
+@l{"name":"Ulfheim"}
+
+
+They are storm-blasts form the peaks, man! Just look how the clouds are
+rolling and sinking--soon they'll be all around us like a winding-sheet!
+
+
+
+@d{}
+[With a start and shiver.] 
+@l{"name":"Irene"}
+I know that sheet!
+
+
+
+@d{}
+[Drawing ULFHEIM away.] 
+@l{"name":"Maia"}
+Let us make haste and get down.
+
+
+
+@d{}
+[To Professor Rubek] 
+@l{"name":"Ulfheim"}
+I cannot help more than one. Take refuge in the
+hut in the mean-time--while the storm lasts. Then I shall send people up
+to fetch the two of you away.
+
+
+
+@d{}
+[In terror.] 
+@l{"name":"Irene"}
+To fetch us away! No, no!
+
+
+
+@d{}
+[Harshly.] 
+@l{"name":"Ulfheim"}
+To take you by force if necessary--for it's a matter of life
+and death here. Now, you know it. 
+@d{}
+[To Maia] 
+@l{"name":"Ulfheim"}
+Come, then--and don't fear
+to trust yourself in your comrade's hands.
+
+
+
+@d{}
+[Clinging to him.] 
+@l{"name":"Maia"}
+Oh, how I shall rejoice and sing, if I get down with
+a whole skin!
+
+
+
+@d{}
+[Begins the descent and calls to the others.] 
+@l{"name":"Ulfheim"}
+You'll wait, then, in the
+hut, till the men come with ropes, and fetch you away.
+
+    
+@d{}
+[ULFHEIM, with MAIA in his arms, clambers rapidly but warily down
+       the precipice.
+
+
+
+@d{}
+[Looks for some time at PROFESSOR RUBEK with terror-stricken eyes.] 
+@l{"name":"Irene"}
+Did
+you hear that, Arnold?--men are coming up to fetch me away! Many men
+will come up here--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Do not be alarmed, Irene!
+
+
+
+@d{}
+[In growing terror.] 
+@l{"name":"Irene"}
+And she, the woman in black--she will come too. For
+she must have missed me long ago. And then she will seize me, Arnold!
+And put me in the strait-waistcoat. Oh, she has it with her, in her box.
+I have seen it with my own eyes--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Not a soul shall be suffered to touch you.
+
+
+
+@d{}
+[With a wild smile.] 
+@l{"name":"Irene"}
+Oh no--I myself have a resource against that.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+What resource do you mean?
+
+
+
+@d{}
+[Drawing out the knife.] 
+@l{"name":"Irene"}
+This!
+
+
+
+@d{}
+[Tries to seize it.] 
+@l{"name":"Professor Rubek"}
+Have you a knife?
+
+
+
+@l{"name":"Irene"}
+
+
+Always, always--both day and night--in bed as well!
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Give me that knife, Irene!
+
+
+
+@d{}
+[Concealing it.] 
+@l{"name":"Irene"}
+You shall not have it. I may very likely find a use for
+it myself.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+What use can you have for it, here?
+
+
+
+@d{}
+[Looks fixedly at him.] 
+@l{"name":"Irene"}
+It was intended for you, Arnold.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+For me!
+
+
+
+@l{"name":"Irene"}
+
+
+As we were sitting by the Lake of Taunitz last evening--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+By the Lake of--
+
+
+
+@l{"name":"Irene"}
+ --outside the peasant's hut--and playing with swans and
+water-lilies--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+What then--what then?
+
+
+
+@l{"name":"Irene"}
+ --and when I heard you say with such deathly, icy coldness--that
+I was nothing but an episode in your life--
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+It was you that said that, Irene, not I.
+
+
+
+@d{}
+[Continuing.] 
+@l{"name":"Irene"}
+--then I had my knife out. I wanted to stab you in the
+back with it.
+
+
+
+@d{}
+[Darkly.] 
+@l{"name":"Professor Rubek"}
+And why did you hold your hand?
+
+
+
+@l{"name":"Irene"}
+
+
+Because it flashed upon me with a sudden horror that you were dead
+already--long ago.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Dead?
+
+
+
+@l{"name":"Irene"}
+
+
+Dead. Dead, you as well as I. We sat there by the Lake of Taunitz, we
+two clay-cold bodies--and played with each other.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+I do not call that being dead. But you do not understand me.
+
+
+
+@l{"name":"Irene"}
+
+
+Then where is the burning desire for me that you fought and battled
+against when I stood freely forth before you as the woman arisen from
+the dead?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Our love is assuredly not dead, Irene.
+
+
+
+@l{"name":"Irene"}
+
+
+The love that belongs to the life of earth--the beautiful, miraculous
+earth-life--the inscrutable earth-life--that is dead in both of us.
+
+
+
+@d{}
+[Passionately.] 
+@l{"name":"Professor Rubek"}
+And do you know that just that love--it is burning and
+seething in me as hotly as ever before?
+
+
+
+@l{"name":"Irene"}
+
+
+And I? Have you forgotten who I now am?
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Be who or what you please, for aught I care! For me, you are the woman I
+see in my dreams of you.
+
+
+
+@l{"name":"Irene"}
+
+
+I have stood on the turn-table-naked--and made a show of myself to many
+hundreds of men--after you.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+It was I that drove you to the turn-table--blind as I then was--I, who
+placed the dead clay-image above the happiness of life--of love.
+
+
+
+@d{}
+[Looking down.] 
+@l{"name":"Irene"}
+Too late--too late!
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Not by a hairsbreadth has all that has passed in the interval lowered
+you in my eyes.
+
+
+
+@d{}
+[With head erect.] 
+@l{"name":"Irene"}
+Nor in my own!
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Well, what then! Then we are free--and there is still time for us to
+live our life, Irene.
+
+
+
+@d{}
+[Looks sadly at him.] 
+@l{"name":"Irene"}
+The desire for life is dead in me, Arnold. Now I
+have arisen. And I look for you. And I find you.--And then I see that
+you and life lie dead--as I have lain.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+Oh, how utterly you are astray! Both in us and around us life is
+fermenting and throbbing as fiercely as ever!
+
+
+
+@d{}
+[Smiling and shaking her head.] 
+@l{"name":"Irene"}
+The young woman of your Resurrection Day
+can see all life lying on its bier.
+
+
+
+@d{}
+[Throwing his arms violently around her.] 
+@l{"name":"Professor Rubek"}
+Then let two of the dead--us
+two--for once live life to its uttermost--before we go down to our
+graves again!
+
+
+
+@d{}
+[With a shriek.] 
+@l{"name":"Irene"}
+Arnold!
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+But not here in the half darkness! Not here with this hideous dank
+shroud flapping around us--
+
+
+
+@d{}
+[Carried away by passion.] 
+@l{"name":"Irene"}
+No, no--up in the light, and in all the
+glittering glory! Up to the Peak of Promise!
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+There we will hold our marriage-feast, Irene--oh, my beloved!
+
+
+
+@d{}
+[Proudly.] 
+@l{"name":"Irene"}
+The sun may freely look on us, Arnold.
+
+
+
+@l{"name":"Professor Rubek"}
+
+
+All the powers of light may freely look on us--and all the powers
+of darkness too. 
+@d{}
+[Seizes her hand.] 
+@l{"name":"Professor Rubek"}
+Will you then follow me, oh my
+grace-given bride?
+
+
+
+@d{}
+[As though transfigured.] 
+@l{"name":"Irene"}
+I follow you, freely and gladly, my lord and
+master!
+
+
+
+@d{}
+[Drawing her along with him.] 
+@l{"name":"Professor Rubek"}
+We must first pass through the mists,
+Irene, and then--
+
+
+
+@l{"name":"Irene"}
+
+
+Yes, through all the mists, and then right up to the summit of the tower
+that shines in the sunrise.
+
+    
+@d{}
+[The mist-clouds close in over the scene--PROFESSOR RUBEK and
+       IRENE, hand in hand, climb up over the snow-field to the right
+       and soon disappear among the lower clouds.  Keen storm-gusts
+       hurtle and whistle through the air.
+
+    [The SISTER OF MERCY appears upon the stone-scree to the left.
+       She stops and looks around silently and searchingly.
+
+
+
+@e{"names":["The Sister of Mercy"]}
+
+@x{"names":["Irene","Professor Rubek"]}
+
+@l{"name":"Maia"}
+
+
+               I am free!  I am free!  I am free!
+               No more life in the prison for me!
+               I am free as a bird!  I am free!
+
+    
+@d{}
+[Suddenly a sound like thunder is heard from high up on the snow-
+       field, which glides and whirls downwards with headlong speed.
+       PROFESSOR RUBEK and IRENE can be dimly discerned as they are
+       whirled along with the masses of snow and buried in them.
+
+
+
+@d{}
+[Gives a shriek, stretches out her arms towards them and cries.] 
+@l{"name":"The Sister of Mercy"}
+Irene!
+
+    
+@d{}
+[Stands silent a moment, then makes the sign of the cross before
+       her in the air, and says.
+
+
+@l{"name":"The Sister of Mercy"}
+Pax vobiscum!
+
+    
+@d{}
+[MAIA's triumphant song sounds from still farther down below.
+@x{"names":["Maia","The Sister of Mercy","Ulfheim"]}
