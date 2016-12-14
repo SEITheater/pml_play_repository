@@ -1,0 +1,12754 @@
+﻿@v{"version": 0.1} 
+@play{"title":"The Master Builder", "author": "Henrik Ibsen"}
+
+
+
+@a{"number":1}
+@s{"number":1}
+@d{}
+THE MASTER BUILDER
+By Henrik Ibsen
+Translated by Edmund Gosse and William Archer
+
+
+The action passes in and about SOLNESS'S house.
+
+
+ACT FIRST.
+
+  A plainly-furnished work-room in the house of HALVARD Solness
+  Folding doors on the left lead out to the hall.  On the right
+  is the door leading to the inner rooms of the house.  At the
+  back is an open door into the draughtsmen's office.  In front,
+  on the left, a desk with books, papers and writing materials.
+  Further back than the folding door, a stove.  In the right-
+  hand corner, a sofa, a table, and one or two chairs.  On the
+  table a water-bottle and glass.  A smaller table, with a
+  rocking-chair and arm-chair, in front on the right.  Lighted
+  lamps, with shades, on the table in the draughtmen's office,
+  on the table in the corner, and on the desk.
+
+  In the draughtsmen's office sit KNUT BROVIK and his son RAGNAR,
+  occupied with plans and calculations.  At the desk in the outer
+  office stands KAIA FOSLI, writing in the ledger.  KNUT BROVICK
+  is a spare old man with white hair and beard.  He wears a
+  rather threadbare but well-brushed black coat, with spectacles,
+  and a somewhat discoloured white neckcloth.  RAGNAR BROVIK is
+  a well-dressed, light-haired man in his thirties, with a
+  slight stoop.  KAIA FOSLI is a slightly built girl, a little
+  over twenty, carefully dressed, and delicate-looking.  She has
+  a green shade over her eyes.--All three go on working for some
+  time in silence.
+
+
+
+@e{"names":["Brovik","Ragnar","Kaia"]}
+
+@d{}
+[Rises suddenly, as if in distress, from the table; breathes heavily and
+laboriously as he comes forward into the doorway.] 
+@l{"name":"Brovik"}
+No, I can't bear it
+much longer!
+
+
+@d{}
+[Going up to him.] 
+@l{"name":"Kaia"}
+You are feeling very ill this evening, are you not,
+Uncle?
+
+
+
+@l{"name":"Brovik"}
+
+
+Oh, I seem to get worse every day.
+
+
+
+@d{}
+[Has risen and advances.] 
+@l{"name":"Ragnar"}
+You ought to go home, father. Try to get a
+little sleep--
+
+
+
+@d{}
+[Impatiently.] 
+@l{"name":"Brovik"}
+Go to bed, I suppose? Would you have me stifled outright?
+
+
+
+@l{"name":"Kaia"}
+
+
+Then take a little walk.
+
+
+
+@l{"name":"Ragnar"}
+
+
+Yes, do. I will come with you.
+
+
+
+@d{}
+[With warmth.] 
+@l{"name":"Brovik"}
+I will not go till he comes! I and determined to have
+it out this evening with--
+@d{}
+[in a tone of suppressed bitterness]
+
+@l{"name":"Brovik"}
+--with him--with the chief.
+
+
+
+@d{}
+[Anxiously.] 
+@l{"name":"Kaia"}
+Oh no, uncle,--do wait awhile before doing that!
+
+
+
+@l{"name":"Ragnar"}
+
+
+Yes, better wait, father!
+
+
+
+@d{}
+[Draws is breath laboriously.] 
+@l{"name":"Brovik"}
+Ha--ha--! _I_ haven't much time for
+waiting.
+
+
+
+@d{}
+[Listening.] 
+@l{"name":"Kaia"}
+Hush! I hear him on the stairs.
+
+     
+@d{}
+[All three go back to their work.  A short silence.
+
+
+  HALVARD SOLNESS comes in through the hall door.  He is a man no
+  longer young, but healthy and vigorous, with close-cut curly
+  hair, dark moustache and dark thick eyebrows.  He wears a
+  greyish-green buttoned jacket with an upstanding collar and
+  broad lapels.  On his head he wears a soft grey felt hat,
+  and he has one or two light portfolios under his arm.
+
+
+
+@e{"names":["Solness"]}
+
+@d{}
+[Near the door, points towards the draughtsmen's office, and asks in a
+whisper:] 
+@l{"name":"Solness"}
+Are they gone?
+
+
+
+@d{}
+[Softly, shaking her] 
+@l{"name":"Kaia"}
+No.
+
+     
+@d{}
+[She takes the shade off her eyes.  SOLNESS crosses the room,
+       throws his hat on a chair, places the portfolios on the table
+       by the sofa, and approaches the desk again.  KAIA goes on
+       writing without intermission, but seems nervous and uneasy.
+
+
+
+@d{}
+[Aloud.] 
+@l{"name":"Solness"}
+What is that you are entering, Miss Fosli?
+
+
+
+@d{}
+[Starts.] 
+@l{"name":"Kaia"}
+Oh, it is only something that--
+
+
+
+@l{"name":"Solness"}
+
+
+Let me look at it, Miss Fosli. 
+@d{}
+[Bends over her, pretends to be looking
+into the ledger, and whispers:] 
+@l{"name":"Solness"}
+Kaia!
+
+
+
+@d{}
+[Softly, still writing.] 
+@l{"name":"Kaia"}
+Well?
+
+
+
+@l{"name":"Solness"}
+
+
+Why do you always take that shade off when I come?
+
+
+
+@d{}
+[As before.] 
+@l{"name":"Kaia"}
+I look so ugly with it on.
+
+
+
+@d{}
+[Smiling.] 
+@l{"name":"Solness"}
+Then you don't like to look ugly, Kaia?
+
+
+
+@d{}
+[Half glancing up at him.] 
+@l{"name":"Kaia"}
+Not for all the world. Not in your eyes.
+
+
+
+@d{}
+[Strokes her hair gently.] 
+@l{"name":"Solness"}
+Poor, poor little Kaia--
+
+
+
+@d{}
+[Bending her head.] 
+@l{"name":"Kaia"}
+Hush--they can hear you!
+
+     
+@d{}
+[SOLNESS strolls across the room to the right, turns and pauses
+       at the door of the draughtsmen's office.
+
+
+
+@l{"name":"Solness"}
+
+
+Has any one been here for me?
+
+
+
+@d{}
+[Rising.] 
+@l{"name":"Ragnar"}
+Yes, the young couple who want a villa built, out at
+Lovstrand.
+
+
+
+@d{}
+[Growling.] 
+@l{"name":"Solness"}
+Oh, those two! They must wait. I am not quite clear about
+the plans yet.
+
+
+
+@d{}
+[Advancing, with some hesitation.] 
+@l{"name":"Ragnar"}
+They were very anxious to have the
+drawings at once.
+
+
+
+@d{}
+[As before.] 
+@l{"name":"Solness"}
+Yes, of course--so they all are.
+
+
+
+@d{}
+[Looks up.] 
+@l{"name":"Brovik"}
+They say they are longing so to get into a house of their
+own.
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, yes--we know all that! And so they are content to take whatever
+is offered them. They get a--a roof over their heads--an address--but
+nothing to call a home. No thank you! In that case, let them apply to
+somebody else. Tell them that, the next time they call.
+
+
+
+@d{}
+[Pushes his glasses up on to his forehead and looks in astonishment at
+him.] 
+@l{"name":"Brovik"}
+To somebody else? Are you prepared to give up the commission?
+
+
+
+@d{}
+[Impatiently.] 
+@l{"name":"Solness"}
+Yes, yes, yes, devil take it! If that is to be the way of
+it--. Rather that, than build away at random. 
+@d{}
+[Vehemently.] 
+@l{"name":"Solness"}
+Besides, I
+know very little about these people as yet.
+
+
+
+@l{"name":"Brovik"}
+
+
+The people are safe enough. Ragnar knows them. He is a friend of the
+family.
+
+
+
+@l{"name":"Solness"}
+
+
+Oh, safe--safe enough! That is not at all what I mean. Good lord--don't
+you understand me either? 
+@d{}
+[Angrily.] 
+@l{"name":"Solness"}
+I won't have anything to do with
+these strangers. They may apply to whom they please, so far as I am
+concerned.
+
+
+
+@d{}
+[Rising.] 
+@l{"name":"Brovik"}
+Do you really mean that?
+
+
+
+@d{}
+[Sulkily.] 
+@l{"name":"Solness"}
+Yes I do.--For once in a way. 
+@d{}
+[He comes forward.
+
+     [BROVIK exchanges a glance with RAGNAR, who makes a warning
+       gesture.  Then BROVIK comes into the front room.
+
+
+
+@l{"name":"Brovik"}
+
+
+May I have a few words with you?
+
+
+
+@l{"name":"Solness"}
+
+
+Certainly.
+
+
+
+@d{}
+[To Kaia] 
+@l{"name":"Brovik"}
+Just go in there for moment, Kaia.
+
+
+
+@d{}
+[Uneasily.] 
+@l{"name":"Kaia"}
+Oh, but uncle--
+
+
+
+@l{"name":"Brovik"}
+
+
+Do as I say, child. And shut the door after you.
+
+     
+@d{}
+[KAIA goes reluctantly into the draughtsmen's office, glances
+       anxiously and imploringly at SOLNESS, and shuts the door.
+
+
+
+@d{}
+[Lowering his voice a little.] 
+@l{"name":"Brovik"}
+I don't want the poor children to know
+how I am.
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, you have been looking very poorly of late.
+
+
+
+@l{"name":"Brovik"}
+
+
+It will soon be all over with me. My strength is ebbing--from day to
+day.
+
+
+
+@l{"name":"Solness"}
+
+
+Won't you sit down?
+
+
+
+@l{"name":"Brovik"}
+
+
+Thanks--may I?
+
+
+
+@d{}
+[Placing the arm-chair more conveniently.] 
+@l{"name":"Solness"}
+Here--take this chair.--And
+now?
+
+
+
+@d{}
+[Has seated himself with difficulty.] 
+@l{"name":"Brovik"}
+Well, you see, it's about Ragnar.
+That is what weighs most upon me. What is to become of him?
+
+
+
+@l{"name":"Solness"}
+
+
+Of course your son will stay with me as long as ever he likes.
+
+
+
+@l{"name":"Brovik"}
+
+
+But that is just what he does not like. He feels that he cannot stay
+here any longer.
+
+
+
+@l{"name":"Solness"}
+
+
+Why, I should say he was very well off here. But if he wants more money,
+I should not mind--
+
+
+
+@l{"name":"Brovik"}
+
+
+No, no! It is not that. 
+@d{}
+[Impatiently.] 
+@l{"name":"Brovik"}
+But sooner or later he, too, must
+have a chance of doing something on his own account.
+
+
+
+@d{}
+[Without looking at him.] 
+@l{"name":"Solness"}
+Do you think that Ragnar has quite talent
+enough to stand alone?
+
+
+
+@l{"name":"Brovik"}
+
+
+No, that is just the heartbreaking part of it--I have begun to have
+my doubts about the boy. For you have never said so much as--as one
+encouraging word about him. And yet I cannot but think there must be
+something in him--he can't be without talent.
+
+
+
+@l{"name":"Solness"}
+
+
+Well, but he has learnt nothing--nothing thoroughly, I mean. Except, of
+course, to draw.
+
+
+
+@d{}
+[Looks at him with covert hatred, and says hoarsely.] 
+@l{"name":"Brovik"}
+You had learned
+little enough of the business when you were in my employment. But
+that did not prevent you from setting to work--
+@d{}
+[breathing with
+difficulty]
+@l{"name":"Brovik"}
+--and pushing your way up, and taking the wind out of my
+sails--mine, and so may other people's.
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, you see--circumstances favoured me.
+
+
+
+@l{"name":"Brovik"}
+
+
+You are right there. Everything favoured you. But then how can you have
+the heart to let me go to my grave--without having seen what Ragnar is
+fit for? And of course I am anxious to see them married, too--before I
+go.
+
+
+
+@d{}
+[Sharply.] 
+@l{"name":"Solness"}
+Is it she who wishes it?
+
+
+
+@l{"name":"Brovik"}
+
+
+Not Kaia so much as Ragnar--he talks about it every day. 
+@d{}
+[Appealingly.]
+
+@l{"name":"Brovik"}
+You must help him to get some independent work now! I must see something
+that the lad has done. Do you hear?
+
+
+
+@d{}
+[Peevishly.] 
+@l{"name":"Solness"}
+Hang it, man, you can't expect me to drag commissions down
+from the moon for him!
+
+
+
+@l{"name":"Brovik"}
+
+
+He has the chance of a capital commission at this very moment. A big bit
+of work.
+
+
+
+@d{}
+[Uneasily, startled.] 
+@l{"name":"Solness"}
+Has he?
+
+
+
+@l{"name":"Brovik"}
+
+
+I you would give your consent.
+
+
+
+@l{"name":"Solness"}
+
+
+What sort of work do you mean?
+
+
+
+@d{}
+[With some hesitation.] 
+@l{"name":"Brovik"}
+He can have the building of that villa out at
+Lovstrand.
+
+
+
+@l{"name":"Solness"}
+
+
+That! Why I am going to build that myself.
+
+
+
+@l{"name":"Brovik"}
+
+
+Oh you don't much care about doing it.
+
+
+
+@d{}
+[Flaring up.] 
+@l{"name":"Solness"}
+Don't care! Who dares to say that?
+
+
+
+@l{"name":"Brovik"}
+
+
+You said so yourself just now.
+
+
+
+@l{"name":"Solness"}
+
+
+Oh, never mind what I say.--Would they give Ragnar the building of that
+villa?
+
+
+
+@l{"name":"Brovik"}
+
+
+Yes. You see, he knows the family. And then--just for the fun of the
+thing--he has made drawings and estimates and so forth--
+
+
+
+@l{"name":"Solness"}
+
+
+Are they pleased with the drawings? The people who will have to live in
+the house?
+
+
+
+@l{"name":"Brovik"}
+
+
+Yes. If you would only look through them and approve of them--
+
+
+
+@l{"name":"Solness"}
+
+
+Then they would let Ragnar build their home for them?
+
+
+
+@l{"name":"Brovik"}
+
+
+They were immensely pleased with his idea. They thought it exceedingly
+original, they said.
+
+
+
+@l{"name":"Solness"}
+
+
+Oho! Original! Not the old-fashioned stuff that _I_ am in the habit of
+turning out!
+
+
+
+@l{"name":"Brovik"}
+
+
+It seemed to them different.
+
+
+
+@d{}
+[With suppressed irritation.] 
+@l{"name":"Solness"}
+So it was to see Ragnar that they came
+here--whilst I was out!
+
+
+
+@l{"name":"Brovik"}
+
+
+They came to call upon you--and at the same time to ask whether you
+would mind retiring--
+
+
+
+@d{}
+[Angrily.] 
+@l{"name":"Solness"}
+Retire? I?
+
+
+
+@l{"name":"Brovik"}
+
+
+In case you thought that Ragnar's drawings--
+
+
+
+@l{"name":"Solness"}
+
+
+I! Retire in favour of your son!
+
+
+
+@l{"name":"Brovik"}
+
+
+Retire from the agreement, they meant.
+
+
+
+@l{"name":"Solness"}
+
+
+Oh, it comes to the same thing. 
+@d{}
+[Laughs angrily.] 
+@l{"name":"Solness"}
+So that is it, is it?
+Halvard Solness is to see about retiring now! To make room for younger
+men! For the very youngest, perhaps! He must make room! Room! Room!
+
+
+
+@l{"name":"Brovik"}
+
+
+Why, good heavens! there is surely room for more than one single man--
+
+
+
+@l{"name":"Solness"}
+
+
+Oh, there's not so very much room to spare either. But, be that as it
+may--I will never retire! I will never give way to anybody! Never of my
+own free will. Never in this world will I do that!
+
+
+
+@d{}
+[Rise with difficulty.] 
+@l{"name":"Brovik"}
+Then I am to pass out of life without any
+certainty? Without a gleam of happiness? Without any faith or trust in
+Ragnar? Without having seen a single piece of work of his doing? Is that
+to be the way of it?
+
+
+
+@d{}
+[Turns half aside, and mutters.] 
+@l{"name":"Solness"}
+H'm--don't ask more just now.
+
+
+
+@l{"name":"Brovik"}
+
+
+I must have an answer to this one question. Am I to pass out of life in
+such utter poverty?
+
+
+
+@d{}
+[Seems to struggle with himself; finally he says, in a low but firm
+voice:] 
+@l{"name":"Solness"}
+You must pass out of life as best you can.
+
+
+
+@l{"name":"Brovik"}
+
+
+Then be it so. 
+@d{}
+[He goes up the room.
+
+
+
+@d{}
+[Following him, half is desperation.] 
+@l{"name":"Solness"}
+Don't you understand that I cannot
+help it? I am what I am, and I cannot change my nature!
+
+
+
+@l{"name":"Brovik"}
+
+
+No; I suppose that you can't. 
+@d{}
+[Reels and supports himself against the
+sofa-table.] 
+@l{"name":"Brovik"}
+May I have a glass of water?
+
+
+
+@l{"name":"Solness"}
+
+
+By all means. 
+@d{}
+[Fills a glass and hands it to him.
+
+
+
+@l{"name":"Brovik"}
+
+
+Thanks. 
+@d{}
+[Drinks and puts the glass down again.
+
+     [SOLNESS goes up and opens the door of the draughtsmen's office.
+
+
+
+@l{"name":"Solness"}
+
+
+Ragnar--you must come and take your father home.
+
+
+  
+@d{}
+Ragnar rises quickly.  He and KAIA come into the work-room.
+
+
+
+@l{"name":"Ragnar"}
+
+
+What is the matter, father?
+
+
+
+@l{"name":"Brovik"}
+
+
+Give me your arm. Now let us go.
+
+
+
+@l{"name":"Ragnar"}
+
+
+Very well. You had better put your things on, too, Kaia.
+
+
+
+@l{"name":"Solness"}
+
+
+Miss Fosli must stay--just for a moment. There is a letter I want
+written.
+
+
+
+@d{}
+[Looks at Solness] 
+@l{"name":"Brovik"}
+Good night. Sleep well--if you can.
+
+
+
+@l{"name":"Solness"}
+
+
+Good night.
+
+     
+@d{}
+[BROVIK and RAGNAR go out by the hall-door.  KAIA goes to the
+       desk.  SOLNESS stands with bent head, to the right, by the
+       arm-chair.
+
+
+
+@x{"names":["Brovik","Ragnar"]}
+
+@d{}
+[Dubiously.] 
+@l{"name":"Kaia"}
+Is there any letter?
+
+
+
+@d{}
+[Curtly.] 
+@l{"name":"Solness"}
+No, of course not. 
+@d{}
+[Looks sternly at her.] 
+@l{"name":"Solness"}
+Kaia!
+
+
+
+@d{}
+[Anxiously, in a low voice.] 
+@l{"name":"Kaia"}
+Yes!
+
+
+
+@d{}
+[Points imperatively to a spot on the floor.] 
+@l{"name":"Solness"}
+Come here! At once!
+
+
+
+@d{}
+[Hesitatingly.] 
+@l{"name":"Kaia"}
+Yes.
+
+
+
+@d{}
+[As before.] 
+@l{"name":"Solness"}
+Nearer!
+
+
+
+@d{}
+[Obeying.] 
+@l{"name":"Kaia"}
+What do you want with me?
+
+
+
+@d{}
+[Looks at her for a while.] 
+@l{"name":"Solness"}
+Is it you I have to thank for all this?
+
+
+
+@l{"name":"Kaia"}
+
+
+No, no, don't think that!
+
+
+
+@l{"name":"Solness"}
+
+
+But confess now--you want to get married!
+
+
+
+@d{}
+[Softly.] 
+@l{"name":"Kaia"}
+Ragnar and I have been engaged for four or five years, and
+so--
+
+
+
+@l{"name":"Solness"}
+
+
+And so you think it time there were an end of it. Is not that so?
+
+
+
+@l{"name":"Kaia"}
+
+
+Ragnar and Uncle say I must. So I suppose I shall have to give in.
+
+
+
+@d{}
+[More gently.] 
+@l{"name":"Solness"}
+Kaia, don't you really care a little bit for Ragnar, too?
+
+
+
+@l{"name":"Kaia"}
+
+
+I cared very much for Ragnar once--before I came here to you.
+
+
+
+@l{"name":"Solness"}
+
+
+But you don't now? Not in the least?
+
+
+
+@d{}
+[Passionately, clasping hands and holding them out towards him.] 
+@l{"name":"Kaia"}
+Oh, you
+know very well there is only one person I care for now! I shall never
+care for any one else.
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, you say that. And yet you go away from me--leave me alone here with
+everything on my hands.
+
+
+
+@l{"name":"Kaia"}
+
+
+But could I not stay with you, even if Ragnar--?
+
+
+
+@d{}
+[Repudiating the idea.] 
+@l{"name":"Solness"}
+No, no, that is quite impossible. If Ragnar
+leaves me and starts work on his own account, then of course he will
+need you himself.
+
+
+
+@d{}
+[Wringing her hands.] 
+@l{"name":"Kaia"}
+Oh, I feel as if I could not be separated from
+you! It's quite, quite impossible!
+
+
+
+@l{"name":"Solness"}
+
+
+Then be sure you get those foolish notions out of Ragnar's head. Marry
+him as much as you please--
+@d{}
+[Alters his tone.] 
+@l{"name":"Solness"}
+I mean--don't let him
+throw up his good situation with me. For then I can keep you too, my
+dear Kaia.
+
+
+
+@l{"name":"Kaia"}
+
+
+Oh yes, how lovely that would be, if it could only be managed!
+
+
+
+@d{}
+[Clasps her head with his two hands and whispers.] 
+@l{"name":"Solness"}
+For I cannot get on
+without you, you see. I must have you with me every single day.
+
+
+
+@d{}
+[In nervous exaltation.] 
+@l{"name":"Kaia"}
+My God! My God!
+
+
+
+@d{}
+[Kisses her hair.] 
+@l{"name":"Solness"}
+Kaia--Kaia!
+
+
+
+@d{}
+[Sinks down before him.] 
+@l{"name":"Kaia"}
+Oh, how good you are to me! How unspeakably
+good you are!
+
+
+
+@d{}
+[Vehemently.] 
+@l{"name":"Solness"}
+Get up! For goodness' sake get up! I think I hear some
+one.
+
+     
+@d{}
+[He helps her to rise.  She staggers over to the desk.
+
+
+  MRS. SOLNESS enters by the door on the right.  She looks thin
+  and wasted with grief, but shows traces of bygone beauty.
+  Blonde ringlets.  Dressed with good taste, wholly in black.
+  Speaks some-what slowly and in a plaintive voice.
+
+
+
+@e{"names":["Mrs. Solness"]}
+
+@d{}
+[In the doorway.] 
+@l{"name":"Mrs. Solness"}
+Halvard!
+
+
+
+@d{}
+[Turns.] 
+@l{"name":"Solness"}
+Oh, are you there, my dear--?
+
+
+
+@d{}
+[With a glance at Kaia] 
+@l{"name":"Mrs. Solness"}
+I am afraid I am disturbing you.
+
+
+
+@l{"name":"Solness"}
+
+
+Not in the least. Miss Fosli has only a short letter to write.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Yes, so I see.
+
+
+
+@l{"name":"Solness"}
+
+
+What do you want with me, Aline?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+I merely wanted to tell you that Dr. Herdal is in the drawing-room.
+Won't you come and see him, Halvard?
+
+
+
+@d{}
+[Looks suspiciously at her.]. 
+@l{"name":"Solness"}
+H'm--is the doctor so very anxious to see
+me?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Well, not exactly anxious. He really came to see me; but he would like
+to say how-do-you-do to you at the same time.
+
+
+
+@d{}
+[Laughs to himself.] 
+@l{"name":"Solness"}
+Yes, I daresay. Well, you must ask him to wait a
+little.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Then you will come in presently?
+
+
+
+@l{"name":"Solness"}
+
+
+Perhaps I will. Presently, presently, dear. In a little while.
+
+
+
+@d{}
+[Glancing again at Kaia] 
+@l{"name":"Mrs. Solness"}
+Well now, don't forget, Halvard.
+
+     
+@d{}
+[Withdraws and closes the door behind her.
+
+
+
+@x{"names":["Mrs. Solness"]}
+
+@d{}
+[Softly.] 
+@l{"name":"Kaia"}
+Oh dear, oh dear--I am sure Mrs. Solness thinks ill of me in
+some way!
+
+
+
+@l{"name":"Solness"}
+
+
+Oh, not in the least. Not more than usual at any rate. But all the same,
+you had better go now, Kaia.
+
+
+
+@l{"name":"Kaia"}
+
+
+Yes, yes, now I must go.
+
+
+
+@d{}
+[Severely.] 
+@l{"name":"Solness"}
+And mind you get that matter settled for me. Do you hear?
+
+
+
+@l{"name":"Kaia"}
+
+
+Oh, if it only depended on me--
+
+
+
+@l{"name":"Solness"}
+
+
+I will have it settled, I say! And to-morrow too--not a day later!
+
+
+
+@d{}
+[Terrified.] 
+@l{"name":"Kaia"}
+If there's nothing else for it, I am quite willing to break
+off the engagement.
+
+
+
+@d{}
+[Angrily.] 
+@l{"name":"Solness"}
+Break it off. Are you mad? Would you think of breaking it
+off?
+
+
+
+@d{}
+[Distracted.] 
+@l{"name":"Kaia"}
+Yes, if necessary. For I must--I must stay here with you!
+I can't leave you! That is utterly--utterly impossible!
+
+
+
+@d{}
+[With a sudden outburst.] 
+@l{"name":"Solness"}
+But deuce take it--how about Ragnar then! It's
+Ragnar that I--
+
+
+
+@d{}
+[Looks at him with terrified eyes.] 
+@l{"name":"Kaia"}
+It is chiefly on Ragnar's account,
+that--that you--?
+
+
+
+@d{}
+[Collecting himself.] 
+@l{"name":"Solness"}
+No, no, of course not! You don't understand me
+either. 
+@d{}
+[Gently and softly.] 
+@l{"name":"Solness"}
+Of course it is you I want to keep.--you
+above everything, Kaia. But for that very reason, you must prevent
+Ragnar, too, from throwing up his situation. There, there,--now go home.
+
+
+
+@l{"name":"Kaia"}
+
+
+Yes, yes--good-night, then.
+
+
+
+@l{"name":"Solness"}
+
+
+Good night. 
+@d{}
+[As she is going.] 
+@l{"name":"Solness"}
+Oh, stop a moment! Are Ragnar's drawings
+in there?
+
+
+
+@l{"name":"Kaia"}
+
+
+I did not see him take them with him.
+
+
+
+@l{"name":"Solness"}
+
+
+Then just go and find them for me. I might perhaps glance over them,
+after all.
+
+
+
+@d{}
+[Happy.] 
+@l{"name":"Kaia"}
+Oh yes, please do!
+
+
+
+@l{"name":"Solness"}
+
+
+For your sake, Kaia dear. Now, let me have them at once, please.
+
+     
+@d{}
+[KAIA hurries into the draughtsmen's office, searches anxiously
+       in the table-drawer, finds a portfolio and brings it with her.
+
+
+
+@l{"name":"Kaia"}
+
+
+Here are all the drawings.
+
+
+
+@l{"name":"Solness"}
+
+
+Good. Put them down there on the table.
+
+
+
+@d{}
+[Putting down the portfolio.] 
+@l{"name":"Kaia"}
+Good night, then. 
+@d{}
+[Beseechingly.] 
+@l{"name":"Kaia"}
+And
+please, please think kindly of me.
+
+
+
+@l{"name":"Solness"}
+
+
+Oh, that I always do. Good-night, my dear little Kaia. 
+@d{}
+[Glances to the
+right.] 
+@l{"name":"Solness"}
+Go, go now!
+
+
+  
+@d{}
+MRS. SOLNESS and DR. HERDAL enter by the door on the right.
+  He is a stoutish, elderly man, with a round, good-humoured
+  face, clean shaven, with thin, light hair, and gold spectacles.
+
+
+
+@e{"names":["Dr. Herdal","Mrs. Solness"]}
+
+@d{}
+[Still in the doorway.] 
+@l{"name":"Mrs. Solness"}
+Halvard, I cannot keep the doctor any longer.
+
+
+
+@l{"name":"Solness"}
+
+
+Well then, come in here.
+
+
+
+@d{}
+[To KAIA, who is turning down the desk-lamp.] 
+@l{"name":"Mrs. Solness"}
+Have you finished the
+letter already, Miss Fosli?
+
+
+
+@d{}
+[In confusion.] 
+@l{"name":"Kaia"}
+The letter--?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, it was quite a short one.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+It must have been very short.
+
+
+
+@l{"name":"Solness"}
+
+
+You may go now, Miss Fosli. And please come in good time to-morrow
+morning.
+
+
+
+@l{"name":"Kaia"}
+
+
+I will be sure to. Good-night, Mrs. Solness.
+
+     
+@d{}
+[She goes out by the hall door.
+
+
+
+@x{"names":["Kaia"]}
+
+@l{"name":"Solness"}
+
+
+Are you in a hurry, doctor?
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+No, not at all.
+
+
+
+@l{"name":"Solness"}
+
+
+May I have a little chat with you?
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+With the greatest of pleasure.
+
+
+
+@l{"name":"Solness"}
+
+
+Then let us sit down. 
+@d{}
+[He motions the doctor to take the rocking-chair,
+and sits down himself in the arm-chair. Looks searchingly at him.] 
+@l{"name":"Solness"}
+Tell
+me--did you notice anything odd about Aline?
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Do you mean just now, when she was here?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, in her manner to me. Did you notice anything?
+
+
+
+@d{}
+[Smiling.] 
+@l{"name":"Dr. Herdal"}
+Well, I admit--one couldn't well avoid noticing that your
+wife--h'm--
+
+
+
+@l{"name":"Dr. Herdal"}
+ --that your wife is not particularly fond of this Miss
+Fosli.
+
+
+
+@l{"name":"Solness"}
+
+
+Is that all? I have noticed that myself.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+And I must say I am scarcely surprised at it.
+
+
+
+@l{"name":"Solness"}
+
+
+At what?
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+That she should not exactly approve of your seeing so much of another
+woman, all day and every day.
+
+
+
+@l{"name":"Solness"}
+
+
+No, no, I suppose you are right there--and Aline too. But it's
+impossible to make any change.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Could you not engage a clerk?
+
+
+
+@l{"name":"Solness"}
+
+
+The first man that came to hand? No, thank you--that would never do for
+me.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+But now, if your wife--? Suppose, with her delicate health, all this
+tries her too much?
+
+
+
+@l{"name":"Solness"}
+
+
+Even then--I might almost say--it can make no difference. I must keep
+Kaia Fosli. No one else could fill her place.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+No one else?
+
+
+
+@d{}
+[Curtly.] 
+@l{"name":"Solness"}
+No, no one.
+
+
+
+@d{}
+[Drawing his chair closer.] 
+@l{"name":"Dr. Herdal"}
+Now listen to me, my dear Mr. Solness. May I
+ask you a question, quite between ourselves?
+
+
+
+@l{"name":"Solness"}
+
+
+By all means.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Women, you see--in certain matters, they have a deucedly keen
+intuition--
+
+
+
+@l{"name":"Solness"}
+
+
+They have, indeed. There is not the least doubt of that. But--?
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Well, tell me now--if your wife can't endure this Kaia Fosli--?
+
+
+
+@l{"name":"Solness"}
+
+
+Well, what then?
+
+
+
+@l{"name":"Dr. Herdal"}
+ --may she not have just--just the least little bit of reason
+for this instinctive dislike?
+
+
+
+@d{}
+[Looks at him and rises.] 
+@l{"name":"Solness"}
+Oho!
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Now don't be offended--but hasn't she?
+
+
+
+@d{}
+[With curt decision.] 
+@l{"name":"Solness"}
+No.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+No reason of any sort?
+
+
+
+@l{"name":"Solness"}
+
+
+No other than her own suspicious nature.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+I know you have known a good many women in your time.
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, I have.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+And have been a good deal taken with some of them, too.
+
+
+
+@l{"name":"Solness"}
+
+
+Oh yes, I don't deny it.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+But as regards Miss Fosli, then? There is nothing of that sort in this
+case?
+
+
+
+@l{"name":"Solness"}
+
+
+No; nothing at all--on my side.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+But on her side?
+
+
+
+@l{"name":"Solness"}
+
+
+I don't think you have any right to ask that question, doctor.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Well, you know, we were discussing your wife's intuition.
+
+
+
+@l{"name":"Solness"}
+
+
+So we were. And for that matter--
+@d{}
+[lowers his voice]
+@l{"name":"Solness"}
+--Aline's intuition,
+as you call it--in a certain sense, it has not been so far astray.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Aha! there we have it!
+
+
+
+@d{}
+[Sits down.] 
+@l{"name":"Solness"}
+Doctor Herdal--I am going to tell you a strange story--if
+you care to listen to it.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+I like listening to strange stories.
+
+
+
+@l{"name":"Solness"}
+
+
+Very well then. I daresay you recollect that I took Knut Brovik and his
+son into my employment--after the old man's business had gone to the
+dogs.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Yes, so I have understood.
+
+
+
+@l{"name":"Solness"}
+
+
+You see, they really are clever fellows, these two. Each of them has
+talent in his own way. But then the son took it into his head to get
+engaged; and the next thing, of course, was that he wanted to get
+married--and begin to build on his own account. That is the way with all
+these young people.
+
+
+
+@d{}
+[Laughing.] 
+@l{"name":"Dr. Herdal"}
+Yes, they have a bad habit of wanting to marry.
+
+
+
+@l{"name":"Solness"}
+
+
+Just so. But of course that did not suit my plans; for I needed Ragnar
+myself--and the old man too. He is exceedingly good at calculating
+bearing strains and cubic contents--and all that sort of devilry, you
+know.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Oh yes, no doubt that's indispensable.
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, it is. But Ragnar was absolutely bent on setting to work for
+himself. He would hear of nothing else.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+But he has stayed with you all the same.
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, I'll tell you how that came about. One day this girl, Kaia Fosli,
+came to see them on some errand or other. She had never been here
+before. And when I saw how utterly infatuated they were with each other,
+the thought occurred to me: if I cold only get her into the office here,
+then perhaps Ragnar too would stay where he is.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+That was not at all a bad idea.
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, but at the time I did not breathe a word of what was in my mind.
+I merely stood and looked at her--and kept on wishing intently that
+I could have her here. Then I talked to her a little, in a friendly
+way--about one thing and another. And then she went away.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Well?
+
+
+
+@l{"name":"Solness"}
+
+
+Well then, next day, pretty late in the evening, when old Brovik and
+Ragnar had gone home, she came here again, and behaved as if I had made
+an arrangement with her.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+An arrangement? What about?
+
+
+
+@l{"name":"Solness"}
+
+
+About the very thing my mind had been fixed on. But I hadn't said one
+single word about it.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+That was most extraordinary.
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, was it not? And now she wanted to know what she was to do
+here--whether she could begin the very next morning, and so forth.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Don't you think she did it in order to be with her sweetheart?
+
+
+
+@l{"name":"Solness"}
+
+
+That was what occurred to me at first. But no, that was not it. She
+seemed to drift quite away from him--when once she had come here to me.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+She drifted over to you, then?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, entirely. If I happen to look at her when her back is turned, I can
+tell that she feels it. She quivers and trembles the moment I come near
+her. What do you think of that?
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+H'm--that's not very hard to explain.
+
+
+
+@l{"name":"Solness"}
+
+
+Well, but what about the other thing? That she believed I had said to
+her what I had only wished and willed--silently--inwardly--to myself?
+What do you say to that? Can you explain that, Dr. Herdal?
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+No, I won't undertake to do that.
+
+
+
+@l{"name":"Solness"}
+
+
+I felt sure you would not; and so I have never cared to talk about
+it till now.--But it's a cursed nuisance to me in the long run, you
+understand. Here have I got to go on day after day, pretending--. And
+it's a shame to treat her so, too, poor girl. 
+@d{}
+[Vehemently.] 
+@l{"name":"Solness"}
+But I cannot
+do anything else. For if she runs away from me--then Ragnar will be off
+too.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+And you have not told your wife the rights of the story?
+
+
+
+@l{"name":"Solness"}
+
+
+No.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+The why on earth don't you?
+
+
+
+@d{}
+[Looks fixedly at him, and says in a low voice:] 
+@l{"name":"Solness"}
+Because I seem to
+find a sort of--of salutary self-torture in allowing Aline to do me an
+injustice.
+
+
+
+@d{}
+[Shakes his head.] 
+@l{"name":"Dr. Herdal"}
+I don't in the least understand what you mean.
+
+
+
+@l{"name":"Solness"}
+
+
+Well, you see--it is like paying off a little bit of a huge,
+immeasurable debt--
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+To your wife?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes; and that always helps to relieve one's mind a little. One can
+breathe more freely for a while, you understand.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+No, goodness knows, I don't understand at all--
+
+
+
+@d{}
+[Breaking off, rises again.] 
+@l{"name":"Solness"}
+Well, well, well--then we won't talk any
+more about it. 
+@d{}
+[He saunters across the room, returns, and stops beside
+the table. Looks at the doctor with a sly smile.] 
+@l{"name":"Solness"}
+I suppose you think
+you have drawn me out nicely now, doctor?
+
+
+
+@d{}
+[With some irritation.] 
+@l{"name":"Dr. Herdal"}
+Drawn you out? Again I have not the faintest
+notion of what you mean, Mr. Solness.
+
+
+
+@l{"name":"Solness"}
+
+
+Oh come, out with it; I have seen it quite clearly, you know.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+What have you seen?
+
+
+
+@d{}
+[In a low voice, slowly.] 
+@l{"name":"Solness"}
+That you have been quietly keeping an eye upon
+me.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+That _I_ have! And why in all the world should I do that?
+
+
+
+@l{"name":"Solness"}
+
+
+Because you think that I----  
+@d{}
+[Passionately.]  
+@l{"name":"Solness"}
+Well devil take it--you
+think the same of me as Aline does.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+And what does she think about you?
+
+
+
+@d{}
+[Having recovered his self-control.] 
+@l{"name":"Solness"}
+She has begun to think that I
+am--that I am--ill.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Ill! You! She has never hinted such a thing to me. Why, what can she
+think is the matter with you?
+
+
+
+@d{}
+[Leans over the back of the chair and whispers.] 
+@l{"name":"Solness"}
+Aline has made up her
+mind that I am mad. That is what she thinks.
+
+
+
+@d{}
+[Rising.] 
+@l{"name":"Dr. Herdal"}
+Why, my dear fellow--!
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, on my soul she does! I tell you it is so. And she has got you to
+think the same! Oh, I can assure you, doctor, I see it in your face as
+clearly as possible. You don't take me in so easily, I can tell you.
+
+
+
+@d{}
+[Looks at him in amazement.] 
+@l{"name":"Dr. Herdal"}
+Never, Mr. Solness--never has such a
+thought entered my mind.
+
+
+
+@d{}
+[With and incredulous smile.] 
+@l{"name":"Solness"}
+Really? Has it not?
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+No, never! Nor your wife's mind either, I am convinced. I could almost
+swear to that.
+
+
+
+@l{"name":"Solness"}
+
+
+Well, I wouldn't advise you to. For, in a certain sense, you see,
+perhaps--perhaps she is not so far wrong in thinking something of the
+kind.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Come now, I really must say--
+
+
+
+@d{}
+[Interrupting, with a sweep of his hand.] 
+@l{"name":"Solness"}
+Well, well, my dear
+doctor--don't let us discuss this any further. We had better agree
+to differ. 
+@d{}
+[Changes to a tone of quiet amusement.] 
+@l{"name":"Solness"}
+But look here now,
+doctor--h'm--
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Well?
+
+
+
+@l{"name":"Solness"}
+
+
+Since you don't believe that I am--ill--and crazy--and mad, and so
+forth--
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+What then?
+
+
+
+@l{"name":"Solness"}
+
+
+Then I daresay you fancy that I am an extremely happy man.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Is that mere fancy?
+
+
+
+@d{}
+[Laughs.] 
+@l{"name":"Solness"}
+No, no--of course not! Heaven forbid! Only think--to be
+Solness the master builder! Halvard Solness! What could be more
+delightful?
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Yes, I must say it seems to me you have had the luck on your side to an
+astounding degree.
+
+
+
+@d{}
+[Suppresses a gloomy smile.] 
+@l{"name":"Solness"}
+So I have. I can't complain on that score.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+First of all that grim old robbers' castle was burnt down for you. And
+that was certainly a great piece of luck.
+
+
+
+@d{}
+[Seriously.] 
+@l{"name":"Solness"}
+It was the home of Aline's family. Remember that.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Yes, it must have been a great grief to her.
+
+
+
+@l{"name":"Solness"}
+
+
+She has not got over it to this day--not in all these twelve or thirteen
+years.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+But you--yourself--you rose upon the ruins. You began as a poor boy from
+a country village--and now you are at the head of your profession. Ah,
+yes, Mr. Solness, you have undoubtedly had the luck on your side.
+
+
+
+@d{}
+[Looking at him with embarrassment.] 
+@l{"name":"Solness"}
+Yes, but that is just what makes me
+so horribly afraid.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Afraid? Because you have the luck on your side!
+
+
+
+@l{"name":"Solness"}
+
+
+It terrifies me--terrifies me every hour of the day. For sooner or later
+the luck must turn, you see.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Oh nonsense! What should make the luck turn?
+
+
+
+@d{}
+[With firm assurance.] 
+@l{"name":"Solness"}
+The younger generation!
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Pooh! The younger generation! You are not laid on the shelf yet, I
+should hope. Oh no--your position here is probably firmer now than it
+has ever been.
+
+
+
+@l{"name":"Solness"}
+
+
+The luck will turn. I know it--I feel the day approaching. Some one or
+other will take it into his head to say: Give me a chance! And then all
+the rest will come clamouring after him, and shake their fists at me and
+shout: Make room--make room--! Yes, just you see, doctor--presently the
+younger generation will come knocking at my door--
+
+
+
+@d{}
+[Laughing.] 
+@l{"name":"Dr. Herdal"}
+Well, and what if they do?
+
+
+
+@l{"name":"Solness"}
+
+
+What if they do? Then there's an end of Halvard Solness.
+
+     
+@d{}
+[There is a knock at the door on the left.
+
+
+
+@d{}
+[Starts.] 
+@l{"name":"Solness"}
+What's that? Did you not hear something?
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Some one is knocking at the door.
+
+
+
+@d{}
+[Loudly.] 
+@l{"name":"Solness"}
+Come in.
+
+
+  
+@d{}
+HILDA WANGEL enters by the hall door.  She is of middle height,
+  supple, and delicately built.  Somewhat sunburnt.  Dressed in
+  a tourist costume, with skirt caught up for walking, a sailor's
+  collar open at the throat, and a small sailor hat on her head.
+  Knapsack on back, plaid in strap, and alpenstock.
+
+
+
+@e{"names":["Hilda"]}
+
+@d{}
+[Goes straight up to SOLNESS, her eyes sparkling with happiness.] 
+@l{"name":"Hilda"}
+Good
+evening!
+
+
+
+@d{}
+[Looks doubtfully at her.] 
+@l{"name":"Solness"}
+Good evening--
+
+
+
+@d{}
+[Laughs.] 
+@l{"name":"Hilda"}
+I almost believe you don't recognise me!
+
+
+
+@l{"name":"Solness"}
+
+
+No--I must admit that--just for the moment--
+
+
+
+@d{}
+[Approaching.] 
+@l{"name":"Dr. Herdal"}
+But _I_ recognise you, my dear young lady--
+
+
+
+@d{}
+[Pleased.] 
+@l{"name":"Hilda"}
+Oh, is it you that--
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Of course it is. 
+@d{}
+[To Solness] 
+@l{"name":"Dr. Herdal"}
+We met at one of the mountain stations
+this summer. 
+@d{}
+[To Hilda] 
+@l{"name":"Dr. Herdal"}
+What became of the other ladies?
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh, they went westward.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+They didn't much like all the fun we used to have in the evenings.
+
+
+
+@l{"name":"Hilda"}
+
+
+No, I believe they didn't.
+
+
+
+@d{}
+[Holds up his finger at her.] 
+@l{"name":"Dr. Herdal"}
+And I am afraid it can't be denied that
+you flirted a little with us.
+
+
+
+@l{"name":"Hilda"}
+
+
+Well, that was better fun than to sit there knitting stockings with all
+those old women.
+
+
+
+@d{}
+[Laughs.] 
+@l{"name":"Dr. Herdal"}
+There I entirely agree with you!
+
+
+
+@l{"name":"Solness"}
+
+
+Have you come to town this evening?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, I have just arrived.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Quite alone, Miss Wangel?
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh yes!
+
+
+
+@l{"name":"Solness"}
+
+
+Wangel? Is your name Wangel?
+
+
+
+@d{}
+[Looks in amused surprise at him.] 
+@l{"name":"Hilda"}
+Yes, of course it is.
+
+
+
+@l{"name":"Solness"}
+
+
+Then you must be a daughter of the district doctor up at Lysanger?
+
+
+
+@d{}
+[As before.] 
+@l{"name":"Hilda"}
+Yes, who else's daughter should I be?
+
+
+
+@l{"name":"Solness"}
+
+
+Oh, then I suppose we met up there, that summer when I was building a
+tower on the old church.
+
+
+
+@d{}
+[More seriously.] 
+@l{"name":"Hilda"}
+Yes, of course it was then we met.
+
+
+
+@l{"name":"Solness"}
+
+
+Well, that is a long time ago.
+
+
+
+@d{}
+[Looks hard at him.] 
+@l{"name":"Hilda"}
+It is exactly ten years.
+
+
+
+@l{"name":"Solness"}
+
+
+You must have been a mere child then, I should think.
+
+
+
+@d{}
+[Carelessly.] 
+@l{"name":"Hilda"}
+Well, I was twelve or thirteen.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Is this the first time you have ever been up to town, Miss Wangel?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, it is indeed.
+
+
+
+@l{"name":"Solness"}
+
+
+And don't you know any one here?
+
+
+
+@l{"name":"Hilda"}
+
+
+Nobody but you. And of course, your wife.
+
+
+
+@l{"name":"Solness"}
+
+
+So you know her, too?
+
+
+
+@l{"name":"Hilda"}
+
+
+Only a little. We spent a few days together at the sanatorium.
+
+
+
+@l{"name":"Solness"}
+
+
+Ah, up there?
+
+
+
+@l{"name":"Hilda"}
+
+
+She said I might come and pay her a visit if ever I came up to town.
+
+@d{}
+[Smiles.] 
+@l{"name":"Hilda"}
+Not that that was necessary.
+
+
+
+@l{"name":"Solness"}
+
+
+Odd that she should never have mentioned it.
+
+     
+@d{}
+[HILDA puts her stick down by the stove, takes off the knapsack
+       and lays it and the plaid on the sofa.  DR. HERDAL offers to
+       help her.  SOLNESS stands and gazes at her.
+
+
+
+@d{}
+[Going towards him.] 
+@l{"name":"Hilda"}
+Well, now I must ask you to let me stay the night
+here.
+
+
+
+@l{"name":"Solness"}
+
+
+I am sure there will be no difficulty about that.
+
+
+
+@l{"name":"Hilda"}
+
+
+For I have no other clothes than those I stand in, except a change of
+linen in my knapsack. And that has to go to the wash, for it's very
+dirty.
+
+
+
+@l{"name":"Solness"}
+
+
+Oh yes, that can be managed. Now I'll just let my wife know--
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Meanwhile I will go and see my patient.
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, do; and come again later on.
+
+
+
+@d{}
+[Playfully, with a glance at Hilda] 
+@l{"name":"Dr. Herdal"}
+Oh that I will, you may be very
+certain! 
+@d{}
+[Laughs.] 
+@l{"name":"Dr. Herdal"}
+So your prediction has come true, Mr. Solness!
+
+
+
+@l{"name":"Solness"}
+
+
+How so?
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+The younger generation did come knocking at your door.
+
+
+
+@d{}
+[Cheerfully.] 
+@l{"name":"Solness"}
+Yes, but in a very different way from what I meant.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Very different, yes. That's undeniable.
+
+     
+@d{}
+[He goes out by the hall-door.  SOLNESS opens the door on the
+       right and speaks into the side room.
+
+
+
+@x{"names":["Dr. Herdal"]}
+
+@l{"name":"Solness"}
+
+
+Aline! Will you come in here, please. Here is a friend of yours--Miss
+Wangel.
+
+
+
+@d{}
+[Appears in the doorway.] 
+@l{"name":"Mrs. Solness"}
+Who do you say it is? 
+@d{}
+[Sees Hilda]. 
+@l{"name":"Mrs. Solness"}
+Oh, is it
+you, Miss Wangel?
+
+
+
+@l{"name":"Solness"}
+
+
+Miss Wangel has this moment arrived; and she would like to stay the
+night here.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Here with us? Oh yes, certainly.
+
+
+
+@l{"name":"Solness"}
+
+
+Till she can get her things a little in order, you know.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+I will do the best I can for you. It's no more than my duty. I suppose
+your trunk is coming on later?
+
+
+
+@l{"name":"Hilda"}
+
+
+I have no trunk.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Well, it will be all right, I daresay. In the meantime, you must excuse
+my leaving you here with my husband, until I can get a room made a
+little more comfortable for you.
+
+
+
+@l{"name":"Solness"}
+
+
+Can we not give her one of the nurseries? They are all ready as it is.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Oh yes. There we have room and to spare. 
+@d{}
+[To Hilda] 
+@l{"name":"Mrs. Solness"}
+Sit down now, and
+rest a little. 
+@d{}
+[She goes out to the right.
+
+     [HILDA, with her hands behind her back, strolls about the room
+       and looks at various objects.  SOLNESS stands in front, beside
+       the table, also with his hands behind his back, and follows
+       her with his eyes.
+
+
+
+@x{"names":["Mrs. Solness"]}
+
+@d{}
+[Stops and looks at him.] 
+@l{"name":"Hilda"}
+Have you several nurseries?
+
+
+
+@l{"name":"Solness"}
+
+
+There are three nurseries in the house.
+
+
+
+@l{"name":"Hilda"}
+
+
+That's a lot. Then I suppose you have a great many children?
+
+
+
+@l{"name":"Solness"}
+
+
+No. We have no child. But now you can be the child here, for the time
+being.
+
+
+
+@l{"name":"Hilda"}
+
+
+For to-night, yes. I shall not cry. I mean to sleep as sound as a stone.
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, you must be very tired, I should think.
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh no! But all the same--. It's so delicious to lie and dream.
+
+
+
+@l{"name":"Solness"}
+
+
+Do you dream much of nights?
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh yes! Almost always.
+
+
+
+@l{"name":"Solness"}
+
+
+What do you dream about most?
+
+
+
+@l{"name":"Hilda"}
+
+
+I sha'n't tell you to-night. Another time perhaps.
+
+     
+@d{}
+[She again strolls about the room, stops at the desk and turns
+       over the books and papers a little.
+
+
+
+@d{}
+[Approaching.] 
+@l{"name":"Solness"}
+Are you searching for anything?
+
+
+
+@l{"name":"Hilda"}
+
+
+No, I am merely looking at all these things. 
+@d{}
+[Turns.] 
+@l{"name":"Hilda"}
+Perhaps I mustn't?
+
+
+
+@l{"name":"Solness"}
+
+
+Oh, by all means.
+
+
+
+@l{"name":"Hilda"}
+
+
+Is it you that writes in this great ledger?
+
+
+
+@l{"name":"Solness"}
+
+
+No, it's my book-keeper.
+
+
+
+@l{"name":"Hilda"}
+
+
+Is it a woman?
+
+
+
+@d{}
+[Smiles.] 
+@l{"name":"Solness"}
+Yes.
+
+
+
+@l{"name":"Hilda"}
+
+
+One you employ here, in your office?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes.
+
+
+
+@l{"name":"Hilda"}
+
+
+Is she married?
+
+
+
+@l{"name":"Solness"}
+
+
+No, she is single.
+
+
+@l{"name":"Hilda"}
+
+
+Oh, indeed!
+
+
+
+@l{"name":"Solness"}
+
+
+But I believe she is soon going to be married.
+
+
+
+@l{"name":"Hilda"}
+
+
+That's a good thing for her.
+
+
+
+@l{"name":"Solness"}
+
+
+But not such a good thing for me. For then I shall have nobody to help
+me.
+
+
+
+@l{"name":"Hilda"}
+
+
+Can't you get hold of some one else who will do just as well?
+
+
+
+@l{"name":"Solness"}
+
+
+Perhaps you would stay here and--and write in the ledger?
+
+
+
+@d{}
+[Measures him with a glance.] 
+@l{"name":"Hilda"}
+Yes, I daresay! No, thank you--nothing of
+that sort for me.
+
+     
+@d{}
+[She again strolls across the room, and sits down on the
+       rocking-chair.  SOLNESS too goes to the table.
+
+
+
+@d{}
+[Continuing.] 
+@l{"name":"Hilda"}
+For there must surely be plenty of other thing to be done
+here. 
+@d{}
+[Looks smilingly at him.] 
+@l{"name":"Hilda"}
+Don't you think so, too?
+
+
+
+@l{"name":"Solness"}
+
+
+Of course. First of all, I suppose, you want to make a round of the
+shops, and get yourself up in the height of fashion.
+
+
+
+@d{}
+[Amused.] 
+@l{"name":"Hilda"}
+No, I think I shall let that alone!
+
+
+
+@l{"name":"Solness"}
+
+
+Indeed?
+
+
+
+@l{"name":"Hilda"}
+
+
+For you must know I have run through all my money.
+
+
+
+@d{}
+[Laughs.] 
+@l{"name":"Solness"}
+Neither trunk nor money, then?
+
+
+
+@l{"name":"Hilda"}
+
+
+Neither one nor the other. But never mind--it doesn't matter now.
+
+
+
+@l{"name":"Solness"}
+
+
+Come now, I like you for that.
+
+
+
+@l{"name":"Hilda"}
+
+
+Only for that?
+
+
+
+@l{"name":"Solness"}
+
+
+For that among other things. 
+@d{}
+[Sits in the arm-chair.] 
+@l{"name":"Solness"}
+Is your father
+alive still?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, father's alive.
+
+
+
+@l{"name":"Solness"}
+
+
+Perhaps you are thinking of studying here?
+
+
+
+@l{"name":"Hilda"}
+
+
+No, that hadn't occurred to me.
+
+
+
+@l{"name":"Solness"}
+
+
+But I suppose you will be staying for some time?
+
+
+
+@l{"name":"Hilda"}
+
+
+That must depend upon circumstances.
+
+     
+@d{}
+[She sits awhile rocking herself and looking at him, half
+       seriously, half with a suppressed smile.  Then she takes
+       off her hat and puts it on the table in front of her.
+
+
+
+@l{"name":"Hilda"}
+
+
+Mr. Solness!
+
+
+
+@l{"name":"Solness"}
+
+
+Well?
+
+
+
+@l{"name":"Hilda"}
+
+
+Have you a very bad memory?
+
+
+
+@l{"name":"Solness"}
+
+
+A bad memory? No, not that I am aware of.
+
+
+
+@l{"name":"Hilda"}
+
+
+Then have you nothing to say to me about what happened up there?
+
+
+
+@d{}
+[In momentary surprise.] 
+@l{"name":"Solness"}
+Up at Lysanger? 
+@d{}
+[Indifferently.] 
+@l{"name":"Solness"}
+Why, it was
+nothing much to talk about it seems to me.
+
+
+
+@d{}
+[Looks reproachfully at him.] 
+@l{"name":"Hilda"}
+How can you sit there and say such things?
+
+
+
+@l{"name":"Solness"}
+
+
+Well, then, you talk to me about it.
+
+
+
+@l{"name":"Hilda"}
+
+
+When the tower was finished, we had grand doings in the town.
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, I shall not easily forget that day.
+
+
+
+@d{}
+[Smiles.] 
+@l{"name":"Hilda"}
+Will you not? That comes well from you.
+
+
+
+@l{"name":"Solness"}
+
+
+Comes well?
+
+
+
+@l{"name":"Hilda"}
+
+
+There was music in the churchyard--and many, many hundreds of people. We
+school-girls were dressed in white; and we all carried flags.
+
+
+
+@l{"name":"Solness"}
+
+
+Ah yes, those flags--I can tell you I remember them!
+
+
+
+@l{"name":"Hilda"}
+
+
+Then you climbed right up the scaffolding, straight to the very top; and
+you had a great wreath with you; and you hung that wreath right away up
+on the weather-vane.
+
+
+
+@d{}
+[Curtly interrupting.] 
+@l{"name":"Solness"}
+I always did that in those days. It is an old
+custom.
+
+
+
+@l{"name":"Hilda"}
+
+
+It was so wonderfully thrilling to stand below and look up at you.
+Fancy, if he should fall over! He--the master builder himself!
+
+
+
+@d{}
+[As if to divert her from the subject.] 
+@l{"name":"Solness"}
+Yes, yes, yes, that might
+very will have happened, too. For one of those white-frocked little
+devils,--she went on in such a way, and screamed up at me so--
+
+
+
+@d{}
+[Sparkling with pleasure.] 
+@l{"name":"Hilda"}
+"Hurrah for Master Builder Solness!" Yes!
+
+
+
+@l{"name":"Solness"}
+ --and waved and flourished with her flag, so that I--so that it
+almost made me giddy to look at it.
+
+
+
+@d{}
+[In a lower voice, seriously.] 
+@l{"name":"Hilda"}
+That little devil--that was _I_.
+
+
+
+@d{}
+[Fixes his eyes steadily upon her.] 
+@l{"name":"Solness"}
+I am sure of that now. It must have
+been you.
+
+
+
+@d{}
+[Lively again.] 
+@l{"name":"Hilda"}
+Oh, it was so gloriously thrilling! I could not have
+believed there was a builder in the whole world that could build such a
+tremendously high tower. And then, that you yourself should stand at the
+very top of it, as large as life! And that you should not be the least
+bit dizzy! It was that above everything that made one--made one dizzy to
+think of.
+
+
+
+@l{"name":"Solness"}
+
+
+How could you be so certain that I was not?
+
+
+
+@d{}
+[Scouting the idea.] 
+@l{"name":"Hilda"}
+No indeed! Oh no! I knew that instinctively. For if
+you had been, you could never have stood up there and sung.
+
+
+
+@d{}
+[Looks at her in astonishment.] 
+@l{"name":"Solness"}
+Sung? Did _I_ sing?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, I should think you did.
+
+
+
+@d{}
+[Shakes his head.] 
+@l{"name":"Solness"}
+I have never sung a note in my life.
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, indeed, you sang then. It sounded like harps in the air.
+
+
+
+@d{}
+[Thoughtfully.] 
+@l{"name":"Solness"}
+This is very strange--all this.
+
+
+
+@d{}
+[Is silent awhile, looks at him and says in a low voice:] 
+@l{"name":"Hilda"}
+But then,--it
+was after that--that the real thing happened.
+
+
+
+@l{"name":"Solness"}
+
+
+The real thing?
+
+
+
+@d{}
+[Sparking with vivacity.] 
+@l{"name":"Hilda"}
+Yes, I surely don't need to remind you of
+that?
+
+
+
+@l{"name":"Solness"}
+
+
+Oh yes do remind me a little of that, too.
+
+
+
+@l{"name":"Hilda"}
+
+
+Don't you remember that a great dinner was given in your honour at the
+Club?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, to be sure. It must have been the same afternoon, for I left the
+place next morning.
+
+
+
+@l{"name":"Hilda"}
+
+
+And from the Club you were invited to come round to our house to supper.
+
+
+
+@l{"name":"Solness"}
+
+
+Quite right, Miss Wangel. It is wonderful how all these trifles have
+impressed themselves on your mind.
+
+
+
+@l{"name":"Hilda"}
+
+
+Trifles! I like that! Perhaps it was a trifle, too, that I was alone in
+the room when you came in?
+
+
+
+@l{"name":"Solness"}
+
+
+Were you alone?
+
+
+
+@d{}
+[Without answering him.] 
+@l{"name":"Hilda"}
+You didn't call me a little devil then?
+
+
+
+@l{"name":"Solness"}
+
+
+No, I suppose I did not.
+
+
+
+@l{"name":"Hilda"}
+
+
+You said I was lovely in my white dress, and that I looked like a little
+princess.
+
+
+
+@l{"name":"Solness"}
+
+
+I have no doubt you did, Miss Wangel.--And besides--I was feeling so
+buoyant and free that day--
+
+
+
+@l{"name":"Hilda"}
+
+
+And then you said that when I grew up I should be your princess.
+
+
+
+@d{}
+[Laughing a little.] 
+@l{"name":"Solness"}
+Dear, dear--did I say that too?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, you did. And when I asked how long I should have to wait, you
+said that you would come again in ten years--like a troll--and carry me
+off--to Spain or some such place. And you promised you would buy me a
+kingdom there.
+
+
+
+@d{}
+[As before.] 
+@l{"name":"Solness"}
+Yes, after a good dinner one doesn't haggle about the
+halfpence. But did I really say all that?
+
+
+
+@d{}
+[Laughs to herself.] 
+@l{"name":"Hilda"}
+Yes. And you told me, too, what the kingdom was to
+be called.
+
+
+
+@l{"name":"Solness"}
+
+
+Well, what was it?
+
+
+
+@l{"name":"Hilda"}
+
+
+It was to be called the kingdom of Orangia, you said.
+
+@c{"start": 8, "stop":8}
+In the original "Appelsinia," "appelsin" meaning "orange."
+
+
+
+@l{"name":"Solness"}
+
+
+Well, that was an appetising name.
+
+
+
+@l{"name":"Hilda"}
+
+
+No, I didn't like it a bit; for it seemed as though you wanted to make
+game of me.
+
+
+
+@l{"name":"Solness"}
+
+
+I am sure that cannot have been my intention.
+
+
+
+@l{"name":"Hilda"}
+
+
+No, I should hope not--considering what you did next--
+
+
+
+@l{"name":"Solness"}
+
+
+What in the world did I do next?
+
+
+
+@l{"name":"Hilda"}
+
+
+Well, that's the finishing touch, if you have forgotten that too. I
+should have thought no one could help remembering such a thing as that.
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, yes, just give me a hint, and then perhaps---- Well?
+
+
+
+@d{}
+[Looks fixedly at him.] 
+@l{"name":"Hilda"}
+You came and kissed me, Mr. Solness.
+
+
+
+@d{}
+[Open-mouthed.] 
+@l{"name":"Solness"}
+_I_ did!
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, indeed you did. You took me in both your arms, and bent my head
+back, and kissed me--many times.
+
+
+
+@l{"name":"Solness"}
+
+
+Now really, my dear Miss Wangel--!
+
+
+
+@d{}
+[Rises.] 
+@l{"name":"Hilda"}
+You surely cannot mean to deny it?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, I do. I deny it altogether!
+
+
+
+@d{}
+[Looks scornfully at him.] 
+@l{"name":"Hilda"}
+Oh, indeed!
+
+       
+@d{}
+[She turns and goes slowly up to the stove, where she remains
+       standing motionless, her face averted from him, her hands
+       behind her back.  Short pause.
+
+
+
+@d{}
+[Goes cautiously up behind her.] 
+@l{"name":"Solness"}
+Miss Wangel--!
+
+
+
+@d{}
+[Is silent and does not move.]
+
+
+
+@l{"name":"Solness"}
+
+
+Don't stand there like a statue. You must have dreamt all this. 
+@d{}
+[Lays
+his hand on her arm.] 
+@l{"name":"Solness"}
+Now just listen--
+
+
+
+@d{}
+[Makes an impatient movement with her arm.]
+
+
+
+@d{}
+[As a thought flashes upon him.] 
+@l{"name":"Solness"}
+Or--! Wait a moment! There is something
+under all this, you may depend!
+
+
+
+@d{}
+[Does not move.]
+
+
+
+@d{}
+[In a low voice, but with emphasis.] 
+@l{"name":"Solness"}
+I must have thought all that. I
+must have wished it--have willed it--have longed to do it. And then--.
+May not that be the explanation.
+
+
+
+@d{}
+[Is still silent.]
+
+
+
+@d{}
+[Impatiently.] 
+@l{"name":"Solness"}
+Oh very well, deuce take it all--then I did do it, I
+suppose.
+
+
+
+@d{}
+[Turns her head a little, but without looking at him.] 
+@l{"name":"Hilda"}
+Then you admit it
+now?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes--whatever you like.
+
+
+
+@l{"name":"Hilda"}
+
+
+You came and put your arms round me?
+
+
+
+@l{"name":"Solness"}
+
+
+Oh yes!
+
+
+
+@l{"name":"Hilda"}
+
+
+And bent my head back?
+
+
+@l{"name":"Solness"}
+
+
+Very far back.
+
+
+
+@l{"name":"Hilda"}
+
+
+And kissed me?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, I did.
+
+
+
+@l{"name":"Hilda"}
+
+
+Many times?
+
+
+
+@l{"name":"Solness"}
+
+
+As many as ever you like.
+
+
+
+@d{}
+[Turns quickly toward him and has once more the sparkling expression of
+gladness in her eyes.] 
+@l{"name":"Hilda"}
+Well, you see, I got it out of you at last!
+
+
+
+@d{}
+[With a slight smile.] 
+@l{"name":"Solness"}
+Yes--just think of my forgetting such a thing as
+that.
+
+
+
+@d{}
+[Again a little sulky, retreats from him.] 
+@l{"name":"Hilda"}
+Oh, you have kissed so many
+people in your time, I suppose.
+
+
+
+@l{"name":"Solness"}
+
+
+No, you mustn't think that of me. 
+@d{}
+[HILDA seats herself in the arm-chair.
+SOLNESS stands and leans against the rocking-chair. Looks observantly at
+her.] 
+@l{"name":"Solness"}
+Miss Wangel!
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes!
+
+
+
+@l{"name":"Solness"}
+
+
+How was it now? What came of all this--between us two.
+
+
+
+@l{"name":"Hilda"}
+
+
+Why, nothing more came of it. You know that quite well. For then the
+other guests came in, and then--bah!
+
+
+
+@l{"name":"Solness"}
+
+
+Quite so! The others came in. To think of my forgetting that too!
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh, you haven't really forgotten anything: you are only a little ashamed
+of it all. I am sure one doesn't forget things of that kind.
+
+
+
+@l{"name":"Solness"}
+
+
+No, one would suppose not.
+
+
+
+@d{}
+[Lively again, looks at him.] 
+@l{"name":"Hilda"}
+Perhaps you have even forgotten what day
+it was?
+
+
+
+@l{"name":"Solness"}
+
+
+What day--?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, on what day did you hang the wreath on the tower? Well? Tell me at
+once!
+
+
+
+@l{"name":"Solness"}
+
+
+H'm--I confess I have forgotten the particular day. I only know it was
+ten years ago. Some time in autumn.
+
+
+
+@d{}
+[Nods her head slowly several times.] 
+@l{"name":"Hilda"}
+It was ten years ago--on the 19th
+of September.
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, it must have been about that time. Fancy your remembering that too!
+
+@d{}
+[Stops.] 
+@l{"name":"Solness"}
+But wait a moment--! Yes--it's the 19th of September today.
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, it is; and the ten years are gone. And you didn't come--as you had
+promised me.
+
+
+
+@l{"name":"Solness"}
+
+
+Promised you? Threatened, I suppose you mean?
+
+
+
+@l{"name":"Hilda"}
+
+
+I don't think there was any sort of threat in that.
+
+
+
+@l{"name":"Solness"}
+
+
+Well then, a little bit of fun.
+
+
+
+@l{"name":"Hilda"}
+
+
+Was that all you wanted? To make fun of me?
+
+
+
+@l{"name":"Solness"}
+
+
+Well, or to have a little joke with you. Upon my soul, I don't
+recollect. But it must have been something of that kind; for you were a
+mere child then.
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh, perhaps I wasn't quite such a child either. Not such a mere chit as
+you imagine.
+
+
+
+@d{}
+[Looks searchingly at her.] 
+@l{"name":"Solness"}
+Did you really and seriously expect me to
+come again?
+
+
+
+@d{}
+[Conceals a half-teasing smile.] 
+@l{"name":"Hilda"}
+Yes, indeed! I did expect that of you.
+
+
+
+@l{"name":"Solness"}
+
+
+That I should come back to your home, and take you away with me?
+
+
+
+@l{"name":"Hilda"}
+
+
+Just like a troll--yes.
+
+
+
+@l{"name":"Solness"}
+
+
+And make a princess of you?
+
+
+
+@l{"name":"Hilda"}
+
+
+That's what you promised.
+
+
+
+@l{"name":"Solness"}
+
+
+And give you a kingdom as well?
+
+
+
+@d{}
+[Looks up at the ceiling.] 
+@l{"name":"Hilda"}
+Why not? Of course it need not have been an
+actual, every-day sort of a kingdom.
+
+
+
+@l{"name":"Solness"}
+
+
+But something else just as good?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, at least as good. 
+@d{}
+[Looks at him a moment.] 
+@l{"name":"Hilda"}
+I thought, if you could
+build the highest church-towers in the world, you could surely manage to
+raise a kingdom of one sort or another as well.
+
+
+
+@d{}
+[Shakes his head.] 
+@l{"name":"Solness"}
+I can't quite make you out, Miss Wangel.
+
+
+
+@l{"name":"Hilda"}
+
+
+Can you not? To me it seems all so simple.
+
+
+
+@l{"name":"Solness"}
+
+
+No, I can't make up my mind whether you mean all you say, or are simply
+having a joke with me.
+
+
+
+@d{}
+[Smiles.] 
+@l{"name":"Hilda"}
+Making fun of you, perhaps? I, too?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, exactly. Making fun--of both of us. 
+@d{}
+[Looks at her.] 
+@l{"name":"Solness"}
+Is it long
+since you found out that I was married?
+
+
+
+@l{"name":"Hilda"}
+
+
+I have know it all along. Why do you ask me that?
+
+
+
+@d{}
+[Lightly.] 
+@l{"name":"Solness"}
+Oh, well, it just occurred to me. 
+@d{}
+[Looks earnestly at her,
+and says in a low voice.] 
+@l{"name":"Solness"}
+What have you come for?
+
+
+
+@l{"name":"Hilda"}
+
+
+I want my kingdom. The time is up.
+
+
+
+@d{}
+[Laughs involuntarily.] 
+@l{"name":"Solness"}
+What a girl you are!
+
+
+
+@d{}
+[Gaily.] 
+@l{"name":"Hilda"}
+Out with my kingdom, Mr. Solness! 
+@d{}
+[Raps with her fingers.] 
+@l{"name":"Hilda"}
+The
+kingdom on the table!
+
+
+
+@d{}
+[Pushing the rocking-chair nearer and sitting down.] 
+@l{"name":"Solness"}
+Now, seriously
+speaking--what have you come for? What do you really want to do here?
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh, first of all, I want to go round and look at all the things that you
+have built.
+
+
+
+@l{"name":"Solness"}
+
+
+That will give you plenty of exercise.
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, I know you have built a tremendous lot.
+
+
+
+@l{"name":"Solness"}
+
+
+I have indeed--especially of late years.
+
+
+
+@l{"name":"Hilda"}
+
+
+Many church-towers among the rest? Immensely high ones?
+
+
+
+@l{"name":"Solness"}
+
+
+No. I build no more church-towers now. Nor churches either.
+
+
+
+@l{"name":"Hilda"}
+
+
+What do you build then?
+
+
+
+@l{"name":"Solness"}
+
+
+Homes for human beings.
+
+
+
+@d{}
+[Reflectively.] 
+@l{"name":"Hilda"}
+Couldn't you build a little--a little bit of a
+church-tower over these homes as well?
+
+
+
+@d{}
+[Starting.] 
+@l{"name":"Solness"}
+What do you mean by that?
+
+
+
+@l{"name":"Hilda"}
+
+
+I mean--something that points--points up into the free air. With the
+vane at a dizzy height.
+
+
+
+@d{}
+[Pondering a little.] 
+@l{"name":"Solness"}
+Strange that you should say that--for that is just
+what I am most anxious to do.
+
+
+
+@d{}
+[Impatiently.] 
+@l{"name":"Hilda"}
+Why don't you do it, then?
+
+
+
+@d{}
+[Shakes his head.] 
+@l{"name":"Solness"}
+No, the people will not have it.
+
+
+
+@l{"name":"Hilda"}
+
+
+Fancy their not wanting it!
+
+
+
+@d{}
+[More lightly.] 
+@l{"name":"Solness"}
+But now I am building a new home for myself--just
+opposite here.
+
+
+
+@l{"name":"Hilda"}
+
+
+For yourself?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes. It is almost finished. And on that there is a tower.
+
+
+
+@l{"name":"Hilda"}
+
+
+A high tower?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes.
+
+
+
+@l{"name":"Hilda"}
+
+
+Very high?
+
+
+
+@l{"name":"Solness"}
+
+
+No doubt people will say it is too high--too high for a dwelling-house.
+
+
+
+@l{"name":"Hilda"}
+
+
+I'll go out to look at that tower first thing to-morrow morning.
+
+
+
+@d{}
+[Sits resting his cheek on his hand, and gazes at her.] 
+@l{"name":"Solness"}
+Tell me, Miss
+Wangel--what is your name? Your Christian name, I mean.
+
+
+
+@l{"name":"Hilda"}
+
+
+Why, Hilda, of course.
+
+
+
+@d{}
+[As before.] 
+@l{"name":"Solness"}
+Hilda? Indeed?
+
+
+
+@l{"name":"Hilda"}
+
+
+Don't you remember that? You called me Hilda yourself--that day when you
+misbehaved.
+
+
+
+@l{"name":"Solness"}
+
+
+Did I really.
+
+
+
+@l{"name":"Hilda"}
+
+
+But then you said "little Hilda"; and I didn't like that.
+
+
+
+@l{"name":"Solness"}
+
+
+Oh, you didn't like that, Miss Hilda?
+
+
+
+@l{"name":"Hilda"}
+
+
+No, not at such a time as that. But--"Princess Hilda"--that will sound
+very well, I think.
+
+
+
+@l{"name":"Solness"}
+
+
+Very well indeed. Princess Hilda of--of--what was to be the name of the
+kingdom?
+
+
+
+@l{"name":"Hilda"}
+
+
+Pooh! I won't have anything to do with that stupid kingdom. I have set
+my heart upon quite a different one!
+
+
+
+@d{}
+[Has leaned back in the chair, still gazing at her.] 
+@l{"name":"Solness"}
+Isn't it strange--?
+The more I think of it now, the more it seems to me as though I had gone
+about all these years torturing myself with--h'm--
+
+
+
+@l{"name":"Hilda"}
+
+
+With what?
+
+
+
+@l{"name":"Solness"}
+
+
+With the effort to recover something--some experience, which I seemed to
+have forgotten. But I never had the least inkling of what it could be.
+
+
+
+@l{"name":"Hilda"}
+
+
+You should have tied a knot in your pocket-handkerchief, Mr. Solness.
+
+
+
+@l{"name":"Solness"}
+
+
+In that case, I should simply have had to go racking my brains to
+discover what the knot could mean.
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh yes, I suppose there are trolls of that kind in the world, too.
+
+
+
+@d{}
+[Rises slowly.] 
+@l{"name":"Solness"}
+What a good thing it is that you have come to me now.
+
+
+
+@d{}
+[Looks deeply into his eyes.] 
+@l{"name":"Hilda"}
+Is it a good thing!
+
+
+
+@l{"name":"Solness"}
+
+
+For I have been so lonely here. I have been gazing so helplessly at it
+all. 
+@d{}
+[In a lower voice.] 
+@l{"name":"Solness"}
+I must tell you--I have begun to be afraid of
+the younger generation.
+
+
+
+@d{}
+[With a little snort of contempt.] 
+@l{"name":"Hilda"}
+Pooh--is the younger generation
+something to be afraid of?
+
+
+
+@l{"name":"Solness"}
+
+
+It is indeed. And that is why I have locked and barred myself in.
+
+@d{}
+[Mysteriously.] 
+@l{"name":"Solness"}
+I tell you the younger generation will one day come and
+thunder at my door! They will break in upon me!
+
+
+
+@l{"name":"Hilda"}
+
+
+Then I should say you ought to go out and open the door to the younger
+generation.
+
+
+
+@l{"name":"Solness"}
+
+
+Open the door?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes. Let them come in to you on friendly terms, as it were.
+
+
+
+@l{"name":"Solness"}
+
+
+No, no, no! The younger generation--it means retribution, you see. It
+comes, as if under a new banner, heralding the turn of fortune.
+
+
+
+@d{}
+[Rises, looks at him, and says with a quivering twitch of her lips.] 
+@l{"name":"Hilda"}
+Can
+_I_ be of any use to you, Mr. Solness?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, you can indeed! For you, too, come--under a new banner it seems to
+me. You marshalled against youth--!
+
+
+  
+@d{}
+DR. HERDAL comes in by the hall-door.
+
+
+
+@e{"names":["Dr. Herdal"]}
+
+@l{"name":"Dr. Herdal"}
+
+
+What--you and Miss Wangel here still?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes. We have had no end of things to talk about.
+
+
+
+@l{"name":"Hilda"}
+
+
+Both old and new.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Have you really?
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh, it has been the greatest fun. For Mr. Solness--he has such a
+miraculous memory. All the least little details he remembers instantly.
+
+
+  
+@d{}
+MRS. SOLNESS enters by the door on the right.
+
+
+
+@e{"names":["Mrs. Solness"]}
+
+@l{"name":"Mrs. Solness"}
+
+
+Well, Miss Wangel, your room is quite ready for you now.
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh, how kind you are to me!
+
+
+
+@d{}
+[To Mrs. Solness] 
+@l{"name":"Solness"}
+The nursery?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Yes, the middle one. But first let us go in to supper.
+
+
+
+@d{}
+[Nods to 
+@l{"name":"Solness"}
+Hilda] Hilda shall sleep in the nursery, she shall.
+
+
+
+@d{}
+[Looks at him.] 
+@l{"name":"Mrs. Solness"}
+Hilda?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, Miss Wangel's name is Hilda. I knew her when she was a child.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Did you really, Halvard? Well, shall we go?
+
+     
+@d{}
+[She takes DR. HERDAL's arm and goes out with him to the
+       right.  HILDA has meanwhile been collecting her travelling
+       things.
+
+
+
+@x{"names":["Dr. Herdal","Mrs. Solness"]}
+
+@d{}
+[Softly and rapidly to Solness] 
+@l{"name":"Hilda"}
+Is it true, what you said? Can I be of
+use to you?
+
+
+
+@d{}
+[Takes the things from her.] 
+@l{"name":"Solness"}
+You are the very being I have needed most.
+
+
+
+@d{}
+[Looks at him with happy, wondering eyes and clasps her hands.] 
+@l{"name":"Hilda"}
+But
+then, great heavens--!
+
+
+
+@d{}
+[Eagerly.] 
+@l{"name":"Solness"}
+What--?
+
+
+
+@l{"name":"Hilda"}
+
+
+Then I have my kingdom!
+
+
+
+@d{}
+[Involuntarily.] 
+@l{"name":"Solness"}
+Hilda--!
+
+
+
+@d{}
+[Again with the quivering twitch of her lips.] 
+@l{"name":"Hilda"}
+Almost--I was going to
+say.
+
+     
+@d{}
+[She goes out to the right, SOLNESS follows her.
+
+@x{"names":["Hilda","Solness"]}
+
+@a{"number":2}
+@s{"number":1}
+@d{}
+
+ACT SECOND.
+
+  A prettily furnished small drawing-room in SOLNESS'S house.
+  In the back, a glass-door leading out to the verandah and
+  garden.  The right-hand corner is cut off transversely by
+  a large bay-window, in which are flower-stands.  The left-
+  hand corner is similarly cut off by a transverse wall, in
+  which is a small door papered like the wall.  On each side,
+  an ordinary door.  In front, on the right, a console table
+  with a large mirror over it.  Well-filled stands of plants
+  and flowers.  In front, on the left, a sofa with a table
+  and chairs.  Further back, a bookcase.  Well forward in the
+  room, before the bay window, a small table and some chairs.
+  It is early in the day.
+
+  SOLNESS sits by the little table with RAGNAR BROVIK'S
+  portfolio open in front of him.  He is turning the drawings
+  over and closely examining some of them.  MRS. SOLNESS moves
+  about noiselessly with a small watering-pot, attending to her
+  flowers.  She is dressed in black as before.  Her hat, cloak
+  and parasol lie on a chair near the mirror.  Unobserved by her,
+  SOLNESS now and again follows her with his eyes.  Neither of
+  them speaks.
+
+  KAIA FOSLI enters quietly by the door on the left.
+
+
+
+@e{"names":["Mrs. Solness","Solness","Kaia"]}
+
+@d{}
+[Turns his head, and says in an off-hand tone of indifference:] 
+@l{"name":"Solness"}
+Well, is
+that you?
+
+
+
+@l{"name":"Kaia"}
+
+
+I merely wished to let you know that I have come.
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, yes, that's all right. Hasn't Ragnar come too?
+
+
+
+@l{"name":"Kaia"}
+
+
+No, not yet. He had to wait a little while to see the doctor. But he is
+coming presently to hear--
+
+
+
+@l{"name":"Solness"}
+
+
+How is the old man to-day?
+
+
+
+@l{"name":"Kaia"}
+
+
+Not well. He begs you to excuse him; he is obliged to keep his bed
+to-day.
+
+
+
+@l{"name":"Solness"}
+
+
+Why, of course; by all means let him rest. But now, get to your work.
+
+
+
+@l{"name":"Kaia"}
+
+
+Yes. 
+@d{}
+[Pauses at the door.] 
+@l{"name":"Kaia"}
+Do you wish to speak to Ragnar when he comes?
+
+
+
+@l{"name":"Solness"}
+
+
+No--I don't know that I have anything particular to say to him.
+
+     
+@d{}
+[KAIA goes out again to the left.  SOLNESS remains seated,
+       turning over the drawings.
+
+
+
+@x{"names":["Kaia"]}
+
+@d{}
+[Over beside the plants.] 
+@l{"name":"Mrs. Solness"}
+I wonder if he isn't going to die now, as
+well?
+
+
+
+@d{}
+[Looks up at her.] 
+@l{"name":"Solness"}
+As well as who?
+
+
+
+@d{}
+[Without answering.] 
+@l{"name":"Mrs. Solness"}
+Yes, yes--depend upon it, Halvard, old Brovik is
+going to die too. You'll see that he will.
+
+
+
+@l{"name":"Solness"}
+
+
+My dear Aline, ought you not to go out for a little walk?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Yes, I suppose I ought to.
+
+     
+@d{}
+[She continues to attend the flowers.
+
+
+
+@d{}
+[Bending over the drawings.] 
+@l{"name":"Solness"}
+Is she still asleep?
+
+
+
+@d{}
+[Looking at him.] 
+@l{"name":"Mrs. Solness"}
+Is it Miss Wangel you are sitting there thinking
+about?
+
+
+
+@d{}
+[
+@l{"name":"Solness"}
+Indifferently.] I just happened to recollect her.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Miss Wangle was up long ago.
+
+
+
+@l{"name":"Solness"}
+
+
+Oh, was she?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+When I went in to see her, she was busy putting her things in order.
+
+     
+@d{}
+[She goes in front of the mirror and slowly begins to put on
+       her hat.
+
+
+
+@d{}
+[After a short pause.] 
+@l{"name":"Solness"}
+So we have found a use for one our nurseries
+after all, Aline.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Yes, we have.
+
+
+
+@l{"name":"Solness"}
+
+
+That seems to me better than to have them all standing empty.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+That emptiness is dreadful; you are right there.
+
+
+
+@d{}
+[Closes the portfolio, rises and approaches her.] 
+@l{"name":"Solness"}
+You will find that
+we shall get on far better after this, Aline. Things will be more
+comfortable. Life will be easier--especially for you.
+
+
+
+@d{}
+[Looks at him.] 
+@l{"name":"Mrs. Solness"}
+After this?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, believe me, Aline--
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Do you mean--because she has come here?
+
+
+
+@d{}
+[Checking himself.] 
+@l{"name":"Solness"}
+I mean, of course--when once we have moved into the
+new home.
+
+
+@d{}
+[Takes her cloak.] 
+@l{"name":"Mrs. Solness"}
+Ah, do you think so, Halvard? Will it be better then?
+
+
+
+@l{"name":"Solness"}
+
+
+I can't think otherwise. And surely you think so too?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+I think nothing at all about the new house.
+
+
+
+@d{}
+[Cast down.] 
+@l{"name":"Solness"}
+It's hard for me to hear you say that; for you know it is
+mainly for your sake that I have built it.
+
+     
+@d{}
+[He offers to help her on with her cloak.
+
+
+
+@d{}
+[Evades him.] 
+@l{"name":"Mrs. Solness"}
+The fact is, you do far too much for my sake.
+
+
+
+@d{}
+[With a certain vehemence.] 
+@l{"name":"Solness"}
+No, no, you really mustn't say that, Aline!
+I cannot bear to hear you say such things!
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Very well, then I won't say it, Halvard.
+
+
+
+@l{"name":"Solness"}
+
+
+But I stick to what _I_ said. You'll see that things will be easier for
+you in the new place.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Oh, heavens--easier for me--!
+
+
+
+@d{}
+[Eagerly.] 
+@l{"name":"Solness"}
+Yes, indeed they will! You may be quite sure of that! For you
+see--there will be so very, very much there that will remind you of your
+own home--
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+The home that used to be father's and mother's--and that was burnt to
+the ground--
+
+
+
+@d{}
+[In a low voice.] 
+@l{"name":"Solness"}
+Yes, yes, my poor Aline. That was a terrible blow for
+you.
+
+
+
+@d{}
+[Breaking out in lamentation.] 
+@l{"name":"Mrs. Solness"}
+You may build as much as ever you like,
+Halvard--you can never build up again a real home for me!
+
+
+
+@d{}
+[Crosses the room.] 
+@l{"name":"Solness"}
+Well, in Heaven's name, let us talk no more about it
+then.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+We are not in the habit of talking about it. For you always put the
+thought away from you--
+
+
+
+@d{}
+[Stops suddenly and looks at her.] 
+@l{"name":"Solness"}
+Do I? And why should I do that? Put
+the thought away from me?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Oh yes, Halvard, I understand you very well. You are so anxious to spare
+me--and to find excuses for me too--as much as ever you can.
+
+
+
+@d{}
+[With astonishment in his eyes.] 
+@l{"name":"Solness"}
+You! Is it you--yourself, that your are
+talking about, Aline?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Yes, who else should it be but myself?
+
+
+
+@d{}
+[Involuntarily to himself.] 
+@l{"name":"Solness"}
+That too!
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+As for the old house, I wouldn't mind so much about that. When once
+misfortune was in the air--why--
+
+
+
+@l{"name":"Solness"}
+
+
+Ah, you are right there. Misfortune will have its way--as the saying
+goes.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+But it's what came of the fire--the dreadful thing that followed--! That
+is the thing! That, that, that!
+
+
+
+@d{}
+[Vehemently.] 
+@l{"name":"Solness"}
+Don't think about that, Aline!
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Ah, that is exactly what I cannot help thinking about. And now, at last,
+I must speak about it, too; for I don't seem to be able to bear it any
+longer. And then never to be able to forgive myself--
+
+
+
+@d{}
+[Exclaiming.] 
+@l{"name":"Solness"}
+Yourself--!
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Yes, for I had duties on both sides--both towards you and towards the
+little ones. I ought to have hardened myself--not to have let the
+horror take such hold upon me--nor the grief for the burning of my home.
+
+@d{}
+[Wrings her hands.] 
+@l{"name":"Mrs. Solness"}
+Oh, Halvard, if I had only had the strength!
+
+
+
+@d{}
+[Softly, much moved, comes closer.] 
+@l{"name":"Solness"}
+Aline--you must promise me never to
+think these thoughts any more.--Promise me that, dear!
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Oh, promise, promise! One can promise anything.
+
+
+
+@d{}
+[Clenches his hands and crosses the room.] 
+@l{"name":"Solness"}
+Oh, but this is hopeless,
+hopeless! Never a ray of sunlight! Not so much as a gleam of brightness
+to light up our home!
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+This is no home, Halvard.
+
+
+
+@l{"name":"Solness"}
+
+
+Oh no, you may well say that. 
+@d{}
+[Gloomily.] 
+@l{"name":"Solness"}
+And God knows whether you are
+not right in saying that it will be no better for us in the new house,
+either.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+It will never be any better. Just as empty--just as desolate--there as
+here.
+
+
+
+@d{}
+[Vehemently.] 
+@l{"name":"Solness"}
+Why in all the world have we built it then? Can you tell
+me that?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+No; you must answer that question for yourself.
+
+
+
+@d{}
+[Glances suspiciously at her.] 
+@l{"name":"Solness"}
+What do you mean by that, Aline?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+What do I mean?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, in the devil's name! You said it so strangely--as if you had some
+hidden meaning in it.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+No, indeed, I assure you--
+
+
+
+@d{}
+[Comes closer.] 
+@l{"name":"Solness"}
+Oh, come now--I know what I know. I have both my eyes
+and my ears about me, Aline--you may depend upon that!
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Why, what are you talking about? What is it?
+
+
+
+@d{}
+[Places himself in front of her.] 
+@l{"name":"Solness"}
+Do you mean to say you don't find a
+kind of lurking, hidden meaning in the most innocent word I happen to
+say?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+_I_ do you say? _I_ do that?
+
+
+
+@d{}
+[Laughs.] 
+@l{"name":"Solness"}
+Ho-ho-ho! It's natural enough, Aline! When you have a sick man
+on your hands--
+
+
+
+@d{}
+[Anxiously.] 
+@l{"name":"Mrs. Solness"}
+Sick? Are you ill, Halvard?
+
+
+
+@d{}
+[Violently.] 
+@l{"name":"Solness"}
+A half-mad man then! A crazy man! Call me what you will.
+
+
+
+@d{}
+[Feels blindly for a chair and sits down.] 
+@l{"name":"Mrs. Solness"}
+Halvard--for God's sake--
+
+
+
+@l{"name":"Solness"}
+
+
+But you are wrong, both you and the doctor. I am not in the state that
+you imagine.
+
+     
+@d{}
+[He walks up and down the room.  MRS. SOLNESS follows him
+       anxiously with her eyes.  Finally he goes up to her.
+
+
+
+@d{}
+[Calmly.] 
+@l{"name":"Solness"}
+In reality there is nothing whatever the matter with me.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+No, there isn't, is there? But then what is it that troubles you so?
+
+
+
+@l{"name":"Solness"}
+
+
+Why this, that I often feel ready to sink under this terrible burden of
+debt--
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Debt, do you say? But you owe no one anything, Halvard!
+
+
+
+@d{}
+[Softly, with emotion.] 
+@l{"name":"Solness"}
+I owe a boundless debt to you--to you--to you,
+Aline.
+
+
+
+@d{}
+[Rises slowly.] 
+@l{"name":"Mrs. Solness"}
+What is behind all this? You may just as well tell me at
+once.
+
+
+
+@l{"name":"Solness"}
+
+
+But there is nothing behind it! I have never done you any wrong--not
+wittingly and willfully, at any rate. And yet--and yet it seems as
+though a crushing debt rested upon me and weighed me down.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+A debt to me?
+
+
+
+@l{"name":"Solness"}
+
+
+Chiefly to you.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Then you are--ill after all, Halvard.
+
+
+
+@d{}
+[Gloomily.] 
+@l{"name":"Solness"}
+I suppose I must be--or not far from it. 
+@d{}
+[Looks towards the
+door to the right, which is opened at this moment.] 
+@l{"name":"Solness"}
+Ah! now it grows
+light.
+
+
+  
+@d{}
+HILDA WANGEL comes in.  She has made some alteration in her
+  dress, and let down her skirt.
+
+
+
+@e{"names":["Hilda"]}
+
+@l{"name":"Hilda"}
+
+
+Good morning, Mr. Solness!
+
+
+
+@d{}
+[Nods.] 
+@l{"name":"Solness"}
+Slept well?
+
+
+
+@l{"name":"Hilda"}
+
+
+Quite deliciously! Like a child in a cradle. Oh--I lay and stretched
+myself like--like a princess!
+
+
+
+@d{}
+[Smiles a little.] 
+@l{"name":"Solness"}
+You were thoroughly comfortable then?
+
+
+
+@l{"name":"Hilda"}
+
+
+I should think so.
+
+
+
+@l{"name":"Solness"}
+
+
+And no doubt you dreamed, too.
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, I did. But that was horrid.
+
+
+
+@l{"name":"Solness"}
+
+
+Was it?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, for I dreamed I was falling over a frightfully high, sheer
+precipice. Do you never have that kind of dream?
+
+
+
+@l{"name":"Solness"}
+
+
+Oh yes--now and then--
+
+
+
+@l{"name":"Hilda"}
+
+
+It's tremendously thrilling--when you fall and fall--
+
+
+
+@l{"name":"Solness"}
+
+
+It seems to make one's blood run cold.
+
+
+
+@l{"name":"Hilda"}
+
+
+Do you draw your legs up under you while you are falling?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, as high as ever I can.
+
+
+
+@l{"name":"Hilda"}
+
+
+So do I.
+
+
+
+@d{}
+[Takes her parasol.] 
+@l{"name":"Mrs. Solness"}
+I must go into town now, Halvard. 
+@d{}
+[To Hilda] 
+@l{"name":"Mrs. Solness"}
+And
+I'll try to get one or two things that you may require.
+
+
+
+@d{}
+[Making a motion to throw her arms round her neck.] 
+@l{"name":"Hilda"}
+Oh, you dear, Mrs.
+Solness! You are really much too kind to me! Frightfully kind--
+
+
+
+@d{}
+[Deprecatingly, freeing herself.] 
+@l{"name":"Mrs. Solness"}
+Oh, not at all. It's only my duty, so
+I am very glad to do it.
+
+
+
+@d{}
+[Offended, pouts.] 
+@l{"name":"Hilda"}
+But really, I think I am quite fit to be seen in the
+streets--now that I've put my dress to rights. Or do you think I am not?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+To tell you the truth, I think people would stare at you a little.
+
+
+
+@d{}
+[Contemptuously.] 
+@l{"name":"Hilda"}
+Pooh! Is that all? That only amuses me.
+
+
+
+@d{}
+[With suppressed ill-humour.] 
+@l{"name":"Solness"}
+Yes, but people might take it into their
+heads that you were mad too, you see.
+
+
+
+@l{"name":"Hilda"}
+
+
+Mad? Are there so many mad people here in town, then?
+
+
+
+@d{}
+[Points to his own forehead.] 
+@l{"name":"Solness"}
+Here you see one at all events.
+
+
+
+@l{"name":"Hilda"}
+
+
+You--Mr. Solness!
+
+
+
+@l{"name":"Solness"}
+
+
+Have you not noticed that yet?
+
+
+
+@l{"name":"Hilda"}
+
+
+No, I certainly have not. 
+@d{}
+[Reflects and laughs a little.] 
+@l{"name":"Hilda"}
+And
+yet--perhaps in one single thing.
+
+
+
+@l{"name":"Solness"}
+
+
+Ah, do you hear that, Aline?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+What is that one single thing, Miss Wangel?
+
+
+
+@l{"name":"Hilda"}
+
+
+No, I won't say.
+
+
+
+@l{"name":"Solness"}
+
+
+Oh yes, do!
+
+
+
+@l{"name":"Hilda"}
+
+
+No thank you--I am not so mad as that.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+When you and Miss Wangel are alone, I daresay she will tell you,
+Halvard.
+
+
+
+@l{"name":"Solness"}
+
+
+Ah--you think she will?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Oh yes, certainly. For you have known her so well in the past. Ever
+since she was a child--you tell me.
+
+     
+@d{}
+[She goes out by the door on the left.
+
+
+
+@x{"names":["Mrs. Solness"]}
+
+@d{}
+[After a little while.] 
+@l{"name":"Hilda"}
+Does your wife dislike me very much?
+
+
+
+@l{"name":"Solness"}
+
+
+Did you think you noticed anything of the kind?
+
+
+
+@l{"name":"Hilda"}
+
+
+Did you notice it yourself?
+
+
+
+@d{}
+[Evasively.] 
+@l{"name":"Solness"}
+Aline has become exceedingly shy with strangers of late
+years.
+
+
+
+@l{"name":"Hilda"}
+
+
+Has she really?
+
+
+
+@l{"name":"Solness"}
+
+
+But if only you could get to know her thoroughly--! Ah, she is so
+good--so kind--so excellent a creature--
+
+
+
+@d{}
+[Impatiently.] 
+@l{"name":"Hilda"}
+But if she is all that--what made her say that about her
+duty?
+
+
+
+@l{"name":"Solness"}
+
+
+Her duty?
+
+
+
+@l{"name":"Hilda"}
+
+
+She said that she would go out and buy something for me, because it was
+her duty. Oh, I can't bear that ugly, horrid word!
+
+
+
+@l{"name":"Solness"}
+
+
+Why not?
+
+
+
+@l{"name":"Hilda"}
+
+
+It sounds so could and sharp, and stinging. Duty--duty--duty. Don't you
+think so, too? Doesn't it seem to sting you?
+
+
+
+@l{"name":"Solness"}
+
+
+H'm--haven't thought much about it.
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, it does. And if she is so good--as you say she is--why should she
+talk in that way?
+
+
+
+@l{"name":"Solness"}
+
+
+But, good Lord, what would you have had her say, then?
+
+
+
+@l{"name":"Hilda"}
+
+
+She might have said she would do it because she had taken a tremendous
+fancy to me. She might have said something like that--something really
+warm and cordial, you understand.
+
+
+
+@d{}
+[Looks at her.] 
+@l{"name":"Solness"}
+Is that how you would like to have it?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, precisely. 
+@d{}
+[She wanders about the room, stops at the bookcase and
+looks at the books.] 
+@l{"name":"Hilda"}
+What a lot of books you have.
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, I have got together a good many.
+
+
+
+@l{"name":"Hilda"}
+
+
+Do you read them all, too?
+
+
+
+@l{"name":"Solness"}
+
+
+I used to try to. Do you read much?
+
+
+
+@l{"name":"Hilda"}
+
+
+No, never! I have given it up. For it all seems so irrelevant.
+
+
+
+@l{"name":"Solness"}
+
+
+That is just my feeling.
+
+     
+@d{}
+[HILDA wanders about a little, stops at the small table, opens
+       the portfolio and turns over the contents.
+
+
+
+@l{"name":"Hilda"}
+
+
+Are all these your drawings yours?
+
+
+
+@l{"name":"Solness"}
+
+
+No, they are drawn by a young man whom I employ to help me.
+
+
+
+@l{"name":"Hilda"}
+
+
+Some one you have taught?
+
+
+
+@l{"name":"Solness"}
+
+
+Oh yes, no doubt he has learnt something from me, too.
+
+
+
+@d{}
+[Sits down.] 
+@l{"name":"Hilda"}
+Then I suppose he is very clever. 
+@d{}
+[Looks at a drawing.]
+
+@l{"name":"Hilda"}
+Isn't he?
+
+
+
+@l{"name":"Solness"}
+
+
+Oh, he might be worse. For my purpose--
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh yes--I'm sure he is frightfully clever.
+
+
+
+@l{"name":"Solness"}
+
+
+Do you think you can see that in the drawings?
+
+
+
+@l{"name":"Hilda"}
+
+
+Pooh--these scrawlings! But if he has been learning from you--
+
+
+
+@l{"name":"Solness"}
+
+
+Oh, so far as that goes--there are plenty of people here that have
+learnt from me, and have come to little enough for all that.
+
+
+
+@d{}
+[Looks at him and shakes her head.] 
+@l{"name":"Hilda"}
+No, I can't for the life of me
+understand how you can be so stupid.
+
+
+
+@l{"name":"Solness"}
+
+
+Stupid? Do you think I am so very stupid?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, I do indeed. If you are content to go about here teaching all these
+people--
+
+
+
+@d{}
+[With a slight start.] 
+@l{"name":"Solness"}
+Well, and why not?
+
+
+
+@d{}
+[Rises, half serious, half laughing.] 
+@l{"name":"Hilda"}
+No indeed, Mr. Solness! What can
+be the good of that? No one but you should be allowed to build. You
+should stand quite alone--do it all yourself. Now you know it.
+
+
+
+@d{}
+[Involuntarily.] 
+@l{"name":"Solness"}
+Hilda--!
+
+
+
+@l{"name":"Hilda"}
+
+
+Well!
+
+
+
+@l{"name":"Solness"}
+
+
+How in the world did that come into your head?
+
+
+
+@l{"name":"Hilda"}
+
+
+Do you think I am so very far wrong then?
+
+
+
+@l{"name":"Solness"}
+
+
+No, that's not what I mean. But now I'll tell you something.
+
+
+
+@l{"name":"Hilda"}
+
+
+Well?
+
+
+
+@l{"name":"Solness"}
+
+
+I keep on--incessantly--in silence and alone--brooding on that very
+thought.
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, that seems to me perfectly natural.
+
+
+
+@d{}
+[Looks somewhat searchingly at her.] 
+@l{"name":"Solness"}
+Perhaps you have noticed it
+already?
+
+
+
+@l{"name":"Hilda"}
+
+
+No, indeed I haven't.
+
+
+
+@l{"name":"Solness"}
+
+
+But just now--when you said you thought I was--off my balance? In one
+thing, you said--
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh, I was thinking of something quite different.
+
+
+
+@l{"name":"Solness"}
+
+
+What was it?
+
+
+
+@l{"name":"Hilda"}
+
+
+I am not going to tell you.
+
+
+
+@d{}
+[Crosses the room.] 
+@l{"name":"Solness"}
+Well, well--as you please. 
+@d{}
+[Stops at the
+bow-window.] 
+@l{"name":"Solness"}
+Come here, and I will show you something.
+
+
+
+@d{}
+[Approaching.] 
+@l{"name":"Hilda"}
+What is it?
+
+
+
+@l{"name":"Solness"}
+
+
+Do you see over here in the garden--?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes?
+
+
+
+@d{}
+[Points.] 
+@l{"name":"Solness"}
+Right above the great quarry--?
+
+
+
+@l{"name":"Hilda"}
+
+
+That new house, you mean?
+
+
+
+@l{"name":"Solness"}
+
+
+The one that is being built, yes. Almost finished.
+
+
+
+@l{"name":"Hilda"}
+
+
+It seems to have a very high tower.
+
+
+
+@l{"name":"Solness"}
+
+
+The scaffolding is still up.
+
+
+
+@l{"name":"Hilda"}
+
+
+Is that your new house?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes.
+
+
+
+@l{"name":"Hilda"}
+
+
+The house you are soon going to move into?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes.
+
+
+
+@d{}
+[Looks at him.] 
+@l{"name":"Hilda"}
+Are there nurseries in that house, too?
+
+
+
+@l{"name":"Solness"}
+
+
+Three, as there are here.
+
+
+
+@l{"name":"Hilda"}
+
+
+And no child.
+
+
+
+@l{"name":"Solness"}
+
+
+And there never will be one.
+
+
+
+@d{}
+[With a half-smile.] 
+@l{"name":"Hilda"}
+Well, isn't it just as I said--?
+
+
+
+@l{"name":"Solness"}
+
+
+That--?
+
+
+
+@l{"name":"Hilda"}
+
+
+That you are a little--a little mad after all.
+
+
+
+@l{"name":"Solness"}
+
+
+Was that what you were thinking of?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, of all the empty nurseries I slept in.
+
+
+
+@d{}
+[Lowers his voice.] 
+@l{"name":"Solness"}
+We have had children--Aline and I.
+
+
+
+@d{}
+[Looks eagerly at him.] 
+@l{"name":"Hilda"}
+Have you--?
+
+
+
+@l{"name":"Solness"}
+
+
+Two little boys. They were of the same age.
+
+
+
+@l{"name":"Hilda"}
+
+
+Twins, then.
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, twins. It's eleven or twelve years ago now.
+
+
+
+@d{}
+[Cautiously.] 
+@l{"name":"Hilda"}
+And so both of them--? You have lost both the twins, then?
+
+
+
+@d{}
+[With quiet emotion.] 
+@l{"name":"Solness"}
+We kept them only about three weeks. Or scarcely
+so much. 
+@d{}
+[Bursts forth.] 
+@l{"name":"Solness"}
+Oh, Hilda, I can't tell you what a good thing
+it is for me that you have come! For now at last I have some one to talk
+to!
+
+
+
+@l{"name":"Hilda"}
+
+
+Can you not talk to--her, too?
+
+
+
+@l{"name":"Solness"}
+
+
+Not about this. Not as I want to talk and must talk. 
+@d{}
+[Gloomily.] 
+@l{"name":"Solness"}
+And not
+about so many other things, either.
+
+
+
+@d{}
+[In a subdued voice.] 
+@l{"name":"Hilda"}
+Was that all you meant when you said you need me?
+
+
+
+@l{"name":"Solness"}
+
+
+That was mainly what I meant--at all events, yesterday. For to-day I am
+not so sure--
+@d{}
+[Breaking off.] 
+@l{"name":"Solness"}
+Come here and let us sit down, Hilda. Sit
+there on the sofa--so that you can look into the garden. 
+@d{}
+[HILDA seats
+herself in the corner of the sofa. SOLNESS brings a chair closer.]
+
+@l{"name":"Solness"}
+Should you like to hear about it?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, I shall love to sit and listen to you.
+
+
+
+@d{}
+[Sits down.] 
+@l{"name":"Solness"}
+Then I will tell you all about it.
+
+
+
+@l{"name":"Hilda"}
+
+
+Now I can see both the garden and you, Mr. Solness. So now, tell away!
+Begin!
+
+
+
+@d{}
+[Points towards the bow-window.] 
+@l{"name":"Solness"}
+Out there on the rising ground--where
+you see the new house--
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes?
+
+
+
+@l{"name":"Solness"}
+
+
+Aline and I lived there in the first years of our married life. There
+was an old house up there that had belonged to her mother; and we
+inherited it, and the whole of the great garden with it.
+
+
+
+@l{"name":"Hilda"}
+
+
+Was there a tower on that house, too?
+
+
+
+@l{"name":"Solness"}
+
+
+No, nothing of the kind. From the outside it looked like a great, dark,
+ugly wooden box; but all the same, it was snug and comfortable enough
+inside.
+
+
+
+@l{"name":"Hilda"}
+
+
+Then did you pull down the ramshackle old place?
+
+
+
+@l{"name":"Solness"}
+
+
+No, it was burnt down.
+
+
+
+@l{"name":"Hilda"}
+
+
+The whole of it?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes.
+
+
+
+@l{"name":"Hilda"}
+
+
+Was that a great misfortune for you?
+
+
+
+@l{"name":"Solness"}
+
+
+That depends on how you look at it. As a builder, the fire was the
+making of me--
+
+
+
+@l{"name":"Hilda"}
+
+
+Well, but--
+
+
+
+@l{"name":"Solness"}
+
+
+It was just after the birth of the two little boys--
+
+
+
+@l{"name":"Hilda"}
+
+
+The poor little twins, yes.
+
+
+
+@l{"name":"Solness"}
+
+
+They came healthy and bonny into the world. And they were growing
+too--you could see the difference day to day.
+
+
+
+@l{"name":"Hilda"}
+
+
+Little children do grow quickly at first.
+
+
+
+@l{"name":"Solness"}
+
+
+It was the prettiest sight in the world to see Aline lying with the two
+of them in her arms.--But then came the night of the fire--
+
+
+
+@d{}
+[Excitedly.] 
+@l{"name":"Hilda"}
+What happened? Do tell me! Was any one burnt?
+
+
+
+@l{"name":"Solness"}
+
+
+No, not that. Every one got safe and sound out of the house--
+
+
+
+@l{"name":"Hilda"}
+
+
+Well, and what then--?
+
+
+
+@l{"name":"Solness"}
+
+
+The fright had shaken Aline terribly. The alarm--the escape--the
+break-neck hurry--and then the ice-cold night air--for they had to be
+carried out just as they lay--both she and the little ones.
+
+
+
+@l{"name":"Hilda"}
+
+
+Was it too much for them?
+
+
+
+@l{"name":"Solness"}
+
+
+Oh no, they stood it well enough. But Aline fell into a fever, and it
+affected her milk. She would insist on nursing them herself; because it
+was her duty, she said. And both our little boys, they--
+@d{}
+[Clenching his
+hands.]
+
+@l{"name":"Solness"}
+--they--oh!
+
+@l{"name":"Hilda"}
+
+
+They did not get over that?
+
+
+
+@l{"name":"Solness"}
+
+
+No, that they did not get over. That was how we lost them.
+
+
+
+@l{"name":"Hilda"}
+
+
+It must have been terribly hard for you.
+
+
+
+@l{"name":"Solness"}
+
+
+Hard enough for me; but ten time harder for Aline. 
+@d{}
+[Clenching his hands
+in suppressed fury.] 
+@l{"name":"Solness"}
+Oh, that such things should be allowed to happen
+here the world! 
+@d{}
+[Shortly and firmly.] 
+@l{"name":"Solness"}
+From the day I lost them, I had no
+heart for building churches.
+
+
+
+@l{"name":"Hilda"}
+
+
+Did you not like building the church-tower in our town?
+
+
+
+@l{"name":"Solness"}
+
+
+I didn't like it. I know how free and happy I felt when that tower was
+finished.
+
+
+
+@l{"name":"Hilda"}
+
+
+_I_ know that, too.
+
+
+
+@l{"name":"Solness"}
+
+
+And now I shall never--never build anything of that sort again! Neither
+churches nor church-towers.
+
+
+
+@d{}
+[Nods slowly.] 
+@l{"name":"Hilda"}
+Nothing but houses for people to live in.
+
+
+
+@l{"name":"Solness"}
+
+
+Homes for human beings, Hilda.
+
+
+
+@l{"name":"Hilda"}
+
+
+But homes with high towers and pinnacles upon them.
+
+
+
+@l{"name":"Solness"}
+
+
+If possible. 
+@d{}
+[Adopts a lighter tone.] 
+@l{"name":"Solness"}
+But, as I said before, that fire
+was the making of me--as a builder, I mean.
+
+
+
+@l{"name":"Hilda"}
+
+
+Why don't you call yourself an architect, like the others?
+
+
+
+@l{"name":"Solness"}
+
+
+I have not been systematically enough taught for that. Most of what I
+know I have found out for myself.
+
+
+
+@l{"name":"Hilda"}
+
+
+But you succeeded all the same.
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, thanks to the fire. I laid out almost the whole of the garden in
+villa lots; and there I was able to build after my own heart. So I came
+to the front with a rush.
+
+
+
+@d{}
+[Looks keenly at him.] 
+@l{"name":"Hilda"}
+You must surely be a very happy man, as matters
+stand with you.
+
+
+
+@d{}
+[Gloomily.] 
+@l{"name":"Solness"}
+Happy? Do you say that, too--like all the rest of them?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, I should say you must be. If you could only cease thing about the
+two little children--
+
+
+
+@d{}
+[Slowly.] 
+@l{"name":"Solness"}
+The two little children--they are not so easy to forget,
+Hilda.
+
+
+
+@d{}
+[Somewhat uncertainly.] 
+@l{"name":"Hilda"}
+Do you still feel their loss so much--after all
+these years?
+
+
+
+@d{}
+[Looks fixedly at her, without replying.] 
+@l{"name":"Solness"}
+A happy man you said--
+
+
+
+@l{"name":"Hilda"}
+
+
+Well, now, are you not happy--in other respects?
+
+
+
+@d{}
+[Continues to look at her.] 
+@l{"name":"Solness"}
+When I told you all this about the
+fire--h'm--
+
+
+
+@l{"name":"Hilda"}
+
+
+Well?
+
+
+
+@l{"name":"Solness"}
+
+
+Was there not one special thought that you--that you seized upon?
+
+
+
+@d{}
+[Reflects in vain.] 
+@l{"name":"Hilda"}
+No. What thought should that be?
+
+
+
+@d{}
+[With subdued emphasis.] 
+@l{"name":"Solness"}
+It was simply and solely by that fire that I
+was enabled to build homes for human beings. Cosy, comfortable, bright
+homes, where father and mother and the whole troop of children can live
+in safety and gladness, feeling what a happy thing it is to be alive in
+the world--and most of all to belong to each other--in great things and
+in small.
+
+
+
+@d{}
+[Ardently.] 
+@l{"name":"Hilda"}
+Well, and is it not a great happiness for you to be able to
+build such beautiful homes?
+
+
+
+@l{"name":"Solness"}
+
+
+The price, Hilda! The terrible price I had to pay for the opportunity!
+
+
+
+@l{"name":"Hilda"}
+
+
+But can you never get over that?
+
+
+
+@l{"name":"Solness"}
+
+
+No. That I might build homes for others, I had to forego--to forego
+for all time--the home that might have been my own. I mean a home for a
+troop of children--and for father and mother, too.
+
+
+
+@d{}
+[Cautiously.] 
+@l{"name":"Hilda"}
+But need you have done that? For all time, you say?
+
+
+
+@d{}
+[Nods slowly.] 
+@l{"name":"Solness"}
+That was the price of this happiness that people talk
+about. 
+@d{}
+[Breathes heavily.] 
+@l{"name":"Solness"}
+This happiness--h'm--this happiness was not
+to be bought any cheaper, Hilda.
+
+
+
+@d{}
+[As before.] 
+@l{"name":"Hilda"}
+But may it not come right even yet?
+
+
+
+@l{"name":"Solness"}
+
+
+Never in this world--never. That is another consequence of the fire--and
+of Aline's illness afterwards.
+
+
+
+@d{}
+[Looks at him with an indefinable expression.] 
+@l{"name":"Hilda"}
+And yet you build all
+these nurseries.
+
+
+
+@d{}
+[Seriously.] 
+@l{"name":"Solness"}
+Have you never noticed, Hilda, how the impossible--how it
+seems to beckon and cry aloud to one?
+
+
+
+@d{}
+[Reflecting.] 
+@l{"name":"Hilda"}
+The impossible? 
+@d{}
+[With animation.] 
+@l{"name":"Hilda"}
+Yes, indeed! Is that how
+you feel too?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, I do.
+
+
+
+@l{"name":"Hilda"}
+
+
+Then there must be--a little of the troll in you too.
+
+
+
+@l{"name":"Solness"}
+
+
+Why of the troll?
+
+
+
+@l{"name":"Hilda"}
+
+
+What would you call it, then?
+
+
+
+@d{}
+[Rises.] 
+@l{"name":"Solness"}
+Well, well, perhaps you are right. 
+@d{}
+[Vehemently.] 
+@l{"name":"Solness"}
+But how can
+I help turning into a troll, when this is how it always goes with me in
+everything--in everything!
+
+
+
+@l{"name":"Hilda"}
+
+
+How do you mean?
+
+
+
+@d{}
+[Speaking low, with inward emotion.] 
+@l{"name":"Solness"}
+Mark what I say to you, Hilda.
+All that I have succeeded in doing, building, creating--all the beauty,
+security, cheerful comfort--ay, and magnificence too--
+@d{}
+[Clenches his
+hands.] 
+@l{"name":"Solness"}
+Oh, is it not terrible even to think of--?
+
+
+
+@l{"name":"Hilda"}
+
+
+What is so terrible?
+
+
+
+@l{"name":"Solness"}
+
+
+That all this I have to make up for, to pay for--not in money, but in
+human happiness. And not with my own happiness only, but with other
+people's too. Yes, yes, do you see that, Hilda? That is the price which
+my position as an artist has cost me--and others. And every single day
+I have to look on while the price is paid for me anew. Over again, and
+over again--and over again for ever!
+
+
+
+@d{}
+[Rises and looks steadily at him.] 
+@l{"name":"Hilda"}
+Now I can see that you are thinking
+of--of her.
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, mainly of Aline. For Aline--she, too, had her vocation in life,
+just as much as I had mine. 
+@d{}
+[His voice quivers.] 
+@l{"name":"Solness"}
+But her vocation has
+had to be stunted, and crushed, and shattered--in order that mine might
+force its way to--to a sort of great victory. For you must know that
+Aline--she, too, had a talent for building.
+
+
+
+@l{"name":"Hilda"}
+
+
+She! For building?
+
+
+
+@d{}
+[Shakes his head.] 
+@l{"name":"Solness"}
+Not houses and towers, and spires--not such things as
+I work away at--
+
+
+
+@l{"name":"Hilda"}
+
+
+Well, but what then?
+
+
+
+@d{}
+[Softly, with emotion.] 
+@l{"name":"Solness"}
+For building up the souls of little children,
+Hilda. For building up children's souls in perfect balance, and in
+noble and beautiful forms. For enabling them to soar up into erect and
+full-grown human souls. That was Aline's talent. And there it all
+lies now--unused and unusable for ever--of no earthly service to any
+one--just like the ruins left by a fire.
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, but even if this were so--?
+
+
+
+@l{"name":"Solness"}
+
+
+It is so! It is so! I know it!
+
+
+
+@l{"name":"Hilda"}
+
+
+Well, but in any case it is not your fault.
+
+
+
+@d{}
+[Fixes his eyes on her, and nods slowly.] 
+@l{"name":"Solness"}
+Ah, that is the great, the
+terrible question. That is the doubt that is gnawing me--night and day.
+
+
+
+@l{"name":"Hilda"}
+
+
+That?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes. Suppose the fault was mine--in a certain sense.
+
+
+
+@l{"name":"Hilda"}
+
+
+Your fault! The fire!
+
+
+
+@l{"name":"Solness"}
+
+
+All of it; the whole thing. And yet, perhaps--I may not have had
+anything to do with it.
+
+
+
+@d{}
+[Looks at him with a troubled expression.] 
+@l{"name":"Hilda"}
+Oh, Mr. Solness--if you can
+talk like that, I am afraid you must be--ill after all.
+
+
+
+@l{"name":"Solness"}
+
+
+H'm--I don't think I shall ever be of quite sound mind on that point.
+
+
+  
+@d{}
+RAGNAR BROVIK cautiously opens the little door in the left-
+  hand corner.  HILDA comes forward.
+
+
+
+@e{"names":["Ragnar"]}
+
+@d{}
+[When he sees Hilda.] 
+@l{"name":"Ragnar"}
+Oh. I beg pardon, Mr. Solness---- 
+@d{}
+[He makes a
+movement to withdraw.
+
+
+
+@l{"name":"Solness"}
+
+
+No, no, don't go. Let us get it over.
+
+
+
+@l{"name":"Ragnar"}
+
+
+Oh, yes--if only we could.
+
+
+
+@l{"name":"Solness"}
+
+
+I hear your father is no better?
+
+
+
+@l{"name":"Ragnar"}
+
+
+Father is fast growing weaker--and therefore I beg and implore you to
+write a few kind words for me on one of the plans! Something for father
+to read before he--
+
+
+
+@d{}
+[Vehemently.] 
+@l{"name":"Solness"}
+I won't hear anything more about those drawings of yours!
+
+
+
+@l{"name":"Ragnar"}
+
+
+Have you looked at them?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes--I have.
+
+
+
+@l{"name":"Ragnar"}
+
+
+And they are good for nothing? And _I_ am good for nothing, too?
+
+
+
+@d{}
+[Evasively.] 
+@l{"name":"Solness"}
+Stay here with me, Ragnar. You shall have everything your
+own way. And then you can marry Kaia, and live at your ease--and happily
+too, who knows? Only don't think of building on your own account.
+
+
+
+@l{"name":"Ragnar"}
+
+
+Well, well, then I must go home and tell father what you say--I promised
+I would.--Is this what I am to tell father--before he dies?
+
+
+
+@d{}
+[With a groan.] 
+@l{"name":"Solness"}
+Oh tell him--tell him what you will, for me. Best to say
+nothing at all to him! 
+@d{}
+[With a sudden outburst.] 
+@l{"name":"Solness"}
+I cannot do anything
+else, Ragnar!
+
+
+
+@l{"name":"Ragnar"}
+
+
+May I have the drawings to take with me?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, take them--take them by all means! They are lying there on the
+table.
+
+
+
+@d{}
+[Goes to the table.] 
+@l{"name":"Ragnar"}
+Thanks.
+
+
+
+@d{}
+[Puts her hand on the portfolio.] 
+@l{"name":"Hilda"}
+No, no; leave them here.
+
+
+
+@l{"name":"Solness"}
+
+
+Why?
+
+
+
+@l{"name":"Hilda"}
+
+
+Because I want to look at them, too.
+
+
+
+@l{"name":"Solness"}
+
+
+But you have been---- 
+@d{}
+[To Ragnar] 
+@l{"name":"Solness"}
+Well, leave them here, then.
+
+
+
+@l{"name":"Ragnar"}
+
+
+Very well.
+
+
+
+@l{"name":"Solness"}
+
+
+And go home at once to your father.
+
+
+
+@l{"name":"Ragnar"}
+
+
+Yes, I suppose I must.
+
+
+
+@d{}
+[As if in desperation.] 
+@l{"name":"Solness"}
+Ragnar--you must not ask me to do what is beyond
+my power! Do you hear, Ragnar? You must not!
+
+
+
+@l{"name":"Ragnar"}
+
+
+No, no. I beg you pardon--
+
+     
+@d{}
+[He bows, and goes out by the corner door.  HILDA goes over and
+       sits down on a chair near the mirror.
+
+
+
+@x{"names":["Ragnar"]}
+
+@d{}
+[Looks angrily at Solness] 
+@l{"name":"Hilda"}
+That was a very ugly thing to do.
+
+
+
+@l{"name":"Solness"}
+
+
+Do you think so, too?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, it was horribly ugly--and hard and bad and cruel as well.
+
+
+
+@l{"name":"Solness"}
+
+
+Oh, you don't understand my position.
+
+
+
+@l{"name":"Hilda"}
+
+
+No matter--. I say you ought not to be like that.
+
+
+
+@l{"name":"Solness"}
+
+
+You said yourself, only just now, that no one but _I_ ought to be
+allowed to build.
+
+
+
+@l{"name":"Hilda"}
+
+
+_I_ may say such things--but you must not.
+
+
+
+@l{"name":"Solness"}
+
+
+I most of all, surely, who have paid so dear for my position.
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh yes--with what you call domestic comfort--and that sort of thing.
+
+
+
+@l{"name":"Solness"}
+
+
+And with my peace of soul into the bargain.
+
+
+
+@d{}
+[Rising.] 
+@l{"name":"Hilda"}
+Peace of soul! 
+@d{}
+[With feeling.] 
+@l{"name":"Hilda"}
+Yes, yes, you are right in
+that! Poor Mr. Solness--you fancy that--
+
+
+
+@d{}
+[With a quiet, chuckling laugh.] 
+@l{"name":"Solness"}
+Just sit down again, Hilda, and I'll
+tell you something funny.
+
+
+
+@d{}
+[Sits down; with intent interest.] 
+@l{"name":"Hilda"}
+Well?
+
+
+
+@l{"name":"Solness"}
+
+
+It sounds such a ludicrous little thing; for, you see, the whole story
+turns upon nothing but a crack in the chimney.
+
+
+
+@l{"name":"Hilda"}
+
+
+No more than that?
+
+
+
+@l{"name":"Solness"}
+
+
+No, not to begin with.
+
+     
+@d{}
+[He moves a chair nearer to HILDA and sits down.
+
+
+
+@d{}
+[Impatiently, taps on her knee.] 
+@l{"name":"Hilda"}
+Well, now for the crack in the chimney!
+
+
+
+@l{"name":"Solness"}
+
+
+I had noticed the split in the flue long, long before the fire. Every
+time I went up into the attic, I looked to see if it was still there.
+
+
+
+@l{"name":"Hilda"}
+
+
+And it was?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes; for no one else knew about it.
+
+
+
+@l{"name":"Hilda"}
+
+
+And you said nothing?
+
+
+
+@l{"name":"Solness"}
+
+
+Nothing.
+
+
+
+@l{"name":"Hilda"}
+
+
+And did not think of repairing the flue either?
+
+
+
+@l{"name":"Solness"}
+
+
+Oh yes, I thought about it--but never got any further. Every time I
+intended to set to work, it seemed just as if a hand held me back. Not
+to-day, I thought--to-morrow; and nothing ever came of it.
+
+
+
+@l{"name":"Hilda"}
+
+
+But why did you keep putting it off like that?
+
+
+
+@l{"name":"Solness"}
+
+
+Because I was revolving something in my mind. 
+@d{}
+[Slowly, and in a low
+voice.] 
+@l{"name":"Solness"}
+Through that little black crack in the chimney, I might,
+perhaps, force my way upwards--as a builder.
+
+
+
+@d{}
+[Looking straight in front of her.] 
+@l{"name":"Hilda"}
+That must have been thrilling.
+
+
+
+@l{"name":"Solness"}
+
+
+Almost irresistible--quite irresistible. For at that time it appeared
+to me a perfectly simple and straightforward matter. I would have had
+it happen in the winter-time--a little before midday. I was to be out
+driving Aline in the sleigh. The servants at home would have made huge
+fires in the stoves.
+
+
+
+@l{"name":"Hilda"}
+
+
+For, of course, it was to be bitterly cold that day?
+
+
+
+@l{"name":"Solness"}
+
+
+Rather biting, yes--and they would want Aline to find it thoroughly snug
+and warm when she came home.
+
+
+
+@l{"name":"Hilda"}
+
+
+I suppose she is very chilly by nature?
+
+
+
+@l{"name":"Solness"}
+
+
+She is. And as we drove home, we were to see the smoke.
+
+
+
+@l{"name":"Hilda"}
+
+
+Only the smoke?
+
+
+
+@l{"name":"Solness"}
+
+
+The smoke first. But when we came up to the garden gate, the whole of
+the old timber-box was to be a rolling mass of flames.--That is how I
+wanted it to be, you see.
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh, why, why could it not have happened so!
+
+
+
+@l{"name":"Solness"}
+
+
+You may well say that, Hilda.
+
+
+
+@l{"name":"Hilda"}
+
+
+Well, but now listen, Mr. Solness. Are you perfectly certain that the
+fire was caused by that little crack in the chimney!
+
+
+
+@l{"name":"Solness"}
+
+
+No, on the contrary--I am perfectly certain that the crack in the
+chimney had nothing whatever to do with the fire.
+
+
+
+@l{"name":"Hilda"}
+
+
+What!
+
+
+
+@l{"name":"Solness"}
+
+
+It has been clearly ascertained that the fire broke out in a
+clothes-cupboard--in a totally different part of the house.
+
+
+
+@l{"name":"Hilda"}
+
+
+Then what is all this nonsense you are talking about the crack in the
+chimney!
+
+
+
+@l{"name":"Solness"}
+
+
+May I go on talking to you a little, Hilda?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, if you'll only talk sensibly--
+
+
+
+@l{"name":"Solness"}
+
+
+I will try to. 
+@d{}
+[He moves his chair nearer.
+
+
+
+@l{"name":"Hilda"}
+
+
+Out with it, then, Mr. Solness.
+
+
+
+@d{}
+[Confidentially.] 
+@l{"name":"Solness"}
+Don't you agree with me, Hilda, that there exist
+special, chosen people who have been endowed with the power and
+faculty if desiring a thing, craving for a thing, willing a thing--so
+persistently and so--so inexorably--that at last it has to happen? Don't
+you believe that?
+
+
+
+@d{}
+[With an indefinable expression in her eyes.] 
+@l{"name":"Hilda"}
+If that is so, we shall
+see, one of these days, whether _I_ am one of the chosen.
+
+
+
+@l{"name":"Solness"}
+
+
+It is not one's self alone that can do such great things. Oh, no--the
+helpers and the servers--they must do their part too, if it is to be of
+any good. But they never come of themselves. One has to call upon them
+very persistently--inwardly, you understand.
+
+
+
+@l{"name":"Hilda"}
+
+
+What are these helpers and servers?
+
+
+
+@l{"name":"Solness"}
+
+
+Oh, we can talk about that some other time. For the present, let us keep
+to this business of the fire.
+
+
+
+@l{"name":"Hilda"}
+
+
+Don't you think that fire would have happened all the same--even without
+your wishing for it?
+
+
+
+@l{"name":"Solness"}
+
+
+If the house had been old Knut Brovik's, it would never have burnt down
+so conveniently for him. I am sure of that; for he does not know how
+to call for the helpers--no, nor for the servers, either. 
+@d{}
+[Rises in
+unrest.] 
+@l{"name":"Solness"}
+So you see, Hilda--it is my fault, after all, that the lives of
+the two little boys had to be sacrificed. And do you think it is not
+my fault, too, that Aline has never been the woman she should and might
+have been--and that she most longed to be?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, but if it is all the work of these helpers and servers--?
+
+
+
+@l{"name":"Solness"}
+
+
+Who called for the helpers and servers? It was I! And they came and
+obeyed my will. 
+@d{}
+[In increasing excitement.] 
+@l{"name":"Solness"}
+That is what people call
+having the luck on your side; but I must tell you what this sort of luck
+feels like! It feels like a great raw place here on my breast. And the
+helpers and servers keep on flaying pieces of skin off other people in
+order to close my sore!--But still the sore is not healed--never, never!
+Oh, if you knew how it can sometimes gnaw and burn!
+
+
+
+@d{}
+[Looks attentively at him.] 
+@l{"name":"Hilda"}
+You are ill, Mr. Solness. Very ill, I almost
+think.
+
+
+
+@l{"name":"Solness"}
+
+
+Say mad; for that is what you mean.
+
+
+
+@l{"name":"Hilda"}
+
+
+No, I don't think there is much amiss with your intellect.
+
+
+
+@l{"name":"Solness"}
+
+
+With what then? Out with it!
+
+
+
+@l{"name":"Hilda"}
+
+
+I wonder whether you were not sent into the world with a sickly
+conscience.
+
+
+
+@l{"name":"Solness"}
+
+
+A sickly conscience? What devilry is that?
+
+
+
+@l{"name":"Hilda"}
+
+
+I mean that your conscience is feeble--too delicately built, as it
+were--hasn't strength to take a grip of things--to lift and bear what is
+heavy.
+
+
+
+@d{}
+[Growls.] 
+@l{"name":"Solness"}
+H'm! May I ask, then, what sort of a conscience one ought to
+have?
+
+
+
+@l{"name":"Hilda"}
+
+
+I should like your conscience to be--to be thoroughly robust.
+
+
+
+@l{"name":"Solness"}
+
+
+Indeed? Robust, eh? Is your own conscience robust, may I ask?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, I think it is. I have never noticed that it wasn't.
+
+
+
+@l{"name":"Solness"}
+
+
+It has not been put very severely to the test, I should think.
+
+
+
+@d{}
+[With a quivering of the lips.] 
+@l{"name":"Hilda"}
+Oh, it was no such simple matter to
+leave father--I am so awfully fond of him.
+
+
+
+@l{"name":"Solness"}
+
+
+Dear me! for a month or two--
+
+
+
+@l{"name":"Hilda"}
+
+
+I think I shall never go home again.
+
+
+
+@l{"name":"Solness"}
+
+
+Never? Then why did you leave him?
+
+
+
+@d{}
+[Half-seriously, half-banteringly.] 
+@l{"name":"Hilda"}
+Have you forgotten again that the
+ten year are up?
+
+
+
+@l{"name":"Solness"}
+
+
+Oh nonsense. Was anything wrong at home? Eh?
+
+
+
+@d{}
+[Quite seriously.] 
+@l{"name":"Hilda"}
+It was this impulse within me that urged and goaded
+me to come--and lured and drew me on, as well.
+
+
+
+@d{}
+[Eagerly.] 
+@l{"name":"Solness"}
+There we have it! There we have it, Hilda! There is the troll
+in you too, as in me. For it's the troll in one, you see--it is that
+that calls to the powers outside us. And then you must give in--whether
+you will or no.
+
+
+
+@l{"name":"Hilda"}
+
+
+I almost think you are right, Mr. Solness.
+
+
+
+@d{}
+[Walks about the room.] 
+@l{"name":"Solness"}
+Oh, there are devils innumerable abroad in the
+world, Hilda, that one never sees.
+
+
+
+@l{"name":"Hilda"}
+
+
+Devils, too?
+
+
+
+@d{}
+[Stops.] 
+@l{"name":"Solness"}
+Good devils and bad devils; light-haired devils and
+black-haired devils. If only you could always tell whether it is the
+light or dark ones that have got hold of you! 
+@d{}
+[Paces about.] 
+@l{"name":"Solness"}
+Ho-ho! Then
+it would be simple enough!
+
+
+
+@d{}
+[Follows him with her eyes.] 
+@l{"name":"Hilda"}
+Or if one had a really vigorous, radiantly
+healthy conscience--so that one dared to do what one would.
+
+
+
+@d{}
+[Stops beside the console table.] 
+@l{"name":"Solness"}
+I believe, now, that most people are
+just as puny creatures as I am in that respect.
+
+
+
+@l{"name":"Hilda"}
+
+
+I shouldn't wonder.
+
+
+
+@d{}
+[Leaning against the table.] 
+@l{"name":"Solness"}
+In the sagas--. Have you read any of the
+old sagas?
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh yes! When I used to read books, I--
+
+
+
+@l{"name":"Solness"}
+
+
+In the sagas you read about vikings, who sailed to foreign lands, and
+plundered and burned and killed men--
+
+
+
+@l{"name":"Hilda"}
+
+
+And carried off women--
+
+
+
+@l{"name":"Solness"}
+ --and kept them in captivity--
+
+
+
+@l{"name":"Hilda"}
+ --took them home in their ships--
+
+
+
+@l{"name":"Solness"}
+ --and behaved to them like--like the very worst of trolls.
+
+
+
+@d{}
+[Looks straight before her, with a half-veiled look.] 
+@l{"name":"Hilda"}
+I think that must
+have been thrilling.
+
+
+
+@d{}
+[With a short, deep laugh.] 
+@l{"name":"Solness"}
+To carry off women, eh?
+
+
+
+@l{"name":"Hilda"}
+
+
+To be carried off.
+
+
+
+@d{}
+[Looks at her a moment.] 
+@l{"name":"Solness"}
+Oh, indeed.
+
+
+
+@d{}
+[As if breaking the thread of the conversation.] 
+@l{"name":"Hilda"}
+But what made you speak
+of these vikings, Mr. Solness?
+
+
+
+@l{"name":"Solness"}
+
+
+Why, those fellows must have had robust consciences, if you like!
+When they got home again, they could eat and drink, and be as happy as
+children. And the women, too! They often would not leave them on any
+account. Can you understand that, Hilda?
+
+
+
+@l{"name":"Hilda"}
+
+
+Those women I can understand exceedingly well.
+
+
+
+@l{"name":"Solness"}
+
+
+Oho! Perhaps you could do the same yourself?
+
+
+
+@l{"name":"Hilda"}
+
+
+Why not?
+
+
+
+@l{"name":"Solness"}
+
+
+Live--of your own free will--with a ruffian like that?
+
+
+
+@l{"name":"Hilda"}
+
+
+If it was a ruffian I had come to love--
+
+
+
+@l{"name":"Solness"}
+
+
+Could you come to love a man like that?
+
+
+
+@l{"name":"Hilda"}
+
+
+Good heavens, you know very well one can't choose whom one is going to
+love.
+
+
+
+@d{}
+[Looks meditatively at her.] 
+@l{"name":"Solness"}
+Oh no, I suppose it is the troll within one
+that's responsible for that.
+
+
+
+@d{}
+[Half-laughing.] 
+@l{"name":"Hilda"}
+And all those blessed devils, that you know so
+well--both the light-haired and the dark-haired ones.
+
+
+
+@d{}
+[Quietly and warmly.] 
+@l{"name":"Solness"}
+Then I hope with all my heart that the devils will
+choose carefully for you, Hilda.
+
+
+
+@l{"name":"Hilda"}
+
+
+For me they have chosen already--once and for all.
+
+
+
+@d{}
+[Looks earnestly at her.] 
+@l{"name":"Solness"}
+Hilda--you are like a wild bird of the woods.
+
+
+
+@l{"name":"Hilda"}
+
+
+Far from it. I don't hide myself away under the bushes.
+
+
+
+@l{"name":"Solness"}
+
+
+No, no. There is rather something of the bird of prey in you.
+
+
+
+@l{"name":"Hilda"}
+
+
+That is nearer it--perhaps. 
+@d{}
+[Very vehemently.] 
+@l{"name":"Hilda"}
+And why not a bird of
+prey? Why should not _I_ go a-hunting--I, as well as the rest? Carry off
+the prey I want--if only I can get my claws into it, and do with it as I
+will.
+
+
+
+@l{"name":"Solness"}
+
+
+Hilda--do you know what you are?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, I suppose I am a strange sort of bird.
+
+
+
+@l{"name":"Solness"}
+
+
+No. You are like a dawning day. When I look at you--I seem to be looking
+towards the sunrise.
+
+
+
+@l{"name":"Hilda"}
+
+
+Tell me, Mr. Solness--are you certain that you have never called me to
+you? Inwardly, you know?
+
+
+
+@d{}
+[Softly and slowly.] 
+@l{"name":"Solness"}
+I almost think I must have.
+
+
+
+@l{"name":"Hilda"}
+
+
+What did you want with me?
+
+
+
+@l{"name":"Solness"}
+
+
+You are the younger generation, Hilda.
+
+
+
+@d{}
+[Smiles.] 
+@l{"name":"Hilda"}
+That younger generation that you are so afraid of?
+
+
+
+@d{}
+[Nods slowly.] 
+@l{"name":"Solness"}
+And which, in my heart, I yearn towards so deeply.
+
+     
+@d{}
+[HILDA rises, goes to the little table, and fetches RAGNAR
+       BROVIK'S portfolio.
+
+
+
+@d{}
+[Holds out the portfolio to him.] 
+@l{"name":"Hilda"}
+We were talking of these drawings--
+
+
+
+@d{}
+[Shortly, waving them away.] 
+@l{"name":"Solness"}
+Put those things away! I have seen enough
+of them.
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, but you have to write your approval on them.
+
+
+
+@l{"name":"Solness"}
+
+
+Write my approval on them? Never!
+
+
+
+@l{"name":"Hilda"}
+
+
+But the poor old man is lying at death's door! Can't you give him and
+his son this pleasure before they are parted? And perhaps he might get
+the commission to carry them out, too.
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, that is just what he would get. He has made sure of that--has my
+fine gentleman!
+
+
+
+@l{"name":"Hilda"}
+
+
+Then, good heavens--if that is so--can't you tell the least little bit
+of a lie for once in a way?
+
+
+
+@l{"name":"Solness"}
+
+
+A lie? 
+@d{}
+[Raging.] 
+@l{"name":"Solness"}
+Hilda--take those devil's drawings out of my sight!
+
+
+
+@d{}
+[Draws the portfolio a little nearer to herself.] 
+@l{"name":"Hilda"}
+Well, well,
+well--don't bite me.--You talk of trolls--but I think you go on like a
+troll yourself. 
+@d{}
+[Looks round.] 
+@l{"name":"Hilda"}
+Where do you keep your pen and ink?
+
+
+
+@l{"name":"Solness"}
+
+
+There is nothing of the sort in here.
+
+
+
+@d{}
+[Goes towards the door.] 
+@l{"name":"Hilda"}
+But in the office where that young lady is--
+
+
+
+@l{"name":"Solness"}
+
+
+Stay where you are, Hilda!--I ought to tell a lie, you say. Oh yes, for
+the sake of his old father I might well do that--for in my time I have
+crushed him, trodden him under foot--
+
+
+
+@l{"name":"Hilda"}
+
+
+Him, too?
+
+
+
+@l{"name":"Solness"}
+
+
+I needed room for myself. But this Ragnar--he must on no account be
+allowed to come to the front.
+
+
+
+@l{"name":"Hilda"}
+
+
+Poor fellow, there is surely no fear of that. If he has nothing in him--
+
+
+
+@d{}
+[Comes closer, looks at her, and whispers.] 
+@l{"name":"Solness"}
+If Ragnar Brovik gets his
+chance, he will strike me to the earth. Crush me--as I crushed his
+father.
+
+
+
+@l{"name":"Hilda"}
+
+
+Crush you? Has he the ability for that?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, you may depend upon it he has the ability! He is the younger
+generation that stands ready to knock at my door--to make an end of
+Halvard Solness.
+
+
+
+@d{}
+[Looks at him with quiet reproach.] 
+@l{"name":"Hilda"}
+And yet you would bar him out. Fie,
+Mr. Solness!
+
+
+
+@l{"name":"Solness"}
+
+
+The fight I have been fighting has cost heart's blood enough.--And I am
+afraid, too, that the helpers and servers will not obey me any longer.
+
+
+
+@l{"name":"Hilda"}
+
+
+Then you must go ahead without them. There is nothing else for it.
+
+
+
+@l{"name":"Solness"}
+
+
+It is hopeless, Hilda. The luck is bound to turn. A little sooner or a
+little later. Retribution is inexorable.
+
+
+
+@d{}
+[In distress, putting her hands over her ears.] 
+@l{"name":"Hilda"}
+Don't talk like that! Do
+you want to kill me? To take from me what is more than my life?
+
+
+
+@l{"name":"Solness"}
+
+
+And what is that?
+
+
+
+@l{"name":"Hilda"}
+
+
+The longing to see you great. To see you, with a wreath in your hand,
+high, high up upon a church-tower. 
+@d{}
+[Calm again.] 
+@l{"name":"Hilda"}
+Come, out with your
+pencil now. You must have a pencil about you?
+
+
+
+@d{}
+[Takes out his pocket-book.] 
+@l{"name":"Solness"}
+I have one here.
+
+
+
+@d{}
+[Lays the portfolio on the sofa-table.] 
+@l{"name":"Hilda"}
+Very well. Now let us two sit
+down here, Mr. Solness. 
+@d{}
+[SOLNESS seats himself at the table. HILDA
+stands behind him, leaning over the back of the chair.] 
+@l{"name":"Hilda"}
+And now we
+well write on the drawings. We must write very, very nicely and
+cordially--for this horrid Ruar--or whatever his name is.
+
+
+
+@d{}
+[Writes a few words, turns his head and looks at her.] 
+@l{"name":"Solness"}
+Tell me one
+thing, Hilda.
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes!
+
+
+
+@l{"name":"Solness"}
+
+
+If you have been waiting for me all these ten years--
+
+
+
+@l{"name":"Hilda"}
+
+
+What then?
+
+
+
+@l{"name":"Solness"}
+
+
+Why have you never written to me? Then I could have answered you.
+
+
+
+@d{}
+[Hastily.] 
+@l{"name":"Hilda"}
+No, no, no! That was just what I did not want.
+
+
+
+@l{"name":"Solness"}
+
+
+Why not?
+
+
+
+@l{"name":"Hilda"}
+
+
+I was afraid the whole thing might fall to pieces.--But we were going to
+write on the drawings, Mr. Solness.
+
+
+
+@l{"name":"Solness"}
+
+
+So we were.
+
+
+
+@d{}
+[Bends forward and looks over his shoulder while he writes.] 
+@l{"name":"Hilda"}
+Mind now,
+kindly and cordially! Oh how I hate--how I hate this Ruald--
+
+
+
+@d{}
+[Writing.] 
+@l{"name":"Solness"}
+Have you never really cared for any one, Hilda?
+
+
+
+@l{"name":"Hilda"}
+
+
+For any one else, I suppose you mean?
+
+
+
+@d{}
+[Looks up at her.] 
+@l{"name":"Solness"}
+For any one else, yes. Have you never? In all these
+ten years? Never?
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh yes, now and then. When I was perfectly furious with you for not
+coming.
+
+
+
+@l{"name":"Solness"}
+
+
+Then you did take an interest in other people, too?
+
+
+
+@l{"name":"Hilda"}
+
+
+A little bit--for a week or so. Good heavens, Mr. Solness, you surely
+know how such things come about.
+
+
+
+@l{"name":"Solness"}
+
+
+Hilda--what is it you have come for?
+
+
+
+@l{"name":"Hilda"}
+
+
+Don't waste time talking. The poor old man might go and die in the
+meantime.
+
+
+
+@l{"name":"Solness"}
+
+
+Answer me, Hilda. What do you want of me?
+
+
+
+@l{"name":"Hilda"}
+
+
+I want my kingdom.
+
+
+
+@l{"name":"Solness"}
+
+
+H'm--
+
+
+  
+@d{}
+He gives a rapid glance toward the door on the left, and
+  then goes on writing on the drawings.  At the same moment
+  MRS. SOLNESS enters.
+
+
+
+@e{"names":["Mrs. Solness"]}
+
+@l{"name":"Mrs. Solness"}
+
+
+Here are a few things I have got for you, Miss Wangel. The large parcels
+will be sent later on.
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh, how very, very kind of you!
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Only my simple duty. Nothing more than that.
+
+
+
+@d{}
+[Reading over what he has written.] 
+@l{"name":"Solness"}
+Aline!
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Yes?
+
+
+
+@l{"name":"Solness"}
+
+
+Did you notice whether the--the book-keeper was out there?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Yes, of course, she was there.
+
+
+
+@d{}
+[Puts the drawings in the portfolio.] 
+@l{"name":"Solness"}
+H'm--
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+She was standing at the desk, as she always is--when _I_ go through the
+room.
+
+
+
+@d{}
+[Rises.] 
+@l{"name":"Solness"}
+Then I'll give this to her and tell her that--
+
+
+
+@d{}
+[Takes the portfolio from him.] 
+@l{"name":"Hilda"}
+Oh, no, let me have the pleasure of
+doing that! 
+@d{}
+[Goes to the door, but turns.] 
+@l{"name":"Hilda"}
+What is her name?
+
+
+
+@l{"name":"Solness"}
+
+
+Her name is Miss Fosli.
+
+
+
+@l{"name":"Hilda"}
+
+
+Pooh, that sounds so cold! Her Christian name, I mean?
+
+
+
+@l{"name":"Solness"}
+
+
+Kaia--I believe.
+
+
+
+@d{}
+[Opens the door and calls out.] 
+@l{"name":"Hilda"}
+Kaia, come in here! Make haste! Mr.
+Solness wants to speak to you.
+
+
+  
+@d{}
+KAIA FOSLI appears at the door.
+
+
+
+@e{"names":["Kaia"]}
+
+@d{}
+[Looking at him in alarm.] 
+@l{"name":"Kaia"}
+Here I am--?
+
+
+
+
+@d{}
+[Handing her the portfolio.] 
+@l{"name":"Hilda"}
+See her, Kaia! You can take this home; Mr.
+Solness was written on them now.
+
+
+
+@l{"name":"Kaia"}
+
+
+Oh, at last!
+
+
+
+@l{"name":"Solness"}
+
+
+Give them to the old man as soon as you can.
+
+
+
+@l{"name":"Kaia"}
+
+
+I will go straight home with them.
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, do. Now Ragnar will have a chance of building for himself.
+
+
+
+@l{"name":"Kaia"}
+
+
+Oh, may he come and thank you for all--?
+
+
+
+@d{}
+[Harshly.] 
+@l{"name":"Solness"}
+I won't have any thanks! Tell him that from me.
+
+
+
+@l{"name":"Kaia"}
+
+
+Yes, I will--
+
+
+
+@l{"name":"Solness"}
+
+
+And tell him at the same time that henceforward I do not require his
+services--nor yours either.
+
+
+
+@d{}
+[Softly and quiveringly.] 
+@l{"name":"Kaia"}
+Not mine either?
+
+
+
+@l{"name":"Solness"}
+
+
+You will have other things to think of now, and to attend to; and that
+is a very good thing for you. Well, go home with the drawings now, Miss
+Fosli. At once! Do you hear?
+
+
+
+@d{}
+[As before.] 
+@l{"name":"Kaia"}
+Yes, Mr. Solness. 
+@d{}
+[She goes out.
+
+
+
+@x{"names":["Kaia"]}
+
+@l{"name":"Mrs. Solness"}
+
+
+Heavens! what deceitful eyes she has.
+
+
+
+@l{"name":"Solness"}
+
+
+She? That poor little creature?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Oh--I can see what I can see, Halvard.----Are you really dismissing
+them?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Her as well?
+
+
+
+@l{"name":"Solness"}
+
+
+Was not that what you wished?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+But how can you get on without her--? Oh well, no doubt you have some
+one else in reserve, Halvard.
+
+
+
+@d{}
+[Playfully.] 
+@l{"name":"Hilda"}
+Well, _I_ for one am not the person to stand at a desk.
+
+
+
+@l{"name":"Solness"}
+
+
+Never mind, never mind--it will be all right, Aline. Now all you have to
+do is think about moving into our new home--as quickly as you can. This
+evening we will hang up the wreath--
+@d{}
+[Turns to Hilda] 
+@l{"name":"Solness"}
+What do you say to
+that, Miss Hilda?
+
+
+
+@d{}
+[Looks at him with sparkling eyes.] 
+@l{"name":"Hilda"}
+It will be splendid to see you so
+high up once more.
+
+
+
+@l{"name":"Solness"}
+
+
+Me!
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+For Heaven's sake, Miss Wangel, don't imagine such a thing! My
+husband!--when he always gets so dizzy!
+
+
+
+@l{"name":"Hilda"}
+
+
+He get dizzy! No, I know quite well he does not!
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Oh yes, indeed he does.
+
+
+
+@l{"name":"Hilda"}
+
+
+But I have seen him with my own eyes right up at the top of a high
+church-tower!
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Yes, I hear people talk of that; but it is utterly impossible--
+
+
+
+@d{}
+[Vehemently.] 
+@l{"name":"Solness"}
+Impossible--impossible, yes! But there I stood all the
+same!
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+O, how can you say so, Halvard? Why, you can't even bear to go out on
+the second-storey balcony here. You have always been like that.
+
+
+
+@l{"name":"Solness"}
+
+
+You may perhaps see something different this evening.
+
+
+
+@d{}
+[In alarm.] 
+@l{"name":"Mrs. Solness"}
+No, no, no! Please God I shall never see that. I will write
+at once to the doctor--and I am sure he won't let you do it.
+
+
+
+@l{"name":"Solness"}
+
+
+Why, Aline--!
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Oh, you know you're ill, Halvard. This proves it! Oh God--Oh God!
+
+     
+@d{}
+[She goes hastily out to the right.
+
+
+
+@x{"names":["Mrs. Solness"]}
+
+@d{}
+[Looks intently at him.] 
+@l{"name":"Hilda"}
+Is it so, or is it not?
+
+
+
+@l{"name":"Solness"}
+
+
+That I turn dizzy?
+
+
+
+@l{"name":"Hilda"}
+
+
+That my master builder dares not--cannot--climb as high as he builds?
+
+
+
+@l{"name":"Solness"}
+
+
+Is that the way you look at it?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes.
+
+
+
+@l{"name":"Solness"}
+
+
+I believe there is scarcely a corner in me that is safe from you.
+
+
+
+@d{}
+[Looks towards the bow-window.] 
+@l{"name":"Hilda"}
+Up there, then. Right up there--
+
+
+
+@d{}
+[Approaches her.] 
+@l{"name":"Solness"}
+You might have the topmost room in the tower,
+Hilda--there you might live like a princess.
+
+
+
+@d{}
+[Indefinably, between earnest and jest.] 
+@l{"name":"Hilda"}
+Yes, that is what you promised
+me.
+
+
+
+@l{"name":"Solness"}
+
+
+Did I really?
+
+
+
+@l{"name":"Hilda"}
+
+
+Fie, Mr. Solness! You said I should be a princess, and that you would
+give me a kingdom. And then you went and--Well!
+
+
+
+@d{}
+[Cautiously.] 
+@l{"name":"Solness"}
+Are you quite certain that this is not a dream--a fancy,
+that has fixed itself in your mind?
+
+
+
+@d{}
+[Sharply.] 
+@l{"name":"Hilda"}
+Do you mean that you did not do it?
+
+
+
+@l{"name":"Solness"}
+
+
+I scarcely know myself. 
+@d{}
+[More softly.] 
+@l{"name":"Solness"}
+But now I know so much for
+certain, that I--
+
+
+
+@l{"name":"Hilda"}
+
+
+That you--? Say it at once!
+
+
+
+@l{"name":"Solness"}
+ --that I ought to have done it.
+
+
+
+@d{}
+[Exclaims with animation.] 
+@l{"name":"Hilda"}
+Don't tell me you can ever be dizzy!
+
+
+
+@l{"name":"Solness"}
+
+
+This evening, then, we will hang up the wreath--Princess Hilda.
+
+
+
+@d{}
+[With a bitter curve of the lips.] 
+@l{"name":"Hilda"}
+Over your new home, yes.
+
+
+
+@l{"name":"Solness"}
+
+
+Over the new house, which will never be a home for me.
+
+     
+@d{}
+[He goes out through the garden door.
+
+
+
+@x{"names":["Solness"]}
+
+@d{}
+[Looks straight in front of her with a far-away expression, and whispers
+to herself. The only words audible are:]
+@l{"name":"Hilda"}
+--frightfully thrilling--
+
+@x{"names":["Hilda"]}
+
+@a{"number":3}
+@s{"number":1}
+@d{}
+
+ACT THIRD.
+
+  The large broad verandah of SOLNESS'S dwelling-house.  Part
+  of the house, with outer door leading to the verandah, is
+  seen to the left.  A railing along the verandah to the right.
+  At the back, from the end of the verandah, a flight of steps
+  leads down to the garden below.  Tall old trees in the
+  garden spread their branches over the verandah and towards
+  the house.  Far to the right, in among the trees, a glimpse
+  is caught of the lower part of the new villa, with scaffolding
+  round so much as is seen of the tower.  In the background
+  the garden is bounded by an old wooden fence.  Outside the
+  fence, a street with low, tumble-down cottages.
+
+  Evening sky with sun-lit clouds.
+
+  On the verandah, a garden bench stands along the wall of the
+  house, and in front of the bench a long table.  On the other
+  side of the table, an arm-chair and some stools.  All the
+  furniture is of wicker-work.
+
+  MRS. SOLNESS, wrapped in a large white crepe shawl, sits
+  resting in the arm-chair and gazes over to the right.
+  Shortly after, HILDA WANGEL comes up the flight of steps
+  from the garden.  She is dressed as in the last act, and
+  wears her hat.  She has in her bodice a little nosegay of
+  small common flowers.
+
+
+
+@e{"names":["Mrs. Solness","Hilda"]}
+
+@d{}
+[Turning her head a little.] 
+@l{"name":"Mrs. Solness"}
+Have you been round the garden, Miss
+Wangel?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, I have been taking a look at it.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+And found some flowers too, I see.
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, indeed! There are such heaps of them in among the bushes.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Are there, really? Still? You see I scarcely ever go there.
+
+
+
+@d{}
+[Closer.] 
+@l{"name":"Hilda"}
+What! Don't you take a run down into the garden every day,
+then?
+
+
+
+@d{}
+[With a faint smile.] 
+@l{"name":"Mrs. Solness"}
+I don't "run" anywhere, nowadays.
+
+
+
+@l{"name":"Hilda"}
+
+
+Well, but do you not go down now and then to look at all the lovely
+things there?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+It has all become so strange to me. I am almost afraid to see it again.
+
+
+
+@l{"name":"Hilda"}
+
+
+Your own garden!
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+I don't feel that it is mine any longer.
+
+
+
+@l{"name":"Hilda"}
+
+
+What do you mean--?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+No, no, it is not--not as it was in my mother's and father's time. They
+have taken away so much--so much of the garden, Miss Wangel. Fancy--they
+have parcelled it out--and built houses for strangers--people that I
+don't know. And they can sit and look in upon me from their windows.
+
+
+
+@d{}
+[With a bright expression.] 
+@l{"name":"Hilda"}
+Mrs. Solness!
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Yes?
+
+
+
+@l{"name":"Hilda"}
+
+
+May I stay here with you a little?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Yes, by all means, if you care to.
+
+     
+@d{}
+[HILDA moves a stool close to the arm-chair and sits down.
+
+
+
+@l{"name":"Hilda"}
+
+
+Ah--here one can sit and sun oneself like a cat.
+
+
+
+@d{}
+[Lays her hand softly on HILDA'S neck.] 
+@l{"name":"Mrs. Solness"}
+It is nice of you to be willing
+to sit with me. I thought you wanted to go in to my husband.
+
+
+
+@l{"name":"Hilda"}
+
+
+What should I want with him?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+To help him, I thought.
+
+
+
+@l{"name":"Hilda"}
+
+
+No, thank you. And besides, he is not in. He is over there with his
+workmen. But he looked so fierce that I did not dare to talk to him.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+He is so kind and gentle in reality.
+
+
+
+@l{"name":"Hilda"}
+
+
+He!
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+You do not really know him yet, Miss Wangel.
+
+
+
+@d{}
+[Looks affectionately at her.] 
+@l{"name":"Hilda"}
+Are you pleased at the thought of moving
+over to the new house?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+I ought to be pleased; for it is what Halvard wants--
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh, not just on that account, surely?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Yes, yes, Miss Wangel; for it is only my duty to submit myself to
+him. But very often it is dreadfully difficult to force one's mind to
+obedience.
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, that must be difficult indeed.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+I can tell you it is--when one has so many faults as I have--
+
+
+
+@l{"name":"Hilda"}
+
+
+When one has gone through so much trouble as you have--
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+How do you know about that?
+
+
+
+@l{"name":"Hilda"}
+
+
+Your husband told me.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+To me he very seldom mentions these things.--Yes, I can tell you I have
+gone through more than enough trouble in my life, Miss Wangel.
+
+
+
+@d{}
+[Looks sympathetically at her and nods slowly.] 
+@l{"name":"Hilda"}
+Poor Mrs. Solness. First
+of all there was the fire--
+
+
+
+@d{}
+[With a sigh.] 
+@l{"name":"Mrs. Solness"}
+Yes, everything that was mine was burnt.
+
+
+
+@l{"name":"Hilda"}
+
+
+And then came what was worse.
+
+
+
+@d{}
+[Looking inquiringly at her.] 
+@l{"name":"Mrs. Solness"}
+Worse?
+
+
+
+@l{"name":"Hilda"}
+
+
+The worst of all.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+What do you mean?
+
+
+
+@d{}
+[Softly.] 
+@l{"name":"Hilda"}
+You lost the two little boys.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Oh, yes, the boys. But, you see, that was a thing apart. That was a
+dispensation of Providence; and in such things one can only bow in
+submission--yes, and be thankful, too.
+
+
+
+@l{"name":"Hilda"}
+
+
+Then you are so?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Not always, I am sorry to say. I know well enough that it is my
+duty--but all the same I cannot.
+
+
+
+@l{"name":"Hilda"}
+
+
+No, no, I think that is only natural.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+And often and often I have to remind myself that it was a righteous
+punishment for me--
+
+
+
+@l{"name":"Hilda"}
+
+
+Why?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Because I had not fortitude enough in misfortune.
+
+
+
+@l{"name":"Hilda"}
+
+
+But I don't see that--
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Oh, no, no, Miss Wangel--do not talk to me any more about the two little
+boys. We ought to feel nothing but joy in thinking of them; for they are
+so happy--so happy now. No, it is the small losses in life that cut
+one to the heart--the loss of all that other people look upon as almost
+nothing.
+
+
+
+@d{}
+[Lays her arms on MRS. SOLNESS'S knees, and looks up at her
+affectionately.] 
+@l{"name":"Hilda"}
+Dear Mrs. Solness--tell me what things you mean!
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+As I say, only little things. All the old portraits were burnt on the
+walls. And all the old silk dresses were burnt, what had belonged to
+the family for generations and generations. And all mother's and
+grandmother's lace--that was burnt, too. And only think--the jewels,
+too! 
+@d{}
+[Sadly.] 
+@l{"name":"Mrs. Solness"}
+And then all the dolls.
+
+
+
+@l{"name":"Hilda"}
+
+
+The dolls?
+
+
+
+@d{}
+[Choking with tears.] 
+@l{"name":"Mrs. Solness"}
+I had nine lovely dolls.
+
+
+
+@l{"name":"Hilda"}
+
+
+And they were burnt too?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+All of them. Oh, it was hard--so hard for me.
+
+
+
+@l{"name":"Hilda"}
+
+
+Had you put by all these dolls, then? Ever since you were little?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+I had not put them by. The dolls and I had gone on living together.
+
+
+
+@l{"name":"Hilda"}
+
+
+After you were grown up?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Yes, long after that.
+
+
+
+@l{"name":"Hilda"}
+
+
+After you were married, too?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Oh yes, indeed. So long as he did not see it--. But they were all burnt
+up, poor things. No one thought of saving them. Oh, it is so miserable
+to think of. You mustn't laugh at me, Miss Wangel.
+
+
+
+@l{"name":"Hilda"}
+
+
+I am not laughing in the least.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+For you see, in a certain sense, there was life in them, too. I carried
+them under my heart--like little unborn children.
+
+
+  
+@d{}
+DR. HERDAL, with his hat in his hand, comes out through the
+  door, and observes Mrs. Solness and Hilda
+
+
+
+@e{"names":["Dr. Herdal"]}
+
+@l{"name":"Dr. Herdal"}
+
+
+Well, Mrs. Solness, so you are sitting out here catching cold?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+I find it so pleasant and warm here to-day.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Yes, yes. But is there anything going on here? I got a note from you.
+
+
+
+@d{}
+[Rises.] 
+@l{"name":"Mrs. Solness"}
+Yes, there is something I must talk to you about.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Very well; then perhaps we better go in. 
+@d{}
+[To Hilda] 
+@l{"name":"Dr. Herdal"}
+Still in your
+mountaineering dress, Miss Wangel?
+
+
+
+@d{}
+[Gaily, rising.] 
+@l{"name":"Hilda"}
+Yes--in full uniform! But to-day I am not going
+climbing and breaking my neck. We two will stop quietly below and look
+on, doctor.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+What are we to look on at?
+
+
+
+@d{}
+[Softly, in alarm, to Hilda] 
+@l{"name":"Mrs. Solness"}
+Hush, hush--for God's sake! He is coming!
+Try to get that idea out of his head. And let us be friends, Miss
+Wangel. Don't you think we can?
+
+
+
+@d{}
+[Throws her arms impetuously round MRS. SOLNESS'S neck.] 
+@l{"name":"Hilda"}
+Oh, if we only
+could!
+
+
+
+@d{}
+[Gently disengages herself.] 
+@l{"name":"Mrs. Solness"}
+There, there, there! There he comes,
+doctor. Let me have a word with you.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Is it about him?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Yes, to be sure it's about him. Do come in.
+
+
+  
+@d{}
+She and the doctor enter the house.  Next moment SOLNESS
+  comes up from the garden by the flight of steps.  A serious
+  look comes over HILDA'S face.
+
+
+
+@e{"names":["Solness"]}
+
+@x{"names":["Dr. Herdal","Mrs. Solness"]}
+
+@d{}
+[Glances at the house-door, which is closed cautiously from within.]
+
+@l{"name":"Solness"}
+Have you noticed, Hilda, that as soon as I come, she goes?
+
+
+
+@l{"name":"Hilda"}
+
+
+I have noticed that as soon as you come, you make her go.
+
+
+
+@l{"name":"Solness"}
+
+
+Perhaps so. But I cannot help it. 
+@d{}
+[Looks observantly at her.] 
+@l{"name":"Solness"}
+Are you
+cold, Hilda? I think you look cold.
+
+
+
+@l{"name":"Hilda"}
+
+
+I have just come up out of a tomb.
+
+
+
+@l{"name":"Solness"}
+
+
+What do you mean by that?
+
+
+
+@l{"name":"Hilda"}
+
+
+That I have got chilled through and through, Mr. Solness.
+
+
+
+@d{}
+[Slowly.] 
+@l{"name":"Solness"}
+I believe I understand--
+
+
+
+@l{"name":"Hilda"}
+
+
+What brings you up here just now?
+
+
+
+@l{"name":"Solness"}
+
+
+I caught sight of you from over there.
+
+
+
+@l{"name":"Hilda"}
+
+
+But then you must have seen her too?
+
+
+
+@l{"name":"Solness"}
+
+
+I knew she would go at once if I came.
+
+
+
+@l{"name":"Hilda"}
+
+
+Is it very painful for you that she should avoid you in this way?
+
+
+
+@l{"name":"Solness"}
+
+
+In one sense, it's a relief as well.
+
+
+
+@l{"name":"Hilda"}
+
+
+Not to have her before your eyes?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes.
+
+
+
+@l{"name":"Hilda"}
+
+
+Not to be always seeing how heavily the loss of the little boys weighs
+upon her?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes. Chiefly that.
+
+     
+@d{}
+[HILDA drifts across the verandah with her hands behind her
+       back, stops at the railing and looks out over the garden.
+
+
+
+@d{}
+[After a short pause.] 
+@l{"name":"Solness"}
+Did you have a long talk with her?
+
+     
+@d{}
+[HILDA stands motionless and does not answer.
+
+
+
+@l{"name":"Solness"}
+
+
+Had you a long talk, I asked? 
+@d{}
+[HILDA is silent as before.
+
+
+
+@l{"name":"Solness"}
+
+
+What was she talking about, Hilda? 
+@d{}
+[HILDA continues silent.
+
+
+
+@l{"name":"Solness"}
+
+
+Poor Aline! I suppose it was about the little boys.
+
+
+
+@d{}
+[A nervous shudder runs through her; then she nods hurriedly
+       once or twice.
+
+
+
+@l{"name":"Solness"}
+
+
+She will never get over it--never in this world. 
+@d{}
+[Approaches her.]
+
+@l{"name":"Solness"}
+Now you are standing there again like a statue; just as you stood last
+night.
+
+
+
+@d{}
+[Turns and looks at him, with great serious eyes.] 
+@l{"name":"Hilda"}
+I am going away.
+
+
+
+@d{}
+[Sharply.] 
+@l{"name":"Solness"}
+Going away!
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes.
+
+
+
+@l{"name":"Solness"}
+
+
+But I won't allow you to!
+
+
+
+@l{"name":"Hilda"}
+
+
+What am I to do here now?
+
+
+
+@l{"name":"Solness"}
+
+
+Simply to be here, Hilda!
+
+
+
+@d{}
+[Measures him with a look.] 
+@l{"name":"Hilda"}
+Oh, thank you. You know it wouldn't end
+there.
+
+
+
+@d{}
+[Heedlessly.] 
+@l{"name":"Solness"}
+So much the better!
+
+
+
+@d{}
+[Vehemently.] 
+@l{"name":"Hilda"}
+I cannot do any harm to one whom I know! I can't take away
+anything that belongs to her.
+
+
+
+@l{"name":"Solness"}
+
+
+Who wants you to do that?
+
+
+
+@d{}
+[Continuing.] 
+@l{"name":"Hilda"}
+A stranger, yes! for that is quite a different thing! A
+person I have never set eyes on. But one that I have come into close
+contact with--! Oh no! Oh no! Ugh!
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, but I never proposed you should.
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh, Mr. Solness, you know quite well what the end of it would be. And
+that is why I am going away.
+
+
+
+@l{"name":"Solness"}
+
+
+And what is to become of me when you are gone? What shall I have to live
+for then?--After that?
+
+
+
+@d{}
+[With the indefinable look in her eyes.] 
+@l{"name":"Hilda"}
+It is surely not so hard for
+you. You have your duties to her. Live for those duties.
+
+
+
+@l{"name":"Solness"}
+
+
+Too late. These powers--these--these--
+
+
+
+@l{"name":"Hilda"}
+ --devils--
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, these devils! And the troll within me as well--they have drawn all
+the life-blood out of her. 
+@d{}
+[Laughs in desperation.] 
+@l{"name":"Solness"}
+They did it for my
+happiness! Yes, yes! 
+@d{}
+[Sadly.] 
+@l{"name":"Solness"}
+And now she is dead--for my sake. And I
+am chained alive to a dead woman. 
+@d{}
+[In wild anguish.] 
+@l{"name":"Solness"}
+_I_--_I_ who cannot
+live without joy in life!
+
+     
+@d{}
+[HILDA moves round the table and seats herself on the bench,
+       with her elbows on the table, and her head supported by her
+       hands.
+
+
+
+@d{}
+[Sits and looks at him awhile.] 
+@l{"name":"Hilda"}
+What will you build next?
+
+
+
+@d{}
+[Shakes his head.] 
+@l{"name":"Solness"}
+I don't believe I shall build much more.
+
+
+
+@l{"name":"Hilda"}
+
+
+Not those cosy, happy homes for mother and father, and for the troop of
+children?
+
+
+
+@l{"name":"Solness"}
+
+
+I wonder whether there will be any use for such homes in the coming
+time.
+
+
+
+@l{"name":"Hilda"}
+
+
+Poor Mr. Solness! And you have gone all these ten years--and staked your
+whole life--on that alone.
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, you may well say so, Hilda.
+
+
+
+@d{}
+[With an outburst.] 
+@l{"name":"Hilda"}
+Oh, it all seems to me so foolish--so foolish!
+
+
+
+@l{"name":"Solness"}
+
+
+All what?
+
+
+
+@l{"name":"Hilda"}
+
+
+Not to be able to grasp at your own happiness--at your own life! Merely
+because some one you know happens to stand in the way!
+
+
+
+@l{"name":"Solness"}
+
+
+One whom you have no right to set aside.
+
+
+
+@l{"name":"Hilda"}
+
+
+I wonder whether one really has not the right! And yet, and yet--. Oh!
+if one could only sleep the whole thing away!
+
+     
+@d{}
+[She lays her arms flat don on the table, rests the left side of
+       her head on her hands, and shuts her eyes.
+
+
+
+
+@d{}
+[Turns the arm-chair and sits down at the table.] 
+@l{"name":"Solness"}
+Had you a cosy, happy
+home--up there with your father, Hilda?
+
+
+
+@d{}
+[Without stirring, answers as if half asleep.] 
+@l{"name":"Hilda"}
+I had only a cage.
+
+
+
+@l{"name":"Solness"}
+
+
+And you are determined not to go back to it?
+
+
+
+@d{}
+[As before.] 
+@l{"name":"Hilda"}
+The wild bird never wants to go back to the cage.
+
+
+
+@l{"name":"Solness"}
+
+
+Rather range through the free air--
+
+
+
+@d{}
+[Still as before.] 
+@l{"name":"Hilda"}
+The bird of prey loves to range--
+
+
+
+@d{}
+[Lets his eyes rest on her.] 
+@l{"name":"Solness"}
+If only one had the viking-spirit in life--
+
+
+
+@d{}
+[In her usual voice; opens her eyes but does not move.] 
+@l{"name":"Hilda"}
+And the other
+thing? Say what that was!
+
+
+
+@l{"name":"Solness"}
+
+
+A robust conscience.
+
+     
+@d{}
+[HILDA sits erect on the bench, with animation.  Her eyes have
+       once more the sparkling expression of gladness.
+
+
+
+@d{}
+[Nods to him.] 
+@l{"name":"Hilda"}
+_I_ know what you are going to build next!
+
+
+
+@l{"name":"Solness"}
+
+
+Then you know more than I do, Hilda.
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, builders are such stupid people.
+
+
+
+@l{"name":"Solness"}
+
+
+What is it to be then?
+
+
+
+@d{}
+[Nods again.] 
+@l{"name":"Hilda"}
+The castle.
+
+
+
+@l{"name":"Solness"}
+
+
+What castle?
+
+
+
+@l{"name":"Hilda"}
+
+
+My castle, of course.
+
+
+
+@l{"name":"Solness"}
+
+
+Do you want a castle now?
+
+
+
+@l{"name":"Hilda"}
+
+
+Don't you owe me a kingdom, I should like to know?
+
+
+
+@l{"name":"Solness"}
+
+
+You say I do.
+
+
+
+@l{"name":"Hilda"}
+
+
+Well--you admit you owe me this kingdom. And you can't have a kingdom
+without a royal castle, I should think.
+
+
+
+@d{}
+[More and more animated.] 
+@l{"name":"Solness"}
+Yes, they usually go together.
+
+
+
+@l{"name":"Hilda"}
+
+
+Good! Then build it for me! This moment!
+
+
+
+@d{}
+[Laughing.] 
+@l{"name":"Solness"}
+Must you have that on the instant, too?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, to be sure! For the ten years are up now, and I am not going to
+wait any longer. So--out with the castle, Mr. Solness!
+
+
+
+@l{"name":"Solness"}
+
+
+It's no light matter to owe you anything, Hilda.
+
+
+
+@l{"name":"Hilda"}
+
+
+You should have thought of that before. It is too late now. So--
+@d{}
+[tapping
+the table]
+@l{"name":"Hilda"}
+--the castle on the table! It is my castle! I will have it at
+once!
+
+
+
+@d{}
+[More seriously, leans over towards her, with his arms on the table.]
+
+@l{"name":"Solness"}
+What sort of castle have you imagined, Hilda?
+
+     
+@d{}
+[Her expression becomes more and more veiled.  She seems gazing
+       inwards at herself.
+
+
+
+@d{}
+[Slowly.] 
+@l{"name":"Hilda"}
+My castle shall stand on a height--on a very great
+height--with a clear outlook on all sides, so that I can see far--far
+around.
+
+
+
+@l{"name":"Solness"}
+
+
+And no doubt it is to have a high tower!
+
+
+
+@l{"name":"Hilda"}
+
+
+A tremendously high tower. And at the very top of the tower there shall
+be a balcony. And I will stand out upon it--
+
+
+
+@d{}
+[Involuntarily clutches at his forehead.] 
+@l{"name":"Solness"}
+How can you like to stand at
+such a dizzy height--?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, I will! Right up there will I stand and look down on the other
+people--on those that are building churches, and homes for mother and
+father and the troop of children. And you may come up and look on at it,
+too.
+
+
+
+@d{}
+[In a low tone.] 
+@l{"name":"Solness"}
+Is the builder to be allowed to come up beside the
+princess?
+
+
+
+@l{"name":"Hilda"}
+
+
+If the builder will.
+
+
+
+@d{}
+[More softly.] 
+@l{"name":"Solness"}
+Then I think the builder will come.
+
+
+
+@d{}
+[Nods.] 
+@l{"name":"Hilda"}
+The builder--he will come.
+
+
+
+@l{"name":"Solness"}
+
+
+But he will never be able to build any more. Poor builder!
+
+
+
+@d{}
+[Animated.] 
+@l{"name":"Hilda"}
+Oh, yes, he will! We two will set to work together. And then
+we will build the loveliest--the very loveliest--thing in all the world.
+
+
+
+@d{}
+[Intently.] 
+@l{"name":"Solness"}
+Hilda--tell me what that is!
+
+
+
+@d{}
+[Looks smilingly at him, shakes her head a little, pouts, and speaks as
+if to a child.] 
+@l{"name":"Hilda"}
+Builders--they are such very--very stupid people.
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, no doubt they are stupid. But now tell me what it is--the loveliest
+thing in the world--that we two are to build together?
+
+
+
+@d{}
+[Is silent a little while, then says with an indefinable expression in
+her eyes.] 
+@l{"name":"Hilda"}
+Castles in the air.
+
+
+
+@l{"name":"Solness"}
+
+
+Castles in the air?
+
+
+
+@d{}
+[Nods.] 
+@l{"name":"Hilda"}
+Castles in the air, yes! Do you know what sort of thing a castle
+in the air is?
+
+
+
+@l{"name":"Solness"}
+
+
+It is the loveliest thing in the world, you say.
+
+
+
+@d{}
+[Rises with vehemence, and makes a gesture of repulsion with her hand.]
+
+@l{"name":"Hilda"}
+Yes, to be sure it is! Castles in the air--they are so easy to build, too--
+
+@d{}
+[looks scornfully at him]
+@l{"name":"Hilda"}
+--especially for the builders who have
+a--a dizzy conscience.
+
+
+
+@d{}
+[Rises.] 
+@l{"name":"Solness"}
+After this day we two will build together, Hilda.
+
+
+
+@d{}
+[With a half-dubious smile.] 
+@l{"name":"Hilda"}
+A real castle in the air?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes. One with a firm foundation under it.
+
+
+  
+@d{}
+RAGNAR BROVIK comes out from the house.  He is carrying a
+  large green wreath with flowers and silk ribbons.
+
+
+
+@e{"names":["Ragnar"]}
+
+@d{}
+[With an outburst of pleasure.] 
+@l{"name":"Hilda"}
+The wreath! Oh, that will be glorious!
+
+
+
+@d{}
+[In surprise.] 
+@l{"name":"Solness"}
+Have you brought the wreath Ragnar?
+
+
+
+@l{"name":"Ragnar"}
+
+
+I promised the foreman I would.
+
+
+
+@d{}
+[Relieved.] 
+@l{"name":"Solness"}
+Ah, then I suppose you father is better?
+
+
+
+@l{"name":"Ragnar"}
+
+
+No.
+
+
+
+@l{"name":"Solness"}
+
+
+Was he not cheered by what I wrote?
+
+
+
+@l{"name":"Ragnar"}
+
+
+It came too late.
+
+
+
+@l{"name":"Solness"}
+
+
+Too late!
+
+
+
+@l{"name":"Ragnar"}
+
+
+When she came with it he was unconscious. He had had a stroke.
+
+
+
+@l{"name":"Solness"}
+
+
+Why, then, you must go home to him! You must attend to your father!
+
+
+
+@l{"name":"Ragnar"}
+
+
+He does not need me any more.
+
+
+
+@l{"name":"Solness"}
+
+
+But surely you ought to be with him.
+
+
+
+@l{"name":"Ragnar"}
+
+
+She is sitting by his bed.
+
+
+
+@d{}
+[Rather uncertainly.] 
+@l{"name":"Solness"}
+Kaia?
+
+
+
+@d{}
+[Looking darkly at him.] 
+@l{"name":"Ragnar"}
+Yes--Kaia.
+
+
+
+@l{"name":"Solness"}
+
+
+Go home, Ragnar--both to him and to her. Give me the wreath.
+
+
+
+@d{}
+[Suppresses a mocking smile.] 
+@l{"name":"Ragnar"}
+You don't mean that you yourself--?
+
+
+
+@l{"name":"Solness"}
+
+
+I will take it down to them myself 
+@d{}
+[Takes the wreath from him.] 
+@l{"name":"Solness"}
+And now
+you go home; we don't require you to-day.
+
+
+
+@l{"name":"Ragnar"}
+
+
+I know you do not require me any more; but to-day I shall remain.
+
+
+
+@l{"name":"Solness"}
+
+
+Well, remain then, since you are bent upon it.
+
+
+
+@d{}
+[At the railing.] 
+@l{"name":"Hilda"}
+Mr. Solness, I will stand here and look on at you.
+
+
+
+@l{"name":"Solness"}
+
+
+At me!
+
+
+
+@l{"name":"Hilda"}
+
+
+It will be fearfully thrilling.
+
+
+
+@d{}
+[In a low tone.] 
+@l{"name":"Solness"}
+We will talk about that presently, Hilda.
+
+     
+@d{}
+[He goes down the flight of steps with the wreath, and away
+       through the garden.
+
+
+
+@x{"names":["Solness"]}
+
+@d{}
+[Looks after him, then turns to Ragnar] 
+@l{"name":"Hilda"}
+I think you might at least have
+thanked him
+
+
+
+@l{"name":"Ragnar"}
+
+
+Thanked him? Ought I to have thanked him?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, of course you ought!
+
+
+
+@l{"name":"Ragnar"}
+
+
+I think it is rather you I ought to thank.
+
+
+
+@l{"name":"Hilda"}
+
+
+How can you say such a thing?
+
+
+
+@d{}
+[Without answering her.] 
+@l{"name":"Ragnar"}
+But I advise you to take care, Miss Wangel! For
+you don't know him rightly yet.
+
+
+
+@d{}
+[Ardently.] 
+@l{"name":"Hilda"}
+Oh, no one knows him as I do!
+
+
+
+@d{}
+[Laughs in exasperation.] 
+@l{"name":"Ragnar"}
+Thank him, when he has held me down year
+after year! When he made father disbelieve in me--made me disbelieve in
+myself! And all merely that he might--!
+
+
+
+@d{}
+[As if divining something.] 
+@l{"name":"Hilda"}
+That he might--? Tell me at once!
+
+
+
+@l{"name":"Ragnar"}
+
+
+That he might keep her with him.
+
+
+
+@d{}
+[With a start towards him.] 
+@l{"name":"Hilda"}
+The girl at the desk.
+
+
+
+@l{"name":"Ragnar"}
+
+
+Yes.
+
+
+
+@d{}
+[Threateningly, clenching her hands.] 
+@l{"name":"Hilda"}
+That is not true! You are telling
+falsehoods about him!
+
+
+
+@l{"name":"Ragnar"}
+
+
+I would not believe it either until to-day--when she said so herself.
+
+
+
+@d{}
+[As if beside herself.] 
+@l{"name":"Hilda"}
+What did she say? I will know! At once! at once!
+
+
+
+@l{"name":"Ragnar"}
+
+
+She said that he had taken possession of her mind--her whole
+mind--centred all her thoughts upon himself alone. She says that she can
+never leave him--that she will remain here, where he is--
+
+
+
+@d{}
+[With flashing eyes.] 
+@l{"name":"Hilda"}
+She will not be allowed to!
+
+
+
+@d{}
+[As if feeling his way.] 
+@l{"name":"Ragnar"}
+Who will not allow her?
+
+
+
+@d{}
+[Rapidly.] 
+@l{"name":"Hilda"}
+He will not either!
+
+
+
+@l{"name":"Ragnar"}
+
+
+Oh no--I understand the whole thing now. After this, she would merely
+be--in the way.
+
+
+
+@l{"name":"Hilda"}
+
+
+You understand nothing--since you can talk like that! No, _I_ will tell
+you why he kept hold of her.
+
+
+
+@l{"name":"Ragnar"}
+
+
+Well then, why?
+
+
+
+@l{"name":"Hilda"}
+
+
+In order to keep hold of you.
+
+
+
+@l{"name":"Ragnar"}
+
+
+Has he told you so?
+
+
+
+@l{"name":"Hilda"}
+
+
+No, but it is so. It must be so! 
+@d{}
+[Wildly.] 
+@l{"name":"Hilda"}
+I will--I will have it so!
+
+
+
+@l{"name":"Ragnar"}
+
+
+And at the very moment when you came--he let her go.
+
+
+
+@l{"name":"Hilda"}
+
+
+It was you--you that he let go! What do you suppose he cares about
+strange women like her?
+
+
+
+@d{}
+[Reflects.] 
+@l{"name":"Ragnar"}
+Is it possible that all this time he has been afraid of me?
+
+
+
+@l{"name":"Hilda"}
+
+
+He afraid! I would not be so conceited if I were you.
+
+
+
+@l{"name":"Ragnar"}
+
+
+Oh, he must have seen long ago that I had something in me, too.
+Besides--cowardly--that is just what he is, you see.
+
+
+
+@l{"name":"Hilda"}
+
+
+He! Oh yes, I am likely to believe that!
+
+
+
+@l{"name":"Ragnar"}
+
+
+In a certain sense he is cowardly--he, the great master builder. He is
+not afraid of robbing others of their happiness--as he has done both
+for my father and me. But when it comes to climbing up a paltry bit of
+scaffolding--he will do anything rather than that.
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh, you should just have seen him high, high up--at the dizzy height
+where I once saw him.
+
+
+
+@l{"name":"Ragnar"}
+
+
+Did you see that?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, indeed I did. How free and great he looked as he stood and fastened
+the wreath to the church vane!
+
+
+
+@l{"name":"Ragnar"}
+
+
+I know that he ventured that, once in his life--one solitary time. It is
+a legend among us younger men. But no power on earth would induce him to
+do it again.
+
+
+
+@l{"name":"Hilda"}
+
+
+To-day he will do it again!
+
+
+
+@d{}
+[Scornfully.] 
+@l{"name":"Ragnar"}
+Yes, I daresay!
+
+
+
+@l{"name":"Hilda"}
+
+
+We shall see it!
+
+
+
+@l{"name":"Ragnar"}
+
+
+That neither you nor I will see.
+
+
+
+@d{}
+[With uncontrollable vehemence.] 
+@l{"name":"Hilda"}
+I will se it! I will and I must see it!
+
+
+
+@l{"name":"Ragnar"}
+
+
+But he will not do it. He simply dare not do it. For you see he cannot
+get over this infirmity--master builder though he be.
+
+
+  
+@d{}
+MRS. SOLNESS comes from the house on to the verandah.
+
+
+
+@e{"names":["Mrs. Solness"]}
+
+@d{}
+[Looks around.] 
+@l{"name":"Mrs. Solness"}
+Is he not here? Where has he gone to?
+
+
+
+@l{"name":"Ragnar"}
+
+
+Mr. Solness is down with the men.
+
+
+
+@l{"name":"Hilda"}
+
+
+He took the wreath with him.
+
+
+
+@d{}
+[Terrified.] 
+@l{"name":"Mrs. Solness"}
+Took the wreath with him! Oh God! oh God! Brovik--you must
+go down to him! Get him to come back here!
+
+
+
+@l{"name":"Ragnar"}
+
+
+Shall I say you want to speak to him, Mrs. Solness?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Oh yes, do!--No, no--don't say that _I_ want anything! You can say that
+somebody is here, and that he must come at once.
+
+
+
+@l{"name":"Ragnar"}
+
+
+Good. I will do so, Mrs. Solness.
+
+     
+@d{}
+[He goes down the flight of steps and away through the garden.
+
+
+
+@x{"names":["Ragnar"]}
+
+@l{"name":"Mrs. Solness"}
+
+
+Oh, Miss Wangel, you can't think how anxious I feel about him.
+
+
+
+@l{"name":"Hilda"}
+
+
+Is there anything in this to be terribly frightened about?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Oh yes; surely you can understand. Just think, if he were really to do
+it! If he should take it into his head to climb up the scaffolding!
+
+
+
+@d{}
+[Eagerly.] 
+@l{"name":"Hilda"}
+Do you think he will?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Oh, one can never tell what he might take into his head. I am afraid
+there is nothing he mightn't think of doing.
+
+
+
+@l{"name":"Hilda"}
+
+
+Aha! Perhaps you too think he is--well--?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Oh, I don't know what to think about him now. The doctor has been
+telling me all sorts of things; and putting it all together with several
+things I have heard him say--
+
+
+  
+@d{}
+DR. HERDAL looks out, at the door.
+
+
+
+@e{"names":["Dr. Herdal"]}
+
+@l{"name":"Dr. Herdal"}
+
+
+Is he not coming soon?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Yes, I think so. I have sent for him at any rate.
+
+
+
+@d{}
+[Advancing.] 
+@l{"name":"Dr. Herdal"}
+I am afraid you will have to go in, my dear lady--
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Oh no! Oh no! I shall stay out here and wait for Halvard.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+But some ladies have just come to call on you--
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Good heavens, that too! And just at this moment!
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+They say they positively must see the ceremony.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Well, well, I suppose I must go to them after all. It is my duty.
+
+
+
+@l{"name":"Hilda"}
+
+
+Can't you ask the ladies to go away?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+No, that would never do. Now that they are here, it is my duty to see
+them. But do you stay out here in the meantime--and receive him when he
+comes.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+And try to occupy his attention as long as possible--
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Yes, do, dear Miss Wangel. Keep as firm hold of him as ever you can.
+
+
+
+@l{"name":"Hilda"}
+
+
+Would it not be best for you to do that?
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Yes; God knows that is my duty. But when one has duties in so many
+directions--
+
+
+
+@d{}
+[Looks towards the garden.] 
+@l{"name":"Dr. Herdal"}
+There he is coming.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+And I have to go in!
+
+
+
+@d{}
+[To Hilda] 
+@l{"name":"Dr. Herdal"}
+Don't say anything about my being here.
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh no! I daresay I shall find something else to talk to Mr. Solness
+about.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+And be sure you keep firm hold of him. I believe you can do it best.
+
+     
+@d{}
+[MRS. SOLNESS and DR. HERDAL go into the house.  HILDA remains
+       standing on the verandah.  SOLNESS comes from the garden, up
+       the flight of steps.
+
+
+
+@e{"names":["Solness"]}
+
+@x{"names":["Dr. Herdal","Mrs. Solness"]}
+
+@l{"name":"Solness"}
+
+
+Somebody wants me, I hear.
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes; it is I, Mr. Solness.
+
+
+
+@l{"name":"Solness"}
+
+
+Oh, is it you, Hilda? I was afraid it might be Aline or the Doctor.
+
+
+
+@l{"name":"Hilda"}
+
+
+You are very easily frightened, it seems!
+
+
+
+@l{"name":"Solness"}
+
+
+Do you think so?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes; people say that you are afraid to climb about--on the scaffoldings,
+you know.
+
+
+
+@l{"name":"Solness"}
+
+
+Well, that is quite a special thing.
+
+
+
+@l{"name":"Hilda"}
+
+
+Then it is true that you are afraid to do it?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, I am.
+
+
+
+@l{"name":"Hilda"}
+
+
+Afraid of falling down and killing yourself?
+
+
+
+@l{"name":"Solness"}
+
+
+No, not of that.
+
+
+
+@l{"name":"Hilda"}
+
+
+Of what, then?
+
+
+
+@l{"name":"Solness"}
+
+
+I am afraid of retribution, Hilda.
+
+
+
+@l{"name":"Hilda"}
+
+
+Of retribution? 
+@d{}
+[Shakes her head.] 
+@l{"name":"Hilda"}
+I don't understand that.
+
+
+
+@l{"name":"Solness"}
+
+
+Sit down, and I will tell you something.
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, do! At once!
+
+     
+@d{}
+[She sits on a stool by the railing, and looks expectantly
+       at him.
+
+
+
+@d{}
+[Throws his hat on the table.] 
+@l{"name":"Solness"}
+You know that I began by building
+churches.
+
+
+
+@d{}
+[Nods.] 
+@l{"name":"Hilda"}
+I know that well.
+
+
+
+@l{"name":"Solness"}
+
+
+For, you see, I came as a boy from a pious home in the country; and so
+it seemed to me that this church-building was the noblest task I could
+set myself.
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, yes.
+
+
+
+@l{"name":"Solness"}
+
+
+And I venture to say that I built those poor little churches with such
+honest and warm and heartfelt devotion that--that--
+
+
+
+@l{"name":"Hilda"}
+
+
+That--? Well?
+
+
+
+@l{"name":"Solness"}
+
+
+Well, that I think that he ought to have been pleased with me.
+
+
+
+@l{"name":"Hilda"}
+
+
+He? What he?
+
+
+
+@l{"name":"Solness"}
+
+
+He who was to have the churches, of course! He to whose honour and glory
+they were dedicated.
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh, indeed! But are you certain, then, that--that he was not--pleased
+with you?
+
+
+
+@d{}
+[Scornfully.] 
+@l{"name":"Solness"}
+He pleased with me! How can you talk so, Hilda? He who
+gave the troll in me leave to lord it just as it pleased. He who bade
+them be at hand to serve me, both day and might--all these--all these--
+
+
+
+@l{"name":"Hilda"}
+
+
+Devils--
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, of both kinds. Oh no, he made me feel clearly enough that he was not
+pleased with me. 
+@d{}
+[Mysteriously.] 
+@l{"name":"Solness"}
+You see, that was really the reason why
+he made the old house burn down.
+
+
+
+@l{"name":"Hilda"}
+
+
+Was that why?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, don't you understand? He wanted to give me the chance of becoming
+an accomplished master in my own sphere--so that I might build all the
+more glorious churches for him. At first I did not understand what he
+was driving at; but all of a sudden it flashed upon me.
+
+
+
+@l{"name":"Hilda"}
+
+
+When was that?
+
+
+
+@l{"name":"Solness"}
+
+
+It was when I was building the church-tower up at Lysanger.
+
+
+
+@l{"name":"Hilda"}
+
+
+I thought so.
+
+
+
+@l{"name":"Solness"}
+
+
+For you see, Hilda--up there, amidst those new surroundings, I used to
+go about musing and pondering within myself. Then I saw plainly why he
+had taken my little children from me. It was that I should have nothing
+else to attach myself to. No such thing as love and happiness, you
+understand. I was to be only a master builder--nothing else, and all my
+life long I was to go on building for him. 
+@d{}
+[Laughs.] 
+@l{"name":"Solness"}
+But I can tell you
+nothing came of that!
+
+
+
+@l{"name":"Hilda"}
+
+
+What did you do then?
+
+
+
+@l{"name":"Solness"}
+
+
+First of all, I searched and tried my own heart--
+
+
+
+@l{"name":"Hilda"}
+
+
+And then?
+
+
+
+@l{"name":"Solness"}
+
+
+The I did the impossible--I, no less than he.
+
+
+
+@l{"name":"Hilda"}
+
+
+The impossible?
+
+
+
+@l{"name":"Solness"}
+
+
+I had never before been able to climb up to a great, free height. But
+that day I did it.
+
+
+
+@d{}
+[Leaping up.] 
+@l{"name":"Hilda"}
+Yes, yes, you did!
+
+
+
+@l{"name":"Solness"}
+
+
+And when I stood there, high over everything, and was hanging the wreath
+over the vane, I said to him: Hear me now, thou Mighty One! From this
+day forward I will be a free builder--I too, in my sphere--just as thou
+in thine. I will never more build churches for thee--only homes for
+human beings.
+
+
+
+@d{}
+[With great sparkling eyes.] 
+@l{"name":"Hilda"}
+That was the song that I heard through the
+air!
+
+
+
+@l{"name":"Solness"}
+
+
+But afterwards his turn came.
+
+
+
+@l{"name":"Hilda"}
+
+
+What do you mean by that?
+
+
+
+@d{}
+[Looks despondently at her.] 
+@l{"name":"Solness"}
+Building homes for human beings--is not
+worth a rap, Hilda.
+
+
+
+@l{"name":"Hilda"}
+
+
+Do you say that now?
+
+
+
+@l{"name":"Solness"}
+
+
+Yes, for now I see it. Men have no use for these homes of theirs--to be
+happy in. And I should not have had any use for such a home, if I had
+had one. 
+@d{}
+[With a quiet, bitter laugh.] 
+@l{"name":"Solness"}
+See, that is the upshot of
+the whole affair, however far back I look. Nothing really built; nor
+anything sacrificed for the chance of building. Nothing, nothing! the
+whole is nothing!
+
+
+
+@l{"name":"Hilda"}
+
+
+Then you will never build anything more?
+
+
+
+@d{}
+[With animation.] 
+@l{"name":"Solness"}
+On the contrary, I am just going to begin!
+
+
+
+@l{"name":"Hilda"}
+
+
+What, then? What will you build? Tell me at once!
+
+
+
+@l{"name":"Solness"}
+
+
+I believe there is only one possible dwelling-place for human
+happiness--and that is what I am going to build now.
+
+
+
+@d{}
+[Looks fixedly at him.] 
+@l{"name":"Hilda"}
+Mr. Solness--you mean our castles in the air.
+
+
+
+@l{"name":"Solness"}
+
+
+The castles in the air--yes.
+
+
+
+@l{"name":"Hilda"}
+
+
+I am afraid you would turn dizzy before we got half-way up.
+
+
+
+@l{"name":"Solness"}
+
+
+Not if I can mount hand in hand with you, Hilda.
+
+
+
+@d{}
+[With an expression of suppressed resentment.] 
+@l{"name":"Hilda"}
+Only with me? Will there
+be no others of the party?
+
+
+
+@l{"name":"Solness"}
+
+
+Who else should there be?
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh--that girl--that Kaia at the desk. Poor thing--don't you want to take
+her with you too?
+
+
+
+@l{"name":"Solness"}
+
+
+Oho! Was it about her that Aline was talking to you?
+
+
+
+@l{"name":"Hilda"}
+
+
+Is it so--or is it not?
+
+
+
+@d{}
+[Vehemently.] 
+@l{"name":"Solness"}
+I will not answer such a question. You must believe in me,
+wholly and entirely!
+
+
+
+@l{"name":"Hilda"}
+
+
+All these ten years I have believed in you so utterly--so utterly.
+
+
+
+@l{"name":"Solness"}
+
+
+You must go on believing in me!
+
+
+
+@l{"name":"Hilda"}
+
+
+Then let me see you stand free and high up!
+
+
+
+@d{}
+[Sadly.] 
+@l{"name":"Solness"}
+Oh Hilda--it is not every day that I can do that.
+
+
+
+@d{}
+[Passionately.] 
+@l{"name":"Hilda"}
+I will have you do it! I will have it! 
+@d{}
+[Imploringly.]
+
+@l{"name":"Hilda"}
+Just once more, Mr. Solness! Do the impossible once again!
+
+
+
+@d{}
+[Stands and looks deep into her eyes.] 
+@l{"name":"Solness"}
+If I try it, Hilda, I will stand
+up there and talk to him as I did that time before.
+
+
+
+@d{}
+[In rising excitement.] 
+@l{"name":"Hilda"}
+What will you say to him?
+
+
+
+@l{"name":"Solness"}
+
+
+I will say to him: Hear me, Mighty Lord--thou may'st judge me as seems
+best to thee. But hereafter I will build nothing but the loveliest thing
+in the world--
+
+
+
+@d{}
+[Carried away.] 
+@l{"name":"Hilda"}
+Yes--yes--yes!
+
+
+
+@l{"name":"Solness"}
+ --build it together with a princess, whom I love--
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, tell him that! Tell him that!
+
+
+
+@l{"name":"Solness"}
+
+
+Yes. And then I will say to him: Now I shall go down and throw my arms
+round her and kiss her--
+
+
+
+@l{"name":"Hilda"}
+ --many times! Say that!
+
+
+
+@l{"name":"Solness"}
+ --many, many times, I will say it!
+
+
+
+@l{"name":"Hilda"}
+
+
+And then--?
+
+
+
+@l{"name":"Solness"}
+
+
+Then I will wave my hat--and come down to the earth--and do as I said to
+him.
+
+
+
+@d{}
+[With outstretched arms.] 
+@l{"name":"Hilda"}
+Now I see you again as I did when there was
+song in the air!
+
+
+
+@d{}
+[Looks at here with his head bowed.] 
+@l{"name":"Solness"}
+How have you become what you are,
+Hilda?
+
+
+
+@l{"name":"Hilda"}
+
+
+How have you made me what I am?
+
+
+
+@d{}
+[Shortly and firmly.] 
+@l{"name":"Solness"}
+The princess shall have her castle.
+
+
+
+@d{}
+[Jubilant, clapping her hands.] 
+@l{"name":"Hilda"}
+Oh, Mr. Solness--! My lovely, lovely
+castle. Our castle in the air!
+
+
+
+@l{"name":"Solness"}
+
+
+On a firm foundation.
+
+     
+@d{}
+[In the street a crowd of people has assembled, vaguely seen
+       through the trees.  Music of wind-instruments is heard far
+       away behind the new house.
+
+
+  MRS. SOLNESS, with a fur collar round her neck, DOCTOR HERDAL
+  with her white shawl on his arm, and some ladies, come out
+  on the verandah.  RAGNAR BROVIK comes at the same time up
+  from the garden.
+
+
+
+@e{"names":["Dr. Herdal","Lady","Mrs. Solness","Other Lady","Ragnar","Solness","Voice","Voices"]}
+
+@d{}
+[To Ragnar] 
+@l{"name":"Mrs. Solness"}
+Are we to have music, too?
+
+
+
+@l{"name":"Ragnar"}
+
+
+Yes. It's the band of the Mason's Union. 
+@d{}
+[To Solness] 
+@l{"name":"Ragnar"}
+The foreman asked
+me to tell you that he is ready now to go up with the wreath.
+
+
+
+@d{}
+[Takes his hat.] 
+@l{"name":"Solness"}
+Good. I will go down to him myself.
+
+
+
+@d{}
+[Anxiously.] 
+@l{"name":"Mrs. Solness"}
+What have you to do down there, Halvard?
+
+
+
+@d{}
+[Curtly.] 
+@l{"name":"Solness"}
+I must be down below with the men.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Yes, down below--only down below.
+
+
+
+@l{"name":"Solness"}
+
+
+That is where I always stand--on everyday occasions.
+
+     
+@d{}
+[He goes down the flight of steps and away through the garden.
+
+
+
+@x{"names":["Solness"]}
+
+@d{}
+[Calls after him over the railing.] 
+@l{"name":"Mrs. Solness"}
+But do beg the man to be careful
+when he goes up! Promise me that, Halvard!
+
+
+
+@d{}
+[To Mrs. Solness] 
+@l{"name":"Dr. Herdal"}
+Don't you see that I was right? He has given up all
+thought of that folly.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Oh, what a relief! Twice workmen have fallen, and each time they were
+killed on the spot. 
+@d{}
+[Turns to Hilda] 
+@l{"name":"Mrs. Solness"}
+Thank you, Miss Wangel, for having
+kept such a firm hold upon him. I should never have been able to manage
+him.
+
+
+
+@d{}
+[Playfully.] 
+@l{"name":"Dr. Herdal"}
+Yes, yes, Miss Wangel, you know how to keep firm hold on a
+man, when you give your mind to it.
+
+     
+@d{}
+[MRS. SOLNESS and DR. HERDAL go up to the ladies, who are
+       standing nearer to the steps and looking over the garden.
+       HILDA remains standing beside the railing in the foreground.
+       RAGNAR goes up to her.
+
+
+
+@d{}
+[With suppressed laughter, half whispering.] 
+@l{"name":"Ragnar"}
+Miss Wangel--do you see all
+those young fellows down in the street?
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes.
+
+
+
+@l{"name":"Ragnar"}
+
+
+They are my fellow students, come to look at the master.
+
+
+
+@l{"name":"Hilda"}
+
+
+What do they want to look at him for?
+
+
+
+@l{"name":"Ragnar"}
+
+
+They want to see how he daren't climb to the top of his own house.
+
+
+
+@l{"name":"Hilda"}
+
+
+Oh, that is what those boys want, is it?
+
+
+
+@d{}
+[Spitefully and scornfully.] 
+@l{"name":"Ragnar"}
+He has kept us down so long--now we are
+going to see him keep quietly down below himself.
+
+
+
+@l{"name":"Hilda"}
+
+
+You will not see that--not this time.
+
+
+
+@d{}
+[Smiles.] 
+@l{"name":"Ragnar"}
+Indeed! Then where shall we see him?
+
+
+
+@l{"name":"Hilda"}
+
+
+High--high up by the vane! That is where you will see him!
+
+
+
+@d{}
+[Laughs.] 
+@l{"name":"Ragnar"}
+Him! Oh yes, I daresay!
+
+
+
+@l{"name":"Hilda"}
+
+
+His will is to reach the top--so at the top you shall see him.
+
+
+
+@l{"name":"Ragnar"}
+
+
+His will, yes; that I can easily believe. But he simply cannot do it.
+His head would swim round, long, long before he got half-way. He would
+have to crawl down again on his hands and knees.
+
+
+
+@d{}
+[Points across.] 
+@l{"name":"Dr. Herdal"}
+Look! There goes the foreman up the ladders.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+And of course he has the wreath to carry too. Oh, I do hope he will be
+careful!
+
+
+
+@d{}
+[Stares incredulously and shouts.] 
+@l{"name":"Ragnar"}
+Why, but it's--
+
+
+
+@d{}
+[Breaking out in jubilation.] 
+@l{"name":"Hilda"}
+It is the master builder himself?
+
+
+
+@d{}
+[Screams with terror.] 
+@l{"name":"Mrs. Solness"}
+Yes, it is Halvard! Oh my great God--! Halvard!
+Halvard!
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Hush! Don't shout to him!
+
+
+
+@d{}
+[Half beside herself.] 
+@l{"name":"Mrs. Solness"}
+I must go to him! I must get him to come down
+again!
+
+
+
+@d{}
+[Holds her.] 
+@l{"name":"Dr. Herdal"}
+Don't move, any of you! Not a sound!
+
+
+
+@d{}
+[Immovable, follows SOLNESS with her eyes.] 
+@l{"name":"Hilda"}
+He climbs and climbs. Higher
+and higher! Higher and higher! Look! Just look!
+
+
+
+@d{}
+[Breathless.] 
+@l{"name":"Ragnar"}
+He must turn now. He can't possibly help it.
+
+
+
+@l{"name":"Hilda"}
+
+
+He climbs and climbs. He will soon be at the top now.
+
+
+
+@l{"name":"Mrs. Solness"}
+
+
+Oh, I shall die of terror. I cannot bear to see it.
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Then don't look up at him.
+
+
+
+@l{"name":"Hilda"}
+
+
+There he is standing on the topmost planks! Right at the top!
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Nobody must move! Do you dear?
+
+
+
+@d{}
+[Exulting, with quiet intensity.] 
+@l{"name":"Hilda"}
+At last! At last! Now I see him great
+and free again!
+
+
+
+@d{}
+[Almost voiceless.] 
+@l{"name":"Ragnar"}
+But this is im--
+
+
+
+@l{"name":"Hilda"}
+
+
+So I have seen him all through these ten years. How secure he stands!
+Frightfully thrilling all the same. Look at him! Now he is hanging the
+wreath round the vane!
+
+
+
+@l{"name":"Ragnar"}
+
+
+I feel as if I were looking at something utterly impossible.
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, it is the impossible that he is doing now! 
+@d{}
+[With the indefinable
+expression in her eyes.] 
+@l{"name":"Hilda"}
+Can you see any one else up there with him?
+
+
+
+@l{"name":"Ragnar"}
+
+
+There is no one else.
+
+
+
+@l{"name":"Hilda"}
+
+
+Yes, there is one he is striving with.
+
+
+
+@l{"name":"Ragnar"}
+
+
+You are mistaken.
+
+
+
+@l{"name":"Hilda"}
+
+
+Then do you hear no song in the air, either?
+
+
+
+@l{"name":"Ragnar"}
+
+
+It must be the wind in the tree-tops.
+
+
+
+@l{"name":"Hilda"}
+
+
+_I_ hear a song--a mighty song! 
+@d{}
+[Shouts in wild jubilation and glee.]
+
+@l{"name":"Hilda"}
+Look, look! Now he is waving his hat! He is waving it to us down here!
+Oh, wave, wave back to him! For now it is finished! 
+@d{}
+[Snatches the white
+shawl from the Doctor, waves it, and shouts up to Solness] 
+@l{"name":"Hilda"}
+Hurrah for
+Master Builder Solness!
+
+
+
+@l{"name":"Dr. Herdal"}
+
+
+Stop! Stop! For God's sake--!
+
+     
+@d{}
+[The ladies on the verandah wave their pocket-handkerchiefs, and
+       the shouts of "Hurrah" are taken up in the street.  Then they
+       are suddenly silenced, and the crowd bursts out into a shriek
+       of horror.  A human body, with planks and fragments of wood,
+       is vaguely perceived crashing down behind the trees.
+
+
+
+@d{}
+[At the same time.] 
+@l{"name":"Mrs. Solness"}
+He is falling! He is falling!
+
+
+@d{}
+[At the same time.] 
+@l{"name":"Voices"}
+He is falling! He is falling!
+
+     
+@d{}
+[MRS. SOLNESS totters, falls backwards, swooning, and is caught,
+       amid cries and confusion, by the ladies.  The crowd in the
+       street breaks down the fence and storms into the garden.  At
+       the same time DR. HERDAL, too, rushes down thither.  A short
+       pause.
+
+
+
+@d{}
+[Stares fixedly upwards and says, as if petrified.] 
+@l{"name":"Hilda"}
+My Master Builder.
+
+
+
+@d{}
+[Supports himself, trembling, against the railing.] 
+@l{"name":"Ragnar"}
+He must be dashed to
+pieces--killed on the spot.
+
+
+
+@d{}
+[Whilst MRS. SOLNESS is carried into the house.] 
+@x{"names":["Mrs. Solness"]}
+
+@l{"name":"Lady"}
+Run down for the
+doctor--
+
+
+
+@l{"name":"Ragnar"}
+
+
+I can't stir a root--
+
+
+
+@l{"name":"Other Lady"}
+
+
+Then call to some one!
+
+
+
+@d{}
+[Tries to call out.] 
+@l{"name":"Ragnar"}
+How is it? Is he alive?
+
+
+
+@d{}
+[Below, in the garden.] 
+@l{"name":"Voice"}
+Mr. Solness is dead!
+
+
+
+@d{}
+[Nearer.] 
+@l{"name":"Voices"}
+The head is all crushed.--he fell right into the quarry.
+
+
+
+@d{}
+[Turns to RAGNAR, and says quietly.] 
+@l{"name":"Hilda"}
+I can't see him up there now.
+
+
+
+@l{"name":"Ragnar"}
+
+
+This is terrible. So, after all, he could not do it.
+
+
+
+@d{}
+[As if in quiet spell-bound triumph.] 
+@l{"name":"Hilda"}
+But he mounted right to the top.
+And I heard harps in the air. 
+@d{}
+[Waves her shawl in the air, and shrieks
+with wild intensity.] 
+@l{"name":"Hilda"}
+My--my Master Builder!
+@x{"names":["Dr. Herdal","Hilda","Lady","Other Lady","Ragnar","Voice"]}
