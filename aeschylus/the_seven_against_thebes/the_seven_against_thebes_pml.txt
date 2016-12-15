@@ -125,7 +125,7 @@ THE SEVEN AGAINST THEBES
 [_Exit_ Eteocles, _etc. Enter the_ Chorus OF MAIDENS.
 
 
-@e{"names":["Chorus","Chorus Pt. 1","Choruse Pt. 2"]}
+@e{"names":["Chorus","Chorus Pt. 1","Chorus Pt. 2"]}
 
 @x{"names":["Eteocles","The Spy"]}
 
@@ -629,7 +629,7 @@ THE SEVEN AGAINST THEBES
   His feet as swift as wafting chariot-wheels.
 
 
-@l{"name":"Choruse Pt. 2"}
+@l{"name":"Chorus Pt. 2"}
 
 
   Ay, and our king, the son of Oedipus,
@@ -1997,7 +1997,7 @@ I, I will bury this my brother's corse
   Who can obey such stern decree?
 
 
-@l{"name":"Choruse Pt. 2"}
+@l{"name":"Chorus Pt. 2"}
 
 
   Let those who hold our city's sway
@@ -2021,4 +2021,4 @@ I, I will bury this my brother's corse
   A savage, alien wave!
                                                  [_Exeunt_.
 
-@x{"names":["Antigone","Chorus","Chorus Pt. 1","Choruse Pt. 2","The Spy","Ismene"]}
+@x{"names":["Antigone","Chorus","Chorus Pt. 1","Chorus Pt. 2","The Spy","Ismene"]}
