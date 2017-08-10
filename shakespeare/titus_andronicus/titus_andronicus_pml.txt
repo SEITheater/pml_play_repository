@@ -3514,9 +3514,9 @@ The hope of Rome; for so he bid me say;
 And so I do, and with his gifts present
 Your lordships, that, whenever you have need,
 You may be armed and appointed well:
-And so I leave you 
+And so I leave you both--
 @d{}
-both--[aside] 
+[aside] 
 @l{"name":"Young Lucius"}
 like bloody villains.
 
@@ -4294,9 +4294,9 @@ The effects of sorrow for his valiant sons,
 Whose loss hath pierc'd him deep, and scarr'd his heart;
 And rather comfort his distressed plight
 Than prosecute the meanest or the best
-For these 
+For these contempts.--
 @d{}
-contempts.--[Aside]  
+[Aside]  
 @l{"name":"Tamora"}
 Why, thus it shall become
 High-witted Tamora to gloze with all:
@@ -5541,9 +5541,9 @@ Do shameful execution on herself.
 But if my frosty signs and chaps of age,
 Grave witnesses of true experience,
 Cannot induce you to attend my words,--
-Speak, Rome's dear 
+Speak, Rome's dear friend,
 @d{}
-friend,[ to Lucius]: 
+[ to Lucius]: 
 @l{"name":"Marcus"}
 as erst our ancestor,
 When with his solemn tongue he did discourse
