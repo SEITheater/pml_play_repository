@@ -1,0 +1,5318 @@
+@v{"version":0.1}
+@play{"title":"Cymbeline","author":"William Shakespeare"}
+
+@a{"number":1}
+@s{"number":1}
+@d{}
+SCENE: Britain; Rome.
+
+ACT FIRST.
+
+SCENE I. Britain. The garden of Cymbeline's palace.
+
+
+@e{"names":["First Gentleman","Second Gentleman"]}
+
+@l{"name":"First Gentleman"}
+
+You do not meet a man but frowns.  Our bloods
+No more obey the heavens than our courtiers
+Still seem as does the King.
+
+
+@l{"name":"Second Gentleman"}
+
+But what's the matter?
+
+
+@l{"name":"First Gentleman"}
+
+His daughter, and the heir of's kingdom, whom
+He purpos'd to his wife's sole son--a widow
+That late he married--hath referr'd herself
+Unto a poor but worthy gentleman. She's wedded,
+Her husband banish'd, she imprison'd; all
+Is outward sorrow; though I think the King
+Be touch'd at very heart.
+
+
+@l{"name":"Second Gentleman"}
+
+None but the King?
+
+
+@l{"name":"First Gentleman"}
+
+He that hath lost her too; so is the Queen,
+That most desir'd the match:  but not a courtier,
+Although they wear their faces to the bent
+Of the King's looks, hath a heart that is not
+Glad at the thing they scowl at.
+
+
+@l{"name":"Second Gentleman"}
+
+And why so?
+
+
+@l{"name":"First Gentleman"}
+
+He that hath miss'd the Princess is a thing
+Too bad for bad report; and he that hath her--
+I mean, that married her, alack, good man!
+And therefore banish'd--is a creature such
+As, to seek through the regions of the earth
+For one his like, there would be something failing
+In him that should compare. I do not think
+So fair an outward and such stuff within
+Endows a man but he.
+
+
+@l{"name":"Second Gentleman"}
+
+You speak him far.
+
+
+@l{"name":"First Gentleman"}
+
+I do extend him, sir, within himself;
+Crush him together rather than unfold
+His measure duly.
+
+
+@l{"name":"Second Gentleman"}
+
+What's his name and birth?
+
+
+@l{"name":"First Gentleman"}
+
+I cannot delve him to the root.  His father
+Was call'd Sicilius, who did join his honour
+Against the Romans with Cassibelan,
+But had his titles by Tenantius whom
+He serv'd with glory and admir'd success,
+So gain'd the sur-addition Leonatus;
+And had, besides this gentleman in question,
+Two other sons, who in the wars o' the time,
+Died with their swords in hand; for which their father,
+Then old and fond of issue, took such sorrow
+That he quit being, and his gentle lady,
+Big of this gentleman our theme, deceas'd
+As he was born. The King he takes the babe
+To his protection, calls him Posthumus Leonatus,
+Breeds him and makes him of his bed-chamber,
+Puts to him all the learnings that his time
+Could make him the receiver of; which he took,
+As we do air, fast as 'twas minist'red,
+And in's spring became a harvest; liv'd in court--
+Which rare it is to do--most prais'd, most lov'd,
+A sample to the youngest, to the more mature
+A glass that feated them, and to the graver
+A child that guided dotards; to his mistress,
+For whom he now is banish'd--her own price
+Proclaims how she esteem'd him and his virtue;
+By her election may be truly read
+What kind of man he is.
+
+
+@l{"name":"Second Gentleman"}
+
+I honour him
+Even out of your report. But, pray you, tell me,
+Is she sole child to the King?
+
+
+@l{"name":"First Gentleman"}
+
+His only child.
+He had two sons,--if this be worth your hearing,
+Mark it--the eldest of them at three years old,
+I' the swathing-clothes the other, from their nursery
+Were stolen, and to this hour no guess in knowledge
+Which way they went.
+
+
+@l{"name":"Second Gentleman"}
+
+How long is this ago?
+
+
+@l{"name":"First Gentleman"}
+ Some twenty years.
+
+
+@l{"name":"Second Gentleman"}
+
+That a king's children should be so convey'd,
+So slackly guarded, and the search so slow,
+That could not trace them!
+
+
+@l{"name":"First Gentleman"}
+
+Howsoe'er 'tis strange,
+Or that the negligence may well be laugh'd at,
+Yet is it true, sir.
+
+
+@l{"name":"Second Gentleman"}
+
+I do well believe you.
+
+
+@l{"name":"First Gentleman"}
+
+We must forbear; here comes the gentleman,
+The Queen, and Princess.
+
+
+@d{}
+[Exeunt.]
+
+[Enter the QUEEN, POSTHUMUS, and Imogen]
+
+
+@e{"names":["Queen","Posthumus","Imogen"]}
+
+@x{"names":["First Gentleman","Second Gentleman"]}
+
+@l{"name":"Queen"}
+
+No, be assur'd you shall not find me, daughter,
+After the slander of most stepmothers,
+Evil-ey'd unto you. You're my prisoner, but
+Your gaoler shall deliver you the keys
+That lock up your restraint. For you, Posthumus,
+So soon as I can win the offended King,
+I will be known your advocate. Marry, yet
+The fire of rage is in him, and 'twere good
+You lean'd unto his sentence with what patience
+Your wisdom may inform you.
+
+
+@l{"name":"Posthumus"}
+
+Please your Highness,
+I will from hence to-day.
+
+
+@l{"name":"Queen"}
+
+You know the peril.
+I'll fetch a turn about the garden, pitying
+The pangs of barr'd affections, though the King
+Hath charg'd you should not speak together.
+
+
+@d{}
+[Exit.]
+
+
+@x{"names":["Queen"]}
+
+@l{"name":"Imogen"}
+
+O dissembling courtesy! How fine this tyrant
+Can tickle where she wounds! My dearest husband,
+I something fear my father's wrath; but nothing--
+Always reserv'd my holy duty--what
+His rage can do on me. You must be gone;
+And I shall here abide the hourly shot
+Of angry eyes, not comforted to live,
+But that there is this jewel in the world
+That I may see again.
+
+
+@l{"name":"Posthumus"}
+
+My queen! my mistress!
+O lady, weep no more, lest I give cause
+To be suspected of more tenderness
+Than doth become a man. I will remain
+The loyal'st husband that did e'er plight troth.
+My residence in Rome at one Philario's,
+Who to my father was a friend, to me
+Known but by letter; thither write, my queen,
+And with mine eyes I'll drink the words you send,
+Though ink be made of gall.
+
+
+@d{}
+[Re-enter Queen]
+
+
+@e{"names":["Queen"]}
+
+@l{"name":"Queen"}
+
+Be brief, I pray you.
+If the King come, I shall incur I know not
+How much of his displeasure.
+
+
+@d{}
+[Aside.]
+
+
+@l{"name":"Queen"}
+Yet I'll move him
+To walk this way. I never do him wrong
+But he does buy my injuries, to be friends;
+Pays dear for my offences.
+
+
+@d{}
+[Exit.]
+
+
+@x{"names":["Queen"]}
+
+@l{"name":"Posthumus"}
+
+Should we be taking leave
+As long a term as yet we have to live,
+The loathness to depart would grow. Adieu!
+
+
+@l{"name":"Imogen"}
+
+Nay, stay a little.
+Were you but riding forth to air yourself,
+Such parting were too petty. Look here, love;
+This diamond was my mother's.  Take it, heart;
+But keep it till you woo another wife,
+When Imogen is dead.
+
+
+@l{"name":"Posthumus"}
+
+How, how!  another?
+You gentle gods, give me but this I have,
+And cere up my embracements from a next
+With bonds of death! Remain, remain thou here
+
+
+@d{}
+[Putting on the ring.]
+
+
+@l{"name":"Posthumus"}
+While sense can keep it on. And, sweetest, fairest,
+As I my poor self did exchange for you,
+To your so infinite loss, so in our trifles
+I still win of you; for my sake wear this.
+It is a manacle of love; I'll place it
+Upon this fairest prisoner.
+
+
+@d{}
+[Putting a bracelet upon her arm.]
+
+
+@l{"name":"Imogen"}
+
+O the gods!
+When shall we see again?
+
+
+@d{}
+[Enter CYMBELINE and LORDS.]
+
+
+@e{"names":["Cymbeline","First Lord","Second Lord","Lord"]}
+
+@l{"name":"Posthumus"}
+
+Alack, the King!
+
+
+@l{"name":"Cymbeline"}
+
+Thou basest thing, avoid!  Hence, from my sight!
+If after this command thou fraught the court
+With thy unworthiness, thou diest. Away!
+Thou'rt poison to my blood.
+
+
+@l{"name":"Posthumus"}
+
+The gods protect you!
+And bless the good remainders of the court!
+I am gone.
+
+
+@d{}
+[Exit.]
+
+
+@x{"names":["Posthumus"]}
+
+@l{"name":"Imogen"}
+
+There cannot be a pinch in death
+More sharp than this is.
+
+
+@l{"name":"Cymbeline"}
+
+O disloyal thing,
+That shouldst repair my youth, thou heap'st
+A year's age on me!
+
+
+@l{"name":"Imogen"}
+
+I beseech you, sir,
+Harm not yourself with your vexation.
+I am senseless of your wrath; a touch more rare
+Subdues all pangs, all fears.
+
+
+@l{"name":"Cymbeline"}
+
+Past grace? obedience?
+
+
+@l{"name":"Imogen"}
+
+Past hope, and in despair; that way, past grace.
+
+
+@l{"name":"Cymbeline"}
+
+That mightst have had the sole son of my queen!
+
+
+@l{"name":"Imogen"}
+
+O blest, that I might not! I chose an eagle,
+And did avoid a puttock.
+
+
+@l{"name":"Cymbeline"}
+
+Thou took'st a beggar; wouldst have made my throne
+A seat for baseness.
+
+
+@l{"name":"Imogen"}
+
+No; I rather added
+A lustre to it.
+
+
+@l{"name":"Cymbeline"}
+
+O thou vile one!
+
+
+@l{"name":"Imogen"}
+
+Sir, It is your fault that I have lov'd Posthumus.
+You bred him as my playfellow, and he is
+A man worth any woman; overbuys me
+Almost the sum he pays.
+
+
+@l{"name":"Cymbeline"}
+
+What, art thou mad?
+
+
+@l{"name":"Imogen"}
+
+Almost, sir; heaven restore me! Would I were
+A neat-herd's daughter, and my Leonatus
+Our neighbour shepherd's son!
+
+
+@d{}
+[Re-enter Queen]
+
+
+@e{"names":["Queen"]}
+
+@l{"name":"Cymbeline"}
+ Thou foolish thing!
+--They were again together; you have done
+Not after our command. Away with her,
+And pen her up.
+
+
+@l{"name":"Queen"}
+
+Beseech your patience.  Peace,
+Dear lady daughter, peace!  Sweet sovereign,
+Leave us to ourselves, and make yourself some comfort
+Out of your best advice.
+
+
+@l{"name":"Cymbeline"}
+
+Nay, let her languish
+A drop of blood a day; and, being aged,
+Die of this folly!
+
+
+@d{}
+[Exeunt CYMBELINE and LORDS.]
+
+[Enter Pisanio]
+
+
+@e{"names":["Pisanio"]}
+
+@x{"names":["Cymbeline","First Lord","Second Lord","Lord"]}
+
+@l{"name":"Queen"}
+
+Fie! you must give way.
+Here is your servant. How now, sir! What news?
+
+
+@l{"name":"Pisanio"}
+
+My lord your son drew on my master.
+
+
+@l{"name":"Queen"}
+
+Ha! No harm, I trust, is done?
+
+
+@l{"name":"Pisanio"}
+
+There might have been,
+But that my master rather play'd than fought
+And had no help of anger.  They were parted
+By gentlemen at hand.
+
+
+@l{"name":"Queen"}
+
+I am very glad on't.
+
+
+@l{"name":"Imogen"}
+
+Your son's my father's friend; he takes his part
+To draw upon an exile. O brave sir!
+I would they were in Afric both together;
+Myself by with a needle, that I might prick
+The goer-back. Why came you from your master?
+
+
+@l{"name":"Pisanio"}
+
+On his command. He would not suffer me
+To bring him to the haven; left these notes
+Of what commands I should be subject to,
+When't pleas'd you to employ me.
+
+
+@l{"name":"Queen"}
+
+This hath been
+Your faithful servant. I dare lay mine honour
+He will remain so.
+
+
+@l{"name":"Pisanio"}
+
+I humbly thank your Highness.
+
+
+@l{"name":"Queen"}
+
+Pray, walk a while.
+
+
+@l{"name":"Imogen"}
+
+About some half-hour hence,
+I Pray you, speak with me; you shall at least
+Go see my lord aboard. For this time leave me.
+
+
+@d{}
+[Exeunt.]
+
+
+
+@x{"names":["Imogen","Pisanio","Queen"]}
+
+@a{"number":1}
+@s{"number":2}
+@d{}
+SCENE II.
+
+The same. A public place.
+
+[Enter CLOTEN and two LORDS.]
+
+
+@e{"names":["First Lord","Second Lord","Cloten"]}
+
+@l{"name":"First Lord"}
+
+Sir, I would advise you to shift a shirt; the violence of action
+hath made you reek as a sacrifice. Where air comes out, air
+comes in; there's none abroad so wholesome as that you vent.
+
+
+@l{"name":"Cloten"}
+
+If my shirt were bloody, then to shift it. Have I hurt him?
+
+
+@d{}
+[Aside.]
+
+
+@l{"name":"Second Lord"}
+No, faith; not so much as his patience.
+
+
+@l{"name":"First Lord"}
+
+Hurt him! His body's a passable carcass, if he be not
+hurt; it is a throughfare for steel, if it be not hurt.
+
+
+@d{}
+[Aside.]
+
+
+@l{"name":"Second Lord"}
+His steel was in debt; it went o' the backside the town.
+
+
+@l{"name":"Cloten"}
+
+The villain would not stand me.
+
+
+@d{}
+[Aside.]
+
+
+@l{"name":"Second Lord"}
+No; but he fled forward still, toward your face.
+
+
+@l{"name":"First Lord"}
+
+Stand you! You have land enough of your own; but he
+added to your having, gave you some ground.
+
+
+@d{}
+[
+@l{"name":"Second Lord"}
+Aside.]
+
+As many inches as you have oceans.  Puppies!
+
+
+@l{"name":"Cloten"}
+
+I would they had not come between us.
+
+
+@d{}
+[Aside.]
+
+
+@l{"name":"Second Lord"}
+So would I, till you had measur'd how long a fool you
+were upon the ground.
+
+
+@l{"name":"Cloten"}
+
+And that she should love this fellow and refuse me!
+
+
+@d{}
+[Aside.]
+
+
+@l{"name":"Second Lord"}
+If it be a sin to make a true election, she is damn'd.
+
+
+@l{"name":"First Lord"}
+
+Sir, as I told you always, her beauty and her brain go
+not together.  She's a good sign, but I have seen small
+reflection
+of her wit.
+
+
+@d{}
+[Aside.]
+
+
+@l{"name":"Second Lord"}
+She shines not upon fools, lest the reflection should hurt her.
+
+
+@l{"name":"Cloten"}
+
+Come, I'll to my chamber. Would there had been some hurt
+done!
+
+
+@d{}
+[Aside.]
+
+
+@l{"name":"Second Lord"}
+I wish not so; unless it had been the fall of an ass, which is no
+great hurt.
+
+
+@l{"name":"Cloten"}
+
+You'll go with us?
+
+
+@l{"name":"First Lord"}
+
+I'll attend your lordship.
+
+
+@l{"name":"Cloten"}
+
+Nay, come, let's go together.
+
+
+@l{"name":"Second Lord"}
+
+Well, my lord.
+
+
+
+@d{}
+[Exeunt.]
+
+
+@x{"names":["Cloten","First Lord","Second Lord"]}
+
+@a{"number":1}
+@s{"number":3}
+@d{}
+SCENE III.
+
+A room in CYMBELINE'S palace.
+
+[Enter IMOGEN and Pisanio]
+
+
+@e{"names":["Imogen","Pisanio"]}
+
+@l{"name":"Imogen"}
+
+I would thou grew'st unto the shores o' the haven,
+And question'dst every sail.  If he should write
+And I not have it, 'twere a paper lost,
+As offer'd mercy is. What was the last
+That he spake to thee?
+
+
+@l{"name":"Pisanio"}
+
+It was his queen, his queen!
+
+
+@l{"name":"Imogen"}
+
+Then wav'd his handkerchief?
+
+
+@l{"name":"Pisanio"}
+
+And kiss'd it, madam.
+
+
+@l{"name":"Imogen"}
+
+Senseless linen! happier therein than I!
+And that was all?
+
+
+@l{"name":"Pisanio"}
+
+No, madam; for so long
+As he could make me with this eye or ear
+Distinguish him from others, he did keep
+The deck, with glove, or hat, or handkerchief,
+Still waving, as the fits and stirs of's mind
+Could best express how slow his soul sail'd on,
+How swift his ship.
+
+
+@l{"name":"Imogen"}
+
+Thou shouldst have made him
+As little as a crow, or less, ere left
+To after-eye him.
+
+
+@l{"name":"Pisanio"}
+
+Madam, so I did.
+
+
+@l{"name":"Imogen"}
+
+I would have broke mine eye-strings; crack'd them, but
+To look upon him, till the diminution
+Of space had pointed him sharp as my needle;
+Nay, follow'd him, till he had melted from
+The smallness of a gnat to air, and then
+Have turn'd mine eye and wept. But, good Pisanio,
+When shall we hear from him?
+
+
+@l{"name":"Pisanio"}
+
+Be assured, madam,
+With his next vantage.
+
+
+@l{"name":"Imogen"}
+
+I did not take my leave of him, but had
+Most pretty things to say. Ere I could tell him
+How I would think on him at certain hours
+Such thoughts and such, or I could make him swear
+The shes of Italy should not betray
+Mine interest and his honour, or have charg'd him,
+At the sixth hour of morn, at noon, at midnight,
+To encounter me with orisons, for then
+I am in heaven for him; or ere I could
+Give him that parting kiss which I had set
+Betwixt two charming words, comes in my father
+And like the tyrannous breathing of the north
+Shakes all our buds from growing.
+
+
+@d{}
+[Enter a Lady]
+
+
+@e{"names":["Lady"]}
+
+@l{"name":"Lady"}
+
+The Queen, madam,
+Desires your Highness' company.
+
+
+@l{"name":"Imogen"}
+
+Those things I bid you do, get them dispatch'd.
+I will attend the Queen.
+
+
+@l{"name":"Pisanio"}
+
+Madam, I shall.
+
+
+@d{}
+[Exeunt.]
+
+
+@x{"names":["Imogen","Lady","Pisanio"]}
+
+@a{"number":1}
+@s{"number":4}
+@d{}
+SCENE IV.
+
+Rome. PHILARIO'S house.
+
+[Enter PHILARIO, IACHIMO, a FRENCHMAN, a DUTCHMAN, and a
+SPANIARD.]
+
+
+@e{"names":["Philario","Iachimo","Frenchman"]}
+
+@l{"name":"Iachimo"}
+
+Believe it, sir, I have seen him in Britain. He was then of a
+crescent note, expected to prove so worthy as since he hath
+been allowed the name of; but I could then have look'd on him
+without the help of admiration, though the catalogue of his
+endowments had been tabled by his side and I to peruse him by
+items.
+
+
+@l{"name":"Philario"}
+
+You speak of him when he was less furnish'd than now he
+is with that which makes him both without and within.
+
+
+@l{"name":"Frenchman"}
+
+I have seen him in France.  We had very many there could
+behold the sun with as firm eyes as he.
+
+
+@l{"name":"Iachimo"}
+
+This matter of marrying his king's daughter, wherein he
+must be weighed rather by her value than his own, words him, I
+doubt not, a great deal from the matter.
+
+
+@l{"name":"Frenchman"}
+
+And then his banishment.
+
+
+@l{"name":"Iachimo"}
+
+Ay, and the approbation of those that weep this lamentable
+divorce under her colours are wonderfully to extend him; be it
+but to fortify her judgement, which else an easy battery might
+lay flat, for taking a beggar without less quality. But how
+comes it he is to sojourn with you? How creeps acquaintance?
+
+
+@l{"name":"Philario"}
+
+His father and I were soldiers together; to whom I have been
+often bound for no less than my life.
+
+
+@d{}
+[Enter Posthumus]
+
+
+@e{"names":["Posthumus"]}
+
+@l{"name":"Philario"}
+Here comes the Briton. Let him be so entertained amongst you as
+suits with gentlemen of your knowing to a stranger of his
+quality.--I beseech you all, be better known to this gentleman,
+whom I commend to you as a noble friend of mine. How worthy he
+is I will leave to appear hereafter, rather than story him in
+his own hearing.
+
+
+@l{"name":"Frenchman"}
+
+Sir, we have known together in Orleans.
+
+
+@l{"name":"Posthumus"}
+
+Since when I have been debtor to you for courtesies,
+which I will be ever to pay and yet pay still.
+
+
+@l{"name":"Frenchman"}
+
+Sir, you o'er-rate my poor kindness. I was glad I did atone my
+countryman and you.  It had been pity you should have been put
+together with so mortal a purpose as then each bore, upon
+importance of so slight and trivial a nature.
+
+
+@l{"name":"Posthumus"}
+
+By your pardon, sir, I was then a young traveller; rather shunn'd
+to go even with what I heard than in my every action to be guided
+by others' experiences: but upon my mended judgement--if I offend
+[not] to say it is mended--my quarrel was not altogether slight.
+
+
+@l{"name":"Frenchman"}
+
+Faith, yes, to be put to the arbitrement of swords, and by such
+two that would by all likelihood have confounded one the other, or
+have fallen both.
+
+
+@l{"name":"Iachimo"}
+
+Can we, with manners, ask what was the difference?
+
+
+@l{"name":"Frenchman"}
+
+Safely, I think; 'twas a contention in public, which may, without
+contradiction, suffer the report. It was much like an argument
+that fell out last night, where each of us fell in praise of our
+country-mistresses; this gentleman at that time vouching--and
+upon warrant of bloody affirmation--his to be more fair, virtuous,
+wise, chaste, constant, qualified, and less attemptable than any
+the rarest of our ladies in France.
+
+
+@l{"name":"Iachimo"}
+
+That lady is not now living, or this gentleman's opinion by this
+worn out.
+
+
+@l{"name":"Posthumus"}
+
+She holds her virtue still, and I my mind.
+
+
+@l{"name":"Iachimo"}
+
+You must not so far prefer her 'fore ours of Italy.
+
+
+@l{"name":"Posthumus"}
+
+Being so far provok'd as I was in France, I would abate her
+nothing, though I profess myself her adorer, not her friend.
+
+
+@l{"name":"Iachimo"}
+
+As fair and as good--a kind of hand-in-hand comparison--had been
+something too fair and too good for any lady in Britain.  If she
+went before others I have seen, as that diamond of yours outlustres
+many I have beheld, I could not [but] believe she excelled many.
+But I have not seen the most precious diamond that is, nor you the
+lady.
+
+
+@l{"name":"Posthumus"}
+
+I prais'd her as I rated her; so do I my stone.
+
+
+@l{"name":"Iachimo"}
+
+What do you esteem it at?
+
+
+@l{"name":"Posthumus"}
+
+More than the world enjoys.
+
+
+@l{"name":"Iachimo"}
+
+Either your unparagon'd mistress is dead, or she's outpriz'd by a
+trifle.
+
+
+@l{"name":"Posthumus"}
+
+You are mistaken.  The one may be sold, or given, if there were
+wealth enough for the purchase, or merit for the gift; the other is
+not a thing for sale, and only the gift of the gods.
+
+
+@l{"name":"Iachimo"}
+
+Which the gods have given you?
+
+
+@l{"name":"Posthumus"}
+
+Which, by their graces, I will keep.
+
+
+@l{"name":"Iachimo"}
+
+You may wear her in title yours; but, you know, strange fowl
+light upon neighbouring ponds. Your ring may be stolen too;
+so your brace of unprizable estimations, the one is but frail
+and the other casual.  A cunning thief, or a that-way-
+accomplish'd courtier, would hazard the winning both of first
+and last.
+
+
+@l{"name":"Posthumus"}
+
+Your Italy contains none so accomplish'd a courtier to convince
+the honour of my mistress, if, in the holding or loss of that,
+you term her frail. I do nothing doubt you have store of thieves;
+notwithstanding, I fear not my ring.
+
+
+@l{"name":"Philario"}
+
+Let us leave here, gentlemen.
+
+
+@l{"name":"Posthumus"}
+
+Sir, with all my heart. This worthy signior, I thank him, makes
+no stranger of me; we are familiar at first.
+
+
+@l{"name":"Iachimo"}
+
+With five times so much conversation, I should get ground of your
+fair mistress, make her go back, even to the yielding, had I
+admittance, and opportunity to friend.
+
+
+@l{"name":"Posthumus"}
+
+No, no.
+
+
+@l{"name":"Iachimo"}
+
+I dare thereupon pawn the moiety of my estate to your ring;
+which, in my opinion, o'ervalues it something. But I make my
+wager rather against your confidence than her reputation; and,
+to bar your offence herein too, I durst attempt it against any
+lady in the world.
+
+
+@l{"name":"Posthumus"}
+
+You are a great deal abus'd in too bold a persuasion; and I doubt
+not you sustain what you're worthy of by your attempt.
+
+
+@l{"name":"Iachimo"}
+
+What's that?
+
+
+@l{"name":"Posthumus"}
+
+A repulse; though your attempt, as you call it, deserve more,--a
+punishment too.
+
+
+@l{"name":"Philario"}
+
+Gentlemen, enough of this; it came in too suddenly.  Let it die
+as it was born, and, I pray you, be better acquainted.
+
+
+@l{"name":"Iachimo"}
+
+Would I had put my estate and my neighbour's on the approbation
+of what I have spoke!
+
+
+@l{"name":"Posthumus"}
+
+What lady would you choose to assail?
+
+
+@l{"name":"Iachimo"}
+
+Yours, whom in constancy you think stands so safe. I will lay you
+ten thousand ducats to your ring, that, commend me to the court
+where your lady is, with no more advantage than the opportunity of
+a second conference, and I will bring from thence that honour of
+hers which you imagine so reserv'd.
+
+
+@l{"name":"Posthumus"}
+
+I will wage against your gold, gold to it. My ring I hold dear as
+my finger; 'tis part of it.
+
+
+@l{"name":"Iachimo"}
+
+You are afraid, and therein the wiser. If you buy ladies' flesh
+at a million a dram, you cannot preserve it from tainting. But I
+see you have some religion in you, that you fear.
+
+
+@l{"name":"Posthumus"}
+
+This is but a custom in your tongue; you bear a graver purpose, I
+hope.
+
+
+@l{"name":"Iachimo"}
+
+I am the master of my speeches, and would undergo what's spoken,
+I swear.
+
+
+@l{"name":"Posthumus"}
+
+Will you? I shall but lend my diamond till your return.  Let
+there be covenants drawn between's. My mistress exceeds in
+goodness the hugeness of your unworthy thinking. I dare you to
+this match: here's my ring.
+
+
+@l{"name":"Philario"}
+
+I will have it no lay.
+
+
+@l{"name":"Iachimo"}
+
+By the gods, it is one. If I bring you no sufficient testimony
+that I have enjoy'd the dearest bodily part of your mistress, my
+ten thousand ducats are yours; so is your diamond too. If I come
+off, and leave her in such honour as you have trust in, she your
+jewel, this your jewel, and my gold are yours; provided I have
+your commendation for my more free entertainment.
+
+
+@l{"name":"Posthumus"}
+
+I embrace these conditions; let us have articles betwixt us.
+Only, thus far you shall answer: if you make your voyage upon her
+and give me directly to understand you have prevail'd, I am no
+further your enemy; she is not worth our debate.  If she remain
+unseduc'd, you not making it appear otherwise, for your ill
+opinion and the assault you have made to her chastity you shall
+answer me with your sword.
+
+
+@l{"name":"Iachimo"}
+
+Your hand; a covenant. We will have these things set down by
+lawful counsel, and straight away for Britain, lest the bargain
+should catch cold and starve. I will fetch my gold and have our
+two wagers recorded.
+
+
+@l{"name":"Posthumus"}
+
+Agreed.
+
+
+@d{}
+[Exeunt POSTHUMUS and Iachimo]
+
+
+@x{"names":["Posthumus","Iachimo"]}
+
+@l{"name":"Frenchman"}
+
+Will this hold, think you?
+
+
+@l{"name":"Philario"}
+
+Signior Iachimo will not from it. Pray, let us follow 'em.
+
+
+@d{}
+[Exeunt.]
+
+
+@x{"names":["Frenchman","Philario"]}
+
+@a{"number":1}
+@s{"number":5}
+@d{}
+SCENE V.
+
+Britain. A room in CYMBELINE'S palace.
+
+[Enter QUEEN, LADIES, and Cornelius]
+
+
+@e{"names":["Queen","First Lady","Lady","Cornelius"]}
+
+@l{"name":"Queen"}
+
+Whiles yet the dew's on ground, gather those flowers;
+Make haste.  Who has the note of them?
+
+
+@l{"name":"First Lady"}
+
+I, madam.
+
+
+@l{"name":"Queen"}
+
+Dispatch.
+
+
+@d{}
+[Exeunt LADIES.]
+
+
+@x{"names":["First Lady","Lady"]}
+
+@l{"name":"Queen"}
+Now, master doctor, have you brought those drugs?
+
+
+@l{"name":"Cornelius"}
+
+Pleaseth your Highness, ay. Here they are, madam.
+
+
+@d{}
+[Presenting a small box.]
+
+
+@l{"name":"Cornelius"}
+But I beseech your Grace, without offence,--
+My conscience bids me ask--wherefore you have
+Commanded of me these most poisonous compounds,
+Which are the movers of a languishing death,
+But though slow, deadly?
+
+
+@l{"name":"Queen"}
+
+I wonder, doctor,
+Thou ask'st me such a question. Have I not been
+Thy pupil long? Hast thou not learn'd me how
+To make perfumes? distil? preserve? yea, so
+That our great king himself doth woo me oft
+For my confections? Having thus far proceeded,--
+Unless thou think'st me devilish--is't not meet
+That I did amplify my judgement in
+Other conclusions? I will try the forces
+Of these thy compounds on such creatures as
+We count not worth the hanging,--but none human--
+To try the vigour of them and apply
+Allayments to their act, and by them gather
+Their several virtues and effects.
+
+
+@l{"name":"Cornelius"}
+
+Your Highness
+Shall from this practice but make hard your heart.
+Besides, the seeing these effects will be
+Both noisome and infectious.
+
+
+@l{"name":"Queen"}
+ O, content thee.
+
+
+@d{}
+[Enter Pisanio]
+
+[Aside.]
+
+
+@e{"names":["Pisanio"]}
+
+@l{"name":"Queen"}
+Here comes a flattering rascal; upon him
+Will I first work. He's for his master,
+An enemy to my son.  How now, Pisanio!
+Doctor, your service for this time is ended;
+Take your own way.
+
+
+@d{}
+[Aside.]
+
+
+@l{"name":"Cornelius"}
+I do suspect you, madam;
+But you shall do no harm.
+
+
+@d{}
+[To PISANIO]
+
+
+@l{"name":"Queen"}
+Hark thee, a word.
+
+
+@d{}
+[Aside.]
+
+
+@l{"name":"Cornelius"}
+I do not like her. She doth think she has
+Strange ling'ring poisons. I do know her spirit,
+And will not trust one of her malice with
+A drug of such damn'd nature. Those she has
+Will stupefy and dull the sense a while,
+Which first, perchance, she'll prove on cats and dogs,
+Then afterward up higher; but there is
+No danger in what show of death it makes,
+More than the locking-up the spirits a time,
+To be more fresh, reviving. She is fool'd
+With a most false effect; and I the truer,
+So to be false with her.
+
+
+@l{"name":"Queen"}
+
+No further service, doctor,
+Until I send for thee.
+
+
+@l{"name":"Cornelius"}
+
+I humbly take my leave.
+
+
+@d{}
+[Exit.]
+
+
+@x{"names":["Cornelius"]}
+
+@l{"name":"Queen"}
+
+Weeps she still, say'st thou? Dost thou think in time
+She will not quench and let instructions enter
+Where folly now possesses? Do thou work.
+When thou shalt bring me word she loves my son,
+I'll tell thee on the instant thou art then
+As great as is thy master,--greater, for
+His fortunes all lie speechless and his name
+Is at last gasp. Return he cannot, nor
+Continue where he is. To shift his being
+Is to exchange one misery with another,
+And every day that comes comes to
+A day's work in him. What shalt thou expect,
+To be depender on a thing that leans,
+Who cannot be new built, nor has no friends
+So much as but to prop him?
+
+
+@d{}
+[The QUEEN drops the box: PISANIO takes it up.]
+
+
+@l{"name":"Queen"}
+Thou tak'st up
+Thou know'st not what; but take it for thy labour.
+It is a thing I made, which hath the King
+Five times redeem'd from death. I do not know
+What is more cordial. Nay, I prithee, take it;
+It is an earnest of a further good
+That I mean to thee. Tell thy mistress how
+The case stands with her; do't as from thyself.
+Think what a chance thou changest on; but think
+Thou hast thy mistress still; to boot, my son,
+Who shall take notice of thee. I'll move the King
+To any shape of thy preferment such
+As thou'lt desire; and then myself, I chiefly,
+That set thee on to this desert, am bound
+To load thy merit richly. Call my women.
+Think on my words.
+
+
+@d{}
+[Exit Pisanio]
+
+
+@x{"names":["Pisanio"]}
+
+@l{"name":"Queen"}
+A sly and constant knave,
+Not to be shak'd; the agent for his master
+And the remembrancer of her to hold
+The hand-fast to her lord. I have given him that
+Which, if he take, shall quite unpeople her
+Of liegers for her sweet, and which she after,
+Except she bend her humour, shall be assur'd
+To taste of too.
+
+
+@d{}
+[Re-enter PISANIO and LADIES.]
+
+
+@e{"names":["Pisanio","Lady","First Lady"]}
+
+@l{"name":"Queen"}
+So, so; well done, well done.
+The violets, cowslips, and the primroses,
+Bear to my closet. Fare thee well, Pisanio;
+Think on my words.
+
+
+@d{}
+[Exeunt QUEEN and LADIES.]
+
+
+@x{"names":["Queen","First Lady","Lady"]}
+
+@l{"name":"Pisanio"}
+
+And shall do;
+But when to my good lord I prove untrue,
+I'll choke myself.  There's all I'll do for you.
+
+
+@d{}
+[Exit.]
+
+
+@x{"names":["Pisanio"]}
+
+@a{"number":1}
+@s{"number":6}
+@d{}
+SCENE VI.
+
+The same.  Another room in the palace.
+
+[Enter Imogen]
+
+
+@e{"names":["Imogen"]}
+
+@l{"name":"Imogen"}
+
+A father cruel, and a step-dame false;
+A foolish suitor to a wedded lady,
+That hath her husband banish'd;--O, that husband!
+My supreme crown of grief! and those repeated
+Vexations of it! Had I been thief-stolen,
+As my two brothers, happy! but most miserable
+Is the desire that's glorious. Blessed be those,
+How mean soe'er, that have their honest wills,
+Which seasons comfort. Who may this be? Fie!
+
+
+@d{}
+[Enter PISANIO and Iachimo]
+
+
+@e{"names":["Pisanio","Iachimo"]}
+
+@l{"name":"Pisanio"}
+
+Madam, a noble gentleman of Rome
+Comes from my lord with letters.
+
+
+@l{"name":"Iachimo"}
+
+Change you, madam?
+The worthy Leonatus is in safety
+And greets your Highness dearly.
+
+
+@d{}
+[Presents a letter]
+
+
+@l{"name":"Imogen"}
+
+Thanks, good sir;
+You're kindly welcome.
+
+
+@d{}
+[Aside.]
+
+
+@l{"name":"Iachimo"}
+All of her that is out of door most rich!
+If she be furnish'd with a mind so rare,
+She is alone, the Arabian bird, and I
+Have lost the wager. Boldness be my friend!
+Arm me, audacity, from head to foot!
+Or, like the Parthian, I shall flying fight;
+Rather, directly fly.
+
+
+@d{}
+[Reads]
+
+
+@l{"name":"Imogen"}
+"--He is one of the noblest note, to whose
+kindnesses I am most infinitely tied. Reflect upon him
+accordingly, as you value your trust--  LEONATUS"
+
+So far I read aloud--
+But even the very middle of my heart
+Is warm'd by the rest--and take it thankfully.
+You are as welcome, worthy sir, as I
+Have words to bid you; and shall find it so
+In all that I can do.
+
+
+@l{"name":"Iachimo"}
+
+Thanks, fairest lady.
+What, are men mad? Hath nature given them eyes
+To see this vaulted arch, and the rich crop
+Of sea and land, which can distinguish 'twixt
+The fiery orbs above and the twinn'd stones
+Upon the number'd beach, and can we not
+Partition make with spectacles so precious
+'Twixt fair and foul?
+
+
+@l{"name":"Imogen"}
+
+What makes your admiration?
+
+
+@l{"name":"Iachimo"}
+
+It cannot be i' the eye, for apes and monkeys
+'Twixt two such shes would chatter this way and
+Contemn with mows the other; nor i' the judgement,
+For idiots in this case of favour would
+Be wisely definite; nor i' the appetite;
+Sluttery to such neat excellence oppos'd
+Should make desire vomit emptiness,
+Not so allur'd to feed.
+
+
+@l{"name":"Imogen"}
+
+What is the matter, trow?
+
+
+@l{"name":"Iachimo"}
+
+The cloyed will,--
+That satiate yet unsatisfi'd desire, that tub
+Both fill'd and running,--ravening first the lamb,
+Longs after for the garbage.
+
+
+@l{"name":"Imogen"}
+
+What, dear sir,
+Thus raps you? Are you well?
+
+
+@l{"name":"Iachimo"}
+
+Thanks, madam; well.
+
+
+@d{}
+[To Pisanio]
+
+
+@l{"name":"Iachimo"}
+Beseech you, sir, desire
+My man's abode where I did leave him.
+He is strange and peevish.
+
+
+@l{"name":"Pisanio"}
+
+I was going, sir,
+To give him welcome.
+
+
+@d{}
+[Exit.]
+
+
+@x{"names":["Pisanio"]}
+
+@l{"name":"Imogen"}
+
+Continues well my lord? His health, beseech you?
+
+
+@l{"name":"Iachimo"}
+
+Well, madam.
+
+
+@l{"name":"Imogen"}
+
+Is he dispos'd to mirth? I hope he is.
+
+
+@l{"name":"Iachimo"}
+
+Exceeding pleasant; none a stranger there
+So merry and so gamesome. He is call'd
+The Briton reveller.
+
+
+@l{"name":"Imogen"}
+
+When he was here,
+He did incline to sadness, and oft-times
+Not knowing why.
+
+
+@l{"name":"Iachimo"}
+
+I never saw him sad.
+There is a Frenchman his companion, one
+An eminent monsieur, that, it seems, much loves
+A Gallian girl at home. He furnaces
+The thick sighs from him; whiles the jolly Briton--
+Your lord, I mean--laughs from's free lungs, cries "O,
+Can my sides hold, to think that man, who knows
+By history, report, or his own proof,
+What woman is, yea, what she cannot choose
+But must be, will his free hours languish for
+Assured bondage?"
+
+
+@l{"name":"Imogen"}
+
+Will my lord say so?
+
+
+@l{"name":"Iachimo"}
+
+Ay, madam, with his eyes in flood with laughter.
+It is a recreation to be by
+And hear him mock the Frenchman. But, heavens know,
+Some men are much to blame.
+
+
+@l{"name":"Imogen"}
+
+Not he, I hope.
+
+
+@l{"name":"Iachimo"}
+
+Not he; but yet heaven's bounty towards him might
+Be used more thankfully. In himself, 'tis much;
+In you--which I account his--beyond all talents.
+Whilst I am bound to wonder, I am bound
+To pity too.
+
+
+@l{"name":"Imogen"}
+
+What do you pity, sir?
+
+
+@l{"name":"Iachimo"}
+
+Two creatures heartily.
+
+
+@l{"name":"Imogen"}
+
+Am I one, sir?
+You look on me; what wreck discern you in me
+Deserves your pity?
+
+
+@l{"name":"Iachimo"}
+
+Lamentable! What,
+To hide me from the radiant sun, and solace
+I' the dungeon by a snuff?
+
+
+@l{"name":"Imogen"}
+
+I pray you, sir,
+Deliver with more openness your answers
+To my demands. Why do you pity me?
+
+
+@l{"name":"Iachimo"}
+
+That others do,
+I was about to say, enjoy your--But
+It is an office of the gods to venge it,
+Not mine to speak on't.
+
+
+@l{"name":"Imogen"}
+
+You do seem to know
+Something of me, or what concerns me:  pray you,--
+Since doubting things go ill often hurts more
+Than to be sure they do; for certainties
+Either are past remedies, or, timely knowing,
+The remedy then born--discover to me
+What both you spur and stop.
+
+
+@l{"name":"Iachimo"}
+
+Had I this cheek
+To bathe my lips upon; this hand, whose touch,
+Whose every touch, would force the feeler's soul
+To the oath of loyalty; this object, which
+Takes prisoner the wild motion of mine eye,
+Fixing it only here; should I, damn'd then,
+Slaver with lips as common as the stairs
+That mount the Capitol; join gripes with hands
+Made hard with hourly falsehood--falsehood, as
+With labour; then lie peeping in an eye
+Base and illustrious as the smoky light
+That's fed with stinking tallow:  it were fit
+That all the plagues of hell should at one time
+Encounter such revolt.
+
+
+@l{"name":"Imogen"}
+
+My lord, I fear,
+Has forgot Britain.
+
+
+@l{"name":"Iachimo"}
+
+And himself. Not I,
+Inclin'd to this intelligence, pronounce
+The beggary of his change; but 'tis your graces
+That from my mutest conscience to my tongue
+Charms this report out.
+
+
+@l{"name":"Imogen"}
+
+Let me hear no more.
+
+
+@l{"name":"Iachimo"}
+
+O dearest soul! your cause doth strike my heart
+With pity, that doth make me sick. A lady
+So fair, and fasten'd to an empery
+Would make the great'st king double,--to be partner'd
+With tomboys hir'd with that self-exhibition
+Which your own coffers yield! with diseas'd ventures
+That play with all infirmities for gold
+Which rottenness can lend nature! such boil'd stuff
+As well might poison poison! Be reveng'd;
+Or she that bore you was no queen, and you
+Recoil from your great stock.
+
+
+@l{"name":"Imogen"}
+
+Reveng'd!
+How should I be reveng'd? If this be true,
+As I have such a heart that both mine ears
+Must not in haste abuse--if it be true,
+How should I be reveng'd?
+
+
+@l{"name":"Iachimo"}
+
+Should he make me
+Live, like Diana's priest, betwixt cold sheets,
+Whiles he is vaulting variable ramps,
+In your despite, upon your purse? Revenge it.
+I dedicate myself to your sweet pleasure,
+More noble than that runagate to your bed,
+And will continue fast to your affection,
+Still close as sure.
+
+
+@l{"name":"Imogen"}
+
+What ho, Pisanio!
+
+
+@l{"name":"Iachimo"}
+
+Let me my service tender on your lips.
+
+
+@l{"name":"Imogen"}
+
+Away! I do condemn mine ears that have
+So long attended thee. If thou wert honourable,
+Thou wouldst have told this tale for virtue, not
+For such an end thou seek'st,--as base as strange.
+Thou wrong'st a gentleman, who is as far
+From thy report as thou from honour, and
+Solicit'st here a lady that disdains
+Thee and the devil alike.  What, ho, Pisanio!
+The King my father shall be made acquainted
+Of thy assault. If he shall think it fit
+A saucy stranger in his court to mart
+As in a Romish stew, and to expound
+His beastly mind to us, he hath a court
+He little cares for and a daughter who
+He not respects at all.  What, ho, Pisanio!
+
+
+@l{"name":"Iachimo"}
+
+O happy Leonatus! I may say.
+The credit that thy lady hath of thee
+Deserves thy trust, and thy most perfect goodness
+Her assur'd credit. Blessed live you long
+A lady to the worthiest sir that ever
+Country call'd his! and you his mistress, only
+For the most worthiest fit! Give me your pardon.
+I have spoke this, to know if your affiance
+Were deeply rooted, and shall make your lord,
+That which he is, new o'er; and he is one
+The truest manner'd, such a holy witch
+That he enchants societies into him;
+Half all men's hearts are his.
+
+
+@l{"name":"Imogen"}
+
+You make amends.
+
+
+@l{"name":"Iachimo"}
+
+He sits 'mongst men like a descended god:
+He hath a kind of honour sets him off,
+More than a mortal seeming. Be not angry,
+Most mighty princess, that I have adventur'd
+To try your taking of a false report; which hath
+Honour'd with confirmation your great judgement
+In the election of a sir so rare,
+Which you know cannot err. The love I bear him
+Made me to fan you thus; but the gods made you,
+Unlike all others, chaffless. Pray, your pardon.
+
+
+@l{"name":"Imogen"}
+
+All's well, sir.  Take my power i' the court for yours.
+
+
+@l{"name":"Iachimo"}
+
+My humble thanks. I had almost forgot
+To entreat your Grace but in a small request,
+And yet of moment too, for it concerns
+Your lord, myself, and other noble friends,
+Are partners in the business.
+
+
+@l{"name":"Imogen"}
+
+Pray, what is't?
+
+
+@l{"name":"Iachimo"}
+
+Some dozen Romans of us and your lord--
+The best feather of our wing--have mingled sums
+To buy a present for the Emperor;
+Which I, the factor for the rest, have done
+In France. 'Tis plate of rare device, and jewels
+Of rich and exquisite form, their values great;
+And I am something curious, being strange,
+To have them in safe stowage. May it please you
+To take them in protection?
+
+
+@l{"name":"Imogen"}
+
+Willingly;
+And pawn mine honour for their safety. Since
+My lord hath interest in them, I will keep them
+In my bedchamber.
+
+
+@l{"name":"Iachimo"}
+
+They are in a trunk,
+Attended by my men. I will make bold
+To send them to you, only for this night;
+I must aboard to-morrow.
+
+
+@l{"name":"Imogen"}
+
+O, no, no.
+
+
+@l{"name":"Iachimo"}
+
+Yes, I beseech; or I shall short my word
+By lengthening my return. From Gallia
+I cross'd the seas on purpose and on promise
+To see your Grace.
+
+
+@l{"name":"Imogen"}
+
+I thank you for your pains:
+But not away to-morrow!
+
+
+@l{"name":"Iachimo"}
+
+O, I must, madam;
+Therefore I shall beseech you, if you please
+To greet your lord with writing; do't to-night.
+I have outstood my time; which is material
+To the tender of our present.
+
+
+@l{"name":"Imogen"}
+
+I will write.
+Send your trunk to me; it shall safe be kept,
+And truly yielded you. You're very welcome.
+
+
+@d{}
+[Exeunt.]
+
+
+@x{"names":["Iachimo","Imogen"]}
+
+@a{"number":2}
+@s{"number":1}
+@d{}
+ACT II. SCENE I.
+
+Britain. Before CYMBELINE'S palace.
+
+[Enter CLOTEN and the two LORDS.]
+
+
+@e{"names":["Cloten","First Lord","Second Lord"]}
+
+@l{"name":"Cloten"}
+
+Was there ever man had such luck! When I kiss'd the jack,
+upon an up-cast to be hit away! I had a hundred pound on't; and
+then a whoreson jackanapes must take me up for swearing, as if I
+borrowed mine oaths of him and might not spend them at my
+pleasure.
+
+
+@l{"name":"First Lord"}
+
+What got he by that? You have broke his pate with your bowl.
+
+
+@d{}
+[Aside.]
+
+
+@l{"name":"Second Lord"}
+If his wit had been like him that broke it, it would have run all
+out.
+
+
+@l{"name":"Cloten"}
+
+When a gentleman is dispos'd to swear, it is not for any
+standers-by to curtail his oaths, ha?
+
+
+@l{"name":"Second Lord"}
+
+No, my lord;
+
+
+@d{}
+[Aside.]
+
+
+@l{"name":"Second Lord"}
+nor crop the ears of them.
+
+
+@l{"name":"Cloten"}
+
+Whoreson dog! I give him satisfaction? Would he had been one of
+my rank!
+
+
+@d{}
+[Aside.]
+
+
+@l{"name":"Second Lord"}
+To have smelt like a fool.
+
+
+@l{"name":"Cloten"}
+
+I am not vex'd more at anything in the earth; a pox on't! I had
+rather not be so noble as I am.  They dare not fight with me,
+because of the Queen my mother. Every Jack-slave hath his
+bellyful of fighting, and I must go up and down like a cock
+that nobody can match.
+
+
+@d{}
+[Aside.]
+
+
+@l{"name":"Second Lord"}
+You are cock and capon too; and you crow, cock, with your comb
+on.
+
+
+@l{"name":"Cloten"}
+
+Sayest thou?
+
+
+@l{"name":"Second Lord"}
+
+It is not fit your lordship should undertake every companion that
+you give offence to.
+
+
+@l{"name":"Cloten"}
+
+No, I know that; but it is fit I should commit offence to my
+inferiors.
+
+
+@l{"name":"Second Lord"}
+
+Ay, it is fit for your lordship only.
+
+
+@l{"name":"Cloten"}
+
+Why, so I say.
+
+
+@l{"name":"First Lord"}
+
+Did you hear of a stranger that's come to court to-night?
+
+
+@l{"name":"Cloten"}
+
+A stranger, and I not known on't!
+
+
+@d{}
+[Aside.]
+
+
+@l{"name":"Second Lord"}
+He's a strange fellow himself, and knows it not.
+
+
+@l{"name":"First Lord"}
+
+There's an Italian come; and, 'tis thought, one of Leonatus'
+friends.
+
+
+@l{"name":"Cloten"}
+
+Leonatus! a banish'd rascal; and he's another, whatsoever he be.
+Who told you of this stranger?
+
+
+@l{"name":"First Lord"}
+
+One of your lordship's pages.
+
+
+@l{"name":"Cloten"}
+
+Is it fit I went to look upon him? Is there no derogation in't?
+
+
+@l{"name":"Second Lord"}
+
+You cannot derogate, my lord.
+
+
+@l{"name":"Cloten"}
+
+Not easily, I think.
+
+
+@d{}
+[Aside.]
+
+
+@l{"name":"Second Lord"}
+You are a fool granted; therefore your issues, being foolish, do
+not derogate.
+
+
+@l{"name":"Cloten"}
+
+Come, I'll go see this Italian. What I have lost to-day at bowls
+I'll win to-night of him. Come, go.
+
+
+@l{"name":"Second Lord"}
+
+I'll attend your lordship.
+
+
+@d{}
+[Exeunt CLOTEN and First Lord]
+
+
+@x{"names":["Cloten","First Lord"]}
+
+@l{"name":"Second Lord"}
+That such a crafty devil as is his mother
+Should yield the world this ass! A woman that
+Bears all down with her brain; and this her son
+Cannot take two from twenty, for his heart,
+And leave eighteen. Alas, poor princess,
+Thou divine Imogen, what thou endur'st,
+Betwixt a father by thy step-dame govern'd,
+A mother hourly coining plots, a wooer
+More hateful than the foul expulsion is
+Of thy dear husband!  Then that horrid act
+Of the divorce he'd make! The heavens hold firm
+The walls of thy dear honour, keep unshak'd
+That temple, thy fair mind, that thou mayst stand
+To enjoy thy banish'd lord and this great land!
+
+
+@d{}
+[Exit.]
+
+
+@x{"names":["Second Lord"]}
+
+@a{"number":2}
+@s{"number":2}
+@d{}
+SCENE II.
+
+IMOGEN'S bedchamber in CYMBELINE'S palace:
+a trunk in one corner of it.
+
+[IMOGEN in bed [reading]; a LADY [attending.]]
+
+
+@e{"names":["Imogen","Lady"]}
+
+@l{"name":"Imogen"}
+
+Who's there? My woman Helen?
+
+
+@l{"name":"Lady"}
+
+Please you, madam.
+
+
+@l{"name":"Imogen"}
+
+What hour is it?
+
+
+@l{"name":"Lady"}
+
+Almost midnight, madam.
+
+
+@l{"name":"Imogen"}
+
+I have read three hours then. Mine eyes are weak.
+Fold down the leaf where I have left. To bed.
+Take not away the taper, leave it burning;
+And if thou canst awake by four o' the clock,
+I prithee, call me. Sleep hath seiz'd me wholly.
+
+
+@d{}
+[Exit Lady]
+
+
+@x{"names":["Lady"]}
+
+@l{"name":"Imogen"}
+To your protection I commend me, gods.
+From fairies and the tempters of the night
+Guard me, beseech ye.
+
+
+@d{}
+[Sleeps. IACHIMO comes from the trunk.]
+
+
+@e{"names":["Iachimo"]}
+
+@l{"name":"Iachimo"}
+
+The crickets sing, and man's o'erlabour'd sense
+Repairs itself by rest. Our Tarquin thus
+Did softly press the rushes, ere he waken'd
+The chastity he wounded. Cytherea!
+How bravely thou becom'st thy bed, fresh lily,
+And whiter than the sheets! That I might touch!
+But kiss one kiss! Rubies unparagon'd,
+How dearly they do't! 'Tis her breathing that
+Perfumes the chamber thus. The flame o' the taper
+Bows toward her, and would under-peep her lids
+To see the enclosed lights, now canopied
+Under these windows white and azure, lac'd
+With blue of heaven's own tinct. But my design,
+To note the chamber. I will write all down:
+Such and such pictures; there the window; such
+The adornment of her bed; the arras; figures,
+Why, such and such; and the contents o' the story.
+Ah, but some natural notes about her body,
+Above ten thousand meaner moveables
+Would testify, to enrich mine inventory.
+O sleep, thou ape of death, lie dull upon her!
+And be her sense but as a monument,
+Thus in a chapel lying! Come off, come off!
+
+
+@d{}
+[Taking off her bracelet.]
+
+
+@l{"name":"Iachimo"}
+As slippery as the Gordian knot was hard!
+'Tis mine; and this will witness outwardly,
+As strongly as the conscience does within,
+To the madding of her lord. On her left breast
+A mole cinque-spotted, like the crimson drops
+I' the bottom of a cowslip. Here's a voucher,
+Stronger than ever law could make; this secret
+Will force him think I have pick'd the lock and ta'en
+The treasure of her honour. No more. To what end?
+Why should I write this down, that's riveted,
+Screw'd to my memory? She hath been reading late
+The tale of Tereus; here the leaf's turn'd down
+Where Philomel gave up. I have enough.
+To the trunk again, and shut the spring of it.
+Swift, swift, you dragons of the night, that dawning
+May bare the raven's eye! I lodge in fear;
+Though this a heavenly angel, hell is here.
+
+
+@d{}
+[Clock strikes.]
+
+
+@l{"name":"Iachimo"}
+One, two, three; time, time!
+
+
+@d{}
+[Goes into the trunk.]
+
+
+
+@x{"names":["Iachimo","Imogen"]}
+
+
+@a{"number":2}
+@s{"number":3}
+@d{}
+SCENE III.
+
+An ante-chamber adjoining IMOGEN'S apartments.
+
+[Enter CLOTEN and LORDS.]
+
+
+@e{"names":["Cloten","First Lord","Second Lord","Lord"]}
+
+@l{"name":"First Lord"}
+
+Your lordship is the most patient man in loss, the most
+coldest that ever turn'd up ace.
+
+
+@l{"name":"Cloten"}
+
+It would make any man cold to lose.
+
+
+@l{"name":"First Lord"}
+
+But not every man patient after the noble temper of your
+lordship.
+You are most hot and furious when you win.
+
+
+@l{"name":"Cloten"}
+
+Winning will put any man into courage. If I could get this
+foolish
+Imogen, I should have gold enough. It's almost morning, is't not?
+
+
+@l{"name":"First Lord"}
+
+Day, my lord.
+
+
+@l{"name":"Cloten"}
+
+I would this music would come. I am advised to give her music o'
+mornings; they say it will penetrate.
+
+
+@d{}
+[Enter Musicians.]
+
+
+@l{"name":"Cloten"}
+Come on; tune. If you can penetrate her with your fingering, so;
+we'll try with tongue too. If none will do, let her remain; but
+I'll never give o'er. First, a very excellent good-conceited thing;
+after, a wonderful sweet air, with admirable rich words to it; and
+then let her consider.
+
+
+@d{}
+SONG
+
+
+@l{"name":"Cloten"}
+Hark, hark! the lark at heaven's gate sings,
+And Phoebus gins arise
+His steeds to water at those springs
+On chalic'd flowers that lies;
+And winking Mary-buds begin
+To ope their golden eyes;
+With every thing that pretty is,
+My lady sweet, arise,
+Arise, arise.
+
+So, get you gone. If this penetrate, I will consider your music
+the better; if it do not, it is a vice in her ears, which
+horse-hairs and calves'-guts, nor the voice of unpaved eunuch
+to boot, can never amend.
+
+
+@d{}
+[Exeunt Musicians.]
+
+[Enter CYMBELINE and Queen]
+
+
+@e{"names":["Cymbeline","Queen"]}
+
+@l{"name":"Second Lord"}
+
+Here comes the King.
+
+
+@l{"name":"Cloten"}
+
+I am glad I was up so late, for that's the reason I was up so
+early.
+He cannot choose but take this service I have done fatherly.
+--Good morrow to your Majesty and to my gracious mother!
+
+
+@l{"name":"Cymbeline"}
+
+Attend you here the door of our stern daughter?
+Will she not forth?
+
+
+@l{"name":"Cloten"}
+
+I have assail'd her with musics, but she vouchsafes no notice.
+
+
+@l{"name":"Cymbeline"}
+
+The exile of her minion is too new;
+She hath not yet forgot him.  Some more time
+Must wear the print of his remembrance on't,
+And then she's yours.
+
+
+@l{"name":"Queen"}
+
+You are most bound to the King,
+Who lets go by no vantages that may
+Prefer you to his daughter. Frame yourself
+To orderly soliciting, and be friended
+With aptness of the season; make denials
+Increase your services; so seem as if
+You were inspir'd to do those duties which
+You tender to her; that you in all obey her,
+Save when command to your dismission tends,
+And therein you are senseless.
+
+
+@l{"name":"Cloten"}
+
+Senseless? Not so.
+
+
+@d{}
+[Enter a Messenger]
+
+
+@e{"names":["Messenger"]}
+
+@l{"name":"Messenger"}
+
+So like you, sir, ambassadors from Rome;
+The one is Caius Lucius.
+
+
+@l{"name":"Cymbeline"}
+
+A worthy fellow,
+Albeit he comes on angry purpose now;
+But that's no fault of his. We must receive him
+According to the honour of his sender;
+And towards himself, his goodness forespent on us,
+We must extend our notice. Our dear son,
+When you have given good morning to your mistress,
+Attend the Queen and us; we shall have need
+To employ you towards this Roman. Come, our queen.
+
+
+@d{}
+[Exeunt all but Cloten]
+
+
+@x{"names":["Cymbeline","First Lord","Lord","Messenger","Queen","Second Lord"]}
+
+@l{"name":"Cloten"}
+
+If she be up, I'll speak with her; if not,
+Let her lie still and dream. By your leave, ho!
+
+
+@d{}
+[Knocks.]
+
+
+@l{"name":"Cloten"}
+I know her women are about her; what
+If I do line one of their hands? 'Tis gold
+Which buys admittance; oft it doth; yea, and makes
+Diana's rangers false themselves, yield up
+Their deer to the stand o' the stealer; and 'tis gold
+Which makes the true man kill'd and saves the thief,
+Nay, sometime hangs both thief and true man. What
+Can it not do and undo? I will make
+One of her women lawyer to me, for
+I yet not understand the case myself.
+By your leave.
+
+
+@d{}
+[Knocks.]
+
+[Enter a Lady]
+
+
+@e{"names":["Lady"]}
+
+@l{"name":"Lady"}
+
+Who's there that knocks?
+
+
+@l{"name":"Cloten"}
+
+A gentleman.
+
+
+@l{"name":"Lady"}
+
+No more?
+
+
+@l{"name":"Cloten"}
+
+Yes, and a gentlewoman's son.
+
+
+@l{"name":"Lady"}
+
+That's more
+Than some, whose tailors are as dear as yours,
+Can justly boast of. What's your lordship's pleasure?
+
+
+@l{"name":"Cloten"}
+
+Your lady's person.  Is she ready?
+
+
+@l{"name":"Lady"}
+
+Ay,
+To keep her chamber.
+
+
+@l{"name":"Cloten"}
+
+There is gold for you; sell me your good report.
+
+
+@l{"name":"Lady"}
+
+How! my good name? Or to report of you
+What I shall think is good?--The Princess!
+
+
+@d{}
+[Enter Imogen]
+
+
+@e{"names":["Imogen"]}
+
+@l{"name":"Cloten"}
+
+Good morrow, fairest.  Sister, your sweet hand.
+
+
+@d{}
+[Exit Lady]
+
+
+@x{"names":["Lady"]}
+
+@l{"name":"Imogen"}
+
+Good morrow, sir. You lay out too much pains
+For purchasing but trouble. The thanks I give
+Is telling you that I am poor of thanks,
+And scarce can spare them.
+
+
+@l{"name":"Cloten"}
+
+Still, I swear I love you.
+
+
+@l{"name":"Imogen"}
+
+If you but said so, 'twere as deep with me.
+If you swear still, your recompense is still
+That I regard it not.
+
+
+@l{"name":"Cloten"}
+
+This is no answer.
+
+
+@l{"name":"Imogen"}
+
+But that you shall not say I yield being silent,
+I would not speak. I pray you, spare me. Faith,
+I shall unfold equal discourtesy
+To your best kindness.  One of your great knowing
+Should learn, being taught, forbearance.
+
+
+@l{"name":"Cloten"}
+
+To leave you in your madness, 'twere my sin. I will not.
+
+
+@l{"name":"Imogen"}
+
+Fools are not mad folks.
+
+
+@l{"name":"Cloten"}
+
+Do you call me fool?
+
+
+@l{"name":"Imogen"}
+
+As I am mad, I do.
+If you'll be patient, I'll no more be mad;
+That cures us both. I am much sorry, sir,
+You put me to forget a lady's manners,
+By being so verbal; and learn now, for all,
+That I, which know my heart, do here pronounce,
+By the very truth of it, I care not for you,
+And am so near the lack of charity
+To accuse myself I hate you; which I had rather
+You felt than make't my boast.
+
+
+@l{"name":"Cloten"}
+
+You sin against
+Obedience, which you owe your father. For
+The contract you pretend with that base wretch,
+One bred of alms and foster'd with cold dishes,
+With scraps o' the court, it is no contract, none;
+And though it be allowed in meaner parties--
+Yet who than he more mean?--to knit their souls--
+On whom there is no more dependency
+But brats and beggary,--in self-figur'd knot,
+Yet you are curb'd from that enlargement by
+The consequence o' the crown, and must not foil
+The precious note of it with a base slave,
+A hilding for a livery, a squire's cloth,
+A pantler, not so eminent!
+
+
+@l{"name":"Imogen"}
+
+Profane fellow!
+Wert thou the son of Jupiter and no more
+But what thou art besides, thou wert too base
+To be his groom. Thou wert dignified enough,
+Even to the point of envy, if 'twere made
+Comparative for your virtues, to be styl'd
+The under-hangman of his kingdom, and hated
+For being preferr'd so well.
+
+
+@l{"name":"Cloten"}
+
+The south-fog rot him!
+
+
+@l{"name":"Imogen"}
+
+He never can meet more mischance than come
+To be but nam'd of thee. His mean'st garment
+That ever hath but clipp'd his body, is dearer
+In my respect than all the hairs above thee,
+Were they all made such men. How now?
+
+
+@d{}
+[Missing the bracelet.]
+
+
+@l{"name":"Imogen"}
+Pisanio!
+
+
+@d{}
+[Enter Pisanio]
+
+
+@e{"names":["Pisanio"]}
+
+@l{"name":"Cloten"}
+
+"His garments!"  Now the devil--
+
+
+@l{"name":"Imogen"}
+
+To Dorothy my woman hie thee presently--
+
+
+@l{"name":"Cloten"}
+
+"His garment!"
+
+
+@l{"name":"Imogen"}
+
+I am sprited with a fool,
+Frighted, and ang'red worse. Go bid my woman
+Search for a jewel that too casually
+Hath left mine arm. It was thy master's.  Shrew me,
+If I would lose it for a revenue
+Of any king's in Europe.  I do think
+I saw't this morning; confident I am
+Last night 'twas on mine arm; I kiss'd it.
+I hope it be not gone to tell my lord
+That I kiss aught but he.
+
+
+@l{"name":"Pisanio"}
+
+'Twill not be lost.
+
+
+@l{"name":"Imogen"}
+
+I hope so; go and search.
+
+
+@d{}
+[Exit Pisanio]
+
+
+@x{"names":["Pisanio"]}
+
+@l{"name":"Cloten"}
+
+You have abus'd me
+"His meanest garment!"
+
+
+@l{"name":"Imogen"}
+
+Ay, I said so, sir.
+If you will make't an action, call witness to't.
+
+
+@l{"name":"Cloten"}
+
+I will inform your father.
+
+
+@l{"name":"Imogen"}
+
+Your mother too.
+She's my good lady, and will conceive, I hope,
+But the worst of me. So, I leave you, sir,
+To the worst of discontent.
+
+
+@d{}
+[Exit.]
+
+
+@x{"names":["Imogen"]}
+
+@l{"name":"Cloten"}
+
+I'll be reveng'd.
+"His meanest garment!"  Well.
+
+
+@d{}
+[Exit.]
+
+
+@x{"names":["Cloten"]}
+
+@a{"number":2}
+@s{"number":4}
+@d{}
+SCENE IV.
+
+Rome. PHILARIO'S house.
+
+[Enter POSTHUMUS and Philario]
+
+
+@e{"names":["Posthumus","Philario"]}
+
+@l{"name":"Posthumus"}
+
+Fear it not, sir; I would I were so sure
+To win the King as I am bold her honour
+Will remain hers.
+
+
+@l{"name":"Philario"}
+
+What means do you make to him?
+
+
+@l{"name":"Posthumus"}
+
+Not any, but abide the change of time,
+Quake in the present winter's state, and wish
+That warmer days would come. In these fear'd hopes,
+I barely gratify your love; they failing,
+I must die much your debtor.
+
+
+@l{"name":"Philario"}
+
+Your very goodness and your company
+O'erpays all I can do. By this, your king
+Hath heard of great Augustus. Caius Lucius
+Will do's commission throughly; and I think
+He'll grant the tribute, send the arrearages,
+Or look upon our Romans, whose remembrance
+Is yet fresh in their grief.
+
+
+@l{"name":"Posthumus"}
+
+I do believe,
+Statist though I am none, nor like to be,
+That this will prove a war; and you shall hear
+The legions now in Gallia sooner landed
+In our not-fearing Britain than have tidings
+Of any penny tribute paid. Our countrymen
+Are men more order'd than when Julius Caesar
+Smil'd at their lack of skill, but found their courage
+Worthy his frowning at. Their discipline,
+Now wing-led with their courages, will make known
+To their approvers they are people such
+That mend upon the world.
+
+
+@d{}
+[Enter Iachimo]
+
+
+@e{"names":["Iachimo"]}
+
+@l{"name":"Philario"}
+
+See! Iachimo!
+
+
+@l{"name":"Posthumus"}
+
+The swiftest harts have posted you by land;
+And winds of all the comers kiss'd your sails,
+To make your vessel nimble.
+
+
+@l{"name":"Philario"}
+
+Welcome, sir.
+
+
+@l{"name":"Posthumus"}
+
+I hope the briefness of your answer made
+The speediness of your return.
+
+
+@l{"name":"Iachimo"}
+
+Your lady
+Is one of the fairest that I have look'd upon.
+
+
+@l{"name":"Posthumus"}
+
+And therewithal the best; or let her beauty
+Look through a casement to allure false hearts
+And be false with them.
+
+
+@l{"name":"Iachimo"}
+
+Here are letters for you.
+
+
+@l{"name":"Posthumus"}
+
+Their tenour good, I trust.
+
+
+@l{"name":"Iachimo"}
+
+'Tis very like.
+
+
+@l{"name":"Philario"}
+
+Was Caius Lucius in the Britain court
+When you were there?
+
+
+@l{"name":"Iachimo"}
+
+He was expected then,
+But not approach'd.
+
+
+@l{"name":"Posthumus"}
+
+All is well yet.
+Sparkles this stone as it was wont, or is't not
+Too dull for your good wearing?
+
+
+@l{"name":"Iachimo"}
+
+If I have lost it,
+I should have lost the worth of it in gold.
+I'll make a journey twice as far, to enjoy
+A second night of such sweet shortness which
+Was mine in Britain; for the ring is won.
+
+
+@l{"name":"Posthumus"}
+
+The stone's too hard to come by.
+
+
+@l{"name":"Iachimo"}
+
+Not a whit,
+Your lady being so easy.
+
+
+@l{"name":"Posthumus"}
+
+Make not, sir,
+Your loss your sport. I hope you know that we
+Must not continue friends.
+
+
+@l{"name":"Iachimo"}
+
+Good sir, we must,
+If you keep covenant. Had I not brought
+The knowledge of your mistress home, I grant
+We were to question farther; but I now
+Profess myself the winner of her honour,
+Together with your ring; and not the wronger
+Of her or you, having proceeded but
+By both your wills.
+
+
+@l{"name":"Posthumus"}
+
+If you can make't apparent
+That you have tasted her in bed, my hand
+And ring is yours; if not, the foul opinion
+You had of her pure honour gains or loses
+Your sword or mine, or masterless leaves both
+To who shall find them.
+
+
+@l{"name":"Iachimo"}
+
+Sir, my circumstances,
+Being so near the truth as I will make them,
+Must first induce you to believe; whose strength
+I will confirm with oath, which, I doubt not,
+You'll give me leave to spare, when you shall find
+You need it not.
+
+
+@l{"name":"Posthumus"}
+
+Proceed.
+
+
+@l{"name":"Iachimo"}
+
+First, her bedchamber,--
+Where, I confess, I slept not, but profess
+Had that was well worth watching--it was hang'd
+With tapestry of silk and silver; the story
+Proud Cleopatra, when she met her Roman,
+And Cydnus swell'd above the banks, or for
+The press of boats or pride; a piece of work
+So bravely done, so rich, that it did strive
+In workmanship and value; which I wonder'd
+Could be so rarely and exactly wrought,
+Since the true life on't was--
+
+
+@l{"name":"Posthumus"}
+
+This is true;
+And this you might have heard of here, by me,
+Or by some other.
+
+
+@l{"name":"Iachimo"}
+
+More particulars
+Must justify my knowledge.
+
+
+@l{"name":"Posthumus"}
+
+So they must,
+Or do your honour injury.
+
+
+@l{"name":"Iachimo"}
+
+The chimney
+Is south the chamber, and the chimney-piece
+Chaste Dian bathing. Never saw I figures
+So likely to report themselves. The cutter
+Was as another Nature, dumb; outwent her,
+Motion and breath left out.
+
+
+@l{"name":"Posthumus"}
+
+This is a thing
+Which you might from relation likewise reap,
+Being, as it is, much spoke of.
+
+
+@l{"name":"Iachimo"}
+
+The roof o' the chamber
+With golden cherubins is fretted.  Her andirons--
+I had forgot them--were two winking Cupids
+Of silver, each on one foot standing, nicely
+Depending on their brands.
+
+
+@l{"name":"Posthumus"}
+
+This is her honour!
+Let it be granted you have seen all this--and praise
+Be given to your remembrance--the description
+Of what is in her chamber nothing saves
+The wager you have laid.
+
+
+@l{"name":"Iachimo"}
+
+Then, if you can,
+
+
+@d{}
+[Showing the bracelet.]
+
+
+@l{"name":"Iachimo"}
+Be pale. I beg but leave to air this jewel; see!
+And now 'tis up again. It must be married
+To that your diamond; I'll keep them.
+
+
+@l{"name":"Posthumus"}
+
+Jove!
+Once more let me behold it. Is it that
+Which I left with her?
+
+
+@l{"name":"Iachimo"}
+
+Sir--I thank her--that.
+She stripp'd it from her arm.  I see her yet.
+Her pretty action did outsell her gift,
+And yet enrich'd it too. She gave it me, and said
+She priz'd it once.
+
+
+@l{"name":"Posthumus"}
+
+May be she pluck'd it off
+To send it me.
+
+
+@l{"name":"Iachimo"}
+
+She writes so to you, doth she?
+
+
+@l{"name":"Posthumus"}
+
+O, no, no, no! 'tis true. Here, take this too;
+
+
+@d{}
+[Gives the ring.]
+
+
+@l{"name":"Posthumus"}
+It is a basilisk unto mine eye,
+Kills me to look on't. Let there be no honour
+Where there is beauty; truth, where semblance; love
+Where there's another man. The vows of women
+Of no more bondage, be to where they are made,
+Than they are to their virtues, which is nothing.
+O, above measure false!
+
+
+@l{"name":"Philario"}
+
+Have patience, sir,
+And take your ring again; 'tis not yet won.
+It may be probable she lost it, or
+Who knows if one her women, being corrupted,
+Hath stolen it from her?
+
+
+@l{"name":"Posthumus"}
+
+Very true;
+And so, I hope, he came by't. Back my ring.
+Render to me some corporal sign about her,
+More evident than this; for this was stolen.
+
+
+@l{"name":"Iachimo"}
+
+By Jupiter, I had it from her arm.
+
+
+@l{"name":"Posthumus"}
+
+Hark you, he swears; by Jupiter he swears.
+'Tis true--nay, keep the ring--'tis true. I am sure
+She would not lose it. Her attendants are
+All sworn and honourable.  They induced to steal it!
+And by a stranger! No, he hath enjoy'd her.
+The cognizance of her incontinency
+Is this.  She hath bought the name of whore thus dearly.
+There, take thy hire; and all the fiends of hell
+Divide themselves between you!
+
+
+@l{"name":"Philario"}
+
+Sir, be patient.
+This is not strong enough to be believ'd
+Of one persuaded well of--
+
+
+@l{"name":"Posthumus"}
+
+Never talk on't;
+She hath been colted by him.
+
+
+@l{"name":"Iachimo"}
+
+If you seek
+For further satisfying, under her breast--
+Worthy the pressing--lies a mole, right proud
+Of that most delicate lodging. By my life,
+I kiss'd it; and it gave me present hunger
+To feed again, though full. You do remember
+This stain upon her?
+
+
+@l{"name":"Posthumus"}
+
+Ay, and it doth confirm
+Another stain, as big as hell can hold,
+Were there no more but it.
+
+
+@l{"name":"Iachimo"}
+
+Will you hear more?
+
+
+@l{"name":"Posthumus"}
+
+Spare your arithmetic; never count the turns;
+Once, and a million!
+
+
+@l{"name":"Iachimo"}
+
+I'll be sworn--
+
+
+@l{"name":"Posthumus"}
+
+No swearing.
+If you will swear you have not done't, you lie;
+And I will kill thee, if thou dost deny
+Thou'st made me cuckold.
+
+
+@l{"name":"Iachimo"}
+
+I'll deny nothing.
+
+
+@l{"name":"Posthumus"}
+
+O, that I had her here, to tear her limbmeal!
+I will go there and do't, i' the court, before
+Her father. I'll do something--
+
+
+@d{}
+[Exit.]
+
+
+@x{"names":["Posthumus"]}
+
+@l{"name":"Philario"}
+
+Quite besides
+The government of patience! You have won.
+Let's follow him, and pervert the present wrath
+He hath against himself.
+
+
+@l{"name":"Iachimo"}
+
+With all my heart.
+
+@d{}
+[Exeunt.]
+
+
+@x{"names":["Iachimo","Philario"]}
+
+@a{"number":2}
+@s{"number":5}
+@d{}
+SCENE V.
+
+Another room in PHILARIO'S house.
+
+[Enter Posthumus]
+
+
+@e{"names":["Posthumus"]}
+
+@l{"name":"Posthumus"}
+
+Is there no way for men to be, but women
+Must be half-workers? We are all bastards;
+And that most venerable man which I
+Did call my father, was I know not where
+When I was stamp'd. Some coiner with his tools
+Made me a counterfeit; yet my mother seem'd
+The Dian of that time. So doth my wife
+The nonpareil of this. O, vengeance, vengeance!
+Me of my lawful pleasure she restrain'd
+And pray'd me oft forbearance; did it with
+A pudency so rosy, the sweet view on't
+Might well have warm'd old Saturn; that I thought her
+As chaste as unsunn'd snow. O, all the devils!
+This yellow Iachimo, in an hour,--was't not?--
+Or less,--at first?--perchance he spoke not, but,
+Like a full-acorn'd boar, a German one,
+Cried "O!" and mounted; found no opposition
+But what he look'd for should oppose and she
+Should from encounter guard. Could I find out
+The woman's part in me! For there's no motion
+That tends to vice in man, but I affirm
+It is the woman's part; be it lying, note it,
+The woman's; flattering, hers; deceiving, hers;
+Lust and rank thoughts, hers, hers; revenges, hers;
+Ambitions, covetings, change of prides, disdain,
+Nice longing, slanders, mutability,
+All faults that may be nam'd, nay, that hell knows,
+Why, hers, in part or all; but rather, all.
+For even to vice
+They are not constant, but are changing still
+One vice, but of a minute old, for one
+Not half so old as that. I'll write against them,
+Detest them, curse them; yet 'tis greater skill
+In a true hate, to pray they have their will.
+The very devils cannot plague them better.
+
+
+@d{}
+[Exit.]
+
+
+@x{"names":["Posthumus"]}
+
+@a{"number":3}
+@s{"number":1}
+@d{}
+ACT THIRD. SCENE I.
+
+Britain. The Roman camp.
+
+[Enter POSTHUMUS [with a bloody handkerchief.]
+
+
+@e{"names":["Posthumus"]}
+
+@l{"name":"Posthumus"}
+
+Yea, bloody cloth, I'll keep thee, for I wish'd
+Thou shouldst be colour'd thus. You married ones,
+If each of you should take this course, how many
+Must murder wives much better than themselves
+For wrying but a little! O Pisanio!
+Every good servant does not all commands;
+No bond but to do just ones. Gods! if you
+Should have ta'en vengeance on my faults, I never
+Had liv'd to put on this; so had you saved
+The noble Imogen to repent, and struck
+Me, wretch, more worth your vengeance. But, alack,
+You snatch some hence for little faults; that's love,
+To have them fall no more:  you some permit
+To second ills with ills, each elder worse,
+And make them dread it, to the doer's thrift.
+But Imogen is your own; do your best wills,
+And make me blest to obey! I am brought hither
+Among the Italian gentry, and to fight
+Against my lady's kingdom. 'Tis enough
+That, Britain, I have kill'd thy mistress; peace!
+I'll give no wound to thee. Therefore, good heavens,
+Hear patiently my purpose: I'll disrobe me
+Of these Italian weeds, and suit myself
+As does a Briton peasant; so I'll fight
+Against the part I come with; so I'll die
+For thee, O Imogen, even for whom my life
+Is every breath a death; and thus, unknown,
+Pitied nor hated, to the face of peril
+Myself I'll dedicate. Let me make men know
+More valour in me than my habits show.
+Gods, put the strength o' the Leonati in me!
+To shame the guise o' the world, I will begin
+The fashion, less without and more within.
+
+
+@d{}
+[Exit.]
+
+
+@x{"names":["Posthumus"]}
+
+
+@a{"number":3}
+@s{"number":2}
+@d{}
+SCENE II.
+
+Field of battle between the British and Roman camps.
+
+[Enter LUCIUS, IACHIMO, and the Roman Army at one door;
+and the Briton army at another; LEONATUS POSTHUMUS
+following, like a poor soldier. They march over and go out.
+Alarums.  Then enter again, in skirmish, IACHIMO, and
+POSTHUMUS:  he vanquisheth and disarmeth IACHIMO,
+and then leaves him.]
+
+
+@e{"names":["Iachimo"]}
+
+@l{"name":"Iachimo"}
+
+The heaviness and guilt within my bosom
+Takes off my manhood. I have belied a lady,
+The Princess of this country, and the air on't
+Revengingly enfeebles me; or could this carl,
+A very drudge of nature's, have subdu'd me
+In my profession? Knighthoods and honours, borne
+As I wear mine, are titles but of scorn.
+If that thy gentry, Britain, go before
+This lout as he exceeds our lords, the odds
+Is that we scarce are men, and you are gods.
+
+
+@d{}
+[Exit.]
+
+[The battle continues; the BRITONS fly; CYMBELINE is taken:
+then enter, to his rescue, BELARIUS, GUIDERIUS, and Arviragus]
+
+
+@e{"names":["Cymbeline","Belarius","Guiderius","Arviragus"]}
+
+@x{"names":["Iachimo"]}
+
+@l{"name":"Belarius"}
+
+Stand, stand! We have the advantage of the ground;
+The lane is guarded.  Nothing routs us but
+The villainy of our fears.
+
+
+@l{"name":"Guiderius"}
+
+Stand, stand, and fight!
+
+
+@l{"name":"Arviragus"}
+
+Stand, stand, and fight!
+
+
+@d{}
+[Re-enter POSTHUMUS, and seconds the Britons.  They rescue
+CYMBELINE, and exeunt. Then re-enter LUCIUS, IACHIMO,
+and Imogen]
+
+
+@e{"names":["Lucius","Imogen","Iachimo"]}
+
+@x{"names":["Cymbeline"]}
+
+@l{"name":"Lucius"}
+
+Away, boy, from the troops, and save thyself;
+For friends kill friends, and the disorder's such
+As war were hoodwink'd.
+
+
+@l{"name":"Iachimo"}
+
+'Tis their fresh supplies.
+
+
+@l{"name":"Lucius"}
+
+It is a day turn'd strangely. Or betimes
+Let's reinforce, or fly.
+
+
+@d{}
+[Exeunt.]
+
+
+
+@x{"names":["Arviragus","Belarius","Guiderius","Iachimo","Imogen","Lucius"]}
+
+@a{"number":3}
+@s{"number":3}
+@d{}
+SCENE III.
+
+Another part of the field.
+
+[Enter POSTHUMUS and a Briton Lord]
+
+
+@e{"names":["Lord","Posthumus"]}
+
+@l{"name":"Lord"}
+
+Cam'st thou from where they made the stand?
+
+
+@l{"name":"Posthumus"}
+
+I did;
+Though you, it seems, come from the fliers.
+
+
+@l{"name":"Lord"}
+
+I did.
+
+
+@l{"name":"Posthumus"}
+
+No blame be to you, sir, for all was lost,
+But that the heavens fought; the King himself
+Of his wings destitute, the army broken,
+And but the backs of Britons seen, all flying,
+Through a strait lane; the enemy full-hearted,
+Lolling the tongue with slaught'ring, having work
+More plentiful than tools to do't, struck down
+Some mortally, some slightly touch'd, some falling
+Merely through fear, that the straight pass was damm'd
+With dead men hurt behind, and cowards living
+To die with length'ned shame.
+
+
+@l{"name":"Lord"}
+
+Where was this lane?
+
+
+@l{"name":"Posthumus"}
+
+Close by the battle, ditch'd, and wall'd with turf;
+Which gave advantage to an ancient soldier,
+An honest one, I warrant; who deserv'd
+So long a breeding as his white beard came to,
+In doing this for's country. Athwart the lane,
+He, with two striplings--lads more like to run
+The country base than to commit such slaughter;
+With faces fit for masks, or rather fairer
+Than those for preservation cas'd, or shame,--
+Made good the passage; cried to those that fled,
+"Our Britain's harts die flying, not our men.
+To darkness fleet souls that fly backwards. Stand!
+Or we are Romans and will give you that
+Like beasts which you shun beastly, and may save
+But to look back in frown. Stand, stand!" These three,
+Three thousand confident, in act as many--
+For three performers are the file when all
+The rest do nothing--with this word "Stand, stand!"
+Accommodated by the place, more charming
+With their own nobleness, which could have turn'd
+A distaff to a lance, gilded pale looks.
+Part shame, part spirit renew'd; that some, turn'd coward
+But by example--O, a sin in war,
+Damn'd in the first beginners!--gan to look
+The way that they did, and to grin like lions
+Upon the pikes o' the hunters. Then began
+A stop i' the chaser, a retire, anon
+A rout, confusion thick. Forthwith they fly
+Chickens, the way which they stoop'd eagles; slaves,
+The strides they victors made:  and now our cowards,
+Like fragments in hard voyages, became
+The life o' the need. Having found the back-door open
+Of the unguarded hearts, heavens, how they wound!
+Some slain before; some dying; some their friends
+O'erborne i' the former wave; ten, chas'd by one,
+Are now each one the slaughter-man of twenty.
+Those that would die or ere resist are grown
+The mortal bugs o' the field.
+
+
+@l{"name":"Lord"}
+
+This was strange chance.
+A narrow lane, an old man, and two boys!
+
+
+@l{"name":"Posthumus"}
+
+Nay, do not wonder at it; you are made
+Rather to wonder at the things you hear
+Than to work any. Will you rhyme upon't,
+And vent it for a mockery? Here is one:
+"Two boys, an old man twice a boy, a lane,
+Preserv'd the Britons, was the Romans' bane."
+
+
+@l{"name":"Lord"}
+
+Nay, be not angry, sir.
+
+
+@l{"name":"Posthumus"}
+
+'Lack, to what end?
+Who dares not stand his foe, I'll be his friend;
+For if he'll do as he is made to do,
+I know he'll quickly fly my friendship too.
+You have put me into rhyme.
+
+
+@l{"name":"Lord"}
+
+Farewell; you're angry.
+
+
+@d{}
+[Exit.]
+
+
+@x{"names":["Lord"]}
+
+@l{"name":"Posthumus"}
+
+Still going? This is a lord! O noble misery,
+To be i' the field and ask "what news?" of me!
+To-day how many would have given their honours
+To have sav'd their carcasses! took heel to do't,
+And yet died too! I, in mine own woe charm'd,
+Could not find Death where I did hear him groan,
+Nor feel him where he struck. Being an ugly monster,
+'Tis strange he hides him in fresh cups, soft beds,
+Sweet words; or hath moe ministers than we
+That draw his knives i' the war. Well, I will find him;
+For being now a favourer to the Briton,
+No more a Briton, I have resum'd again
+The part I came in. Fight I will no more,
+But yield me to the veriest hind that shall
+Once touch my shoulder. Great the slaughter is
+Here made by the Roman; great the answer be
+Britons must take. For me, my ransom's death.
+On either side I come to spend my breath;
+Which neither here I'll keep nor bear again,
+But end it by some means for Imogen.
+
+
+@d{}
+[Enter two [BRITISH] CAPTAINS and soldiers.]
+
+
+@e{"names":["Second Captain","First Captain"]}
+
+@l{"name":"First Captain"}
+
+Great Jupiter be prais'd! Lucius is taken.
+'Tis thought the old man and his sons were angels.
+
+
+@l{"name":"Second Captain"}
+
+There was a fourth man, in a silly habit,
+That gave the affront with them.
+
+
+@l{"name":"First Captain"}
+
+So 'tis reported;
+But none of 'em can be found. Stand! who's there?
+
+
+@l{"name":"Posthumus"}
+
+A Roman,
+Who had not now been drooping here, if seconds
+Had answer'd him.
+
+
+@l{"name":"Second Captain"}
+
+Lay hands on him; a dog!
+A leg of Rome shall not return to tell
+What crows have peck'd them here. He brags his service,
+As if he were of note. Bring him to the King.
+
+
+@d{}
+[Enter CYMBELINE, BELARIUS, GUIDERIUS, ARVIRAGUS,
+PISANIO, [SOLDIERS, ATTENDANTS] and Roman captives.
+The CAPTAINS present POSTHUMUS to CYMBELINE, who
+delivers him over to a Gaoler.  [Then exeunt omnes.]
+
+
+
+@x{"names":["First Captain","Posthumus","Second Captain"]}
+
+@a{"number":3}
+@s{"number":4}
+@d{}
+SCENE IV.
+
+A British prison.
+
+[Enter POSTHUMUS and two GAOLERS.]
+
+
+@e{"names":["Posthumus","Second Gaoler","First Gaoler"]}
+
+@l{"name":"First Gaoler"}
+
+You shall not now be stolen, you have locks upon you;
+So graze as you find pasture.
+
+
+@l{"name":"Second Gaoler"}
+
+Ay, or a stomach.
+
+
+@d{}
+[Exeunt GAOLERS.]
+
+
+@x{"names":["Second Gaoler","First Gaoler"]}
+
+@l{"name":"Posthumus"}
+
+Most welcome bondage! for thou art a way,
+I think, to liberty; yet am I better
+Than one that's sick o' the gout; since he had rather
+Groan so in perpetuity than be cur'd
+By the sure physician, Death, who is the key
+To unbar these locks. My conscience, thou art fetter'd
+More than my shanks and wrists.  You good gods, give me
+The penitent instrument to pick that bolt,
+Then, free for ever! Is't enough I am sorry?
+So children temporal fathers do appease;
+Gods are more full of mercy. Must I repent,
+I cannot do it better than in gyves,
+Desir'd more than constrain'd:  to satisfy,
+If of my freedom 'tis the main part, take
+No stricter render of me than my all.
+I know you are more clement than vile men,
+Who of their broken debtors take a third,
+A sixth, a tenth, letting them thrive again
+On their abatement.  That's not my desire.
+For Imogen's dear life take mine; and though
+'Tis not so dear, yet 'tis a life; you coin'd it.
+'Tween man and man they weigh not every stamp;
+Though light, take pieces for the figure's sake;
+You rather mine, being yours; and so, great powers,
+If you will take this audit, take this life,
+And cancel these cold bonds. O Imogen!
+I'll speak to thee in silence.
+
+
+@d{}
+[Sleeps.]
+
+[Solemn music. Enter, as in an apparition, SICILIUS
+LEONATUS, father to POSTHUMUS, an old man, attired
+like a warrior; leading in his hand an ancient matron, his wife,
+and mother to POSTHUMUS, with music before them. Then,
+after other music, follow the two young LEONATI, brothers
+to POSTHUMUS, with wounds as they died in the wars. They
+circle POSTHUMUS round, as he lies sleeping.]
+
+
+@e{"names":["Sicilius","Mother","Second Brother","First Brother"]}
+
+@l{"name":"Sicilius"}
+
+No more, thou thunder-master, show
+Thy spite on mortal flies:
+With Mars fall out, with Juno chide,
+That thy adulteries
+Rates and revenges.
+Hath my poor boy done aught but well,
+Whose face I never saw?
+I died whilst in the womb he stay'd
+Attending Nature's law;
+Whose father then, as men report
+Thou orphans' father art,
+Thou shouldst have been, and shielded him
+From this earth-vexing smart.
+
+
+@l{"name":"Mother"}
+
+Lucina lent not me her aid,
+But took me in my throes,
+That from me was Posthumus ript,
+Came crying 'mongst his foes,
+A thing of pity!
+
+
+@l{"name":"Sicilius"}
+
+Great Nature, like his ancestry,
+Moulded the stuff so fair,
+That he deserv'd the praise o' the world,
+As great Sicilius' heir.
+
+
+@l{"name":"First Brother"}
+
+When once he was mature for man,
+In Britain where was he
+That could stand up his parallel,
+Or fruitful object be
+In eye of Imogen, that best
+Could deem his dignity?
+
+
+@l{"name":"Mother"}
+
+With marriage wherefore was he mock'd,
+To be exil'd, and thrown
+From Leonati seat, and cast
+From her his dearest one,
+Sweet Imogen?
+
+
+@l{"name":"Sicilius"}
+
+Why did you suffer Iachimo,
+Slight thing of Italy,
+To taint his nobler heart and brain
+With needless jealousy;
+And to become the geck and scorn
+O' the other's villainy?
+
+
+@l{"name":"Second Brother"}
+
+For this from stiller seats we came,
+Our parents and us twain,
+That striking in our country's cause
+Fell bravely and were slain,
+Our fealty and Tenantius' right
+With honour to maintain.
+
+
+@l{"name":"First Brother"}
+
+Like hardiment Posthumus hath
+To Cymbeline perform'd.
+Then, Jupiter, thou king of gods,
+Why hast thou thus adjourn'd
+The graces for his merits due,
+Being all to dolours turn'd?
+
+
+@l{"name":"Sicilius"}
+
+Thy crystal window ope; look out;
+No longer exercise
+Upon a valiant race thy harsh
+And potent injuries.
+
+
+@l{"name":"Mother"}
+
+Since, Jupiter, our son is good,
+Take off his miseries.
+
+
+@l{"name":"Sicilius"}
+
+Peep through thy marble mansion; help;
+Or we poor ghosts will cry
+To the shining synod of the rest
+Against thy deity.
+
+
+@l{"name":"First Brother"}
+
+Help, Jupiter; or we appeal,
+And from thy justice fly.
+
+
+@l{"name":"Second Brother"}
+
+Help, Jupiter; or we appeal,
+And from thy justice fly.
+
+
+@d{}
+[JUPITER descends in thunder and lightning, sitting
+upon an eagle; he throws a thunderbolt. The GHOSTS
+fall on their knees.]
+
+
+@e{"names":["Jupiter"]}
+
+@l{"name":"Jupiter"}
+
+No more, you petty spirits of region low,
+Offend our hearing; hush! How dare you ghosts
+Accuse the thunderer, whose bolt, you know,
+Sky-planted batters all rebelling coasts?
+Poor shadows of Elysium, hence, and rest
+Upon your never-withering banks of flowers.
+Be not with mortal accidents opprest:
+No care of yours it is; you know 'tis ours.
+Whom best I love I cross; to make my gift,
+The more delay'd, delighted. Be content;
+Your low-laid son our godhead will uplift.
+His comforts thrive, his trials well are spent.
+Our jovial star reign'd at his birth, and in
+Our temple was he married. Rise, and fade.
+He shall be lord of Lady Imogen,
+And happier much by his affliction made.
+This tablet lay upon his breast, wherein
+Our pleasure his full fortune doth confine.
+And so, away!  No farther with your din
+Express impatience, lest you stir up mine.
+Mount, eagle, to my palace crystalline.
+
+
+@d{}
+[Ascends.]
+
+
+@l{"name":"Sicilius"}
+
+He came in thunder; his celestial breath
+Was sulphurous to smell.  The holy eagle
+Stoop'd, as to foot us. His ascension is
+More sweet than our blest fields. His royal bird
+Prunes the immortal wing and cloys his beak,
+As when his god is pleas'd.
+
+
+@l{"name":"All"}
+
+Thanks, Jupiter!
+
+
+@l{"name":"Sicilius"}
+
+The marble pavement closes, he is enter'd
+His radiant roof. Away! and, to be blest,
+Let us with care perform his great behest.
+
+
+@d{}
+[The GHOSTS] vanish.]
+
+
+@d{}
+[Waking.]
+
+
+@l{"name":"Posthumus"}
+Sleep, thou hast been a grandsire, and begot
+A father to me, and thou hast created
+A mother and two brothers; but, O scorn!
+Gone! they went hence so soon as they were born.
+And so I am awake. Poor wretches that depend
+On greatness' favour dream as I have done,
+Wake and find nothing. But, alas, I swerve.
+Many dream not to find, neither deserve,
+And yet are steep'd in favours; so am I,
+That have this golden chance and know not why.
+What fairies haunt this ground? A book? O rare one!
+Be not, as is our fangled world, a garment
+Nobler than that it covers! Let thy effects
+So follow, to be most unlike our courtiers,
+As good as promise!
+
+
+@d{}
+[Reads.]
+
+
+@l{"name":"Posthumus"}
+"Whenas a lion's whelp shall, to himself unknown, without
+seeking find, and be embraced by a piece of tender air; and
+when from a stately cedar shall be lopp'd branches, which,
+being dead many years, shall after revive, be jointed to the old
+stock and freshly grow; then shall Posthumus end his miseries,
+Britain be fortunate and flourish in peace and plenty."
+
+'Tis still a dream, or else such stuff as madmen
+Tongue and brain not; either both or nothing,
+Or senseless speaking or a speaking such
+As sense cannot untie. Be what it is,
+The action of my life is like it, which
+I'll keep, if but for sympathy.
+
+
+@d{}
+[Re-enter Gaoler]
+
+
+@e{"names":["Gaoler"]}
+
+@l{"name":"Gaoler"}
+
+Come, sir, are you ready for death?
+
+
+@l{"name":"Posthumus"}
+
+Over-roasted rather; ready long ago.
+
+
+@l{"name":"Gaoler"}
+
+Hanging is the word, sir  If you be ready for that, you are
+well cook'd.
+
+
+@l{"name":"Posthumus"}
+
+So, if I prove a good repast to the spectators, the dish
+pays the shot.
+
+
+@l{"name":"Gaoler"}
+
+A heavy reckoning for you, sir. But the comfort is, you shall
+be called to no more payments, fear no more tavern-bills,
+which are often the sadness of parting, as the procuring of
+mirth. You come in faint for want of meat, depart reeling with
+too much drink; sorry that you have paid too much, and sorry that
+you are paid too much; purse and brain both empty; the brain the
+heavier for being too light, the purse too light, being drawn of
+heaviness. O, of this contradiction you shall now be quit. O, the
+charity of a penny cord! It sums up thousands in a trice. You
+have no true debitor and creditor but it; of what's past, is, and
+to come, the discharge. Your neck, sir, is pen, book, and counters;
+so the acquittance follows.
+
+
+@l{"name":"Posthumus"}
+
+I am merrier to die than thou art to live.
+
+
+@l{"name":"Gaoler"}
+
+Indeed, sir, he that sleeps feels not the toothache; but a man
+that were to sleep your sleep, and a hangman to help him to bed, I
+think he would change places with his officer; for, look you, sir,
+you know not which way you shall go.
+
+
+@l{"name":"Posthumus"}
+
+Yes, indeed do I, fellow.
+
+
+@l{"name":"Gaoler"}
+
+Your Death has eyes in's head, then; I have not seen him so
+pictur'd. You must either be directed by some that take upon them
+to know, or to take upon yourself that which I am sure you do not
+know, or jump the after inquiry on your own peril. And how you
+shall speed in your journey's end, I think you'll never return to
+tell one.
+
+
+@l{"name":"Posthumus"}
+
+I tell thee, fellow, there are none want eyes to direct them the
+way I am going, but such as wink and will not use them.
+
+
+@l{"name":"Gaoler"}
+
+What an infinite mock is this, that a man should have the best
+use of eyes to see the way of blindness! I am sure hanging's the
+way of winking.
+
+
+@d{}
+[Enter a Messenger]
+
+
+@e{"names":["Messenger"]}
+
+@l{"name":"Messenger"}
+
+Knock off his manacles; bring your prisoner to the King.
+
+
+@l{"name":"Posthumus"}
+
+Thou bring'st good news; I am call'd to be made free.
+
+
+@l{"name":"Gaoler"}
+
+I'll be hang'd then.
+
+
+@l{"name":"Posthumus"}
+
+Thou shalt be then freer than a gaoler; no bolts for the dead.
+
+
+@d{}
+[Exeunt all but the Gaoler]
+
+
+@x{"names":["Jupiter","Messenger","Mother","Posthumus","Second Brother","Sicilius","First Brother"]}
+
+@l{"name":"Gaoler"}
+
+Unless a man would marry a gallows and beget young gibbets, I
+never saw one so prone. Yet, on my conscience, there are verier
+knaves desire to live, for all he be a Roman; and there be some
+of them too that die against their wills.  So should I, if I were
+one. I would we were all of one mind, and one mind good. O, there
+were desolation of gaolers and gallowses! I speak against my
+present profit, but my wish hath a preferment in't.
+
+
+@d{}
+[Exit.]
+
+
+
+@x{"names":["Gaoler"]}
+
+@a{"number":3}
+@s{"number":5}
+@d{}
+SCENE V.
+
+CYMBELINE'S tent.
+
+[Enter CYMBELINE, BELARIUS, GUIDERIUS, ARVIRAGUS, PISANIO,
+LORDS, [OFFICERS, and Attendants.]
+
+
+@e{"names":["Cymbeline","Belarius","Guiderius","Arviragus","Pisanio","First Lord","Second Lord"]}
+
+@l{"name":"Cymbeline"}
+
+Stand by my side, you whom the gods have made
+Preservers of my throne. Woe is my heart
+That the poor soldier that so richly fought,
+Whose rags sham'd gilded arms, whose naked breast
+Stepp'd before targes of proof, cannot be found.
+He shall be happy that can find him, if
+Our grace can make him so.
+
+
+@l{"name":"Belarius"}
+
+I never saw
+Such noble fury in so poor a thing;
+Such precious deeds in one that promis'd nought
+But beggary and poor looks.
+
+
+@l{"name":"Cymbeline"}
+
+No tidings of him?
+
+
+@l{"name":"Pisanio"}
+
+He hath been search'd among the dead and living,
+But no trace of him.
+
+
+@l{"name":"Cymbeline"}
+
+To my grief, I am
+The heir of his reward;
+
+
+@d{}
+[To BELARIUS, GUIDERIUS, and Arviragus]
+
+
+@l{"name":"Cymbeline"}
+which I will add
+To you, the liver, heart, and brain of Britain,
+By whom I grant she lives. 'Tis now the time
+To ask of whence you are. Report it.
+
+
+@l{"name":"Belarius"}
+
+Sir,
+In Cambria are we born, and gentlemen.
+Further to boast were neither true nor modest,
+Unless I add, we are honest.
+
+
+@l{"name":"Cymbeline"}
+
+Bow your knees.
+Arise my knights o' the battle.  I create you
+Companions to our person and will fit you
+With dignities becoming your estates.
+
+
+@d{}
+[Enter CORNELIUS and LADIES.]
+
+
+@e{"names":["Cornelius","First Lady","Lady"]}
+
+@l{"name":"Cymbeline"}
+There's business in these faces. Why so sadly
+Greet you our victory? You look like Romans,
+And not o' the court of Britain.
+
+
+@l{"name":"Cornelius"}
+
+Hail, great King!
+To sour your happiness, I must report
+The Queen is dead.
+
+
+@l{"name":"Cymbeline"}
+
+Who worse than a physician
+Would this report become? But I consider
+By medicine life may be prolong'd, yet death
+Will seize the doctor too. How ended she?
+
+
+@l{"name":"Cornelius"}
+
+With horror, madly dying, like her life,
+Which, being cruel to the world, concluded
+Most cruel to herself. What she confess'd
+I will report, so please you.  These her women
+Can trip me, if I err; who with wet cheeks
+Were present when she finish'd.
+
+
+@l{"name":"Cymbeline"}
+
+Prithee, say.
+
+
+@l{"name":"Cornelius"}
+
+First, she confess'd she never lov'd you; only
+Affected greatness got by you, not you;
+Married your royalty, was wife to your place,
+Abhorr'd your person.
+
+
+@l{"name":"Cymbeline"}
+
+She alone knew this;
+And, but she spoke it dying, I would not
+Believe her lips in opening it. Proceed.
+
+
+@l{"name":"Cornelius"}
+
+Your daughter, whom she bore in hand to love
+With such integrity, she did confess
+Was as a scorpion to her sight; whose life,
+But that her flight prevented it, she had
+Ta'en off by poison.
+
+
+@l{"name":"Cymbeline"}
+
+O most delicate fiend!
+Who is't can read a woman? Is there more?
+
+
+@l{"name":"Cornelius"}
+
+More, sir, and worse. She did confess she had
+For you a mortal mineral, which, being took,
+Should by the minute feed on life, and ling'ring
+By inches waste you; in which time she purpos'd,
+By watching, weeping, tendance, kissing, to
+O'ercome you with her show, and, in time,
+When she had fitted you with her craft, to work
+Her son into the adoption of the crown;
+But, failing of her end by his strange absence,
+Grew shameless-desperate; open'd, in despite
+Of heaven and men, her purposes; repented
+The evils she hatch'd were not effected; so
+Despairing died.
+
+
+@l{"name":"Cymbeline"}
+
+Heard you all this, her women?
+
+
+@l{"name":"Lady"}
+
+We did, so please your Highness.
+
+
+@l{"name":"Cymbeline"}
+
+Mine eyes
+Were not in fault, for she was beautiful;
+Mine ears, that heard her flattery; nor my heart,
+That thought her like her seeming. It had been vicious
+To have mistrusted her; yet, O my daughter!
+That it was folly in me, thou mayst say,
+And prove it in thy feeling. Heaven mend all!
+
+
+@d{}
+[Enter LUCIUS, IACHIMO, [the SOOTHSAYER] and other
+Roman prisoners [guarded]; POSTHUMUS behind, and Imogen]
+
+
+@e{"names":["Lucius","Iachimo","Soothsayer","Imogen","Posthumus"]}
+
+@l{"name":"Cymbeline"}
+Thou com'st not, Caius, now for tribute; that
+The Britons have raz'd out, though with the loss
+Of many a bold one, whose kinsmen have made suit
+That their good souls may be appeas'd with slaughter
+Of you their captives, which ourself have granted.
+So think of your estate.
+
+
+@l{"name":"Lucius"}
+
+Consider, sir, the chance of war. The day
+Was yours by accident.  Had it gone with us,
+We should not, when the blood was cool, have threaten'd
+Our prisoners with the sword. But since the gods
+Will have it thus, that nothing but our lives
+May be call'd ransom, let it come. Sufficeth
+A Roman, with a Roman's heart can suffer.
+Augustus lives to think on't; and so much
+For my peculiar care. This one thing only
+I will entreat:  my boy, a Briton born,
+Let him be ransom'd. Never master had
+A page so kind, so duteous, diligent,
+So tender over his occasions, true,
+So feat, so nurse-like.  Let his virtue join
+With my request, which I'll make bold your Highness
+Cannot deny.  He hath done no Briton harm,
+Though he have serv'd a Roman. Save him, sir,
+And spare no blood beside.
+
+
+@l{"name":"Cymbeline"}
+
+I have surely seen him;
+His favour is familiar to me. Boy,
+Thou hast look'd thyself into my grace,
+And art mine own. I know not why, wherefore,
+To say "Live, boy."  Ne'er thank thy master; live,
+And ask of Cymbeline what boon thou wilt,
+Fitting my bounty and thy state, I'll give it,
+Yea, though thou do demand a prisoner,
+The noblest ta'en.
+
+
+@l{"name":"Imogen"}
+
+I humbly thank your Highness.
+
+
+@l{"name":"Lucius"}
+
+I do not bid thee beg my life, good lad,
+And yet I know thou wilt.
+
+
+@l{"name":"Imogen"}
+
+No, no, alack,
+There's other work in hand. I see a thing
+Bitter to me as death; your life, good master,
+Must shuffle for itself.
+
+
+@l{"name":"Lucius"}
+
+The boy disdains me,
+He leaves me, scorns me. Briefly die their joys
+That place them on the truth of girls and boys.
+Why stands he so perplex'd?
+
+
+@l{"name":"Cymbeline"}
+
+What wouldst thou, boy?
+I love thee more and more; think more and more
+What's best to ask. Know'st him thou look'st on? Speak,
+Wilt have him live? Is he thy kin? thy friend?
+
+
+@l{"name":"Imogen"}
+
+He is a Roman, no more kin to me
+Than I to your Highness; who, being born your vassal,
+Am something nearer.
+
+
+@l{"name":"Cymbeline"}
+
+Wherefore ey'st him so?
+
+
+@l{"name":"Imogen"}
+
+I'll tell you, sir, in private, if you please
+To give me hearing.
+
+
+@l{"name":"Cymbeline"}
+
+Ay, with all my heart,
+And lend my best attention. What's thy name?
+
+
+@l{"name":"Imogen"}
+
+Fidele, sir.
+
+
+@l{"name":"Cymbeline"}
+
+Thou'rt my good youth, my page;
+I'll be thy master. Walk with me; speak freely.
+
+
+@d{}
+[CYMBELINE and IMOGEN talk apart.]
+
+
+@l{"name":"Belarius"}
+
+Is not this boy, reviv'd from death,--
+
+
+@l{"name":"Arviragus"}
+
+One sand another
+Not more resembles,--that sweet rosy lad
+Who died, and was Fidele. What think you?
+
+
+@l{"name":"Guiderius"}
+
+The same dead thing alive.
+
+
+@l{"name":"Belarius"}
+
+Peace, peace! see further. He eyes us not; forbear;
+Creatures may be alike.  Were't he, I am sure
+He would have spoke to us.
+
+
+@l{"name":"Guiderius"}
+
+But we saw him dead.
+
+
+@l{"name":"Belarius"}
+
+Be silent; let's see further.
+
+
+@d{}
+[Aside.]
+
+
+@l{"name":"Pisanio"}
+It is my mistress.
+Since she is living, let the time run on
+To good or bad.
+
+
+@d{}
+[CYMBELINE and IMOGEN come forward.]
+
+
+@l{"name":"Cymbeline"}
+
+Come, stand thou by our side;
+Make thy demand aloud.
+
+
+@d{}
+[To Iachimo]
+
+
+@l{"name":"Cymbeline"}
+Sir, step you forth;
+Give answer to this boy, and do it freely;
+Or, by our greatness and the grace of it,
+Which is our honour, bitter torture shall
+Winnow the truth from falsehood. On, speak to him.
+
+
+@l{"name":"Imogen"}
+
+My boon is, that this gentleman may render
+Of whom he had this ring.
+
+
+@d{}
+[Aside.]
+
+
+@l{"name":"Posthumus"}
+What's that to him?
+
+
+@l{"name":"Cymbeline"}
+
+That diamond upon your finger, say
+How came it yours?
+
+
+@l{"name":"Iachimo"}
+
+Thou'lt torture me to leave unspoken that
+Which, to be spoke, would torture thee.
+
+
+@l{"name":"Cymbeline"}
+
+How! me?
+
+
+@l{"name":"Iachimo"}
+
+I am glad to be constrain'd to utter that
+Which torments me to conceal. By villainy
+I got this ring. 'Twas Leonatus' jewel,
+Whom thou didst banish; and--which more may grieve thee,
+As it doth me--a nobler sir ne'er liv'd
+'Twixt sky and ground. Wilt thou hear more, my lord?
+
+
+@l{"name":"Cymbeline"}
+
+All that belongs to this.
+
+
+@l{"name":"Iachimo"}
+
+That paragon, thy daughter,--
+For whom my heart drops blood, and my false spirits
+Quail to remember,--Give me leave; I faint.
+
+
+@l{"name":"Cymbeline"}
+
+My daughter! What of her? Renew thy strength.
+I had rather thou shouldst live while Nature will
+Than die ere I hear more. Strive, man, and speak.
+
+
+@l{"name":"Iachimo"}
+
+Upon a time,--unhappy was the clock
+That struck the hour!--it was in Rome,--accurs'd
+The mansion where!--'twas at a feast,--O, would
+Our viands had been poison'd, or at least
+Those which I heav'd to head!--the good Posthumus--
+What should I say? He was too good to be
+Where ill men were; and was the best of all
+Amongst the rar'st of good ones,--sitting sadly,
+Hearing us praise our loves of Italy
+For beauty that made barren the swell'd boast
+Of him that best could speak, for feature, laming
+The shrine of Venus, or straight-pight Minerva,
+Postures beyond brief nature, for condition,
+A shop of all the qualities that man
+Loves woman for, besides that hook of wiving,
+Fairness which strikes the eye--
+
+
+@l{"name":"Cymbeline"}
+
+I stand on fire:
+Come to the matter.
+
+
+@l{"name":"Iachimo"}
+
+All too soon I shall,
+Unless thou wouldst grieve quickly. This Posthumus,
+Most like a noble lord in love and one
+That had a royal lover, took his hint;
+And not dispraising whom we prais'd,--therein
+He was as calm as virtue,--he began
+His mistress' picture; which by his tongue being made,
+And then a mind put in't, either our brags
+Were crack'd of kitchen trulls, or his description
+Prov'd us unspeaking sots.
+
+
+@l{"name":"Cymbeline"}
+
+Nay, nay, to th' purpose.
+
+
+@l{"name":"Iachimo"}
+
+Your daughter's chastity--there it begins.
+He spake of her, as Dian had hot dreams,
+And she alone were cold; whereat I, wretch,
+Made scruple of his praise; and wager'd with him
+Pieces of gold 'gainst this which then he wore
+Upon his honour'd finger, to attain
+In suit the place of's bed and win this ring
+By hers and mine adultery. He, true knight,
+No lesser of her honour confident
+Than I did truly find her, stakes this ring;
+And would so, had it been a carbuncle
+Of Phoebus' wheel, and might so safely, had it
+Been all the worth of's car. Away to Britain
+Post I in this design. Well may you, sir,
+Remember me at court, where I was taught
+Of your chaste daughter the wide difference
+'Twixt amorous and villainous. Being thus quench'd
+Of hope, not longing, mine Italian brain
+Gan in your duller Britain operate
+Most vilely; for my vantage, excellent;
+And, to be brief, my practice so prevail'd,
+That I return'd with similar proof enough
+To make the noble Leonatus mad,
+By wounding his belief in her renown
+With tokens thus, and thus; averring notes
+Of chamber-hanging, pictures, this her bracelet,--
+O cunning, how I got it!--nay, some marks
+Of secret on her person, that he could not
+But think her bond of chastity quite crack'd,
+I having ta'en the forfeit. Whereupon--
+Methinks, I see him now--
+
+
+@d{}
+[Advancing.]
+
+
+@l{"name":"Posthumus"}
+Ay, so thou dost,
+Italian fiend! Ay me, most credulous fool,
+Egregious murderer, thief, anything
+That's due to all the villains past, in being,
+To come! O, give me cord, or knife, or poison,
+Some upright justicer! Thou, King, send out
+For torturers ingenious; it is I
+That all the abhorred things o' the earth amend
+By being worse than they. I am Posthumus,
+That kill'd thy daughter:--villain-like, I lie--
+That caused a lesser villain than myself,
+A sacrilegious thief, to do't. The temple
+Of Virtue was she; yea, and she herself.
+Spit, and throw stones, cast mire upon me, set
+The dogs o' the street to bay me; every villain
+Be call'd Posthumus Leonatus; and
+Be villainy less than 'twas! O Imogen
+My queen, my life, my wife! O Imogen,
+Imogen, Imogen!
+
+
+@l{"name":"Imogen"}
+
+Peace, my lord; hear, hear--
+
+
+@l{"name":"Posthumus"}
+
+Shall's have a play of this? Thou scornful page,
+There lies thy part.
+
+
+@d{}
+[Striking her; she falls.]
+
+
+@l{"name":"Pisanio"}
+
+O gentlemen, help
+Mine and your mistress! O, my lord Posthumus!
+You ne'er kill'd Imogen till now. Help, help!
+Mine honour'd lady!
+
+
+@l{"name":"Cymbeline"}
+
+Does the world go round?
+
+
+@l{"name":"Posthumus"}
+
+How comes these staggers on me?
+
+
+@l{"name":"Pisanio"}
+
+Wake, my mistress!
+
+
+@l{"name":"Cymbeline"}
+
+If this be so, the gods do mean to strike me
+To death with mortal joy.
+
+
+@l{"name":"Pisanio"}
+
+How fares my mistress?
+
+
+@l{"name":"Imogen"}
+
+O, get thee from my sight;
+Thou gav'st me poison. Dangerous fellow, hence!
+Breathe not where princes are.
+
+
+@l{"name":"Cymbeline"}
+
+The tune of Imogen!
+
+
+@l{"name":"Pisanio"}
+
+Lady,
+The gods throw stones of sulphur on me, if
+That box I gave you was not thought by me
+A precious thing! I had it from the Queen.
+
+
+@l{"name":"Cymbeline"}
+
+New matter still?
+
+
+@l{"name":"Imogen"}
+
+It poison'd me.
+
+
+@l{"name":"Cornelius"}
+
+O gods!
+I left out one thing which the Queen confess'd,
+Which must approve thee honest. "If Pisanio
+Have," said she "given his mistress that confection
+Which I gave him for cordial, she is serv'd
+As I would serve a rat."
+
+
+@l{"name":"Cymbeline"}
+
+What's this, Cornelius?
+
+
+@l{"name":"Cornelius"}
+
+The Queen, sir, very oft importun'd me
+To temper poisons for her, still pretending
+The satisfaction of her knowledge only
+In killing creatures vile, as cats and dogs,
+Of no esteem. I, dreading that her purpose
+Was of more danger, did compound for her
+A certain stuff, which, being ta'en, would cease
+The present power of life, but in short time
+All offices of nature should again
+Do their due functions. Have you ta'en of it?
+
+
+@l{"name":"Imogen"}
+
+Most like I did, for I was dead.
+
+
+@l{"name":"Belarius"}
+
+My boys,
+There was our error.
+
+
+@l{"name":"Guiderius"}
+
+This is, sure, Fidele.
+
+
+@l{"name":"Imogen"}
+
+Why did you throw your wedded lady from you?
+Think that you are upon a rock, and now
+Throw me again.
+
+
+@d{}
+[Embracing him.]
+
+
+@l{"name":"Posthumus"}
+
+Hang there like fruit, my soul,
+Till the tree die!
+
+
+@l{"name":"Cymbeline"}
+
+How now, my flesh, my child!
+What, mak'st thou me a dullard in this act?
+Wilt thou not speak to me?
+
+
+@d{}
+[Kneeling.]
+
+
+@l{"name":"Imogen"}
+Your blessing, sir.
+
+
+@d{}
+[To GUIDERIUS and Arviragus]
+
+
+@l{"name":"Belarius"}
+Though you did love this youth, I blame ye not;
+You had a motive for't.
+
+
+@l{"name":"Cymbeline"}
+
+My tears that fall
+Prove holy water on thee! Imogen,
+Thy mother's dead.
+
+
+@l{"name":"Imogen"}
+
+I am sorry for't, my lord.
+
+
+@l{"name":"Cymbeline"}
+
+O, she was naught; and long of her it was
+That we meet here so strangely; but her son
+Is gone, we know not how nor where.
+
+
+@l{"name":"Pisanio"}
+
+My lord,
+Now fear is from me, I'll speak troth. Lord Cloten,
+Upon my lady's missing, came to me
+With his sword drawn; foam'd at the mouth, and swore,
+If I discover'd not which way she was gone,
+It was my instant death. By accident,
+I had a feigned letter of my master's
+Then in my pocket, which directed him
+To seek her on the mountains near to Milford;
+Where, in a frenzy, in my master's garments,
+Which he enforc'd from me, away he posts
+With unchaste purpose, and with oath to violate
+My lady's honour. What became of him
+I further know not.
+
+
+@l{"name":"Guiderius"}
+
+Let me end the story:
+I slew him there.
+
+
+@l{"name":"Cymbeline"}
+
+Marry, the gods forfend!
+I would not thy good deeds should from my lips
+Pluck a hard sentence. Prithee, valiant youth,
+Deny't again.
+
+
+@l{"name":"Guiderius"}
+
+I have spoke it, and I did it.
+
+
+@l{"name":"Cymbeline"}
+
+He was a prince.
+
+
+@l{"name":"Guiderius"}
+
+A most incivil one. The wrongs he did me
+Were nothing prince-like; for he did provoke me
+With language that would make me spurn the sea,
+If it could so roar to me. I cut off's head;
+And am right glad he is not standing here
+To tell this tale of mine.
+
+
+@l{"name":"Cymbeline"}
+
+I am sorry for thee.
+By thine own tongue thou art condemn'd, and must
+Endure our law. Thou'rt dead.
+
+
+@l{"name":"Imogen"}
+
+That headless man
+I thought had been my lord.
+
+
+@l{"name":"Cymbeline"}
+
+Bind the offender,
+And take him from our presence.
+
+
+@l{"name":"Belarius"}
+
+Stay, sir King;
+This man is better than the man he slew,
+As well descended as thyself; and hath
+More of thee merited than a band of Clotens
+Had ever scar for.
+
+
+@d{}
+[To the Guard.]
+
+
+@l{"name":"Belarius"}
+Let his arms alone;
+They were not born for bondage.
+
+
+@l{"name":"Cymbeline"}
+
+Why, old soldier,
+Wilt thou undo the worth thou art unpaid for,
+By tasting of our wrath? How of descent
+As good as we?
+
+
+@l{"name":"Arviragus"}
+
+In that he spake too far.
+
+
+@l{"name":"Cymbeline"}
+
+And thou shalt die for't.
+
+
+@l{"name":"Belarius"}
+
+We will die all three
+But I will prove that two on's are as good
+As I have given out him. My sons, I must
+For mine own part unfold a dangerous speech,
+Though, haply, well for you.
+
+
+@l{"name":"Arviragus"}
+
+Your danger's ours.
+
+
+@l{"name":"Guiderius"}
+
+And our good his.
+
+
+@l{"name":"Belarius"}
+
+Have at it then, by leave.
+Thou hadst, great King, a subject who
+Was call'd Belarius.
+
+
+@l{"name":"Cymbeline"}
+
+What of him? He is
+A banish'd traitor.
+
+
+@l{"name":"Belarius"}
+
+He it is that hath
+Assum'd this age, indeed a banish'd man;
+I know not how a traitor.
+
+
+@l{"name":"Cymbeline"}
+
+Take him hence,
+The whole world shall not save him.
+
+
+@l{"name":"Belarius"}
+
+Not too hot.
+First pay me for the nursing of thy sons;
+And let it be confiscate all so soon
+As I have receiv'd it.
+
+
+@l{"name":"Cymbeline"}
+
+Nursing of my sons!
+
+
+@l{"name":"Belarius"}
+
+I am too blunt and saucy; here's my knee.
+Ere I arise, I will prefer my sons;
+Then spare not the old father. Mighty sir,
+These two young gentlemen, that call me father,
+And think they are my sons, are none of mine;
+They are the issue of your loins, my liege,
+And blood of your begetting.
+
+
+@l{"name":"Cymbeline"}
+
+How! my issue!
+
+
+@l{"name":"Belarius"}
+
+So sure as you your father's. I, old Morgan,
+Am that Belarius whom you sometime banish'd.
+Your pleasure was my mere offence, my punishment
+Itself, and all my treason; that I suffer'd
+Was all the harm I did. These gentle princes--
+For such and so they are--these twenty years
+Have I train'd up.  Those arts they have as
+Could put into them; my breeding was, sir, as
+Your Highness knows. Their nurse, Euriphile,
+Whom for the theft I wedded, stole these children.
+Upon my banishment I mov'd her to't,
+Having receiv'd the punishment before,
+For that which I did then. Beaten for loyalty
+Excited me to treason. Their dear loss,
+The more of you 'twas felt, the more it shap'd
+Unto my end of stealing them. But, gracious sir,
+Here are your sons again; and I must lose
+Two of the sweet'st companions in the world.
+The benediction of these covering heavens
+Fall on their heads like dew! for they are worthy
+To inlay heaven with stars.
+
+
+@l{"name":"Cymbeline"}
+
+Thou weep'st, and speak'st.
+The service that you three have done is more
+Unlike than this thou tell'st. I lost my children;
+If these be they, I know not how to wish
+A pair of worthier sons.
+
+
+@l{"name":"Belarius"}
+
+Be pleas'd awhile.
+This gentleman, whom I call Polydore,
+Most worthy prince, as yours, is true Guiderius;
+This gentleman, my Cadwal, Arviragus,
+Your younger princely son.  He, sir, was lapp'd
+In a most curious mantle, wrought by the hand
+Of his queen mother, which for more probation
+I can with ease produce.
+
+
+@l{"name":"Cymbeline"}
+
+Guiderius had
+Upon his neck a mole, a sanguine star;
+It was a mark of wonder.
+
+
+@l{"name":"Belarius"}
+
+This is he,
+Who hath upon him still that natural stamp.
+It was wise Nature's end in the donation,
+To be his evidence now.
+
+
+@l{"name":"Cymbeline"}
+
+O, what, am I
+A mother to the birth of three? Ne'er mother
+Rejoic'd deliverance more. Blest pray you be,
+That, after this strange starting from your orbs,
+You may reign in them now! O Imogen,
+Thou hast lost by this a kingdom.
+
+
+@l{"name":"Imogen"}
+
+No, my lord;
+I have got two worlds by 't. O my gentle brothers,
+Have we thus met? O, never say hereafter
+But I am truest speaker. You call'd me brother,
+When I was but your sister; I you brothers,
+When ye were so indeed.
+
+
+@l{"name":"Cymbeline"}
+
+Did you e'er meet?
+
+
+@l{"name":"Arviragus"}
+
+Ay, my good lord.
+
+
+@l{"name":"Guiderius"}
+
+And at first meeting lov'd;
+Continu'd so, until we thought he died.
+
+
+@l{"name":"Cornelius"}
+
+By the Queen's dram she swallow'd.
+
+
+@l{"name":"Cymbeline"}
+
+O rare instinct!
+When shall I hear all through? This fierce abridgment
+Hath to it circumstantial branches, which
+Distinction should be rich in. Where, how liv'd you?
+And when came you to serve our Roman captive?
+How parted with your brothers? How first met them?
+Why fled you from the court? and whither? These,
+And your three motives to the battle, with
+I know not how much more, should be demanded;
+And all the other by-dependencies,
+From chance to chance; but nor the time nor place
+Will serve our long inter'gatories. See,
+Posthumus anchors upon Imogen,
+And she, like harmless lightning, throws her eye
+On him, her brothers, me, her master, hitting
+Each object with a joy; the counterchange
+Is severally in all. Let's quit this ground,
+And smoke the temple with our sacrifices.
+
+
+@d{}
+[To Belarius]
+
+
+@l{"name":"Cymbeline"}
+Thou art my brother; so we'll hold thee ever.
+
+
+@l{"name":"Imogen"}
+
+You are my father too, and did relieve me,
+To see this gracious season.
+
+
+@l{"name":"Cymbeline"}
+
+All o'erjoy'd,
+Save these in bonds. Let them be joyful too,
+For they shall taste our comfort.
+
+
+@l{"name":"Imogen"}
+
+My good master,
+I will yet do you service.
+
+
+@l{"name":"Lucius"}
+
+Happy be you!
+
+
+@l{"name":"Cymbeline"}
+
+The forlorn soldier, that so nobly fought,
+He would have well becom'd this place, and grac'd
+The thankings of a king.
+
+
+@l{"name":"Posthumus"}
+
+I am, sir,
+The soldier that did company these three
+In poor beseeming; 'twas a fitment for
+The purpose I then follow'd. That I was he,
+Speak, Iachimo. I had you down and might
+Have made you finish.
+
+
+@d{}
+[Kneeling.]
+
+
+@l{"name":"Iachimo"}
+I am down again;
+But now my heavy conscience sinks my knee,
+As then your force did. Take that life, beseech you,
+Which I so often owe; but your ring first,
+And here the bracelet of the truest princess
+That ever swore her faith.
+
+
+@l{"name":"Posthumus"}
+
+Kneel not to me.
+The power that I have on you is to spare you,
+The malice towards you to forgive you. Live,
+And deal with others better.
+
+
+@l{"name":"Cymbeline"}
+
+Nobly doom'd!
+We'll learn our freeness of a son-in-law;
+Pardon's the word to all.
+
+
+@l{"name":"Arviragus"}
+
+You holp us, sir,
+As you did mean indeed to be our brother;
+Joy'd are we that you are.
+
+
+@l{"name":"Posthumus"}
+
+Your servant, Princes. Good my lord of Rome,
+Call forth your soothsayer. As I slept, methought
+Great Jupiter, upon his eagle back'd,
+Appear'd to me, with other spritely shows
+Of mine own kindred. When I wak'd, I found
+This label on my bosom; whose containing
+Is so from sense in hardness, that I can
+Make no collection of it. Let him show
+His skill in the construction.
+
+
+@l{"name":"Lucius"}
+
+Philarmonus!
+
+
+@l{"name":"Soothsayer"}
+
+Here, my good lord.
+
+
+@l{"name":"Lucius"}
+
+Read, and declare the meaning.
+
+
+@d{}
+[Reads.]
+
+
+@l{"name":"Soothsayer"}
+"Whenas a lion's whelp shall, to himself unknown, without
+seeking find, and be embrac'd by a piece of tender air; and
+when from a stately cedar shall be lopp'd branches, which,
+being dead many years, shall after revive, be jointed to the
+old stock, and freshly grow; then shall Posthumus end his
+miseries, Britain be fortunate and flourish in peace and plenty."
+Thou, Leonatus, art the lion's whelp;
+The fit and apt construction of thy name,
+Being leo-natus, doth import so much.
+
+
+@d{}
+[To Cymbeline]
+
+
+@l{"name":"Soothsayer"}
+The piece of tender air, thy virtuous daughter,
+Which we call mollis aer; and mollis aer
+We term it mulier; which mulier I divine
+Is this most constant wife, who, even now
+Answering the letter of the oracle,
+Unknown to you, unsought, were clipp'd about
+With this most tender air.
+
+
+@l{"name":"Cymbeline"}
+
+This hath some seeming.
+
+
+@l{"name":"Soothsayer"}
+
+The lofty cedar, royal Cymbeline,
+Personates thee; and thy lopp'd branches point
+Thy two sons forth; who, by Belarius stolen,
+For many years thought dead, are now reviv'd,
+To the majestic cedar join'd, whose issue
+Promises Britain peace and plenty.
+
+
+@l{"name":"Cymbeline"}
+
+Well;
+My peace we will begin. And, Caius Lucius,
+Although the victor, we submit to Caesar,
+And to the Roman empire, promising
+To pay our wonted tribute, from the which
+We were dissuaded by our wicked queen;
+Whom heavens, in justice, both on her and hers,
+Have laid most heavy hand.
+
+
+@l{"name":"Soothsayer"}
+
+The fingers of the powers above do tune
+The harmony of this peace. The vision
+Which I made known to Lucius, ere the stroke
+Of yet this scarce-cold battle, at this instant
+Is full accomplish'd; for the Roman eagle,
+From south to west on wing soaring aloft,
+Lessen'd herself, and in the beams o' the sun
+So vanish'd; which foreshow'd our princely eagle,
+The imperial Caesar, should again unite
+His favour with the radiant Cymbeline,
+Which shines here in the west.
+
+
+@l{"name":"Cymbeline"}
+
+Laud we the gods;
+And let our crooked smokes climb to their nostrils
+From our bless'd altars. Publish we this peace
+To all our subjects. Set we forward.  Let
+A Roman and a British ensign wave
+Friendly together. So through Lud's town march;
+And in the temple of great Jupiter
+Our peace we'll ratify; seal it with feasts.
+Set on there! Never was a war did cease,
+Ere bloody hands were wash'd, with such a peace.
+
+
+@d{}
+[Exeunt.]
+
+
+@x{"names":["Arviragus","Belarius","Cornelius","Cymbeline","First Lady","First Lord","Guiderius","Iachimo","Imogen","Lady","Lucius","Pisanio","Posthumus","Second Lord","Soothsayer"]}
